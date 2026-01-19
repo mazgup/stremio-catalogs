@@ -1,0 +1,284 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:116149",
+      "type": "movie",
+      "name": "Paddington",
+      "releaseInfo": "2014",
+      "description": "A heartwarming family comedy about a lovable bear."
+    },
+    {
+      "id": "tmdb:346648",
+      "type": "movie",
+      "name": "Paddington 2",
+      "releaseInfo": "2017",
+      "description": "More of Paddington's charming adventures."
+    },
+    {
+      "id": "tmdb:501929",
+      "type": "movie",
+      "name": "The Mitchells vs. The Machines",
+      "releaseInfo": "2021",
+      "description": "A visually stunning and hilarious animated family adventure."
+    },
+    {
+      "id": "tmdb:22794",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs",
+      "releaseInfo": "2009",
+      "description": "A creative and funny animated film with a food-filled world."
+    },
+    {
+      "id": "tmdb:109451",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs 2",
+      "releaseInfo": "2013",
+      "description": "More food-themed adventures and quirky characters."
+    },
+    {
+      "id": "tmdb:7443",
+      "type": "movie",
+      "name": "Chicken Run",
+      "releaseInfo": "2000",
+      "description": "A clever and funny stop-motion animation about chickens escaping a farm."
+    },
+    {
+      "id": "tmdb:263109",
+      "type": "movie",
+      "name": "A Shaun the Sheep Movie",
+      "releaseInfo": "2015",
+      "description": "A hilarious and inventive stop-motion adventure featuring Shaun and his flock."
+    },
+    {
+      "id": "tmdb:422803",
+      "type": "movie",
+      "name": "Shaun the Sheep Movie: Farmageddon",
+      "releaseInfo": "2019",
+      "description": "Shaun and the flock encounter an alien with hilarious results."
+    },
+    {
+      "id": "tmdb:10191",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "releaseInfo": "2010",
+      "description": "A heartwarming story about friendship and understanding."
+    },
+    {
+      "id": "tmdb:82702",
+      "type": "movie",
+      "name": "How to Train Your Dragon 2",
+      "releaseInfo": "2014",
+      "description": "Continues the epic story with more dragons and adventure."
+    },
+    {
+      "id": "tmdb:166428",
+      "type": "movie",
+      "name": "How to Train Your Dragon: The Hidden World",
+      "releaseInfo": "2019",
+      "description": "The final installment of the trilogy, full of emotion and adventure."
+    },
+    {
+      "id": "tmdb:137106",
+      "type": "movie",
+      "name": "The Lego Movie",
+      "releaseInfo": "2014",
+      "description": "A creative and funny movie about the power of imagination."
+    },
+    {
+      "id": "tmdb:280217",
+      "type": "movie",
+      "name": "The Lego Movie 2: The Second Part",
+      "releaseInfo": "2019",
+      "description": "More Lego adventures with the same humor and heart."
+    },
+    {
+      "id": "tmdb:20352",
+      "type": "movie",
+      "name": "Despicable Me",
+      "releaseInfo": "2010",
+      "description": "A funny and heartwarming story about a villain who finds love."
+    },
+    {
+      "id": "tmdb:93456",
+      "type": "movie",
+      "name": "Despicable Me 2",
+      "releaseInfo": "2013",
+      "description": "More Minion madness and heartwarming moments."
+    },
+    {
+      "id": "tmdb:324852",
+      "type": "movie",
+      "name": "Despicable Me 3",
+      "releaseInfo": "2017",
+      "description": "Gru faces a new villain and discovers a long-lost twin."
+    },
+    {
+      "id": "tmdb:211672",
+      "type": "movie",
+      "name": "Minions",
+      "releaseInfo": "2015",
+      "description": "An origin story of the hilarious Minions."
+    },
+    {
+      "id": "tmdb:438148",
+      "type": "movie",
+      "name": "Minions: The Rise of Gru",
+      "releaseInfo": "2022",
+      "description": "More Minion antics as they help a young Gru."
+    },
+    {
+      "id": "tmdb:38055",
+      "type": "movie",
+      "name": "Megamind",
+      "releaseInfo": "2010",
+      "description": "A superhero comedy with a unique twist."
+    },
+    {
+      "id": "tmdb:585",
+      "type": "movie",
+      "name": "Monsters, Inc.",
+      "releaseInfo": "2001",
+      "description": "A Pixar classic about monsters who scare children for a living."
+    },
+    {
+      "id": "tmdb:62211",
+      "type": "movie",
+      "name": "Monsters University",
+      "releaseInfo": "2013",
+      "description": "A prequel to Monsters, Inc., showing how Mike and Sulley met."
+    },
+    {
+      "id": "tmdb:863",
+      "type": "movie",
+      "name": "Toy Story 2",
+      "releaseInfo": "1999",
+      "description": "Another fantastic adventure with Woody and Buzz."
+    },
+    {
+      "id": "tmdb:10193",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "releaseInfo": "2010",
+      "description": "A heartfelt and emotional conclusion to the original trilogy."
+    },
+    {
+      "id": "tmdb:301528",
+      "type": "movie",
+      "name": "Toy Story 4",
+      "releaseInfo": "2019",
+      "description": "Woody embarks on a new adventure with Bo Peep."
+    },
+    {
+      "id": "tmdb:920",
+      "type": "movie",
+      "name": "Cars",
+      "releaseInfo": "2006",
+      "description": "A fun animated film about racing and friendship."
+    },
+    {
+      "id": "tmdb:49013",
+      "type": "movie",
+      "name": "Cars 2",
+      "releaseInfo": "2011",
+      "description": "Mater gets caught up in international espionage."
+    },
+    {
+      "id": "tmdb:260514",
+      "type": "movie",
+      "name": "Cars 3",
+      "releaseInfo": "2017",
+      "description": "Lightning McQueen tries to prove he's still a top racer."
+    },
+    {
+      "id": "tmdb:2062",
+      "type": "movie",
+      "name": "Ratatouille",
+      "releaseInfo": "2007",
+      "description": "A charming story about a rat who dreams of becoming a chef."
+    },
+    {
+      "id": "tmdb:11688",
+      "type": "movie",
+      "name": "The Emperor's New Groove",
+      "releaseInfo": "2000",
+      "description": "A hilarious and quirky animated comedy."
+    },
+    {
+      "id": "tmdb:313297",
+      "type": "movie",
+      "name": "Kubo and the Two Strings",
+      "releaseInfo": "2016",
+      "description": "A visually stunning and emotionally resonant stop-motion film."
+    },
+    {
+      "id": "tmdb:277834",
+      "type": "movie",
+      "name": "Moana",
+      "releaseInfo": "2016",
+      "description": "A beautiful and adventurous animated musical set in the Pacific Islands."
+    },
+    {
+      "id": "tmdb:508943",
+      "type": "movie",
+      "name": "Luca",
+      "releaseInfo": "2021",
+      "description": "A heartwarming Pixar film about friendship and acceptance in Italy."
+    },
+    {
+      "id": "tmdb:508947",
+      "type": "movie",
+      "name": "Turning Red",
+      "releaseInfo": "2022",
+      "description": "A funny and relatable Pixar film about a girl who turns into a red panda."
+    },
+    {
+      "id": "tmdb:568124",
+      "type": "movie",
+      "name": "Encanto",
+      "releaseInfo": "2021",
+      "description": "A magical Disney musical about a family with extraordinary gifts."
+    },
+    {
+      "id": "tmdb:49519",
+      "type": "movie",
+      "name": "The Croods",
+      "releaseInfo": "2013",
+      "description": "A fun animated adventure about a prehistoric family."
+    },
+    {
+      "id": "tmdb:529203",
+      "type": "movie",
+      "name": "The Croods: A New Age",
+      "releaseInfo": "2020",
+      "description": "The Croods meet a new family and face new challenges."
+    },
+    {
+      "id": "tmdb:228161",
+      "type": "movie",
+      "name": "Home",
+      "releaseInfo": "2015",
+      "description": "An alien on the run from his own planet befriends a girl."
+    },
+    {
+      "id": "tmdb:431693",
+      "type": "movie",
+      "name": "Spies in Disguise",
+      "releaseInfo": "2019",
+      "description": "A spy is accidentally turned into a pigeon."
+    },
+    {
+      "id": "tmdb:482321",
+      "type": "movie",
+      "name": "Ron's Gone Wrong",
+      "releaseInfo": "2021",
+      "description": "A socially awkward middle-schooler finds that his new robot friend is defective."
+    },
+    {
+      "id": "tmdb:449406",
+      "type": "movie",
+      "name": "Vivo",
+      "releaseInfo": "2021",
+      "description": "A music-loving kinkajou embarks on an unforgettable adventure."
+    }
+  ]
+}
