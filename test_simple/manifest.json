@@ -1,0 +1,1 @@
+{"id": "org.mazgup.simple", "version": "1.0.0", "name": "Simple Test", "resources": ["catalog"], "types": ["movie"], "idPrefixes": ["tt"], "catalogs": [{"type": "movie", "id": "simple_list", "name": "Simple List"}]}
