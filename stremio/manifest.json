@@ -1,0 +1,42 @@
+{
+  "id": "org.mazgup.ai_recommender",
+  "name": "AI Recommendations",
+  "description": "AI-powered movie and TV show recommendations",
+  "version": "1.0.0",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "id": "ai_movies",
+      "type": "movie",
+      "name": "AI Movies",
+      "url": "https://raw.githubusercontent.com/mazgup/stremio-catalogs/main/stremio/catalog/movie/ai_movies.json"
+    },
+    {
+      "id": "ai_tv",
+      "type": "series",
+      "name": "AI TV Shows",
+      "url": "https://raw.githubusercontent.com/mazgup/stremio-catalogs/main/stremio/catalog/series/ai_tv.json"
+    },
+    {
+      "id": "kids_movies",
+      "type": "movie",
+      "name": "Movies for Maia",
+      "url": "https://raw.githubusercontent.com/mazgup/stremio-catalogs/main/stremio/catalog/movie/kids_movies.json"
+    },
+    {
+      "id": "kids_tv",
+      "type": "series",
+      "name": "TV for Maia",
+      "url": "https://raw.githubusercontent.com/mazgup/stremio-catalogs/main/stremio/catalog/series/kids_tv.json"
+    }
+  ]
+}
