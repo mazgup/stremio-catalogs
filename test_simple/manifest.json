@@ -1,1 +1,1 @@
-{"id": "org.mazgup.simple", "version": "1.0.1", "name": "Simple Test", "resources": ["catalog"], "types": ["movie"], "idPrefixes": ["tt"], "catalogs": [{"type": "movie", "id": "simple_list", "name": "Simple List", "extra": []}]}
+{"id": "org.mazgup.simple", "version": "1.0.2", "name": "Simple Test", "description": "Simple test description", "resources": ["catalog"], "types": ["movie", "series"], "idPrefixes": ["tt"], "posterShape": "poster", "catalogs": [{"type": "movie", "id": "simple_list", "name": "Simple List", "extra": []}]}
