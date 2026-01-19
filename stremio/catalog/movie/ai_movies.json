@@ -4,13 +4,29 @@
       "id": "tt0111161",
       "type": "movie",
       "name": "The Shawshank Redemption",
-      "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+      "description": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison.",
+      "releaseInfo": "1994",
+      "imdbRating": "9.3",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
     },
     {
       "id": "tt0068646",
       "type": "movie",
       "name": "The Godfather",
-      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+      "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family.",
+      "releaseInfo": "1972",
+      "imdbRating": "9.2",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
     }
   ]
 }
