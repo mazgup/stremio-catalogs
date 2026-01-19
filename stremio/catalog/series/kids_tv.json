@@ -1,0 +1,256 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:40050",
+      "type": "series",
+      "name": "Daniel Tiger's Neighborhood",
+      "releaseInfo": "2012",
+      "description": "Gentle lessons about emotions and social skills, like Bluey"
+    },
+    {
+      "id": "tmdb:502",
+      "type": "series",
+      "name": "Sesame Street",
+      "releaseInfo": "1969",
+      "description": "Classic educational program with lovable characters."
+    },
+    {
+      "id": "tmdb:3934",
+      "type": "series",
+      "name": "Mickey Mouse Clubhouse",
+      "releaseInfo": "2006",
+      "description": "Interactive problem-solving with familiar Disney characters."
+    },
+    {
+      "id": "tmdb:7248",
+      "type": "series",
+      "name": "The Magic School Bus",
+      "releaseInfo": "1994",
+      "description": "Educational adventures with a quirky teacher and her class."
+    },
+    {
+      "id": "tmdb:57532",
+      "type": "series",
+      "name": "Paw Patrol",
+      "releaseInfo": "2013",
+      "description": "Teamwork and problem-solving skills with adorable rescue pups."
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "releaseInfo": "2004",
+      "description": "Simple stories about family life that are relatable and funny."
+    },
+    {
+      "id": "tmdb:2153",
+      "type": "series",
+      "name": "Arthur",
+      "releaseInfo": "1996",
+      "description": "Deals with common childhood problems in a funny and engaging way."
+    },
+    {
+      "id": "tmdb:79",
+      "type": "series",
+      "name": "Dora the Explorer",
+      "releaseInfo": "2000",
+      "description": "Interactive adventures that teach basic Spanish and problem-solving."
+    },
+    {
+      "id": "tmdb:39107",
+      "type": "series",
+      "name": "Bubble Guppies",
+      "releaseInfo": "2011",
+      "description": "Musical learning with underwater friends."
+    },
+    {
+      "id": "tmdb:69926",
+      "type": "series",
+      "name": "Puffin Rock",
+      "releaseInfo": "2015",
+      "description": "Beautiful animation and heartwarming stories about nature and family."
+    },
+    {
+      "id": "tmdb:37472",
+      "type": "series",
+      "name": "Octonauts",
+      "releaseInfo": "2010",
+      "description": "Underwater adventures with a team of explorers who protect marine life."
+    },
+    {
+      "id": "tmdb:7744",
+      "type": "series",
+      "name": "Sid the Science Kid",
+      "releaseInfo": "2008",
+      "description": "Introduces young children to scientific concepts in an engaging way."
+    },
+    {
+      "id": "tmdb:14766",
+      "type": "series",
+      "name": "Super Why!",
+      "releaseInfo": "2007",
+      "description": "Uses classic stories to teach reading and problem-solving skills."
+    },
+    {
+      "id": "tmdb:14511",
+      "type": "series",
+      "name": "WordGirl",
+      "releaseInfo": "2007",
+      "description": "Superhero who uses her vocabulary to fight crime."
+    },
+    {
+      "id": "tmdb:62694",
+      "type": "series",
+      "name": "Peg + Cat",
+      "releaseInfo": "2013",
+      "description": "Introduces basic math concepts through fun stories and songs."
+    },
+    {
+      "id": "tmdb:68046",
+      "type": "series",
+      "name": "Nature Cat",
+      "releaseInfo": "2015",
+      "description": "Encourages kids to explore the natural world."
+    },
+    {
+      "id": "tmdb:35094",
+      "type": "series",
+      "name": "Wild Kratts",
+      "releaseInfo": "2011",
+      "description": "Teaches about animals and their habitats through exciting adventures."
+    },
+    {
+      "id": "tmdb:46262",
+      "type": "series",
+      "name": "Doc McStuffins",
+      "releaseInfo": "2012",
+      "description": "A young girl pretends to be a doctor and fixes her toys."
+    },
+    {
+      "id": "tmdb:74323",
+      "type": "series",
+      "name": "Vampirina",
+      "releaseInfo": "2017",
+      "description": "A friendly vampire family moves from Transylvania to Pennsylvania."
+    },
+    {
+      "id": "tmdb:32896",
+      "type": "series",
+      "name": "The Cat in the Hat Knows a Lot About That!",
+      "releaseInfo": "2010",
+      "description": "Educational adventures with the Cat in the Hat and his friends."
+    },
+    {
+      "id": "tmdb:30778",
+      "type": "series",
+      "name": "Dinosaur Train",
+      "releaseInfo": "2009",
+      "description": "Teaches about dinosaurs and paleontology through fun stories."
+    },
+    {
+      "id": "tmdb:20407",
+      "type": "series",
+      "name": "Chuggington",
+      "releaseInfo": "2008",
+      "description": "Adventures of trainee trains learning to become useful members of their community."
+    },
+    {
+      "id": "tmdb:32037",
+      "type": "series",
+      "name": "Alphablocks",
+      "releaseInfo": "2010",
+      "description": "Teaches phonics and reading skills with animated letters."
+    },
+    {
+      "id": "tmdb:96650",
+      "type": "series",
+      "name": "Paddington",
+      "releaseInfo": "2019",
+      "description": "The adventures of Paddington Brown, a polite and well-meaning bear from Peru."
+    },
+    {
+      "id": "tmdb:25985",
+      "type": "series",
+      "name": "Kipper",
+      "releaseInfo": "1997",
+      "description": "Gentle stories about friendship and imagination with Kipper the dog."
+    },
+    {
+      "id": "tmdb:9834",
+      "type": "series",
+      "name": "Little Bear",
+      "releaseInfo": "1995",
+      "description": "Based on the books by Else Holmelund Minarik, gentle stories about a young bear and his friends."
+    },
+    {
+      "id": "tmdb:207",
+      "type": "series",
+      "name": "Bear in the Big Blue House",
+      "releaseInfo": "1997",
+      "description": "Educational and musical show featuring Bear, who lives in the Big Blue House."
+    },
+    {
+      "id": "tmdb:1458",
+      "type": "series",
+      "name": "Franklin",
+      "releaseInfo": "1997",
+      "description": "Franklin is a turtle who learns about friendship, family, and growing up."
+    },
+    {
+      "id": "tmdb:1346",
+      "type": "series",
+      "name": "Wow! Wow! Wubbzy!",
+      "releaseInfo": "2006",
+      "description": "A fun-loving character named Wubbzy who goes on adventures with his friends."
+    },
+    {
+      "id": "tmdb:13712",
+      "type": "series",
+      "name": "Oswald",
+      "releaseInfo": "2001",
+      "description": "A gentle and kind blue octopus who lives in a big city with his friends."
+    },
+    {
+      "id": "tmdb:3090",
+      "type": "series",
+      "name": "Little Einsteins",
+      "releaseInfo": "2005",
+      "description": "Animated series combining art, classical music, and adventure."
+    },
+    {
+      "id": "tmdb:2304",
+      "type": "series",
+      "name": "Thomas & Friends",
+      "releaseInfo": "1984",
+      "description": "Stories about trains and their adventures on the Island of Sodor."
+    },
+    {
+      "id": "tmdb:1588",
+      "type": "series",
+      "name": "Postman Pat",
+      "releaseInfo": "1981",
+      "description": "The friendly postman delivers mail in the village of Greendale."
+    },
+    {
+      "id": "tmdb:74280",
+      "type": "series",
+      "name": "Hey Duggee",
+      "releaseInfo": "2014",
+      "description": "A group of animal friends learn new skills and earn badges at the Squirrel Club."
+    },
+    {
+      "id": "tmdb:92885",
+      "type": "series",
+      "name": "Blue's Clues & You!",
+      "releaseInfo": "2019",
+      "description": "An updated version of the classic show, where children help Blue solve puzzles."
+    },
+    {
+      "id": "tmdb:156934",
+      "type": "series",
+      "name": "Daniel Spellbound",
+      "releaseInfo": "2022",
+      "description": "A great show with great animation"
+    }
+  ]
+}
