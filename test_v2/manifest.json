@@ -1,0 +1,24 @@
+{
+  "id": "org.mazgup.test.v2",
+  "version": "1.0.0",
+  "name": "Test V2",
+  "description": "Test V2 Description",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tmdb"
+  ],
+  "posterShape": "poster",
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "test_v2_list",
+      "name": "Test V2 List",
+      "extra": []
+    }
+  ]
+}
