@@ -1,0 +1,22 @@
+{
+  "id": "org.mazgup.test.v3",
+  "version": "1.0.0",
+  "name": "Test V3 (Strict)",
+  "description": "Strict adherence to specs for AIOMetadata",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "test_v3_list",
+      "name": "Test V3 Catalog"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}
