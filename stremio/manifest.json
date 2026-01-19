@@ -21,61 +21,25 @@
       "id": "ai_movies",
       "type": "movie",
       "name": "AI Movies",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        },
-        {
-          "name": "genre",
-          "isRequired": false
-        }
-      ]
+      "extra": []
     },
     {
       "id": "ai_tv",
       "type": "series",
       "name": "AI TV Shows",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        },
-        {
-          "name": "genre",
-          "isRequired": false
-        }
-      ]
+      "extra": []
     },
     {
       "id": "kids_movies",
       "type": "movie",
       "name": "Movies for Maia",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        },
-        {
-          "name": "genre",
-          "isRequired": false
-        }
-      ]
+      "extra": []
     },
     {
       "id": "kids_tv",
       "type": "series",
       "name": "TV for Maia",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        },
-        {
-          "name": "genre",
-          "isRequired": false
-        }
-      ]
+      "extra": []
     }
   ]
 }
