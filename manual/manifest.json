@@ -1,0 +1,24 @@
+{
+  "id": "org.mazgup.manual_test",
+  "version": "1.0.0",
+  "name": "Manual Test Catalog",
+  "description": "A simple manual test for AIOMetadata",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "id": "manual_test_cat",
+      "type": "movie",
+      "name": "Manual Test List",
+      "extra": []
+    }
+  ]
+}
