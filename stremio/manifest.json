@@ -1,44 +1,25 @@
 {
   "id": "org.mazgup.ai_recommender",
-  "name": "AI Recommendations",
-  "description": "Personalized recommendations for Movies and TV Shows",
-  "version": "1.0.1",
+  "version": "1.0.5",
+  "name": "AI Recommendations (TEST)",
+  "description": "Testing structure for AIOMetadata",
   "resources": [
-    "catalog",
-    "meta"
+    "catalog"
   ],
   "types": [
     "movie",
     "series"
   ],
   "idPrefixes": [
-    "tt",
-    "tmdb"
+    "tmdb",
+    "tt"
   ],
   "posterShape": "poster",
   "catalogs": [
     {
       "id": "ai_movies",
       "type": "movie",
-      "name": "AI Movies",
-      "extra": []
-    },
-    {
-      "id": "ai_tv",
-      "type": "series",
-      "name": "AI TV Shows",
-      "extra": []
-    },
-    {
-      "id": "kids_movies",
-      "type": "movie",
-      "name": "Movies for Maia",
-      "extra": []
-    },
-    {
-      "id": "kids_tv",
-      "type": "series",
-      "name": "TV for Maia",
+      "name": "AI Movies (TEST)",
       "extra": []
     }
   ]
