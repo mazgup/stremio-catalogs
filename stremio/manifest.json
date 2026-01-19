@@ -2,9 +2,10 @@
   "id": "org.mazgup.ai_recommender",
   "name": "AI Recommendations",
   "description": "Personalized recommendations for Movies and TV Shows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "resources": [
-    "catalog"
+    "catalog",
+    "meta"
   ],
   "types": [
     "movie",
@@ -14,6 +15,7 @@
     "tt",
     "tmdb"
   ],
+  "posterShape": "poster",
   "catalogs": [
     {
       "id": "ai_movies",
