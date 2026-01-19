@@ -1,0 +1,13 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:278",
+      "type": "movie",
+      "name": "The Shawshank Redemption",
+      "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "description": "Test V2 Item",
+      "releaseInfo": "1994",
+      "imdbRating": "9.3"
+    }
+  ]
+}
