@@ -1,8 +1,8 @@
 {
   "id": "org.mazgup.ai_recommender",
-  "version": "1.0.5",
-  "name": "AI Recommendations (TEST)",
-  "description": "Testing structure for AIOMetadata",
+  "version": "1.1.0",
+  "name": "AI Recommendations",
+  "description": "Strict Metadata Test",
   "resources": [
     "catalog"
   ],
@@ -11,16 +11,13 @@
     "series"
   ],
   "idPrefixes": [
-    "tmdb",
     "tt"
   ],
-  "posterShape": "poster",
   "catalogs": [
     {
-      "id": "ai_movies",
       "type": "movie",
-      "name": "AI Movies (TEST)",
-      "extra": []
+      "id": "ai_movies",
+      "name": "AI Movies (Strict)"
     }
   ]
 }
