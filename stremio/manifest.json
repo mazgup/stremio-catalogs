@@ -1,8 +1,8 @@
 {
   "id": "org.mazgup.ai_recommender",
-  "version": "1.1.1",
   "name": "AI Recommendations",
-  "description": "Rich Metadata Test",
+  "description": "Personalized recommendations for Movies and TV Shows",
+  "version": "1.1.0",
   "resources": [
     "catalog"
   ],
@@ -16,9 +16,28 @@
   "posterShape": "poster",
   "catalogs": [
     {
-      "type": "movie",
       "id": "ai_movies",
-      "name": "AI Movies (Rich)"
+      "type": "movie",
+      "name": "AI Movies",
+      "extra": []
+    },
+    {
+      "id": "ai_tv",
+      "type": "series",
+      "name": "AI TV Shows",
+      "extra": []
+    },
+    {
+      "id": "kids_movies",
+      "type": "movie",
+      "name": "Movies for Maia",
+      "extra": []
+    },
+    {
+      "id": "kids_tv",
+      "type": "series",
+      "name": "TV for Maia",
+      "extra": []
     }
   ]
 }
