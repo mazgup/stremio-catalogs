@@ -6,29 +6,19 @@
       "name": "Daniel Tiger's Neighborhood",
       "poster": "https://image.tmdb.org/t/p/w500/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg",
       "releaseInfo": "2012",
-      "description": "Gentle animation and catchy songs teach valuable social and emotional lessons similar to Bluey, but geared toward a slightly younger audience.",
+      "description": "Uses catchy songs and relatable situations to teach emotional intelligence and social skills, similar to Bluey's focus on emotional development.",
       "background": "https://image.tmdb.org/t/p/original/yAIpWHcLmS1O2aCrx4oBhXtwoHt.jpg",
       "imdbRating": "7.1"
     },
     {
-      "id": "tt0169414",
+      "id": "tt3869122",
       "type": "series",
-      "name": "Arthur",
-      "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-      "releaseInfo": "1996",
-      "description": "Arthur and his friends deal with relatable childhood issues with humor and heart. It's a classic that promotes kindness and understanding.",
-      "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt0063951",
-      "type": "series",
-      "name": "Sesame Street",
-      "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-      "releaseInfo": "1969",
-      "description": "A timeless educational show with diverse characters, catchy songs, and engaging segments that teach letters, numbers, and important life lessons.",
-      "background": "https://image.tmdb.org/t/p/original/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
-      "imdbRating": "7.087"
+      "name": "The Magic School Bus Rides Again",
+      "poster": "https://image.tmdb.org/t/p/w500/42cJukwvrC8eZ1mShB5jBE3HLPL.jpg",
+      "releaseInfo": "2017",
+      "description": "An updated version of the classic, this show combines science education with fun adventures, appealing to kids who enjoy learning through animation like in Curious George.",
+      "background": "https://image.tmdb.org/t/p/original/dfvbteFQiK6e7PPajb6khojI2ko.jpg",
+      "imdbRating": "6.833"
     },
     {
       "id": "tt8651594",
@@ -36,9 +26,19 @@
       "name": "Molly of Denali",
       "poster": "https://image.tmdb.org/t/p/w500/8HdIoG6HHJJaf8M3SAVQrGgCvHp.jpg",
       "releaseInfo": "2019",
-      "description": "Molly is an Alaskan Native girl who helps her community using informational texts, maps, and her own ingenuity. It's educational and culturally enriching.",
+      "description": "Features a resourceful Alaskan Native girl who uses informational texts to solve problems and learn about her culture, promoting problem-solving skills like Curious George.",
       "background": "https://image.tmdb.org/t/p/original/1ltFINyxi9gb8OtOQSucUGBE9mT.jpg",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1710295",
+      "type": "series",
+      "name": "Doc McStuffins",
+      "poster": "https://image.tmdb.org/t/p/w500/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
+      "releaseInfo": "2012",
+      "description": "Aimed at preschoolers, Doc McStuffins promotes caring for others and basic health concepts through imaginative play, similar to the positive and gentle themes found in Bluey.",
+      "background": "https://image.tmdb.org/t/p/original/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+      "imdbRating": "5.848"
     },
     {
       "id": "tt2948562",
@@ -46,7 +46,7 @@
       "name": "Tumble Leaf",
       "poster": "https://image.tmdb.org/t/p/w500/iIkCF0mb8xmu1m0cBn3qreaHeyd.jpg",
       "releaseInfo": "2014",
-      "description": "Beautiful stop-motion animation and a focus on science and nature make this a visually appealing and educational choice. Fig and his friends learn through discovery and play.",
+      "description": "A stop-motion animated series that encourages preschoolers to explore science through play and imagination, promoting curiosity and observation skills like Curious George.",
       "background": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
       "imdbRating": "7.4"
     }
