@@ -6,39 +6,9 @@
       "name": "Daniel Tiger's Neighborhood",
       "poster": "https://image.tmdb.org/t/p/w500/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg",
       "releaseInfo": "2012",
-      "description": "Uses catchy songs and relatable scenarios to teach young children important social and emotional skills, similar to Bluey's focus on life lessons.",
+      "description": "Uses songs and relatable situations to teach social-emotional skills, similar to Bluey's positive life lessons.",
       "background": "https://image.tmdb.org/t/p/original/yAIpWHcLmS1O2aCrx4oBhXtwoHt.jpg",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt2402500",
-      "type": "series",
-      "name": "Peg + Cat",
-      "poster": "https://image.tmdb.org/t/p/w500/lLLoF9lYMsEq4jPBNczkrCwVjrR.jpg",
-      "releaseInfo": "2013",
-      "description": "Introduces basic math concepts in a fun and engaging way with memorable characters and songs, aligning with Curious George's educational approach.",
-      "background": "https://image.tmdb.org/t/p/original/pLOnGwxulJsoz0ZF66NIEfz2Ewd.jpg",
-      "imdbRating": "7.308"
-    },
-    {
-      "id": "tt2948562",
-      "type": "series",
-      "name": "Tumble Leaf",
-      "poster": "https://image.tmdb.org/t/p/w500/iIkCF0mb8xmu1m0cBn3qreaHeyd.jpg",
-      "releaseInfo": "2014",
-      "description": "A stop-motion animated series that encourages exploration, discovery, and problem-solving in a whimsical, nature-filled setting, much like the adventures in Curious George.",
-      "background": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt3590338",
-      "type": "series",
-      "name": "Puffin Rock",
-      "poster": "https://image.tmdb.org/t/p/w500/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
-      "releaseInfo": "2015",
-      "description": "Features beautiful animation and gentle storytelling about a puffling named Oona and her brother Baba, exploring their natural environment and learning about friendship and family, similar to the heartwarming family themes in Bluey.",
-      "background": "https://image.tmdb.org/t/p/original/9z945wZwFzJ0EbzY8vsk5ELCZeJ.jpg",
-      "imdbRating": "7.4"
     },
     {
       "id": "tt3869122",
@@ -46,9 +16,39 @@
       "name": "The Magic School Bus Rides Again",
       "poster": "https://image.tmdb.org/t/p/w500/42cJukwvrC8eZ1mShB5jBE3HLPL.jpg",
       "releaseInfo": "2017",
-      "description": "Continues the educational journey of Ms. Frizzle and her class, exploring science concepts through exciting adventures and engaging animation, offering educational value like Curious George.",
+      "description": "An educational animated series with fun characters that will fuel curiosity and teach about science, similar to Curious George.",
       "background": "https://image.tmdb.org/t/p/original/dfvbteFQiK6e7PPajb6khojI2ko.jpg",
       "imdbRating": "6.833"
+    },
+    {
+      "id": "tt7772600",
+      "type": "series",
+      "name": "Paddington",
+      "poster": "https://image.tmdb.org/t/p/w500/8kueFMhO5zvrXgBtM8mdEOJRV2D.jpg",
+      "releaseInfo": "2019",
+      "description": "A kind bear experiences new things with a loving family, just like Bluey but with a gentler pace.",
+      "background": "https://image.tmdb.org/t/p/original/r4ymAKfEBtz6bXRf7e12Xn0RZFe.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt0169414",
+      "type": "series",
+      "name": "Arthur",
+      "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+      "releaseInfo": "1996",
+      "description": "Deals with everyday childhood challenges and teaches about friendship and empathy through engaging stories.",
+      "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0063951",
+      "type": "series",
+      "name": "Sesame Street",
+      "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+      "releaseInfo": "1969",
+      "description": "A classic educational show that uses puppets, songs, and skits to teach letters, numbers, and important life lessons, providing engaging content for younger viewers.",
+      "background": "https://image.tmdb.org/t/p/original/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+      "imdbRating": "7.087"
     }
   ]
 }
