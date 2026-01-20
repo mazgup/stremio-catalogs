@@ -1,3 +1,54 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt0106308",
+      "type": "movie",
+      "name": "Army of Darkness",
+      "poster": "https://image.tmdb.org/t/p/w500/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+      "releaseInfo": "1992",
+      "description": "Given your enjoyment of action comedies like 'Three Kings' and 'The Meteor Man', and horror thrillers like '28 Days Later' and '28 Weeks Later', this blends horror, comedy and action perfectly with a cult following. It hits similar tonal notes and has strong comedic action like your liked films.",
+      "background": "https://image.tmdb.org/t/p/original/5RPXs9g0sZ9Woo4pNLxdXdge7tc.jpg",
+      "imdbRating": "7.258"
+    },
+    {
+      "id": "tt0780536",
+      "type": "movie",
+      "name": "In Bruges",
+      "poster": "https://image.tmdb.org/t/p/w500/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "releaseInfo": "2008",
+      "description": "Following your appreciation for crime comedies like 'Get Shorty' and films with dark humor, 'In Bruges' provides a sharp, witty, and surprisingly moving story about hitmen hiding out in Belgium. It's a dark comedy with crime elements, blending humor and drama effectively.",
+      "background": "https://image.tmdb.org/t/p/original/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
+      "imdbRating": "7.496"
+    },
+    {
+      "id": "tt0425112",
+      "type": "movie",
+      "name": "Hot Fuzz",
+      "poster": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "releaseInfo": "2007",
+      "description": "Because you enjoyed 'Ace Ventura' and the mystery/crime elements in 'Get Shorty' and 'Wake Up Dead Man: A Knives Out Mystery', this is a brilliant action-comedy that parodies the genre while offering a genuinely engaging mystery. It has high production value and clever humor similar to movies you have watched.",
+      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "imdbRating": "7.563"
+    },
+    {
+      "id": "tt1392214",
+      "type": "movie",
+      "name": "Prisoners",
+      "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
+      "releaseInfo": "2013",
+      "description": "Given your appreciation for dark thrillers with crime elements like 'The Shawshank Redemption' and 'Get Shorty', 'Prisoners' is a tense, well-acted, and morally complex crime thriller that will keep you on the edge of your seat. It maintains a serious tone while presenting an engaging mystery.",
+      "background": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
+      "imdbRating": "8.101"
+    },
+    {
+      "id": "tt0390384",
+      "type": "movie",
+      "name": "Primer",
+      "poster": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+      "releaseInfo": "2004",
+      "description": "Considering your liking for sci-fi thrillers like 'The Running Man', and intelligent plotlines like 'The Shawshank Redemption', 'Primer' is a complex, low-budget science fiction film that explores time travel with a focus on the consequences and technical details. It is a mind-bending and intellectually stimulating film that would appeal to your appreciation for intricate plots.",
+      "background": "https://image.tmdb.org/t/p/original/yxlGeAK6BrbKng8VSJSKTpSXSsL.jpg",
+      "imdbRating": "6.761"
+    }
+  ]
 }
