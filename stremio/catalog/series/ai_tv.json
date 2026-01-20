@@ -1,34 +1,24 @@
 {
   "metas": [
     {
-      "id": "tt11280740",
+      "id": "tt2085059",
       "type": "series",
-      "name": "Severance",
-      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
-      "releaseInfo": "2022",
-      "description": "Combines mystery and drama with a sci-fi twist, similar to 'Stranger Things' and 'Fallout', but with a more psychological focus. The high-concept premise and slow-burn storytelling will appeal to fans of 'The Night Manager' and 'All Her Fault'.",
-      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-      "imdbRating": "8.393"
+      "name": "Black Mirror",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "releaseInfo": "2011",
+      "description": "Given your enjoyment of shows like 'Love, Death & Robots', 'Fallout', and 'Stranger Things,' this anthology series explores dark and satirical themes related to technology and society, providing thought-provoking sci-fi narratives.",
+      "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+      "imdbRating": "8.284"
     },
     {
-      "id": "tt1190634",
+      "id": "tt1475582",
       "type": "series",
-      "name": "The Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
-      "releaseInfo": "2019",
-      "description": "A dark and satirical superhero show that shares the irreverent humor and action of 'Rick and Morty' and 'One-Punch Man', while also exploring deeper themes like 'Love, Death & Robots' with its mature content and genre-bending storytelling.",
-      "background": "https://image.tmdb.org/t/p/original/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
-      "imdbRating": "8.444"
-    },
-    {
-      "id": "tt5753856",
-      "type": "series",
-      "name": "Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
-      "releaseInfo": "2017",
-      "description": "A German sci-fi mystery that is a mind-bending thriller, full of twists and turns like 'Stranger Things', 'The Night Manager', and 'All Her Fault'. Its complex plot and dark atmosphere should appeal to viewers who enjoy suspenseful dramas.",
-      "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
-      "imdbRating": "8.425"
+      "name": "Sherlock",
+      "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+      "releaseInfo": "2010",
+      "description": "Since you enjoyed 'All Her Fault', 'The Night Manager', and 'HIS & HERS', this show offers compelling mysteries and complex characters, with a modern twist on the classic detective stories.",
+      "background": "https://image.tmdb.org/t/p/original/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "imdbRating": "8.512"
     },
     {
       "id": "tt1266020",
@@ -36,9 +26,19 @@
       "name": "Parks and Recreation",
       "poster": "https://image.tmdb.org/t/p/w500/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
       "releaseInfo": "2009",
-      "description": "A feel-good comedy in a similar vein to 'Scrubs' and 'Ted Lasso', offering optimistic humor and lovable characters. While tonally different from your darker shows, it provides a great balance and showcases similar ensemble dynamics.",
+      "description": "Considering your appreciation for comedies like 'Scrubs', 'Goodness Gracious Me', 'Ted Lasso', and 'It's Always Sunny in Philadelphia', this sitcom delivers a similar style of humor with a cast of lovable characters and heartwarming moments.",
       "background": "https://image.tmdb.org/t/p/original/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
       "imdbRating": "8.037"
+    },
+    {
+      "id": "tt1312171",
+      "type": "series",
+      "name": "The Umbrella Academy",
+      "poster": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+      "releaseInfo": "2019",
+      "description": "Based on your fondness for 'Stranger Things', 'Fallout', and animated comedies like 'Rick and Morty' and 'One-Punch Man', this series blends superhero action, sci-fi elements, and quirky humor.",
+      "background": "https://image.tmdb.org/t/p/original/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+      "imdbRating": "8.495"
     },
     {
       "id": "tt4047038",
@@ -46,7 +46,7 @@
       "name": "Dirk Gently's Holistic Detective Agency",
       "poster": "https://image.tmdb.org/t/p/w500/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
       "releaseInfo": "2016",
-      "description": "This show blends sci-fi, comedy, and mystery in a unique and quirky way. It has the same offbeat humor as 'Rick and Morty' and 'Futurama' but with a British sensibility. The overarching mystery and bizarre plot will keep fans of 'Stranger Things' engaged.",
+      "description": "Given your liking for 'Doctor Who', 'Rick and Morty', and general Sci-Fi with mystery elements as seen in 'All Her Fault', this show provides a bizarre, funny, and intricate mystery that blends science fiction with detective work in a unique and engaging way.",
       "background": "https://image.tmdb.org/t/p/original/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
       "imdbRating": "7.687"
     }
