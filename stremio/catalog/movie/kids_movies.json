@@ -1,3 +1,54 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt7979580",
+      "type": "movie",
+      "name": "The Mitchells vs. The Machines",
+      "poster": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "releaseInfo": "2021",
+      "description": "A quirky animated adventure about a family saving the world from robots, similar to the humor and adventure found in Zootopia and The Bad Guys.",
+      "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+      "imdbRating": "7.859"
+    },
+    {
+      "id": "tt1109624",
+      "type": "movie",
+      "name": "Paddington",
+      "poster": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "releaseInfo": "2014",
+      "description": "A heartwarming and funny family film about a bear finding his place in London. It shares the same wholesome and comedic tone as Curious George and Wallace & Gromit.",
+      "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0892769",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "releaseInfo": "2010",
+      "description": "An exciting animated adventure with great characters and a heartwarming story about friendship, similar to Tangled and Puss in Boots: The Last Wish.",
+      "background": "https://image.tmdb.org/t/p/original/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "imdbRating": "7.855"
+    },
+    {
+      "id": "tt3521164",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
+      "releaseInfo": "2016",
+      "description": "A vibrant and adventurous animated musical with a strong female lead, akin to Tangled and Coco in its cultural richness and memorable songs.",
+      "background": "https://image.tmdb.org/t/p/original/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
+      "imdbRating": "7.564"
+    },
+    {
+      "id": "tt0120630",
+      "type": "movie",
+      "name": "Chicken Run",
+      "poster": "https://image.tmdb.org/t/p/w500/oYbVT9e0k2ZSrRhDSCw2Yqshe1n.jpg",
+      "releaseInfo": "2000",
+      "description": "A funny and clever stop-motion animated film about chickens escaping a farm, in the spirit of Wallace & Gromit, perfect for kids who enjoy lighthearted adventure.",
+      "background": "https://image.tmdb.org/t/p/original/sivJXJ8JvVVSRaaBnHgzOboNBRQ.jpg",
+      "imdbRating": "6.835"
+    }
+  ]
 }
