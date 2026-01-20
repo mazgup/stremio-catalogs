@@ -1,44 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+      "releaseInfo": "2019",
+      "description": "Combines superhero action with dark comedy and social commentary, aligning with the user's enjoyment of shows like 'One-Punch Man', 'Rick and Morty' and 'Fallout', while also having elements of crime and drama.",
+      "background": "https://image.tmdb.org/t/p/original/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+      "imdbRating": "8.444"
+    },
+    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
       "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
       "releaseInfo": "2010",
-      "description": "A modern take on Sherlock Holmes with intricate mysteries and compelling drama, similar to 'The Night Manager' and 'All Her Fault'.",
+      "description": "A modern take on the classic detective, blending mystery and crime with strong dramatic elements. This should appeal to the user's appreciation for shows like 'The Night Manager', 'All Her Fault' and 'HIS & HERS'.",
       "background": "https://image.tmdb.org/t/p/original/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
       "imdbRating": "8.512"
-    },
-    {
-      "id": "tt2085059",
-      "type": "series",
-      "name": "Black Mirror",
-      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-      "releaseInfo": "2011",
-      "description": "Dystopian sci-fi anthology series with dark humor and thought-provoking themes, appealing to fans of 'Love, Death & Robots' and 'Fallout'.",
-      "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-      "imdbRating": "8.284"
-    },
-    {
-      "id": "tt4955642",
-      "type": "series",
-      "name": "The Good Place",
-      "poster": "https://image.tmdb.org/t/p/w500/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
-      "releaseInfo": "2016",
-      "description": "A philosophical comedy with quirky characters and unexpected twists, blending humor like 'Scrubs' with deeper themes found in 'Ted Lasso'.",
-      "background": "https://image.tmdb.org/t/p/original/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
-      "imdbRating": "7.971"
-    },
-    {
-      "id": "tt2467372",
-      "type": "series",
-      "name": "Brooklyn Nine-Nine",
-      "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
-      "releaseInfo": "2013",
-      "description": "A hilarious workplace comedy with a strong ensemble cast, similar to 'Scrubs' and 'It's Always Sunny in Philadelphia' but with a focus on law enforcement.",
-      "background": "https://image.tmdb.org/t/p/original/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
-      "imdbRating": "8.219"
     },
     {
       "id": "tt5753856",
@@ -46,189 +26,9 @@
       "name": "Dark",
       "poster": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
       "releaseInfo": "2017",
-      "description": "A mind-bending German sci-fi mystery with complex characters and a gripping plot, appealing to fans of 'Stranger Things' and 'Foundation'.",
+      "description": "A mind-bending sci-fi mystery with complex plotlines and character development. Its darker tone and intricate narrative would resonate with fans of 'Stranger Things' and 'Foundation', with a touch of crime.",
       "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
       "imdbRating": "8.425"
-    },
-    {
-      "id": "tt2234222",
-      "type": "series",
-      "name": "Orphan Black",
-      "poster": "https://image.tmdb.org/t/p/w500/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
-      "releaseInfo": "2013",
-      "description": "A thrilling sci-fi series with a compelling mystery and strong female lead, similar to 'Stranger Things' but with a focus on cloning.",
-      "background": "https://image.tmdb.org/t/p/original/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
-      "imdbRating": "7.804"
-    },
-    {
-      "id": "tt0487831",
-      "type": "series",
-      "name": "The IT Crowd",
-      "poster": "https://image.tmdb.org/t/p/w500/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
-      "releaseInfo": "2006",
-      "description": "A British sitcom with quirky characters and witty humor, similar to 'Scrubs' and 'Goodness Gracious Me'.",
-      "background": "https://image.tmdb.org/t/p/original/dqtpDD9Ro1uSdEOX8P1T6M3QdFI.jpg",
-      "imdbRating": "8.167"
-    },
-    {
-      "id": "tt4047038",
-      "type": "series",
-      "name": "Dirk Gently's Holistic Detective Agency",
-      "poster": "https://image.tmdb.org/t/p/w500/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
-      "releaseInfo": "2016",
-      "description": "A quirky and mind-bending sci-fi mystery series with a unique sense of humor, appealing to fans of 'Rick and Morty' and 'Doctor Who'.",
-      "background": "https://image.tmdb.org/t/p/original/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
-      "imdbRating": "7.687"
-    },
-    {
-      "id": "tt3398228",
-      "type": "series",
-      "name": "BoJack Horseman",
-      "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
-      "releaseInfo": "2014",
-      "description": "An animated comedy with dark humor and surprisingly emotional depth, similar to 'Rick and Morty' and 'Ted Lasso'.",
-      "background": "https://image.tmdb.org/t/p/original/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
-      "imdbRating": "8.543"
-    },
-    {
-      "id": "tt6317068",
-      "type": "series",
-      "name": "Final Space",
-      "poster": "https://image.tmdb.org/t/p/w500/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",
-      "releaseInfo": "2018",
-      "description": "An animated space opera with humor and heartfelt moments, reminiscent of 'Futurama' and 'Love, Death & Robots'.",
-      "background": "https://image.tmdb.org/t/p/original/vEMl9RED1HelffdKWxToa3fmyo2.jpg",
-      "imdbRating": "8.382"
-    },
-    {
-      "id": "tt11126994",
-      "type": "series",
-      "name": "Arcane",
-      "poster": "https://image.tmdb.org/t/p/w500/wwbHr8MPErMbmiYNaxDgTWyewOX.jpg",
-      "releaseInfo": "2021",
-      "description": "Visually stunning animated series with a compelling story and complex characters, similar to 'Love, Death & Robots' but with a deeper narrative.",
-      "background": "https://image.tmdb.org/t/p/original/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
-      "imdbRating": "8.752"
-    },
-    {
-      "id": "tt7826376",
-      "type": "series",
-      "name": "Upload",
-      "poster": "https://image.tmdb.org/t/p/w500/6TPGDrU9MyWbn2TpggJphVAVXiq.jpg",
-      "releaseInfo": "2020",
-      "description": "A sci-fi comedy about the afterlife in a digital world, blending humor like 'Scrubs' with sci-fi elements from 'Futurama'.",
-      "background": "https://image.tmdb.org/t/p/original/moH3PdysmUl8vrsYVM4l2ZZiRAd.jpg",
-      "imdbRating": "7.796"
-    },
-    {
-      "id": "tt7908628",
-      "type": "series",
-      "name": "What We Do in the Shadows",
-      "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
-      "releaseInfo": "2019",
-      "description": "A mockumentary comedy about vampire roommates, similar to 'It's Always Sunny in Philadelphia' but with a supernatural twist.",
-      "background": "https://image.tmdb.org/t/p/original/mKikck71CvVISUSTLk29fwRbH4y.jpg",
-      "imdbRating": "7.993"
-    },
-    {
-      "id": "tt8398600",
-      "type": "series",
-      "name": "After Life",
-      "poster": "https://image.tmdb.org/t/p/w500/6eJf4h9XcvqK64vbx27EFlLVURm.jpg",
-      "releaseInfo": "2019",
-      "description": "A dark comedy-drama about grief and finding meaning in life, similar to 'Ted Lasso' but with a more cynical tone.",
-      "background": "https://image.tmdb.org/t/p/original/AeVleqwWBMkiliVw6lFZICTTMiO.jpg",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt1312171",
-      "type": "series",
-      "name": "Umbrella Academy",
-      "poster": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
-      "releaseInfo": "2019",
-      "description": "A superhero series with dysfunctional characters and a compelling mystery, appealing to fans of 'Stranger Things' and 'Fallout'.",
-      "background": "https://image.tmdb.org/t/p/original/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
-      "imdbRating": "8.495"
-    },
-    {
-      "id": "tt1190634",
-      "type": "series",
-      "name": "The Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
-      "releaseInfo": "2019",
-      "description": "A dark and satirical superhero series with graphic violence and cynical humor, a deconstruction of the genre, fitting with 'Fallout' and 'Love, Death & Robots'.",
-      "background": "https://image.tmdb.org/t/p/original/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
-      "imdbRating": "8.444"
-    },
-    {
-      "id": "tt5580146",
-      "type": "series",
-      "name": "Maniac",
-      "poster": "https://image.tmdb.org/t/p/w500/kCNl4QPstAqChFD0NnLpbDFG8ul.jpg",
-      "releaseInfo": "2018",
-      "description": "A mind-bending sci-fi drama with quirky characters and surreal visuals, appealing to fans of 'Love, Death & Robots' and 'Rick and Morty'.",
-      "background": "https://image.tmdb.org/t/p/original/f9z6gCtDlr88l2VBQOY6luaSfPi.jpg",
-      "imdbRating": "7.357"
-    },
-    {
-      "id": "tt7520794",
-      "type": "series",
-      "name": "Russian Doll",
-      "poster": "https://image.tmdb.org/t/p/w500/1ju4vQ1EwlIkQxEgWiYmxOs3iBG.jpg",
-      "releaseInfo": "2019",
-      "description": "A dark comedy about a woman stuck in a time loop, with witty dialogue and emotional depth, blending humor with sci-fi elements.",
-      "background": "https://image.tmdb.org/t/p/original/5TgMzFqbOEcEo99uhIo8DmiENOx.jpg",
-      "imdbRating": "7.369"
-    },
-    {
-      "id": "tt4643084",
-      "type": "series",
-      "name": "Counterpart",
-      "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
-      "releaseInfo": "2017",
-      "description": "A sci-fi thriller about parallel universes and espionage, with a complex plot and strong performances, fitting with 'Foundation' and 'The Night Manager'.",
-      "background": "https://image.tmdb.org/t/p/original/z2Q4lX7E76BuZMOOZrq4trz91j8.jpg",
-      "imdbRating": "7.437"
-    },
-    {
-      "id": "tt5651844",
-      "type": "series",
-      "name": "Travelers",
-      "poster": "https://image.tmdb.org/t/p/w500/aUVeyeyTrQrSFuUkqLCT8FtV7pp.jpg",
-      "releaseInfo": "2016",
-      "description": "A sci-fi series about time travelers on a mission to save humanity, appealing to fans of 'Doctor Who' and 'Stranger Things'.",
-      "background": "https://image.tmdb.org/t/p/original/yUDJ1r0UQdhb904povev5apjTVh.jpg",
-      "imdbRating": "7.552"
-    },
-    {
-      "id": "tt0387764",
-      "type": "series",
-      "name": "Peep Show",
-      "poster": "https://image.tmdb.org/t/p/w500/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg",
-      "releaseInfo": "2003",
-      "description": "A British sitcom with a unique perspective and awkward humor, similar to 'It's Always Sunny in Philadelphia' and 'Brassic'.",
-      "background": "https://image.tmdb.org/t/p/original/pYEFwZj6YDR8OhX9tyO78IoJADe.jpg",
-      "imdbRating": "8.054"
-    },
-    {
-      "id": "tt0187664",
-      "type": "series",
-      "name": "Spaced",
-      "poster": "https://image.tmdb.org/t/p/w500/igZWEYUohDxlLodq8RkeJa7jBna.jpg",
-      "releaseInfo": "1999",
-      "description": "A British sitcom with surreal humor and pop culture references, similar to 'The Simpsons' and 'Rick and Morty'.",
-      "background": "https://image.tmdb.org/t/p/original/q187vcRKB9WCOQyjo9Cl4No9cea.jpg",
-      "imdbRating": "7.919"
-    },
-    {
-      "id": "tt1439629",
-      "type": "series",
-      "name": "Community",
-      "poster": "https://image.tmdb.org/t/p/w500/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
-      "releaseInfo": "2009",
-      "description": "A sitcom with meta-humor and quirky characters, similar to 'Scrubs' and 'The Simpsons'.",
-      "background": "https://image.tmdb.org/t/p/original/OylSdzVezjwGLYM0w73mUPNHM4.jpg",
-      "imdbRating": "7.999"
     },
     {
       "id": "tt0367279",
@@ -236,169 +36,19 @@
       "name": "Arrested Development",
       "poster": "https://image.tmdb.org/t/p/w500/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
       "releaseInfo": "2003",
-      "description": "A cult classic sitcom with a dysfunctional family and witty writing, similar to 'It's Always Sunny in Philadelphia'.",
+      "description": "A hilarious and critically acclaimed comedy with a unique style. Considering their enjoyment of comedies such as 'Scrubs', 'It's Always Sunny in Philadelphia' and 'Brassic', this show's clever writing and quirky characters should appeal.",
       "background": "https://image.tmdb.org/t/p/original/8qn0u64JXSgnGKe2KkKqrfH7V84.jpg",
       "imdbRating": "7.935"
     },
     {
-      "id": "tt1266020",
+      "id": "tt11280740",
       "type": "series",
-      "name": "Parks and Recreation",
-      "poster": "https://image.tmdb.org/t/p/w500/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
-      "releaseInfo": "2009",
-      "description": "A feel-good comedy with lovable characters and optimistic themes, similar to 'Ted Lasso'.",
-      "background": "https://image.tmdb.org/t/p/original/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
-      "imdbRating": "8.037"
-    },
-    {
-      "id": "tt5687612",
-      "type": "series",
-      "name": "Fleabag",
-      "poster": "https://image.tmdb.org/t/p/w500/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
-      "releaseInfo": "2016",
-      "description": "A dark comedy-drama with witty writing and emotional depth, similar to 'After Life' and 'Ted Lasso', but with British sensibilities.",
-      "background": "https://image.tmdb.org/t/p/original/52FrqXobnTvkt5otdkcWcToIReH.jpg",
-      "imdbRating": "8.279"
-    },
-    {
-      "id": "tt4158110",
-      "type": "series",
-      "name": "Mr. Robot",
-      "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-      "releaseInfo": "2015",
-      "description": "A psychological thriller with a complex protagonist and a gripping plot, similar to 'All Her Fault' and 'HIS & HERS'.",
-      "background": "https://image.tmdb.org/t/p/original/hZOuVkhAWX9viLJuaIsMh8cM3Jz.jpg",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt2243973",
-      "type": "series",
-      "name": "Hannibal",
-      "poster": "https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
-      "releaseInfo": "2013",
-      "description": "A psychological horror-thriller with stunning visuals and compelling characters, appealing to fans of mystery and drama.",
-      "background": "https://image.tmdb.org/t/p/original/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
-      "imdbRating": "8.254"
-    },
-    {
-      "id": "tt5290382",
-      "type": "series",
-      "name": "Mindhunter",
-      "poster": "https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg",
-      "releaseInfo": "2017",
-      "description": "A crime drama about the early days of criminal profiling, with a focus on psychology and suspense, similar to 'All Her Fault' and 'HIS & HERS'.",
-      "background": "https://image.tmdb.org/t/p/original/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg",
-      "imdbRating": "8.106"
-    },
-    {
-      "id": "tt2303687",
-      "type": "series",
-      "name": "Line of Duty",
-      "poster": "https://image.tmdb.org/t/p/w500/ysGUKnnR1pGYIndjXWcjupGbWpS.jpg",
-      "releaseInfo": "2012",
-      "description": "A British police procedural with twists and turns, and complex characters, similar to 'The Night Manager' and the user's watched crime dramas.",
-      "background": "https://image.tmdb.org/t/p/original/5ZLEFPayOJr3KhXPoAnLWdVQJem.jpg",
-      "imdbRating": "8.238"
-    },
-    {
-      "id": "tt2249364",
-      "type": "series",
-      "name": "Broadchurch",
-      "poster": "https://image.tmdb.org/t/p/w500/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
-      "releaseInfo": "2013",
-      "description": "A British crime drama with a compelling mystery and strong performances, appealing to fans of 'All Her Fault' and 'HIS & HERS'.",
-      "background": "https://image.tmdb.org/t/p/original/66ieYewiusGZsUAbJGuefdo1GpS.jpg",
-      "imdbRating": "7.924"
-    },
-    {
-      "id": "tt1474684",
-      "type": "series",
-      "name": "Luther",
-      "poster": "https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
-      "releaseInfo": "2010",
-      "description": "A dark and intense crime drama with a brilliant but troubled detective, similar to 'All Her Fault' and 'HIS & HERS'.",
-      "background": "https://image.tmdb.org/t/p/original/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
-      "imdbRating": "7.86"
-    },
-    {
-      "id": "tt10048342",
-      "type": "series",
-      "name": "The Queen's Gambit",
-      "poster": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-      "releaseInfo": "2020",
-      "description": "A historical drama with a compelling protagonist and a focus on strategy and skill, though not in the same genres, it may appeal.",
-      "background": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
-      "imdbRating": "8.448"
-    },
-    {
-      "id": "tt3230854",
-      "type": "series",
-      "name": "The Expanse",
-      "poster": "https://image.tmdb.org/t/p/w500/8djpxDeWpINnGhjpFXQjnBe6zbx.jpg",
-      "releaseInfo": "2015",
-      "description": "A sci-fi drama with a complex plot and realistic portrayal of space travel, similar to 'Foundation' and 'Fallout'.",
-      "background": "https://image.tmdb.org/t/p/original/7yKtaRij2giAj0s09F6gmB8XIje.jpg",
-      "imdbRating": "8.066"
-    },
-    {
-      "id": "tt3952222",
-      "type": "series",
-      "name": "Killjoys",
-      "poster": "https://image.tmdb.org/t/p/w500/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
-      "releaseInfo": "2015",
-      "description": "A fun sci-fi adventure series with a group of bounty hunters in space, reminiscent of 'Fallout' and 'Doctor Who'.",
-      "background": "https://image.tmdb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg",
-      "imdbRating": "6.862"
-    },
-    {
-      "id": "tt0118480",
-      "type": "series",
-      "name": "Stargate SG-1",
-      "poster": "https://image.tmdb.org/t/p/w500/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-      "releaseInfo": "1997",
-      "description": "A classic sci-fi series with adventure and humor, similar to 'Doctor Who' and 'Fallout'.",
-      "background": "https://image.tmdb.org/t/p/original/yOyzlRw54oYaGvhUBdPr7TFwtrX.jpg",
-      "imdbRating": "8.281"
-    },
-    {
-      "id": "tt2802850",
-      "type": "series",
-      "name": "Fargo",
-      "poster": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "releaseInfo": "2014",
-      "description": "An anthology crime series with dark humor and quirky characters, similar to 'Brassic' and the user's watched crime dramas.",
-      "background": "https://image.tmdb.org/t/p/original/grR9khLE8TibHjTYZq1jCSSupYk.jpg",
-      "imdbRating": "8.293"
-    },
-    {
-      "id": "tt4288182",
-      "type": "series",
-      "name": "Atlanta",
-      "poster": "https://image.tmdb.org/t/p/w500/8HZyGMnPLVVb00rmrh6A2SbK9NX.jpg",
-      "releaseInfo": "2016",
-      "description": "A comedy-drama with surreal elements and insightful social commentary, appealing to fans of shows that blend genres.",
-      "background": "https://image.tmdb.org/t/p/original/vN84JlTvOZvZzxi0D2SJQNFvtjS.jpg",
-      "imdbRating": "7.998"
-    },
-    {
-      "id": "tt7520794",
-      "type": "series",
-      "name": "Russian Doll",
-      "poster": "https://image.tmdb.org/t/p/w500/1ju4vQ1EwlIkQxEgWiYmxOs3iBG.jpg",
-      "releaseInfo": "2019",
-      "description": "A comedy-drama about a woman reliving the same day, with dark humor and existential themes.  Appeals to fans of unique premises like 'Rick and Morty'.",
-      "background": "https://image.tmdb.org/t/p/original/5TgMzFqbOEcEo99uhIo8DmiENOx.jpg",
-      "imdbRating": "7.369"
-    },
-    {
-      "id": "tt2017109",
-      "type": "series",
-      "name": "Banshee",
-      "poster": "https://image.tmdb.org/t/p/w500/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
-      "releaseInfo": "2013",
-      "description": "Action-packed crime drama with a complex anti-hero. Appeals to fans of intense dramas like the mystery ones watched.",
-      "background": "https://image.tmdb.org/t/p/original/cwosIp9M9B6TcLnv0bBg86s0WUx.jpg",
-      "imdbRating": "7.974"
+      "name": "Severance",
+      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+      "releaseInfo": "2022",
+      "description": "A sci-fi thriller with a strong mystery element, exploring themes of identity and corporate control. This show combines the sci-fi aspect of 'Foundation' and 'Love, Death & Robots' with the mysterious tone of 'All Her Fault' and 'The Night Manager'.",
+      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+      "imdbRating": "8.393"
     }
   ]
 }
