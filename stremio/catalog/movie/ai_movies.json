@@ -1,314 +1,44 @@
 {
   "metas": [
     {
+      "id": "tt0064040",
+      "type": "movie",
+      "name": "Army of Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
+      "releaseInfo": "1969",
+      "description": "A gripping and realistic WWII thriller with a focus on the French Resistance, similar to Inglourious Basterds but with a more serious tone.",
+      "background": "https://image.tmdb.org/t/p/original/csCSd8gftDRax0tiuo4VZJ9UaOo.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt0065938",
+      "type": "movie",
+      "name": "Kelly's Heroes",
+      "poster": "https://image.tmdb.org/t/p/w500/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+      "releaseInfo": "1970",
+      "description": "A classic war comedy with action elements, reminiscent of Three Kings.",
+      "background": "https://image.tmdb.org/t/p/original/3vpmrYWaJyXb0PvVSO9wNvGvK5C.jpg",
+      "imdbRating": "7.338"
+    },
+    {
+      "id": "tt0057012",
+      "type": "movie",
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "poster": "https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "releaseInfo": "1964",
+      "description": "A darkly comedic satire about the Cold War, appealing to the user's enjoyment of dark humor and war themes.",
+      "background": "https://image.tmdb.org/t/p/original/4LmNLvXP5SZ5TrZEkNhC7dbjUNV.jpg",
+      "imdbRating": "8.125"
+    },
+    {
       "id": "tt0407304",
       "type": "movie",
       "name": "War of the Worlds",
       "poster": "https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
       "releaseInfo": "2005",
-      "description": "Combines science fiction with thriller elements, similar to '28 Days Later' and 'The Running Man', plus Spielberg's direction guarantees quality.",
+      "description": "Combines science fiction with thriller elements, mirroring the enjoyment of movies like 28 Days Later and The Running Man.",
       "background": "https://image.tmdb.org/t/p/original/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
-      "imdbRating": "6.529"
-    },
-    {
-      "id": "tt0361748",
-      "type": "movie",
-      "name": "Inglourious Basterds",
-      "poster": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
-      "releaseInfo": "2009",
-      "description": "Tarantino's take on a war film blends action, dark humor, and thriller elements, akin to 'Three Kings' and 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
-      "imdbRating": "8.215"
-    },
-    {
-      "id": "tt1276104",
-      "type": "movie",
-      "name": "Looper",
-      "poster": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
-      "releaseInfo": "2012",
-      "description": "A mind-bending sci-fi thriller with action elements, fitting your interest in films like 'The Running Man' and '28 Weeks Later'.",
-      "background": "https://image.tmdb.org/t/p/original/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt1931533",
-      "type": "movie",
-      "name": "Seven Psychopaths",
-      "poster": "https://image.tmdb.org/t/p/w500/4ukEYAxlSivFcDG6vLxJB6PjTjg.jpg",
-      "releaseInfo": "2012",
-      "description": "Dark comedy with crime elements, similar to 'Get Shorty' and 'Ace Ventura' but with a darker edge.",
-      "background": "https://image.tmdb.org/t/p/original/qIDUVp8EciOZ8WSzLBZkwGfENl4.jpg",
-      "imdbRating": "6.821"
-    },
-    {
-      "id": "tt0780536",
-      "type": "movie",
-      "name": "In Bruges",
-      "poster": "https://image.tmdb.org/t/p/w500/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
-      "releaseInfo": "2008",
-      "description": "A darkly comedic crime film with sharp wit and unexpected violence, resonating with the tone of 'Get Shorty' and elements of 'Three Kings'.",
-      "background": "https://image.tmdb.org/t/p/original/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
-      "imdbRating": "7.496"
-    },
-    {
-      "id": "tt0208092",
-      "type": "movie",
-      "name": "Snatch",
-      "poster": "https://image.tmdb.org/t/p/w500/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
-      "releaseInfo": "2000",
-      "description": "Fast-paced crime comedy with a British twist, similar to 'Get Shorty' in its blend of humor and criminal activity.",
-      "background": "https://image.tmdb.org/t/p/original/gTghF8ardwJ48XLHkiapWk3ZmSo.jpg",
-      "imdbRating": "7.818"
-    },
-    {
-      "id": "tt0365748",
-      "type": "movie",
-      "name": "Shaun of the Dead",
-      "poster": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
-      "releaseInfo": "2004",
-      "description": "Horror comedy that balances scares with laughs, akin to '28 Days Later' but with a comedic spin.",
-      "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
-      "imdbRating": "7.538"
-    },
-    {
-      "id": "tt0425112",
-      "type": "movie",
-      "name": "Hot Fuzz",
-      "poster": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
-      "releaseInfo": "2007",
-      "description": "A comedic action film with mystery elements. A humorous, yet thrilling, British-style film like 'Ace Ventura' and 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
-      "imdbRating": "7.563"
-    },
-    {
-      "id": "tt1213663",
-      "type": "movie",
-      "name": "The World's End",
-      "poster": "https://image.tmdb.org/t/p/w500/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
-      "releaseInfo": "2013",
-      "description": "Combines science fiction, comedy, and action, appealing to your enjoyment of films like 'The Meteor Man' and 'The Running Man'.",
-      "background": "https://image.tmdb.org/t/p/original/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
-      "imdbRating": "6.807"
-    },
-    {
-      "id": "tt1631867",
-      "type": "movie",
-      "name": "Edge of Tomorrow",
-      "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
-      "releaseInfo": "2014",
-      "description": "Sci-fi action with a time-loop concept, offering thrills and humor similar to 'The Running Man' and '28 Days Later'.",
-      "background": "https://image.tmdb.org/t/p/original/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
-      "imdbRating": "7.634"
-    },
-    {
-      "id": "tt1392214",
-      "type": "movie",
-      "name": "Prisoners",
-      "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
-      "releaseInfo": "2013",
-      "description": "A dark and intense thriller with a compelling mystery, similar to the tone of 'The Shawshank Redemption' and 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
-      "imdbRating": "8.101"
-    },
-    {
-      "id": "tt3397884",
-      "type": "movie",
-      "name": "Sicario",
-      "poster": "https://image.tmdb.org/t/p/w500/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
-      "releaseInfo": "2015",
-      "description": "A gritty and suspenseful thriller with crime and action elements, fitting your interest in films like 'The Hurt Locker' and 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt2582782",
-      "type": "movie",
-      "name": "Hell or High Water",
-      "poster": "https://image.tmdb.org/t/p/w500/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
-      "releaseInfo": "2016",
-      "description": "A modern Western crime drama with compelling characters and suspense, akin to the tone of 'The Shawshank Redemption' and 'Three Kings'.",
-      "background": "https://image.tmdb.org/t/p/original/55C8p02S7fLXHT8zlRjAA0j14bd.jpg",
-      "imdbRating": "7.301"
-    },
-    {
-      "id": "tt5362988",
-      "type": "movie",
-      "name": "Wind River",
-      "poster": "https://image.tmdb.org/t/p/w500/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
-      "releaseInfo": "2017",
-      "description": "A crime thriller with a strong sense of mystery and a somber tone, echoing the suspense in 'The Shawshank Redemption' and the mystery in 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg",
-      "imdbRating": "7.432"
-    },
-    {
-      "id": "tt6751668",
-      "type": "movie",
-      "name": "Parasite",
-      "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-      "releaseInfo": "2019",
-      "description": "A darkly comedic thriller with social commentary, blending genres in a way similar to 'Get Shorty' and 'Wake Up Dead Man'.",
-      "background": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-      "imdbRating": "8.496"
-    },
-    {
-      "id": "tt8936646",
-      "type": "movie",
-      "name": "Extraction",
-      "poster": "https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
-      "releaseInfo": "2020",
-      "description": "A high-octane action thriller with strong performances, similar to 'The Running Man' and 'The Hurt Locker'.",
-      "background": "https://image.tmdb.org/t/p/original/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt7888964",
-      "type": "movie",
-      "name": "Nobody",
-      "poster": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
-      "releaseInfo": "2021",
-      "description": "An action thriller with comedic elements, echoing 'Ace Ventura' but with more intense action sequences, appealing to someone who liked 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
-      "imdbRating": "7.896"
-    },
-    {
-      "id": "tt6710474",
-      "type": "movie",
-      "name": "Everything Everywhere All at Once",
-      "poster": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
-      "releaseInfo": "2022",
-      "description": "A mind-bending science fiction action-comedy with heart, blending genres similar to 'The Meteor Man' and 'Night Is Short, Walk On Girl'.",
-      "background": "https://image.tmdb.org/t/p/original/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
-      "imdbRating": "7.726"
-    },
-    {
-      "id": "tt12003946",
-      "type": "movie",
-      "name": "Violent Night",
-      "poster": "https://image.tmdb.org/t/p/w500/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
-      "releaseInfo": "2022",
-      "description": "A dark comedy action film with Christmas themes, similar to 'Get Shorty' but with over-the-top violence.",
-      "background": "https://image.tmdb.org/t/p/original/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
-      "imdbRating": "7.236"
-    },
-    {
-      "id": "tt1187064",
-      "type": "movie",
-      "name": "Triangle",
-      "poster": "https://image.tmdb.org/t/p/w500/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
-      "releaseInfo": "2009",
-      "description": "A mind-bending psychological horror-thriller with a time-loop concept, sharing similar themes with '28 Days Later' and 'The Running Man'.",
-      "background": "https://image.tmdb.org/t/p/original/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "imdbRating": "6.918"
-    },
-    {
-      "id": "tt2980592",
-      "type": "movie",
-      "name": "The Guest",
-      "poster": "https://image.tmdb.org/t/p/w500/8hGMD8PhOJrzkew0RZyOWqDhGJR.jpg",
-      "releaseInfo": "2014",
-      "description": "A suspenseful thriller with action elements and a synth-heavy soundtrack, appealing to fans of '28 Weeks Later' and 'The Running Man'.",
-      "background": "https://image.tmdb.org/t/p/original/tooNIFHXIY3rBjCMLCET8yC8cIb.jpg",
-      "imdbRating": "6.643"
-    },
-    {
-      "id": "tt4062536",
-      "type": "movie",
-      "name": "Green Room",
-      "poster": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
-      "releaseInfo": "2015",
-      "description": "A tense and brutal thriller, offering a similar level of intensity as 'The Hurt Locker' and '28 Weeks Later'.",
-      "background": "https://image.tmdb.org/t/p/original/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
-      "imdbRating": "6.721"
-    },
-    {
-      "id": "tt4263482",
-      "type": "movie",
-      "name": "The Witch",
-      "poster": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
-      "releaseInfo": "2015",
-      "description": "A historical horror film with a slow-burn atmosphere and psychological elements, fitting with the interest in horror films like '28 Days Later'.",
-      "background": "https://image.tmdb.org/t/p/original/tMkziWBEHwXs0jdFhOrrW7oCPmR.jpg",
-      "imdbRating": "6.995"
-    },
-    {
-      "id": "tt4695012",
-      "type": "movie",
-      "name": "It Comes at Night",
-      "poster": "https://image.tmdb.org/t/p/w500/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg",
-      "releaseInfo": "2017",
-      "description": "A post-apocalyptic horror film focusing on psychological tension and atmosphere, similar to the themes in '28 Days Later'.",
-      "background": "https://image.tmdb.org/t/p/original/6h9pjTsWzaUWuUszHHbeI1JWE1.jpg",
-      "imdbRating": "5.863"
-    },
-    {
-      "id": "tt5700672",
-      "type": "movie",
-      "name": "Train to Busan",
-      "poster": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
-      "releaseInfo": "2016",
-      "description": "A thrilling zombie horror film set on a train, combining action and suspense akin to '28 Days Later' and 'The Running Man'.",
-      "background": "https://image.tmdb.org/t/p/original/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
-      "imdbRating": "7.748"
-    },
-    {
-      "id": "tt3860916",
-      "type": "movie",
-      "name": "Cargo",
-      "poster": "https://image.tmdb.org/t/p/w500/cdPSUck4tBRvRu6DFk6XciDrssn.jpg",
-      "releaseInfo": "2017",
-      "description": "A poignant zombie film with a focus on character and emotion, similar to the themes in '28 Days Later' but with a different perspective.",
-      "background": "https://image.tmdb.org/t/p/original/tiIpajUBpLMNWMEzpjRBxo0jCbD.jpg",
-      "imdbRating": "6.391"
-    },
-    {
-      "id": "tt1465522",
-      "type": "movie",
-      "name": "Tucker & Dale vs Evil",
-      "poster": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
-      "releaseInfo": "2010",
-      "description": "A comedic horror film that subverts genre tropes, appealing to fans of 'Shaun of the Dead' and 'KPop Demon Hunters'.",
-      "background": "https://image.tmdb.org/t/p/original/kgaQLCOpH8K5kZZRmeiI4btSrl0.jpg",
-      "imdbRating": "7.395"
-    },
-    {
-      "id": "tt3504048",
-      "type": "movie",
-      "name": "Housebound",
-      "poster": "https://image.tmdb.org/t/p/w500/jPKEeHmUuoDnIaRs6VUqSr4qRGR.jpg",
-      "releaseInfo": "2014",
-      "description": "A darkly comedic horror film with a twist, balancing scares with humor similar to 'Shaun of the Dead'.",
-      "background": "https://image.tmdb.org/t/p/original/3haw0ndhE0MihQHvyIbU9etWpoN.jpg",
-      "imdbRating": "6.58"
-    },
-    {
-      "id": "tt7798634",
-      "type": "movie",
-      "name": "Ready or Not",
-      "poster": "https://image.tmdb.org/t/p/w500/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
-      "releaseInfo": "2019",
-      "description": "A horror comedy thriller with a dark sense of humor and suspense, fitting with your enjoyment of films like 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
-      "imdbRating": "7.036"
-    },
-    {
-      "id": "tt13403046",
-      "type": "movie",
-      "name": "Fresh",
-      "poster": "https://image.tmdb.org/t/p/w500/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
-      "releaseInfo": "2022",
-      "description": "A horror comedy thriller with a unique premise and dark humor, similar to 'Get Shorty' but with a gruesome twist.",
-      "background": "https://image.tmdb.org/t/p/original/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
-      "imdbRating": "6.969"
-    },
-    {
-      "id": "tt0390384",
-      "type": "movie",
-      "name": "Primer",
-      "poster": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
-      "releaseInfo": "2004",
-      "description": "Mind-bending low budget science-fiction with time travel that will require multiple viewings, akin to Looper and the Running Man",
-      "background": "https://image.tmdb.org/t/p/original/yxlGeAK6BrbKng8VSJSKTpSXSsL.jpg",
-      "imdbRating": "6.761"
+      "imdbRating": "6.528"
     },
     {
       "id": "tt1136608",
@@ -316,39 +46,59 @@
       "name": "District 9",
       "poster": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
       "releaseInfo": "2009",
-      "description": "Science fiction with a documentary style, action and social commentary, similar to themes found in War of the Worlds and Running Man.",
+      "description": "A thought-provoking science fiction film with action and social commentary, similar to The Running Man.",
       "background": "https://image.tmdb.org/t/p/original/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
       "imdbRating": "7.46"
     },
     {
-      "id": "tt0482571",
+      "id": "tt1156398",
       "type": "movie",
-      "name": "The Prestige",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
-      "releaseInfo": "2006",
-      "description": "A mystery thriller with a strong atmosphere and twists, similar to the tone of 'The Shawshank Redemption' and 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/z3br1ub7spqGMkxgjgJSdM4DC21.jpg",
-      "imdbRating": "8.205"
+      "name": "Zombieland",
+      "poster": "https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "releaseInfo": "2009",
+      "description": "A horror comedy with a unique tone, building on the user's interest in both genres, specifically like 28 Days Later but with a comedic twist.",
+      "background": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+      "imdbRating": "7.259"
     },
     {
-      "id": "tt0209144",
+      "id": "tt0365748",
       "type": "movie",
-      "name": "Memento",
-      "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "name": "Shaun of the Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+      "releaseInfo": "2004",
+      "description": "Another excellent horror comedy, balancing scares and laughs effectively, in line with their enjoyment of horror and comedy combinations.",
+      "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+      "imdbRating": "7.539"
+    },
+    {
+      "id": "tt0425112",
+      "type": "movie",
+      "name": "Hot Fuzz",
+      "poster": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "releaseInfo": "2007",
+      "description": "A British action-comedy that parodies the genre, similar to the user's appreciation for action and comedy.",
+      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "imdbRating": "7.563"
+    },
+    {
+      "id": "tt0208092",
+      "type": "movie",
+      "name": "Snatch",
+      "poster": "https://image.tmdb.org/t/p/w500/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
       "releaseInfo": "2000",
-      "description": "A non-linear thriller with a unique narrative structure, echoing the mystery in 'Get Shorty' and 'Wake Up Dead Man'.",
-      "background": "https://image.tmdb.org/t/p/original/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-      "imdbRating": "8.177"
+      "description": "A fast-paced, darkly comedic crime film, appealing to the user's liking for crime thrillers with comedic elements, like Get Shorty.",
+      "background": "https://image.tmdb.org/t/p/original/gTghF8ardwJ48XLHkiapWk3ZmSo.jpg",
+      "imdbRating": "7.818"
     },
     {
-      "id": "tt0393109",
+      "id": "tt0120735",
       "type": "movie",
-      "name": "Brick",
-      "poster": "https://image.tmdb.org/t/p/w500/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
-      "releaseInfo": "2005",
-      "description": "A neo-noir mystery set in a high school, with a unique style and tone, similar to the crime elements in 'Get Shorty'.",
-      "background": "https://image.tmdb.org/t/p/original/sDr2KjWpEbJ8M1F88rEmhoczLkX.jpg",
-      "imdbRating": "6.8"
+      "name": "Lock, Stock and Two Smoking Barrels",
+      "poster": "https://image.tmdb.org/t/p/w500/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+      "releaseInfo": "1998",
+      "description": "Another British crime comedy with a unique style and dark humor, similar to Snatch and Get Shorty.",
+      "background": "https://image.tmdb.org/t/p/original/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+      "imdbRating": "8.102"
     },
     {
       "id": "tt0373469",
@@ -356,29 +106,289 @@
       "name": "Kiss Kiss Bang Bang",
       "poster": "https://image.tmdb.org/t/p/w500/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
       "releaseInfo": "2005",
-      "description": "A comedic crime film with sharp dialogue and meta-humor, appealing to fans of 'Get Shorty' and 'Ace Ventura'.",
+      "description": "A neo-noir action comedy with witty dialogue and clever plot twists, matching the user's preference for action, comedy, and mystery.",
       "background": "https://image.tmdb.org/t/p/original/x29PYzoNYPGzdj3M8FDwSwEgNpf.jpg",
       "imdbRating": "7.156"
     },
     {
-      "id": "tt6628394",
+      "id": "tt0780536",
       "type": "movie",
-      "name": "Bad Times at the El Royale",
-      "poster": "https://image.tmdb.org/t/p/w500/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
-      "releaseInfo": "2018",
-      "description": "A neo-noir thriller with multiple characters and interconnected stories, similar to the suspense in 'Get Shorty' and 'Wake Up Dead Man'.",
-      "background": "https://image.tmdb.org/t/p/original/5utFTcwAXcgGTLZrNMl96t6pFfc.jpg",
-      "imdbRating": "6.845"
+      "name": "In Bruges",
+      "poster": "https://image.tmdb.org/t/p/w500/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "releaseInfo": "2008",
+      "description": "A dark comedy crime film with a unique setting and compelling characters, similar to Get Shorty but with a darker tone.",
+      "background": "https://image.tmdb.org/t/p/original/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
+      "imdbRating": "7.496"
     },
     {
-      "id": "tt5688932",
+      "id": "tt1392214",
       "type": "movie",
-      "name": "Sorry to Bother You",
-      "poster": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
-      "releaseInfo": "2018",
-      "description": "A surreal and satirical comedy with social commentary, blending genres in a way similar to 'The Meteor Man' and 'KPop Demon Hunters'.",
-      "background": "https://image.tmdb.org/t/p/original/x832ykgj3fx0Q0MFKEno77XM47e.jpg",
-      "imdbRating": "6.789"
+      "name": "Prisoners",
+      "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
+      "releaseInfo": "2013",
+      "description": "A dark and intense thriller with mystery elements, similar to The Shawshank Redemption but more focused on the suspense.",
+      "background": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
+      "imdbRating": "8.102"
+    },
+    {
+      "id": "tt0114369",
+      "type": "movie",
+      "name": "Se7en",
+      "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "releaseInfo": "1995",
+      "description": "A dark and suspenseful crime thriller with a memorable story, similar to Wake Up Dead Man: A Knives Out Mystery.",
+      "background": "https://image.tmdb.org/t/p/original/iwgl8zlrrfvfWp9k9Paj8lvFEvS.jpg",
+      "imdbRating": "8.379"
+    },
+    {
+      "id": "tt0102926",
+      "type": "movie",
+      "name": "The Silence of the Lambs",
+      "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "releaseInfo": "1991",
+      "description": "A classic thriller with strong characters and a gripping plot, appealing to the user's interest in thrillers and crime stories.",
+      "background": "https://image.tmdb.org/t/p/original/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+      "imdbRating": "8.346"
+    },
+    {
+      "id": "tt0137523",
+      "type": "movie",
+      "name": "Fight Club",
+      "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "releaseInfo": "1999",
+      "description": "A dark and thought-provoking film with action and thriller elements, appealing to the user's liking for psychological thrillers.",
+      "background": "https://image.tmdb.org/t/p/original/5TiwfWEaPSwD20uwXjCTUqpQX70.jpg",
+      "imdbRating": "8.438"
+    },
+    {
+      "id": "tt0209144",
+      "type": "movie",
+      "name": "Memento",
+      "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "releaseInfo": "2000",
+      "description": "A mind-bending thriller with a unique narrative structure, fitting the user's preference for thrillers and mysteries.",
+      "background": "https://image.tmdb.org/t/p/original/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+      "imdbRating": "8.177"
+    },
+    {
+      "id": "tt0457430",
+      "type": "movie",
+      "name": "Pan's Labyrinth",
+      "poster": "https://image.tmdb.org/t/p/w500/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+      "releaseInfo": "2006",
+      "description": "A dark fantasy film with a compelling story and stunning visuals, blending fantasy with thriller elements, similar to Meteor Man.",
+      "background": "https://image.tmdb.org/t/p/original/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+      "imdbRating": "7.757"
+    },
+    {
+      "id": "tt0093779",
+      "type": "movie",
+      "name": "The Princess Bride",
+      "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "releaseInfo": "1987",
+      "description": "A classic fantasy adventure with humor and heart, similar to Meteor Man and KPop Demon Hunters.",
+      "background": "https://image.tmdb.org/t/p/original/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
+      "imdbRating": "7.69"
+    },
+    {
+      "id": "tt0090728",
+      "type": "movie",
+      "name": "Big Trouble in Little China",
+      "poster": "https://image.tmdb.org/t/p/w500/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+      "releaseInfo": "1986",
+      "description": "A cult classic action-comedy with fantasy elements, appealing to the user's taste for action, comedy, and fantasy.",
+      "background": "https://image.tmdb.org/t/p/original/ehHskGgDUchxGyG33vUQZWNng43.jpg",
+      "imdbRating": "7.207"
+    },
+    {
+      "id": "tt0096256",
+      "type": "movie",
+      "name": "They Live",
+      "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "releaseInfo": "1988",
+      "description": "A science fiction action film with social commentary and a unique premise, similar to The Running Man.",
+      "background": "https://image.tmdb.org/t/p/original/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+      "imdbRating": "7.296"
+    },
+    {
+      "id": "tt0093870",
+      "type": "movie",
+      "name": "RoboCop",
+      "poster": "https://image.tmdb.org/t/p/w500/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "releaseInfo": "1987",
+      "description": "A violent and satirical science fiction action film, blending action with social commentary, like The Running Man.",
+      "background": "https://image.tmdb.org/t/p/original/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+      "imdbRating": "7.352"
+    },
+    {
+      "id": "tt0088846",
+      "type": "movie",
+      "name": "Brazil",
+      "poster": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+      "releaseInfo": "1985",
+      "description": "A dystopian science fiction film with dark humor and surreal elements, appealing to the user's liking for science fiction and dark comedy.",
+      "background": "https://image.tmdb.org/t/p/original/ndSEkXyotVM0XfoBV1SSRg4AXgB.jpg",
+      "imdbRating": "7.67"
+    },
+    {
+      "id": "tt0119177",
+      "type": "movie",
+      "name": "Gattaca",
+      "poster": "https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "releaseInfo": "1997",
+      "description": "A thought-provoking science fiction film with a compelling story and a focus on social issues, similar to The Running Man.",
+      "background": "https://image.tmdb.org/t/p/original/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+      "imdbRating": "7.563"
+    },
+    {
+      "id": "tt0945513",
+      "type": "movie",
+      "name": "Source Code",
+      "poster": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+      "releaseInfo": "2011",
+      "description": "A science fiction thriller with a time-loop premise and compelling characters, appealing to the user's liking for thrillers and science fiction.",
+      "background": "https://image.tmdb.org/t/p/original/s2Cu1y9Al9RbwRU5blAH8wMCrBI.jpg",
+      "imdbRating": "7.305"
+    },
+    {
+      "id": "tt1631867",
+      "type": "movie",
+      "name": "Edge of Tomorrow",
+      "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "releaseInfo": "2014",
+      "description": "An action-packed science fiction film with a time-loop premise and a sense of humor, similar to Source Code and The Running Man.",
+      "background": "https://image.tmdb.org/t/p/original/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+      "imdbRating": "7.633"
+    },
+    {
+      "id": "tt1276104",
+      "type": "movie",
+      "name": "Looper",
+      "poster": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+      "releaseInfo": "2012",
+      "description": "A science fiction thriller with time travel elements and compelling characters, matching the user's preference for science fiction and thrillers.",
+      "background": "https://image.tmdb.org/t/p/original/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
+      "imdbRating": "6.901"
+    },
+    {
+      "id": "tt2543164",
+      "type": "movie",
+      "name": "Arrival",
+      "poster": "https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+      "releaseInfo": "2016",
+      "description": "A cerebral science fiction film with a focus on communication and understanding, appealing to the user's liking for thought-provoking science fiction.",
+      "background": "https://image.tmdb.org/t/p/original/r8FD6CC3GgjWaGVkZh00AcedfpA.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0206634",
+      "type": "movie",
+      "name": "Children of Men",
+      "poster": "https://image.tmdb.org/t/p/w500/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+      "releaseInfo": "2006",
+      "description": "A dystopian thriller with intense action and a compelling story, similar to The Hurt Locker in its intense atmosphere.",
+      "background": "https://image.tmdb.org/t/p/original/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+      "imdbRating": "7.612"
+    },
+    {
+      "id": "tt1504320",
+      "type": "movie",
+      "name": "The King's Speech",
+      "poster": "https://image.tmdb.org/t/p/w500/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "releaseInfo": "2010",
+      "description": "A historical drama with strong characters and a compelling story, similar to The Shawshank Redemption in its focus on character development.",
+      "background": "https://image.tmdb.org/t/p/original/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+      "imdbRating": "7.733"
+    },
+    {
+      "id": "tt2084970",
+      "type": "movie",
+      "name": "The Imitation Game",
+      "poster": "https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "releaseInfo": "2014",
+      "description": "A historical thriller with a compelling story and a focus on codebreaking during WWII, similar to Inglourious Basterds in its WWII setting.",
+      "background": "https://image.tmdb.org/t/p/original/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "imdbRating": "7.989"
+    },
+    {
+      "id": "tt1024648",
+      "type": "movie",
+      "name": "Argo",
+      "poster": "https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "releaseInfo": "2012",
+      "description": "A thriller based on a true story with suspense and political intrigue, appealing to the user's liking for thrillers and historical events.",
+      "background": "https://image.tmdb.org/t/p/original/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+      "imdbRating": "7.284"
+    },
+    {
+      "id": "tt1790885",
+      "type": "movie",
+      "name": "Zero Dark Thirty",
+      "poster": "https://image.tmdb.org/t/p/w500/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "releaseInfo": "2012",
+      "description": "A thriller focusing on the hunt for Osama bin Laden, similar to The Hurt Locker in its intense atmosphere and war-related themes.",
+      "background": "https://image.tmdb.org/t/p/original/evPzxMacNWsjkUKQO4NXKe5Rl6a.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt5362988",
+      "type": "movie",
+      "name": "Wind River",
+      "poster": "https://image.tmdb.org/t/p/w500/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "releaseInfo": "2017",
+      "description": "A crime thriller with a strong sense of place and compelling characters, appealing to the user's liking for thrillers and crime stories.",
+      "background": "https://image.tmdb.org/t/p/original/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg",
+      "imdbRating": "7.432"
+    },
+    {
+      "id": "tt2582782",
+      "type": "movie",
+      "name": "Hell or High Water",
+      "poster": "https://image.tmdb.org/t/p/w500/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "releaseInfo": "2016",
+      "description": "A modern western crime drama with compelling characters and a strong sense of place, appealing to the user's liking for crime stories and character-driven dramas.",
+      "background": "https://image.tmdb.org/t/p/original/55C8p02S7fLXHT8zlRjAA0j14bd.jpg",
+      "imdbRating": "7.301"
+    },
+    {
+      "id": "tt0477348",
+      "type": "movie",
+      "name": "No Country for Old Men",
+      "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+      "releaseInfo": "2007",
+      "description": "A neo-western crime thriller with intense suspense and a memorable villain, appealing to the user's liking for thrillers and crime stories.",
+      "background": "https://image.tmdb.org/t/p/original/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+      "imdbRating": "7.947"
+    },
+    {
+      "id": "tt0407887",
+      "type": "movie",
+      "name": "The Departed",
+      "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "releaseInfo": "2006",
+      "description": "A crime thriller with a complex plot and strong performances, appealing to the user's liking for thrillers and crime stories.",
+      "background": "https://image.tmdb.org/t/p/original/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+      "imdbRating": "8.16"
+    },
+    {
+      "id": "tt0119488",
+      "type": "movie",
+      "name": "L.A. Confidential",
+      "poster": "https://image.tmdb.org/t/p/w500/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+      "releaseInfo": "1997",
+      "description": "A neo-noir crime thriller with a complex plot and compelling characters, appealing to the user's liking for thrillers and crime stories.",
+      "background": "https://image.tmdb.org/t/p/original/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
+      "imdbRating": "7.803"
+    },
+    {
+      "id": "tt1800241",
+      "type": "movie",
+      "name": "American Hustle",
+      "poster": "https://image.tmdb.org/t/p/w500/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+      "releaseInfo": "2013",
+      "description": "A crime comedy-drama with a strong cast and a memorable story, appealing to the user's liking for crime stories with comedic elements.",
+      "background": "https://image.tmdb.org/t/p/original/bof71DUdBb5FwTylar4rnIVd8z.jpg",
+      "imdbRating": "6.854"
     },
     {
       "id": "tt3799694",
@@ -386,19 +396,9 @@
       "name": "The Nice Guys",
       "poster": "https://image.tmdb.org/t/p/w500/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
       "releaseInfo": "2016",
-      "description": "A comedic crime film with great chemistry between the leads, similar to 'Get Shorty' and 'Ace Ventura'.",
+      "description": "A neo-noir action comedy with witty dialogue and clever plot twists, matching the user's preference for action, comedy, and mystery, very much like Kiss Kiss Bang Bang.",
       "background": "https://image.tmdb.org/t/p/original/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt12263384",
-      "type": "movie",
-      "name": "Extraction 2",
-      "poster": "https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
-      "releaseInfo": "2023",
-      "description": "Continues the high-octane action thriller, like The Running Man and The Hurt Locker.",
-      "background": "https://image.tmdb.org/t/p/original/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
-      "imdbRating": "7.399"
+      "imdbRating": "7.125"
     }
   ]
 }
