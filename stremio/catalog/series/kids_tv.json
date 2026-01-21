@@ -6,19 +6,9 @@
       "name": "Daniel Tiger's Neighborhood",
       "poster": "https://image.tmdb.org/t/p/w500/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg",
       "releaseInfo": "2012",
-      "description": "Gentle lessons about emotions and social skills, like Bluey.",
+      "description": "Gentle storytelling with valuable social-emotional lessons.",
       "background": "https://image.tmdb.org/t/p/original/yAIpWHcLmS1O2aCrx4oBhXtwoHt.jpg",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0426769",
-      "type": "series",
-      "name": "Peppa Pig",
-      "poster": "https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "releaseInfo": "2004",
-      "description": "Simple storylines and relatable family situations.",
-      "background": "https://image.tmdb.org/t/p/original/ooIYvpusdiXzULeUlL1Ul7XljQK.jpg",
-      "imdbRating": "6.576"
     },
     {
       "id": "tt0063951",
@@ -26,39 +16,19 @@
       "name": "Sesame Street",
       "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
       "releaseInfo": "1969",
-      "description": "Classic educational content with memorable characters.",
+      "description": "Classic educational show with beloved characters.",
       "background": "https://image.tmdb.org/t/p/original/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
       "imdbRating": "7.087"
     },
     {
-      "id": "tt0784896",
+      "id": "tt2402500",
       "type": "series",
-      "name": "Mickey Mouse Clubhouse",
-      "poster": "https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
-      "releaseInfo": "2006",
-      "description": "Interactive problem-solving and fun characters.",
-      "background": "https://image.tmdb.org/t/p/original/dGvW61JwuqwtShk849PHZflOAX.jpg",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt3121722",
-      "type": "series",
-      "name": "Paw Patrol",
-      "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+      "name": "Peg + Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/lLLoF9lYMsEq4jPBNczkrCwVjrR.jpg",
       "releaseInfo": "2013",
-      "description": "Teamwork and helping others in exciting rescues.",
-      "background": "https://image.tmdb.org/t/p/original/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt1710295",
-      "type": "series",
-      "name": "Doc McStuffins",
-      "poster": "https://image.tmdb.org/t/p/w500/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
-      "releaseInfo": "2012",
-      "description": "Imaginative play and caring for others.",
-      "background": "https://image.tmdb.org/t/p/original/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
-      "imdbRating": "5.848"
+      "description": "Introduces early math concepts in a fun and engaging way.",
+      "background": "https://image.tmdb.org/t/p/original/pLOnGwxulJsoz0ZF66NIEfz2Ewd.jpg",
+      "imdbRating": "7.308"
     },
     {
       "id": "tt2948562",
@@ -66,19 +36,49 @@
       "name": "Tumble Leaf",
       "poster": "https://image.tmdb.org/t/p/w500/iIkCF0mb8xmu1m0cBn3qreaHeyd.jpg",
       "releaseInfo": "2014",
-      "description": "Encourages curiosity and exploration of the natural world.",
+      "description": "Encourages creative problem-solving and imaginative play.",
       "background": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt1460205",
+      "id": "tt5200330",
       "type": "series",
-      "name": "Dinosaur Train",
-      "poster": "https://image.tmdb.org/t/p/w500/w2g5siiEMMzhZvdWl4rRk2gXLMC.jpg",
-      "releaseInfo": "2009",
-      "description": "Combines dinosaurs with learning about science and nature.",
-      "background": "https://image.tmdb.org/t/p/original/zgrh4yjS6ckFirxKyz7XtKUsrBs.jpg",
-      "imdbRating": "6.4"
+      "name": "Dino Dana",
+      "poster": "https://image.tmdb.org/t/p/w500/3SpAcG3BywMrW458qRR8i8wlsBG.jpg",
+      "releaseInfo": "2017",
+      "description": "Combines science and adventure with a focus on dinosaurs.",
+      "background": "https://image.tmdb.org/t/p/original/7uF9VjsfCj5fkNxuWxX6cmhvUBQ.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt3900614",
+      "type": "series",
+      "name": "Odd Squad",
+      "poster": "https://image.tmdb.org/t/p/w500/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
+      "releaseInfo": "2014",
+      "description": "Kids use math to solve strange problems.",
+      "background": "https://image.tmdb.org/t/p/original/4PehC4usZ8PoChlUP3Y5TI4KaQF.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt4947580",
+      "type": "series",
+      "name": "Nature Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/fNjiDb37HydqazzGpriSfFaIKlv.jpg",
+      "releaseInfo": "2015",
+      "description": "Teaches about nature and the outdoors in a humorous way.",
+      "background": "https://image.tmdb.org/t/p/original/gGWYiFgwNTy14V571nZffUlfnIA.jpg",
+      "imdbRating": "5.3"
+    },
+    {
+      "id": "tt1236429",
+      "type": "series",
+      "name": "Sid the Science Kid",
+      "poster": "https://image.tmdb.org/t/p/w500/7tXoGSNnqRodNMTvwYDsLJrXuRo.jpg",
+      "releaseInfo": "2008",
+      "description": "Explores scientific concepts through observation and experimentation.",
+      "background": "https://image.tmdb.org/t/p/original/8bqTCdrWUw9jfnyaIEtQ0STGNB0.jpg",
+      "imdbRating": "6.2"
     },
     {
       "id": "tt1105469",
@@ -86,9 +86,19 @@
       "name": "Super Why!",
       "poster": "https://image.tmdb.org/t/p/w500/lJttSVfKx56a2wN2pg2yR4IHzwy.jpg",
       "releaseInfo": "2007",
-      "description": "Focuses on reading skills and literacy.",
+      "description": "Focuses on literacy skills and reading comprehension.",
       "background": "https://image.tmdb.org/t/p/original/U9VKLLo9IeQU1aQAOA6s4Na5Pc.jpg",
       "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1128052",
+      "type": "series",
+      "name": "WordGirl",
+      "poster": "https://image.tmdb.org/t/p/w500/vDxyfOf1lHfETsol3uhrjf9tLfg.jpg",
+      "releaseInfo": "2007",
+      "description": "A superhero who uses her vocabulary to fight crime.",
+      "background": "https://image.tmdb.org/t/p/original/8HjqF4vGxpKtw86iXFpXWdn8IYY.jpg",
+      "imdbRating": "6.6"
     },
     {
       "id": "tt0169414",
@@ -96,7 +106,7 @@
       "name": "Arthur",
       "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
       "releaseInfo": "1996",
-      "description": "Deals with everyday childhood experiences and friendship.",
+      "description": "Deals with everyday childhood experiences and challenges.",
       "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
       "imdbRating": "7.0"
     },
@@ -106,109 +116,9 @@
       "name": "The Magic School Bus",
       "poster": "https://image.tmdb.org/t/p/w500/3A70wxUpplD4V3IcL8WmNFBgAbV.jpg",
       "releaseInfo": "1994",
-      "description": "Adventures in science with a quirky teacher.",
+      "description": "Educational adventures that teach science concepts.",
       "background": "https://image.tmdb.org/t/p/original/pWZjTb2ixwVEzvnsvv3KYz5pvIs.jpg",
       "imdbRating": "7.6"
-    },
-    {
-      "id": "tt1236429",
-      "type": "series",
-      "name": "Sid the Science Kid",
-      "poster": "https://image.tmdb.org/t/p/w500/7tXoGSNnqRodNMTvwYDsLJrXuRo.jpg",
-      "releaseInfo": "2008",
-      "description": "Explores scientific concepts in a relatable way.",
-      "background": "https://image.tmdb.org/t/p/original/8bqTCdrWUw9jfnyaIEtQ0STGNB0.jpg",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt2402500",
-      "type": "series",
-      "name": "Peg + Cat",
-      "poster": "https://image.tmdb.org/t/p/w500/lLLoF9lYMsEq4jPBNczkrCwVjrR.jpg",
-      "releaseInfo": "2013",
-      "description": "Introduces basic math concepts in a fun format.",
-      "background": "https://image.tmdb.org/t/p/original/pLOnGwxulJsoz0ZF66NIEfz2Ewd.jpg",
-      "imdbRating": "7.308"
-    },
-    {
-      "id": "tt3900614",
-      "type": "series",
-      "name": "Odd Squad",
-      "poster": "https://image.tmdb.org/t/p/w500/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
-      "releaseInfo": "2014",
-      "description": "Live action with math problems as the basis for solving mysteries.",
-      "background": "https://image.tmdb.org/t/p/original/4PehC4usZ8PoChlUP3Y5TI4KaQF.jpg",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt3012540",
-      "type": "series",
-      "name": "Creative Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w500/fOh5rSJI1ayVrgzcOxFYplQl6gk.jpg",
-      "releaseInfo": "2013",
-      "description": "Encourages creativity and art exploration.",
-      "background": "https://image.tmdb.org/t/p/original/gAWugw2MfINVY0Y0t0ZFIO05Oc7.jpg",
-      "imdbRating": "5.0"
-    },
-    {
-      "id": "tt0449766",
-      "type": "series",
-      "name": "Daniel Cook",
-      "poster": null,
-      "releaseInfo": "2004",
-      "description": "A curious child explores different jobs and hobbies.",
-      "background": null,
-      "imdbRating": "1.0"
-    },
-    {
-      "id": "tt7167690",
-      "type": "series",
-      "name": "Esme & Roy",
-      "poster": "https://image.tmdb.org/t/p/w500/6uEoKGUg6fzYpM4jh2EjauxvBM5.jpg",
-      "releaseInfo": "2018",
-      "description": "Monster sitters learn how to care for little monsters.",
-      "background": "https://image.tmdb.org/t/p/original/jETAL0WaK4p5FllI5iwDVdV7NfQ.jpg",
-      "imdbRating": "1.0"
-    },
-    {
-      "id": "tt7978538",
-      "type": "series",
-      "name": "Numberblocks",
-      "poster": "https://image.tmdb.org/t/p/w500/vt872bR11jYDRSzTSfLuOmb2SMt.jpg",
-      "releaseInfo": "2017",
-      "description": "Animated numbers that make learning math fun.",
-      "background": "https://image.tmdb.org/t/p/original/u9H3GJHNxlQwVeyJDxGGD7Uu9iH.jpg",
-      "imdbRating": "9.0"
-    },
-    {
-      "id": "tt6835380",
-      "type": "series",
-      "name": "Alphablocks",
-      "poster": "https://image.tmdb.org/t/p/w500/dppvWTIEUSAKJblYoiRP5Pj59yf.jpg",
-      "releaseInfo": "2010",
-      "description": "Animated letters that help children learn to read.",
-      "background": "https://image.tmdb.org/t/p/original/aGiPOpWZMF1hFYIpjUR2NZe8gpL.jpg",
-      "imdbRating": null
-    },
-    {
-      "id": "tt3590338",
-      "type": "series",
-      "name": "Puffin Rock",
-      "poster": "https://image.tmdb.org/t/p/w500/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
-      "releaseInfo": "2015",
-      "description": "Gentle stories about nature and friendship.",
-      "background": "https://image.tmdb.org/t/p/original/9z945wZwFzJ0EbzY8vsk5ELCZeJ.jpg",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt1710177",
-      "type": "series",
-      "name": "Octonauts",
-      "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
-      "releaseInfo": "2010",
-      "description": "Underwater adventures and marine biology lessons.",
-      "background": "https://image.tmdb.org/t/p/original/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
-      "imdbRating": "7.24"
     },
     {
       "id": "tt1807859",
@@ -216,119 +126,9 @@
       "name": "Wild Kratts",
       "poster": "https://image.tmdb.org/t/p/w500/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
       "releaseInfo": "2011",
-      "description": "Learn about animals and their habitats.",
+      "description": "Teaches about animals and their habitats.",
       "background": "https://image.tmdb.org/t/p/original/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
       "imdbRating": "7.6"
-    },
-    {
-      "id": "tt1699440",
-      "type": "series",
-      "name": "The Cat in the Hat Knows a Lot About That!",
-      "poster": "https://image.tmdb.org/t/p/w500/97qKiavvmvpYNBR8mhH5e5YVOTw.jpg",
-      "releaseInfo": "2010",
-      "description": "Science adventures with the Cat in the Hat.",
-      "background": "https://image.tmdb.org/t/p/original/iACoTz2W8bQkam4GCEd9htSOeq2.jpg",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1870073",
-      "type": "series",
-      "name": "Justin Time",
-      "poster": "https://image.tmdb.org/t/p/w500/o5whvINhOsrOnDaaCHZ0XvT5T8P.jpg",
-      "releaseInfo": "2011",
-      "description": "Travel through time and learn about different cultures.",
-      "background": "https://image.tmdb.org/t/p/original/aiaMHdRouFu9TI5zrTZm8fnp9h3.jpg",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt0260628",
-      "type": "series",
-      "name": "Kipper",
-      "poster": "https://image.tmdb.org/t/p/w500/evbqA7XtVJnwJuxdzMqG17nBFqx.jpg",
-      "releaseInfo": "1997",
-      "description": "Simple stories about friendship and everyday life.",
-      "background": "https://image.tmdb.org/t/p/original/28ydoTvksl00rZUP7LheUVS8OHK.jpg",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0203254",
-      "type": "series",
-      "name": "Franklin",
-      "poster": "https://image.tmdb.org/t/p/w500/ep0ol2okz8IB8T0LxhfJMXvJ3Mk.jpg",
-      "releaseInfo": "1997",
-      "description": "Animated turtle dealing with childhood experiences.",
-      "background": "https://image.tmdb.org/t/p/original/yWHVK0Gswv2mH8V7fsJ2wshBJRO.jpg",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt0245637",
-      "type": "series",
-      "name": "Little Bear",
-      "poster": "https://image.tmdb.org/t/p/w500/bLm7pkUAoi2AGsnPXrPnZ3ErlKs.jpg",
-      "releaseInfo": "1995",
-      "description": "Gentle stories about nature and friendship.",
-      "background": "https://image.tmdb.org/t/p/original/aSvHDKF7qk367U4CmqoRthQ9T4t.jpg",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt0877512",
-      "type": "series",
-      "name": "Yo Gabba Gabba!",
-      "poster": "https://image.tmdb.org/t/p/w500/h8UHNBBnJwdXVtMIA5OAxJoXWid.jpg",
-      "releaseInfo": "2007",
-      "description": "Music and dancing with colorful characters.",
-      "background": "https://image.tmdb.org/t/p/original/5heUHCpib5gGY8WvWatJvQ1Ba0t.jpg",
-      "imdbRating": "7.083"
-    },
-    {
-      "id": "tt3514798",
-      "type": "series",
-      "name": "Wallykazam!",
-      "poster": "https://image.tmdb.org/t/p/w500/uESxx2M2fvFZ9jWcao3QEFgOHXx.jpg",
-      "releaseInfo": "2014",
-      "description": "Focuses on phonics and reading skills.",
-      "background": "https://image.tmdb.org/t/p/original/nz9anNsFWH2CDnZleSwRLeLLkrm.jpg",
-      "imdbRating": null
-    },
-    {
-      "id": "tt2769458",
-      "type": "series",
-      "name": "Sheriff Callie's Wild West",
-      "poster": "https://image.tmdb.org/t/p/w500/zKoVuDIkhFVjbhoGAi7vxUgrKRz.jpg",
-      "releaseInfo": "2014",
-      "description": "Friendship and problem-solving in the Wild West.",
-      "background": "https://image.tmdb.org/t/p/original/bOZnotuzyE3EQbTV1UF4ptuHkhJ.jpg",
-      "imdbRating": "5.4"
-    },
-    {
-      "id": "tt0965404",
-      "type": "series",
-      "name": "Bubble Guppies",
-      "poster": "https://image.tmdb.org/t/p/w500/zJ50jTHpOY3wKmuxiONOL77t9DW.jpg",
-      "releaseInfo": "2011",
-      "description": "Music, singing, and learning about various topics.",
-      "background": "https://image.tmdb.org/t/p/original/6apIHPRPfalOcNlvefdPfp41pJM.jpg",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt9000424",
-      "type": "series",
-      "name": "Blues Clues & You!",
-      "poster": "https://image.tmdb.org/t/p/w500/wXgrjyQTjTYaaS0iNcKWXl4UgSK.jpg",
-      "releaseInfo": "2019",
-      "description": "Interactive problem-solving with Blue the dog.",
-      "background": "https://image.tmdb.org/t/p/original/ofNbWXNtRrPB1oe7w7ugSCKJyua.jpg",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt0235917",
-      "type": "series",
-      "name": "Dora the Explorer",
-      "poster": "https://image.tmdb.org/t/p/w500/iaJNOSpEQgU4yePsbcC6yxneRNF.jpg",
-      "releaseInfo": "2000",
-      "description": "Interactive adventures and Spanish language learning.",
-      "background": "https://image.tmdb.org/t/p/original/uEPbIAmsZENHL5B50WNYSyItFjf.jpg",
-      "imdbRating": "6.246"
     },
     {
       "id": "tt8651594",
@@ -336,7 +136,7 @@
       "name": "Molly of Denali",
       "poster": "https://image.tmdb.org/t/p/w500/8HdIoG6HHJJaf8M3SAVQrGgCvHp.jpg",
       "releaseInfo": "2019",
-      "description": "Introduces Alaskan Native culture and literacy skills.",
+      "description": "Highlights Alaskan Native culture and traditions.",
       "background": "https://image.tmdb.org/t/p/original/1ltFINyxi9gb8OtOQSucUGBE9mT.jpg",
       "imdbRating": "7.0"
     },
@@ -346,7 +146,7 @@
       "name": "Xavier Riddle and the Secret Museum",
       "poster": "https://image.tmdb.org/t/p/w500/ojjbMSKwpUyMc8j0FdJ6oRAqSq8.jpg",
       "releaseInfo": "2019",
-      "description": "Travel back in time to meet historical figures.",
+      "description": "Kids travel back in time to meet historical figures.",
       "background": "https://image.tmdb.org/t/p/original/uSx8LlMdylSjBYSx1Ji0HqcQEKD.jpg",
       "imdbRating": "9.0"
     },
@@ -356,49 +156,249 @@
       "name": "Elinor Wonders Why",
       "poster": "https://image.tmdb.org/t/p/w500/3MEwgOMnsTfuOHcPoX8hAOKrKYn.jpg",
       "releaseInfo": "2020",
-      "description": "Elinor, a curious bunny, explores science concepts.",
+      "description": "Encourages curiosity and scientific inquiry.",
       "background": "https://image.tmdb.org/t/p/original/jxA4VAeT6fA11OjmeQ8EsrzzVCw.jpg",
       "imdbRating": "7.0"
     },
     {
-      "id": "tt1594381",
+      "id": "tt21329138",
       "type": "series",
-      "name": "Team Umizoomi",
-      "poster": "https://image.tmdb.org/t/p/w500/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
+      "name": "Rosie's Rules",
+      "poster": "https://image.tmdb.org/t/p/w500/hTluDJhDsY7GjidJiZYdauC82Dn.jpg",
+      "releaseInfo": "2022",
+      "description": "Introduces kids to Mexican-American culture and traditions.",
+      "background": "https://image.tmdb.org/t/p/original/8JhwCWQigfuobgEYkgEhE0QQo7x.jpg",
+      "imdbRating": "4.0"
+    },
+    {
+      "id": "tt11749408",
+      "type": "series",
+      "name": "Donkey Hodie",
+      "poster": "https://image.tmdb.org/t/p/w500/aGpTCYYsRDYOPAUZLe2aOLRNnbf.jpg",
+      "releaseInfo": "2021",
+      "description": "Fun songs with positive messages.",
+      "background": "https://image.tmdb.org/t/p/original/kVyxFwnY2y1mCJnJSZiZi3ewugZ.jpg",
+      "imdbRating": null
+    },
+    {
+      "id": "tt7006666",
+      "type": "series",
+      "name": "Pinkalicious & Peterrific",
+      "poster": "https://image.tmdb.org/t/p/w500/2Px2hChVZT2tPu1jDhfIs5W2tFt.jpg",
+      "releaseInfo": "2018",
+      "description": "Celebrates creativity and imagination.",
+      "background": "https://image.tmdb.org/t/p/original/wHwLakgDfWk5uw6PWqGvxheRLem.jpg",
+      "imdbRating": null
+    },
+    {
+      "id": "tt1699440",
+      "type": "series",
+      "name": "The Cat in the Hat Knows a Lot About That!",
+      "poster": "https://image.tmdb.org/t/p/w500/97qKiavvmvpYNBR8mhH5e5YVOTw.jpg",
       "releaseInfo": "2010",
-      "description": "Math concepts integrated into adventures.",
-      "background": "https://image.tmdb.org/t/p/original/pv51XFR2XdIGCXgoTxLVCxZH8IM.jpg",
-      "imdbRating": "7.756"
+      "description": "Dr. Seuss-inspired science adventures.",
+      "background": "https://image.tmdb.org/t/p/original/iACoTz2W8bQkam4GCEd9htSOeq2.jpg",
+      "imdbRating": "8.1"
     },
     {
-      "id": "tt3600266",
+      "id": "tt3590338",
       "type": "series",
-      "name": "Super Wings!",
-      "poster": "https://image.tmdb.org/t/p/w500/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
+      "name": "Puffin Rock",
+      "poster": "https://image.tmdb.org/t/p/w500/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
       "releaseInfo": "2015",
-      "description": "Travel the world and learn about different cultures.",
-      "background": "https://image.tmdb.org/t/p/original/vwgC68MFTgrLaTBaXFnsVAb6y1W.jpg",
-      "imdbRating": "6.4"
+      "description": "Gentle storytelling about nature and friendship.",
+      "background": "https://image.tmdb.org/t/p/original/9z945wZwFzJ0EbzY8vsk5ELCZeJ.jpg",
+      "imdbRating": "7.4"
     },
     {
-      "id": "tt0439349",
+      "id": "tt2279853",
       "type": "series",
-      "name": "The Backyardigans",
-      "poster": "https://image.tmdb.org/t/p/w500/qph2MAw82C2DTQcuzRQdaglo9eU.jpg",
-      "releaseInfo": "2004",
-      "description": "Musical adventures in their backyard imagination.",
-      "background": "https://image.tmdb.org/t/p/original/fLI3GFGDjYXIXO5ehdQkeE0zeS0.jpg",
-      "imdbRating": "8.009"
+      "name": "Guess How Much I Love You: The Adventures of Little Nutbrown Hare",
+      "poster": "https://image.tmdb.org/t/p/w500/nwl4WTQTiiYbUZTaBnRPodo2Jl.jpg",
+      "releaseInfo": "2012",
+      "description": "Heartwarming stories about love and family.",
+      "background": "https://image.tmdb.org/t/p/original/dz1IE2ofDb5qo3w2pd2z3f45bRh.jpg",
+      "imdbRating": "9.5"
     },
     {
-      "id": "tt10932166",
+      "id": "tt0260628",
       "type": "series",
-      "name": "Ricky Zoom",
-      "poster": "https://image.tmdb.org/t/p/w500/zRliSLR2LqCe56Z474lt8dfuqiJ.jpg",
+      "name": "Kipper",
+      "poster": "https://image.tmdb.org/t/p/w500/evbqA7XtVJnwJuxdzMqG17nBFqx.jpg",
+      "releaseInfo": "1997",
+      "description": "Simple and sweet stories about a friendly dog.",
+      "background": "https://image.tmdb.org/t/p/original/28ydoTvksl00rZUP7LheUVS8OHK.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0203254",
+      "type": "series",
+      "name": "Franklin",
+      "poster": "https://image.tmdb.org/t/p/w500/ep0ol2okz8IB8T0LxhfJMXvJ3Mk.jpg",
+      "releaseInfo": "1997",
+      "description": "A turtle who learns important life lessons.",
+      "background": "https://image.tmdb.org/t/p/original/yWHVK0Gswv2mH8V7fsJ2wshBJRO.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0245637",
+      "type": "series",
+      "name": "Little Bear",
+      "poster": "https://image.tmdb.org/t/p/w500/bLm7pkUAoi2AGsnPXrPnZ3ErlKs.jpg",
+      "releaseInfo": "1995",
+      "description": "Gentle stories about a curious little bear.",
+      "background": "https://image.tmdb.org/t/p/original/aSvHDKF7qk367U4CmqoRthQ9T4t.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt13983670",
+      "type": "series",
+      "name": "Daniel Spellbound",
+      "poster": "https://image.tmdb.org/t/p/w500/83jBawRjY6YF8RjoopVZ92UvFYM.jpg",
+      "releaseInfo": "2022",
+      "description": "Explores magic in a fun way",
+      "background": "https://image.tmdb.org/t/p/original/fqzn69QKLnil571CWxoWlNaf89N.jpg",
+      "imdbRating": "7.85"
+    },
+    {
+      "id": "tt0213363",
+      "type": "series",
+      "name": "Oggy and the Cockroaches",
+      "poster": "https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
+      "releaseInfo": "1998",
+      "description": "A fun, silly cartoon.",
+      "background": "https://image.tmdb.org/t/p/original/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
+      "imdbRating": "7.444"
+    },
+    {
+      "id": "tt0784896",
+      "type": "series",
+      "name": "Mickey Mouse Clubhouse",
+      "poster": "https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
+      "releaseInfo": "2006",
+      "description": "Fun and engaging for young children with familiar characters.",
+      "background": "https://image.tmdb.org/t/p/original/dGvW61JwuqwtShk849PHZflOAX.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt2136138",
+      "type": "series",
+      "name": "Sofia the First",
+      "poster": "https://image.tmdb.org/t/p/w500/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
+      "releaseInfo": "2013",
+      "description": "A princess learns important life lessons.",
+      "background": "https://image.tmdb.org/t/p/original/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt1710295",
+      "type": "series",
+      "name": "Doc McStuffins",
+      "poster": "https://image.tmdb.org/t/p/w500/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
+      "releaseInfo": "2012",
+      "description": "A young girl fixes toys and learns about health.",
+      "background": "https://image.tmdb.org/t/p/original/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+      "imdbRating": "5.848"
+    },
+    {
+      "id": "tt2769458",
+      "type": "series",
+      "name": "Sheriff Callie's Wild West",
+      "poster": "https://image.tmdb.org/t/p/w500/zKoVuDIkhFVjbhoGAi7vxUgrKRz.jpg",
+      "releaseInfo": "2014",
+      "description": "Friendship and solving problems.",
+      "background": "https://image.tmdb.org/t/p/original/bOZnotuzyE3EQbTV1UF4ptuHkhJ.jpg",
+      "imdbRating": "5.4"
+    },
+    {
+      "id": "tt6688750",
+      "type": "series",
+      "name": "Puppy Dog Pals",
+      "poster": "https://image.tmdb.org/t/p/w500/Aa6Bo1lcuFxT3D1twy7DVX7pY03.jpg",
+      "releaseInfo": "2017",
+      "description": "Fun adventures with two playful puppies.",
+      "background": "https://image.tmdb.org/t/p/original/bXnKc8abo2NwlZxyiVlkPvNxu3e.jpg",
+      "imdbRating": "5.658"
+    },
+    {
+      "id": "tt8266218",
+      "type": "series",
+      "name": "T.O.T.S.",
+      "poster": "https://image.tmdb.org/t/p/w500/4nLOFTtj7rVCtzKLlvvGw8rK264.jpg",
       "releaseInfo": "2019",
-      "description": "Adventures with talking motorcycles.",
-      "background": "https://image.tmdb.org/t/p/original/qyN2oY9StgFtSh6IWO435ItX8OD.jpg",
-      "imdbRating": "6.0"
+      "description": "Delivering baby animals to their families.",
+      "background": "https://image.tmdb.org/t/p/original/97KBoSDegIsn0cgroocdbXR8y6k.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt7010622",
+      "type": "series",
+      "name": "Vampirina",
+      "poster": "https://image.tmdb.org/t/p/w500/18Mmri8vmBKbGbiymFPlSHlg71o.jpg",
+      "releaseInfo": "2017",
+      "description": "A friendly vampire family.",
+      "background": "https://image.tmdb.org/t/p/original/lXU4HMoNmrgPEO2meDmlv5kY8OG.jpg",
+      "imdbRating": "6.474"
+    },
+    {
+      "id": "tt6337766",
+      "type": "series",
+      "name": "Muppet Babies",
+      "poster": "https://image.tmdb.org/t/p/w500/mKO39v4anUjh73s9NIIRp8HKlqm.jpg",
+      "releaseInfo": "2018",
+      "description": "Classic characters in fun adventures.",
+      "background": "https://image.tmdb.org/t/p/original/dhpiUjED67h3vHaQevuD2T8KyaK.jpg",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt10687202",
+      "type": "series",
+      "name": "Go, Dog. Go!",
+      "poster": "https://image.tmdb.org/t/p/w500/qHwkhQZ8YpHS3Wz7EWUzwp5WEpR.jpg",
+      "releaseInfo": "2021",
+      "description": "Fast-paced adventures with colorful dogs.",
+      "background": "https://image.tmdb.org/t/p/original/A9ktTOdkwTKOdSaJDCXozLt1YRm.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt5846856",
+      "type": "series",
+      "name": "StoryBots",
+      "poster": "https://image.tmdb.org/t/p/w500/6IY8bmJcUGmgcB9ERnx8hLw7Qz5.jpg",
+      "releaseInfo": "2016",
+      "description": "Answers kids' questions in an entertaining way.",
+      "background": "https://image.tmdb.org/t/p/original/947dkEryFtsyO0pNlVRJV53ZbEb.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt7978538",
+      "type": "series",
+      "name": "Numberblocks",
+      "poster": "https://image.tmdb.org/t/p/w500/vt872bR11jYDRSzTSfLuOmb2SMt.jpg",
+      "releaseInfo": "2017",
+      "description": "Teaches math concepts in a fun and engaging way.",
+      "background": "https://image.tmdb.org/t/p/original/u9H3GJHNxlQwVeyJDxGGD7Uu9iH.jpg",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt6835380",
+      "type": "series",
+      "name": "Alphablocks",
+      "poster": "https://image.tmdb.org/t/p/w500/dppvWTIEUSAKJblYoiRP5Pj59yf.jpg",
+      "releaseInfo": "2010",
+      "description": "Teaches phonics and reading skills.",
+      "background": "https://image.tmdb.org/t/p/original/aGiPOpWZMF1hFYIpjUR2NZe8gpL.jpg",
+      "imdbRating": null
+    },
+    {
+      "id": "tt13624054",
+      "type": "series",
+      "name": "Dug Days",
+      "poster": "https://image.tmdb.org/t/p/w500/e5kT33XH2gX7xBFIK1uUJAvU5dj.jpg",
+      "releaseInfo": "2021",
+      "description": "Short stories from the movie 'Up'",
+      "background": "https://image.tmdb.org/t/p/original/iCxiuIrX9uyGektmxEPv8g5laYV.jpg",
+      "imdbRating": "7.4"
     }
   ]
 }
