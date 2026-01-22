@@ -6,7 +6,7 @@
       "name": "Moana",
       "poster": "https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
       "releaseInfo": "2016",
-      "description": "A strong female lead on a Polynesian adventure with great music.",
+      "description": "A brave and adventurous princess story with great music and visuals.",
       "background": "https://image.tmdb.org/t/p/original/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
       "imdbRating": "7.564"
     },
@@ -16,39 +16,29 @@
       "name": "How to Train Your Dragon",
       "poster": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
       "releaseInfo": "2010",
-      "description": "A heartwarming story about friendship and acceptance, with thrilling dragon-riding scenes.",
+      "description": "A heartwarming story about friendship between a boy and a dragon.",
       "background": "https://image.tmdb.org/t/p/original/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
       "imdbRating": "7.9"
     },
     {
-      "id": "tt7979580",
+      "id": "tt1646971",
       "type": "movie",
-      "name": "The Mitchells vs. The Machines",
-      "poster": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
-      "releaseInfo": "2021",
-      "description": "A quirky and hilarious animated film about a dysfunctional family saving the world.",
-      "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
-      "imdbRating": "7.857"
-    },
-    {
-      "id": "tt1109624",
-      "type": "movie",
-      "name": "Paddington",
-      "poster": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "name": "How to Train Your Dragon 2",
+      "poster": "https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
       "releaseInfo": "2014",
-      "description": "A charming and funny film about a lovable bear trying to find his place in London.",
-      "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
-      "imdbRating": "7.1"
+      "description": "Continues the adventures of Hiccup and Toothless with more action and emotional depth.",
+      "background": "https://image.tmdb.org/t/p/original/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
+      "imdbRating": "7.7"
     },
     {
-      "id": "tt4468740",
+      "id": "tt2386490",
       "type": "movie",
-      "name": "Paddington 2",
-      "poster": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
-      "releaseInfo": "2017",
-      "description": "Continues the heartwarming story with more humor and heartwarming moments.",
-      "background": "https://image.tmdb.org/t/p/original/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
-      "imdbRating": "7.5"
+      "name": "How to Train Your Dragon: The Hidden World",
+      "poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "releaseInfo": "2019",
+      "description": "The epic conclusion to the trilogy, with stunning animation and a powerful message.",
+      "background": "https://image.tmdb.org/t/p/original/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+      "imdbRating": "7.748"
     },
     {
       "id": "tt0114709",
@@ -56,7 +46,7 @@
       "name": "Toy Story",
       "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
       "releaseInfo": "1995",
-      "description": "A classic animated film about friendship, loyalty, and growing up.",
+      "description": "A classic about the secret life of toys and the importance of friendship.",
       "background": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
       "imdbRating": "7.97"
     },
@@ -66,9 +56,9 @@
       "name": "Toy Story 2",
       "poster": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
       "releaseInfo": "1999",
-      "description": "Expands on the original with more characters and heartfelt moments.",
+      "description": "Woody and Buzz Lightyear embark on a new adventure to rescue Woody from a toy collector.",
       "background": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
-      "imdbRating": "7.6"
+      "imdbRating": "7.604"
     },
     {
       "id": "tt0435761",
@@ -76,7 +66,7 @@
       "name": "Toy Story 3",
       "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
       "releaseInfo": "2010",
-      "description": "A moving conclusion to the trilogy that explores themes of change and letting go.",
+      "description": "The toys face their biggest challenge yet as Andy prepares to go to college.",
       "background": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
       "imdbRating": "7.804"
     },
@@ -86,7 +76,7 @@
       "name": "Toy Story 4",
       "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
       "releaseInfo": "2019",
-      "description": "A fun and emotional adventure that explores new possibilities for the toys.",
+      "description": "A new adventure for Woody and Buzz as they meet new friends and face new challenges.",
       "background": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
       "imdbRating": "7.469"
     },
@@ -96,9 +86,9 @@
       "name": "Finding Nemo",
       "poster": "https://image.tmdb.org/t/p/w500/axyrDKJmQpynKOESqxO2wKmhj9n.jpg",
       "releaseInfo": "2003",
-      "description": "An underwater adventure about a father's love and a son's bravery.",
+      "description": "A heartwarming story about a father's love for his son and overcoming fears.",
       "background": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
-      "imdbRating": "7.817"
+      "imdbRating": "7.8"
     },
     {
       "id": "tt2277860",
@@ -106,7 +96,7 @@
       "name": "Finding Dory",
       "poster": "https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
       "releaseInfo": "2016",
-      "description": "A heartwarming sequel about finding family and accepting yourself.",
+      "description": "Dory embarks on a journey to find her family, with plenty of laughs and heartfelt moments.",
       "background": "https://image.tmdb.org/t/p/original/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
       "imdbRating": "7.04"
     },
@@ -116,9 +106,9 @@
       "name": "Monsters, Inc.",
       "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
       "releaseInfo": "2001",
-      "description": "A creative and funny film about the power of laughter and friendship.",
+      "description": "A hilarious and heartwarming story about monsters who discover that laughter is more powerful than screams.",
       "background": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
-      "imdbRating": "7.847"
+      "imdbRating": "7.8"
     },
     {
       "id": "tt1453405",
@@ -126,9 +116,29 @@
       "name": "Monsters University",
       "poster": "https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
       "releaseInfo": "2013",
-      "description": "A prequel exploring the origins of Mike and Sully's friendship.",
+      "description": "A prequel to Monsters, Inc., showing how Mike and Sulley became friends in college.",
       "background": "https://image.tmdb.org/t/p/original/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg",
       "imdbRating": "7.044"
+    },
+    {
+      "id": "tt0317705",
+      "type": "movie",
+      "name": "The Incredibles",
+      "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "releaseInfo": "2004",
+      "description": "A superhero family tries to live a normal life, but they are called back into action to save the world.",
+      "background": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt3606756",
+      "type": "movie",
+      "name": "Incredibles 2",
+      "poster": "https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "releaseInfo": "2018",
+      "description": "The Incredibles face new challenges as Elastigirl takes the spotlight and Mr. Incredible stays at home with the kids.",
+      "background": "https://image.tmdb.org/t/p/original/g1RA3pSKwjb3ZAvm3a3H7LxAwat.jpg",
+      "imdbRating": "7.453"
     },
     {
       "id": "tt0382932",
@@ -136,7 +146,7 @@
       "name": "Ratatouille",
       "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
       "releaseInfo": "2007",
-      "description": "A charming story about following your dreams, even when they seem impossible.",
+      "description": "A rat with a passion for cooking teams up with a garbage boy to become a chef in Paris.",
       "background": "https://image.tmdb.org/t/p/original/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
       "imdbRating": "7.8"
     },
@@ -146,9 +156,19 @@
       "name": "Up",
       "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
       "releaseInfo": "2009",
-      "description": "A touching and adventurous film about love, loss, and the importance of making memories.",
+      "description": "A heartwarming and adventurous story about an old man who ties balloons to his house and flies to South America.",
       "background": "https://image.tmdb.org/t/p/original/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
       "imdbRating": "7.96"
+    },
+    {
+      "id": "tt0120623",
+      "type": "movie",
+      "name": "A Bug's Life",
+      "poster": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+      "releaseInfo": "1998",
+      "description": "An inventive ant teams up with misfit circus bugs to save his colony from grasshoppers.",
+      "background": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+      "imdbRating": "6.973"
     },
     {
       "id": "tt0317219",
@@ -156,79 +176,99 @@
       "name": "Cars",
       "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
       "releaseInfo": "2006",
-      "description": "A fun and heartwarming film about friendship, humility, and finding your way.",
+      "description": "A fast-paced and heartwarming story about a race car who learns the importance of friendship and slowing down.",
       "background": "https://image.tmdb.org/t/p/original/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
-      "imdbRating": "7.018"
+      "imdbRating": "7.0"
     },
     {
-      "id": "tt0317705",
+      "id": "tt1216475",
       "type": "movie",
-      "name": "The Incredibles",
-      "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-      "releaseInfo": "2004",
-      "description": "An action-packed and humorous film about a family of superheroes.",
-      "background": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
-      "imdbRating": "7.72"
+      "name": "Cars 2",
+      "poster": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+      "releaseInfo": "2011",
+      "description": "Lightning McQueen and Mater travel the world for a racing competition, but they get caught up in a spy adventure.",
+      "background": "https://image.tmdb.org/t/p/original/mDb6HtfFYe8gzxo8d6S1mFkzoBW.jpg",
+      "imdbRating": "6.17"
     },
     {
-      "id": "tt3606756",
+      "id": "tt3606752",
       "type": "movie",
-      "name": "Incredibles 2",
-      "poster": "https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-      "releaseInfo": "2018",
-      "description": "Continues the action and humor with a focus on Elastigirl's adventure.",
-      "background": "https://image.tmdb.org/t/p/original/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
-      "imdbRating": "7.453"
+      "name": "Cars 3",
+      "poster": "https://image.tmdb.org/t/p/w500/fyy1nDC8wm553FCiBDojkJmKLCs.jpg",
+      "releaseInfo": "2017",
+      "description": "Lightning McQueen faces a new generation of racers and must find a way to stay competitive.",
+      "background": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+      "imdbRating": "6.9"
     },
     {
-      "id": "tt2294629",
+      "id": "tt1109624",
       "type": "movie",
-      "name": "Frozen",
-      "poster": "https://image.tmdb.org/t/p/w500/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "name": "Paddington",
+      "poster": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "releaseInfo": "2014",
+      "description": "A charming and heartwarming story about a bear who finds a home in London.",
+      "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "imdbRating": "7.115"
+    },
+    {
+      "id": "tt4468740",
+      "type": "movie",
+      "name": "Paddington 2",
+      "poster": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "releaseInfo": "2017",
+      "description": "Paddington is framed for a crime he didn't commit, and his family and friends must clear his name.",
+      "background": "https://image.tmdb.org/t/p/original/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt7979580",
+      "type": "movie",
+      "name": "The Mitchells vs. The Machines",
+      "poster": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "releaseInfo": "2021",
+      "description": "A quirky family goes on a road trip and ends up saving the world from a robot apocalypse.",
+      "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+      "imdbRating": "7.857"
+    },
+    {
+      "id": "tt0844471",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs",
+      "poster": "https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+      "releaseInfo": "2009",
+      "description": "A wacky inventor creates a machine that makes it rain food.",
+      "background": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
+      "imdbRating": "6.654"
+    },
+    {
+      "id": "tt1985966",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs 2",
+      "poster": "https://image.tmdb.org/t/p/w500/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg",
       "releaseInfo": "2013",
-      "description": "A popular musical fantasy with strong themes of sisterhood and self-acceptance.",
-      "background": "https://image.tmdb.org/t/p/original/9WHM084AoskcHCObAy4QnJg01eM.jpg",
-      "imdbRating": "7.248"
+      "description": "Flint Lockwood returns to his hometown to stop his food-making machine from creating dangerous foodimals.",
+      "background": "https://image.tmdb.org/t/p/original/cZPw0ZHqx3t6WGMdIUWkGIlHctb.jpg",
+      "imdbRating": "6.455"
     },
     {
-      "id": "tt4520988",
+      "id": "tt1490017",
       "type": "movie",
-      "name": "Frozen II",
-      "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "name": "The Lego Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "releaseInfo": "2014",
+      "description": "An ordinary Lego construction worker is mistaken for the Special and is recruited to stop an evil tyrant.",
+      "background": "https://image.tmdb.org/t/p/original/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt3513498",
+      "type": "movie",
+      "name": "The Lego Movie 2: The Second Part",
+      "poster": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
       "releaseInfo": "2019",
-      "description": "Explores the origins of Elsa's powers and a new adventure for the sisters.",
-      "background": "https://image.tmdb.org/t/p/original/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1772341",
-      "type": "movie",
-      "name": "Wreck-It Ralph",
-      "poster": "https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
-      "releaseInfo": "2012",
-      "description": "A creative and funny film about video game characters and finding your purpose.",
-      "background": "https://image.tmdb.org/t/p/original/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
-      "imdbRating": "7.352"
-    },
-    {
-      "id": "tt5848272",
-      "type": "movie",
-      "name": "Ralph Breaks the Internet",
-      "poster": "https://image.tmdb.org/t/p/w500/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
-      "releaseInfo": "2018",
-      "description": "Continues the adventure with Ralph and Vanellope exploring the internet.",
-      "background": "https://image.tmdb.org/t/p/original/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
-      "imdbRating": "7.164"
-    },
-    {
-      "id": "tt1001526",
-      "type": "movie",
-      "name": "Megamind",
-      "poster": "https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
-      "releaseInfo": "2010",
-      "description": "A humorous take on the superhero genre, with a villain becoming a hero.",
-      "background": "https://image.tmdb.org/t/p/original/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
-      "imdbRating": "7.015"
+      "description": "Emmet and his friends face a new threat from outer space and must save their city.",
+      "background": "https://image.tmdb.org/t/p/original/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
+      "imdbRating": "6.7"
     },
     {
       "id": "tt1323594",
@@ -236,7 +276,7 @@
       "name": "Despicable Me",
       "poster": "https://image.tmdb.org/t/p/w500/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
       "releaseInfo": "2010",
-      "description": "A funny and heartwarming film about a supervillain who adopts three adorable orphans.",
+      "description": "A supervillain plans to steal the moon, but his plans are complicated by three orphaned girls.",
       "background": "https://image.tmdb.org/t/p/original/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
       "imdbRating": "7.255"
     },
@@ -246,9 +286,19 @@
       "name": "Despicable Me 2",
       "poster": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
       "releaseInfo": "2013",
-      "description": "Continues the humor and heart with Gru becoming a good guy.",
+      "description": "Gru is recruited by the Anti-Villain League to catch a new supervillain.",
       "background": "https://image.tmdb.org/t/p/original/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
       "imdbRating": "6.94"
+    },
+    {
+      "id": "tt3469046",
+      "type": "movie",
+      "name": "Despicable Me 3",
+      "poster": "https://image.tmdb.org/t/p/w500/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
+      "releaseInfo": "2017",
+      "description": "Gru meets his long-lost twin brother, Dru, and they team up to fight a new villain.",
+      "background": "https://image.tmdb.org/t/p/original/7JGfZGooHS4uHRHuYpfWLAcCNsE.jpg",
+      "imdbRating": "6.464"
     },
     {
       "id": "tt2293640",
@@ -256,49 +306,69 @@
       "name": "Minions",
       "poster": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
       "releaseInfo": "2015",
-      "description": "A hilarious prequel focusing on the Minions' adventures.",
+      "description": "A prequel to Despicable Me, showing the origins of the Minions and their quest to find an evil master.",
       "background": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
-      "imdbRating": "6.417"
+      "imdbRating": "6.4"
     },
     {
-      "id": "tt0481499",
+      "id": "tt5113044",
       "type": "movie",
-      "name": "The Croods",
-      "poster": "https://image.tmdb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
-      "releaseInfo": "2013",
-      "description": "A prehistoric family adventure with plenty of humor and heart.",
-      "background": "https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
-      "imdbRating": "6.9"
+      "name": "Minions: The Rise of Gru",
+      "poster": "https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "releaseInfo": "2022",
+      "description": "The Minions help a young Gru achieve his dream of becoming a supervillain.",
+      "background": "https://image.tmdb.org/t/p/original/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+      "imdbRating": "7.279"
     },
     {
-      "id": "tt2850386",
+      "id": "tt3874544",
       "type": "movie",
-      "name": "The Croods: A New Age",
-      "poster": "https://image.tmdb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
-      "releaseInfo": "2020",
-      "description": "Continues the Croods' adventure as they encounter a new family.",
-      "background": "https://image.tmdb.org/t/p/original/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
-      "imdbRating": "7.455"
+      "name": "The Boss Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg",
+      "releaseInfo": "2017",
+      "description": "A baby who is secretly a business executive teams up with his older brother to stop a rival company.",
+      "background": "https://image.tmdb.org/t/p/original/bTFeSwh07oX99ofpDI4O2WkiFJ.jpg",
+      "imdbRating": "6.454"
     },
     {
-      "id": "tt12851396",
+      "id": "tt6932874",
       "type": "movie",
-      "name": "Trollhunters: Rise of the Titans",
-      "poster": "https://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg",
+      "name": "The Boss Baby: Family Business",
+      "poster": "https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
       "releaseInfo": "2021",
-      "description": "A thrilling animated adventure based on the Trollhunters series.",
-      "background": "https://image.tmdb.org/t/p/original/d1i6oB5xdo2a7sOmjprCcElqlrD.jpg",
-      "imdbRating": "7.558"
+      "description": "The Templeton brothers reunite to stop a new threat to babies.",
+      "background": "https://image.tmdb.org/t/p/original/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg",
+      "imdbRating": "7.337"
     },
     {
-      "id": "tt0780521",
+      "id": "tt7504818",
       "type": "movie",
-      "name": "The Princess and the Frog",
-      "poster": "https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
-      "releaseInfo": "2009",
-      "description": "A musical fairy tale set in New Orleans with a strong female lead.",
-      "background": "https://image.tmdb.org/t/p/original/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
-      "imdbRating": "7.217"
+      "name": "Ron's Gone Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+      "releaseInfo": "2021",
+      "description": "A socially awkward middle-schooler gets a malfunctioning B*Bot, a walking, talking, digitally connected device that's supposed to be his 'Best Friend out of the Box.'",
+      "background": "https://image.tmdb.org/t/p/original/sdL37sfUBth7mdkAolI83bXAl7L.jpg",
+      "imdbRating": "7.866"
+    },
+    {
+      "id": "tt11084896",
+      "type": "movie",
+      "name": "Spirit Untamed",
+      "poster": "https://image.tmdb.org/t/p/w500/fLE2mvuvhvzmSICOsqR9uE50Ave.jpg",
+      "releaseInfo": "2021",
+      "description": "A girl befriends a wild mustang and embarks on an adventure to save him and his herd from capture.",
+      "background": "https://image.tmdb.org/t/p/original/fZkhO3JhRajayNejQUaIiBegayM.jpg",
+      "imdbRating": "7.277"
+    },
+    {
+      "id": "tt2953050",
+      "type": "movie",
+      "name": "Encanto",
+      "poster": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+      "releaseInfo": "2021",
+      "description": "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.",
+      "background": "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+      "imdbRating": "7.576"
     },
     {
       "id": "tt12801262",
@@ -306,19 +376,9 @@
       "name": "Luca",
       "poster": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
       "releaseInfo": "2021",
-      "description": "A heartwarming story about friendship and acceptance set in the Italian Riviera.",
+      "description": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
       "background": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
       "imdbRating": "7.788"
-    },
-    {
-      "id": "tt8097030",
-      "type": "movie",
-      "name": "Turning Red",
-      "poster": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
-      "releaseInfo": "2022",
-      "description": "A coming-of-age story about a girl who turns into a red panda when she gets excited.",
-      "background": "https://image.tmdb.org/t/p/original/b8Ma7TkasTDpMIkoIngzHVcgANa.jpg",
-      "imdbRating": "7.324"
     },
     {
       "id": "tt0120630",
@@ -326,79 +386,9 @@
       "name": "Chicken Run",
       "poster": "https://image.tmdb.org/t/p/w500/oYbVT9e0k2ZSrRhDSCw2Yqshe1n.jpg",
       "releaseInfo": "2000",
-      "description": "A clever and funny stop-motion animated film about chickens escaping a farm.",
+      "description": "Chickens plan their escape from a farm when they learn that they will soon be turned into chicken pies.",
       "background": "https://image.tmdb.org/t/p/original/fPIFWeRec2gwho9fbxHu91mcYds.jpg",
       "imdbRating": "6.835"
-    },
-    {
-      "id": "tt2872750",
-      "type": "movie",
-      "name": "A Shaun the Sheep Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg",
-      "releaseInfo": "2015",
-      "description": "A hilarious and heartwarming stop-motion adventure with Shaun and his flock.",
-      "background": "https://image.tmdb.org/t/p/original/sQbpfYoGiEBUnr8tBjHP51heNNT.jpg",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt4701724",
-      "type": "movie",
-      "name": "Early Man",
-      "poster": "https://image.tmdb.org/t/p/w500/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg",
-      "releaseInfo": "2018",
-      "description": "A stop-motion animated comedy about cavemen and their love for football.",
-      "background": "https://image.tmdb.org/t/p/original/9m71RMP45mg599xtKPyjicyHn1a.jpg",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt0848537",
-      "type": "movie",
-      "name": "Epic",
-      "poster": "https://image.tmdb.org/t/p/w500/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
-      "releaseInfo": "2013",
-      "description": "An adventurous story about a teenage girl transported into a hidden forest world.",
-      "background": "https://image.tmdb.org/t/p/original/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
-      "imdbRating": "6.544"
-    },
-    {
-      "id": "tt0327084",
-      "type": "movie",
-      "name": "Over the Hedge",
-      "poster": "https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg",
-      "releaseInfo": "2006",
-      "description": "A humorous animated film about woodland creatures adjusting to suburban life.",
-      "background": "https://image.tmdb.org/t/p/original/reK7SgAFlyxg3s9R7neh6M970kh.jpg",
-      "imdbRating": "6.584"
-    },
-    {
-      "id": "tt2224026",
-      "type": "movie",
-      "name": "Home",
-      "poster": "https://image.tmdb.org/t/p/w500/usFenYnk6mr8C62dB1MoAfSWMGR.jpg",
-      "releaseInfo": "2015",
-      "description": "A heartwarming animated film about an unlikely friendship between a girl and an alien.",
-      "background": "https://image.tmdb.org/t/p/original/gnkBzJVH2zicIopP2fHf4kRElne.jpg",
-      "imdbRating": "6.793"
-    },
-    {
-      "id": "tt0844471",
-      "type": "movie",
-      "name": "Cloudy with a Chance of Meatballs",
-      "poster": "https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
-      "releaseInfo": "2009",
-      "description": "A hilarious and creative film about a town where food falls from the sky.",
-      "background": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
-      "imdbRating": "6.654"
-    },
-    {
-      "id": "tt0358082",
-      "type": "movie",
-      "name": "Robots",
-      "poster": "https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg",
-      "releaseInfo": "2005",
-      "description": "An animated adventure about a young robot who dreams of making a difference.",
-      "background": "https://image.tmdb.org/t/p/original/wKrloVeaFgAqLg5omzCepsQHwmi.jpg",
-      "imdbRating": "6.477"
     }
   ]
 }
