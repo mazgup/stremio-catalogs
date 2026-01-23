@@ -6,39 +6,10 @@
       "name": "Snatch",
       "poster": "https://image.tmdb.org/t/p/w500/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
       "releaseInfo": "2000",
-      "description": "Extracted",
+      "description": "Similar dark humor and crime elements to 'Seven Psychopaths' and 'Get Shorty', with a twisty plot.",
       "background": "https://image.tmdb.org/t/p/original/gTghF8ardwJ48XLHkiapWk3ZmSo.jpg",
-      "imdbRating": "7.818"
-    },
-    {
-      "id": "tt0120735",
-      "type": "movie",
-      "name": "Lock, Stock and Two Smoking Barrels",
-      "poster": "https://image.tmdb.org/t/p/w500/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
-      "releaseInfo": "1998",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
-      "imdbRating": "8.102"
-    },
-    {
-      "id": "tt2005151",
-      "type": "movie",
-      "name": "War Dogs",
-      "poster": "https://image.tmdb.org/t/p/w500/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
-      "releaseInfo": "2016",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
-      "imdbRating": "6.93"
-    },
-    {
-      "id": "tt0057012",
-      "type": "movie",
-      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-      "poster": "https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
-      "releaseInfo": "1964",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/4LmNLvXP5SZ5TrZEkNhC7dbjUNV.jpg",
-      "imdbRating": "8.1"
+      "imdbRating": "7.818",
+      "rating": 7.818
     },
     {
       "id": "tt0780536",
@@ -46,9 +17,32 @@
       "name": "In Bruges",
       "poster": "https://image.tmdb.org/t/p/w500/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
       "releaseInfo": "2008",
-      "description": "Extracted",
+      "description": "Combines dark comedy, crime, and thoughtful character moments like 'Seven Psychopaths' but in a different setting.",
       "background": "https://image.tmdb.org/t/p/original/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
-      "imdbRating": "7.496"
+      "imdbRating": "7.496",
+      "rating": 7.496
+    },
+    {
+      "id": "tt2005151",
+      "type": "movie",
+      "name": "War Dogs",
+      "poster": "https://image.tmdb.org/t/p/w500/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+      "releaseInfo": "2016",
+      "description": "Mixture of dark comedy and war themes reminiscent of 'Three Kings', focusing on the absurdity of arms dealing.",
+      "background": "https://image.tmdb.org/t/p/original/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+      "imdbRating": "6.93",
+      "rating": 6.93
+    },
+    {
+      "id": "tt0120735",
+      "type": "movie",
+      "name": "Lock, Stock and Two Smoking Barrels",
+      "poster": "https://image.tmdb.org/t/p/w500/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+      "releaseInfo": "1998",
+      "description": "Fast-paced British crime comedy with a complex plot, similar to 'Snatch' and other films with crime and humor.",
+      "background": "https://image.tmdb.org/t/p/original/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+      "imdbRating": "8.102",
+      "rating": 8.102
     },
     {
       "id": "tt0373469",
@@ -56,9 +50,10 @@
       "name": "Kiss Kiss Bang Bang",
       "poster": "https://image.tmdb.org/t/p/w500/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
       "releaseInfo": "2005",
-      "description": "Extracted",
+      "description": "A witty and self-aware crime comedy with a mystery element, akin to 'Ace Ventura' but more mature.",
       "background": "https://image.tmdb.org/t/p/original/x29PYzoNYPGzdj3M8FDwSwEgNpf.jpg",
-      "imdbRating": "7.157"
+      "imdbRating": "7.157",
+      "rating": 7.157
     },
     {
       "id": "tt3799694",
@@ -66,189 +61,10 @@
       "name": "The Nice Guys",
       "poster": "https://image.tmdb.org/t/p/w500/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
       "releaseInfo": "2016",
-      "description": "Extracted",
+      "description": "Buddy-cop action-comedy with a crime investigation plot, sharing humor similar to 'Get Shorty' and 'Seven Psychopaths'.",
       "background": "https://image.tmdb.org/t/p/original/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
-      "imdbRating": "7.126"
-    },
-    {
-      "id": "tt0365748",
-      "type": "movie",
-      "name": "Shaun of the Dead",
-      "poster": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
-      "releaseInfo": "2004",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
-      "imdbRating": "7.539"
-    },
-    {
-      "id": "tt1156398",
-      "type": "movie",
-      "name": "Zombieland",
-      "poster": "https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
-      "releaseInfo": "2009",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
-      "imdbRating": "7.259"
-    },
-    {
-      "id": "tt5700672",
-      "type": "movie",
-      "name": "Train to Busan",
-      "poster": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
-      "releaseInfo": "2016",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
-      "imdbRating": "7.748"
-    },
-    {
-      "id": "tt1034409",
-      "type": "movie",
-      "name": "REC",
-      "poster": null,
-      "releaseInfo": "2007",
-      "description": "Extracted",
-      "background": null,
-      "imdbRating": "0.0"
-    },
-    {
-      "id": "tt1136608",
-      "type": "movie",
-      "name": "District 9",
-      "poster": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
-      "releaseInfo": "2009",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
-      "imdbRating": "7.46"
-    },
-    {
-      "id": "tt0206634",
-      "type": "movie",
-      "name": "Children of Men",
-      "poster": "https://image.tmdb.org/t/p/w500/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg",
-      "releaseInfo": "2006",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/gFGLwUBhVrq0bq4j9DU08xQDRU2.jpg",
-      "imdbRating": "7.612"
-    },
-    {
-      "id": "tt1631867",
-      "type": "movie",
-      "name": "Edge of Tomorrow",
-      "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
-      "releaseInfo": "2014",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
-      "imdbRating": "7.633"
-    },
-    {
-      "id": "tt1392214",
-      "type": "movie",
-      "name": "Prisoners",
-      "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
-      "releaseInfo": "2013",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
-      "imdbRating": "8.102"
-    },
-    {
-      "id": "tt2267998",
-      "type": "movie",
-      "name": "Gone Girl",
-      "poster": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
-      "releaseInfo": "2014",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
-      "imdbRating": "7.889"
-    },
-    {
-      "id": "tt6751668",
-      "type": "movie",
-      "name": "Parasite",
-      "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-      "releaseInfo": "2019",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-      "imdbRating": "8.495"
-    },
-    {
-      "id": "tt0353969",
-      "type": "movie",
-      "name": "Memories of Murder",
-      "poster": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
-      "releaseInfo": "2003",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
-      "imdbRating": "8.054"
-    },
-    {
-      "id": "tt0113277",
-      "type": "movie",
-      "name": "Heat",
-      "poster": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
-      "releaseInfo": "1995",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
-      "imdbRating": "7.926"
-    },
-    {
-      "id": "tt0840361",
-      "type": "movie",
-      "name": "The Town",
-      "poster": "https://image.tmdb.org/t/p/w500/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
-      "releaseInfo": "2010",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
-      "imdbRating": "7.215"
-    },
-    {
-      "id": "tt3397884",
-      "type": "movie",
-      "name": "Sicario",
-      "poster": "https://image.tmdb.org/t/p/w500/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
-      "releaseInfo": "2015",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/meeileDF37uB8ykIs4iFb713ABO.jpg",
-      "imdbRating": "7.414"
-    },
-    {
-      "id": "tt5362988",
-      "type": "movie",
-      "name": "Wind River",
-      "poster": "https://image.tmdb.org/t/p/w500/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
-      "releaseInfo": "2017",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt2582782",
-      "type": "movie",
-      "name": "Hell or High Water",
-      "poster": "https://image.tmdb.org/t/p/w500/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
-      "releaseInfo": "2016",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
-      "imdbRating": "7.301"
-    },
-    {
-      "id": "tt0477348",
-      "type": "movie",
-      "name": "No Country for Old Men",
-      "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
-      "releaseInfo": "2007",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/aFZZrbHkv5j0KxJ2sfRXv9AuyJ3.jpg",
-      "imdbRating": "7.947"
-    },
-    {
-      "id": "tt0108399",
-      "type": "movie",
-      "name": "True Romance",
-      "poster": "https://image.tmdb.org/t/p/w500/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
-      "releaseInfo": "1993",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
-      "imdbRating": "7.538"
+      "imdbRating": "7.126",
+      "rating": 7.126
     },
     {
       "id": "tt0105236",
@@ -256,139 +72,43 @@
       "name": "Reservoir Dogs",
       "poster": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
       "releaseInfo": "1992",
-      "description": "Extracted",
+      "description": "A classic crime thriller with memorable characters and sharp dialogue, appealing to fans of crime movies.",
       "background": "https://image.tmdb.org/t/p/original/eohMDv8x1XRSkPdjWv5xsFct4Dj.jpg",
-      "imdbRating": "8.118"
+      "imdbRating": "8.118",
+      "rating": 8.118
     },
     {
-      "id": "tt0084787",
+      "id": "tt0057012",
       "type": "movie",
-      "name": "The Thing",
-      "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
-      "releaseInfo": "1982",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "imdbRating": "8.1"
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "poster": "https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "releaseInfo": "1964",
+      "description": "Darkly comedic satire with war themes, comparable to elements found in 'Inglourious Basterds' and 'Three Kings'.",
+      "background": "https://image.tmdb.org/t/p/original/4LmNLvXP5SZ5TrZEkNhC7dbjUNV.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1
     },
     {
-      "id": "tt0119081",
+      "id": "tt0365748",
       "type": "movie",
-      "name": "Event Horizon",
-      "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
-      "releaseInfo": "1997",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/awZTuWkDAtt1hUl08PFuVhKkHow.jpg",
-      "imdbRating": "6.573"
-    },
-    {
-      "id": "tt0448134",
-      "type": "movie",
-      "name": "Sunshine",
-      "poster": "https://image.tmdb.org/t/p/w500/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
-      "releaseInfo": "2007",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
-      "imdbRating": "6.969"
-    },
-    {
-      "id": "tt0119177",
-      "type": "movie",
-      "name": "Gattaca",
-      "poster": "https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
-      "releaseInfo": "1997",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
-      "imdbRating": "7.564"
-    },
-    {
-      "id": "tt0390384",
-      "type": "movie",
-      "name": "Primer",
-      "poster": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+      "name": "Shaun of the Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
       "releaseInfo": "2004",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/yxlGeAK6BrbKng8VSJSKTpSXSsL.jpg",
-      "imdbRating": "6.762"
+      "description": "A horror-comedy classic blending zombies and British humor, following the vein of movies like 'KPop Demon Hunters' and '28 Days Later'.",
+      "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+      "imdbRating": "7.539",
+      "rating": 7.539
     },
     {
-      "id": "tt2543164",
+      "id": "tt1156398",
       "type": "movie",
-      "name": "Arrival",
-      "poster": "https://image.tmdb.org/t/p/w500/iQBIXJprC8AN7Jwx7aOI0gPUqff.jpg",
-      "releaseInfo": "2016",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/r8FD6CC3GgjWaGVkZh00AcedfpA.jpg",
-      "imdbRating": "7.622"
-    },
-    {
-      "id": "tt0945513",
-      "type": "movie",
-      "name": "Source Code",
-      "poster": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
-      "releaseInfo": "2011",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/s2Cu1y9Al9RbwRU5blAH8wMCrBI.jpg",
-      "imdbRating": "7.306"
-    },
-    {
-      "id": "tt1343727",
-      "type": "movie",
-      "name": "Dredd",
-      "poster": "https://image.tmdb.org/t/p/w500/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
-      "releaseInfo": "2012",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/jUqDBi02CDjqrroC3Zl8hroBbSr.jpg",
-      "imdbRating": "6.855"
-    },
-    {
-      "id": "tt8936646",
-      "type": "movie",
-      "name": "Extraction",
-      "poster": "https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
-      "releaseInfo": "2020",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0993840",
-      "type": "movie",
-      "name": "Army of the Dead",
-      "poster": "https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",
-      "releaseInfo": "2021",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
-      "imdbRating": "6.223"
-    },
-    {
-      "id": "tt1037705",
-      "type": "movie",
-      "name": "The Book of Eli",
-      "poster": "https://image.tmdb.org/t/p/w500/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
-      "releaseInfo": "2010",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
-      "imdbRating": "6.794"
-    },
-    {
-      "id": "tt1424381",
-      "type": "movie",
-      "name": "Predators",
-      "poster": "https://image.tmdb.org/t/p/w500/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
-      "releaseInfo": "2010",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
-      "imdbRating": "6.298"
-    },
-    {
-      "id": "tt0280609",
-      "type": "movie",
-      "name": "Dog Soldiers",
-      "poster": "https://image.tmdb.org/t/p/w500/fYHUYWglzq8Ax0EaDWqg9emjL7T.jpg",
-      "releaseInfo": "2002",
-      "description": "Extracted",
-      "background": "https://image.tmdb.org/t/p/original/direyV1rkzuPZNR8k6Z3mHWK3hJ.jpg",
-      "imdbRating": "6.714"
+      "name": "Zombieland",
+      "poster": "https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "releaseInfo": "2009",
+      "description": "Another great horror-comedy, a fun take on the zombie genre, similar to 'Shaun of the Dead' or '28 Days Later' but more humorous.",
+      "background": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+      "imdbRating": "7.259",
+      "rating": 7.259
     },
     {
       "id": "tt1478964",
@@ -396,9 +116,307 @@
       "name": "Attack the Block",
       "poster": "https://image.tmdb.org/t/p/w500/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg",
       "releaseInfo": "2011",
-      "description": "Extracted",
+      "description": "Combines science fiction, action, and comedy with a unique premise, echoing themes from 'The Meteor Man' and other genre-bending films.",
       "background": "https://image.tmdb.org/t/p/original/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg",
-      "imdbRating": "6.462"
+      "imdbRating": "6.462",
+      "rating": 6.462
+    },
+    {
+      "id": "tt1631867",
+      "type": "movie",
+      "name": "Edge of Tomorrow",
+      "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "releaseInfo": "2014",
+      "description": "A sci-fi action film with a clever plot and comedic moments, relating to tastes for Sci-Fi and action such as 'The Running Man'.",
+      "background": "https://image.tmdb.org/t/p/original/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+      "imdbRating": "7.633",
+      "rating": 7.633
+    },
+    {
+      "id": "tt1276104",
+      "type": "movie",
+      "name": "Looper",
+      "poster": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+      "releaseInfo": "2012",
+      "description": "A mind-bending sci-fi thriller with action elements, aligning with the user's appreciation for sci-fi thrillers.",
+      "background": "https://image.tmdb.org/t/p/original/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
+      "imdbRating": "6.901",
+      "rating": 6.901
+    },
+    {
+      "id": "tt1136608",
+      "type": "movie",
+      "name": "District 9",
+      "poster": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "releaseInfo": "2009",
+      "description": "Science fiction with social commentary and action, relating to genres of the watched movies.",
+      "background": "https://image.tmdb.org/t/p/original/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+      "imdbRating": "7.46",
+      "rating": 7.46
+    },
+    {
+      "id": "tt0206634",
+      "type": "movie",
+      "name": "Children of Men",
+      "poster": "https://image.tmdb.org/t/p/w500/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg",
+      "releaseInfo": "2006",
+      "description": "Dystopian science fiction thriller with intense action and suspense, in line with appreciation for action/thriller films.",
+      "background": "https://image.tmdb.org/t/p/original/gFGLwUBhVrq0bq4j9DU08xQDRU2.jpg",
+      "imdbRating": "7.612",
+      "rating": 7.612
+    },
+    {
+      "id": "tt2980592",
+      "type": "movie",
+      "name": "The Guest",
+      "poster": "https://image.tmdb.org/t/p/w500/8hGMD8PhOJrzkew0RZyOWqDhGJR.jpg",
+      "releaseInfo": "2014",
+      "description": "A thriller with dark humor and surprising twists, blending elements of genres they enjoy.",
+      "background": "https://image.tmdb.org/t/p/original/tooNIFHXIY3rBjCMLCET8yC8cIb.jpg",
+      "imdbRating": "6.643",
+      "rating": 6.643
+    },
+    {
+      "id": "tt1392214",
+      "type": "movie",
+      "name": "Prisoners",
+      "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
+      "releaseInfo": "2013",
+      "description": "A dark and suspenseful thriller with a compelling mystery, appealing to the user's interest in intense thrillers.",
+      "background": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
+      "imdbRating": "8.102",
+      "rating": 8.102
+    },
+    {
+      "id": "tt2267998",
+      "type": "movie",
+      "name": "Gone Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "releaseInfo": "2014",
+      "description": "A twisty and suspenseful thriller with a compelling mystery, similar to some of the more plot-driven movies.",
+      "background": "https://image.tmdb.org/t/p/original/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+      "imdbRating": "7.889",
+      "rating": 7.889
+    },
+    {
+      "id": "tt3397884",
+      "type": "movie",
+      "name": "Sicario",
+      "poster": "https://image.tmdb.org/t/p/w500/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "releaseInfo": "2015",
+      "description": "A gripping crime thriller with intense atmosphere and suspense, fitting with the crime thrillers the user has watched.",
+      "background": "https://image.tmdb.org/t/p/original/meeileDF37uB8ykIs4iFb713ABO.jpg",
+      "imdbRating": "7.414",
+      "rating": 7.414
+    },
+    {
+      "id": "tt5362988",
+      "type": "movie",
+      "name": "Wind River",
+      "poster": "https://image.tmdb.org/t/p/w500/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "releaseInfo": "2017",
+      "description": "A crime thriller with a strong sense of atmosphere and mystery, echoing the user's taste for thrillers.",
+      "background": "https://image.tmdb.org/t/p/original/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4
+    },
+    {
+      "id": "tt2084970",
+      "type": "movie",
+      "name": "The Imitation Game",
+      "poster": "https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "releaseInfo": "2014",
+      "description": "A historical thriller with a compelling plot and strong performances, matching the user's interest in thrilling narratives.",
+      "background": "https://image.tmdb.org/t/p/original/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "imdbRating": "7.988",
+      "rating": 7.988
+    },
+    {
+      "id": "tt2543164",
+      "type": "movie",
+      "name": "Arrival",
+      "poster": "https://image.tmdb.org/t/p/w500/iQBIXJprC8AN7Jwx7aOI0gPUqff.jpg",
+      "releaseInfo": "2016",
+      "description": "Thought-provoking science fiction with a focus on communication and mystery, relating to the enjoyment of sci-fi films.",
+      "background": "https://image.tmdb.org/t/p/original/r8FD6CC3GgjWaGVkZh00AcedfpA.jpg",
+      "imdbRating": "7.622",
+      "rating": 7.622
+    },
+    {
+      "id": "tt0470752",
+      "type": "movie",
+      "name": "Ex Machina",
+      "poster": "https://image.tmdb.org/t/p/w500/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "releaseInfo": "2014",
+      "description": "A smart and suspenseful science fiction thriller, fitting their appreciation for the genre.",
+      "background": "https://image.tmdb.org/t/p/original/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+      "imdbRating": "7.573",
+      "rating": 7.573
+    },
+    {
+      "id": "tt0246578",
+      "type": "movie",
+      "name": "Donnie Darko",
+      "poster": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "releaseInfo": "2001",
+      "description": "Cult classic blending science fiction, mystery, and teenage drama with dark themes.",
+      "background": "https://image.tmdb.org/t/p/original/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "imdbRating": "7.765",
+      "rating": 7.765
+    },
+    {
+      "id": "tt0390384",
+      "type": "movie",
+      "name": "Primer",
+      "poster": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+      "releaseInfo": "2004",
+      "description": "Indie sci-fi thriller with a complex time travel plot, catering to those who like challenging films.",
+      "background": "https://image.tmdb.org/t/p/original/yxlGeAK6BrbKng8VSJSKTpSXSsL.jpg",
+      "imdbRating": "6.762",
+      "rating": 6.762
+    },
+    {
+      "id": "tt0353969",
+      "type": "movie",
+      "name": "Memories of Murder",
+      "poster": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+      "releaseInfo": "2003",
+      "description": "A South Korean crime thriller with dark humor and suspenseful investigation, much like 'Wake Up Dead Man: A Knives Out Mystery'.",
+      "background": "https://image.tmdb.org/t/p/original/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
+      "imdbRating": "8.054",
+      "rating": 8.054
+    },
+    {
+      "id": "tt1190539",
+      "type": "movie",
+      "name": "The Chaser",
+      "poster": "https://image.tmdb.org/t/p/w500/hy49xJiKN1nakkN1ZmKuOf6vQYR.jpg",
+      "releaseInfo": "2008",
+      "description": "Another South Korean thriller, this time about a serial killer pursuit, dark and gripping.",
+      "background": "https://image.tmdb.org/t/p/original/urBBFQrrVxy7T8uytrn7dOoHqZn.jpg",
+      "imdbRating": "7.752",
+      "rating": 7.752
+    },
+    {
+      "id": "tt1588170",
+      "type": "movie",
+      "name": "I Saw the Devil",
+      "poster": "https://image.tmdb.org/t/p/w500/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg",
+      "releaseInfo": "2010",
+      "description": "A brutal and suspenseful revenge thriller from South Korea, aligning with the user's liking for thrillers.",
+      "background": "https://image.tmdb.org/t/p/original/ylqOWMU3nyZqg8hjJBG4EPdsGSk.jpg",
+      "imdbRating": "7.788",
+      "rating": 7.788
+    },
+    {
+      "id": "tt5700672",
+      "type": "movie",
+      "name": "Train to Busan",
+      "poster": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+      "releaseInfo": "2016",
+      "description": "Fast-paced and thrilling zombie film from South Korea, which may be fun after watching '28 Days Later'.",
+      "background": "https://image.tmdb.org/t/p/original/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
+      "imdbRating": "7.748",
+      "rating": 7.748
+    },
+    {
+      "id": "tt6751668",
+      "type": "movie",
+      "name": "Parasite",
+      "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "releaseInfo": "2019",
+      "description": "A darkly comedic thriller with social commentary, and twists, that will entertain after viewing 'Wake Up Dead Man: A Knives Out Mystery'.",
+      "background": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "imdbRating": "8.495",
+      "rating": 8.495
+    },
+    {
+      "id": "tt9071180",
+      "type": "movie",
+      "name": "Burning",
+      "poster": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
+      "releaseInfo": "2018",
+      "description": "A slow-burn mystery thriller with a complex narrative and strong performances, similar to 'Night Is Short, Walk On Girl'.",
+      "background": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5
+    },
+    {
+      "id": "tt6878038",
+      "type": "movie",
+      "name": "A Taxi Driver",
+      "poster": "https://image.tmdb.org/t/p/w500/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg",
+      "releaseInfo": "2017",
+      "description": "Based on true events, historical Korean movie, relating to themes of war found in watched movies.",
+      "background": "https://image.tmdb.org/t/p/original/5l2kTFOC9QicBxOVpocy5pSu4i8.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0
+    },
+    {
+      "id": "tt0078788",
+      "type": "movie",
+      "name": "Apocalypse Now",
+      "poster": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "releaseInfo": "1979",
+      "description": "Classic war film, similar themes to 'Inglourious Basterds' and 'Three Kings'.",
+      "background": "https://image.tmdb.org/t/p/original/eN5G8vTWLnZxJ0LTd4g27oPObcZ.jpg",
+      "imdbRating": "8.268",
+      "rating": 8.268
+    },
+    {
+      "id": "tt0093058",
+      "type": "movie",
+      "name": "Full Metal Jacket",
+      "poster": "https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "releaseInfo": "1987",
+      "description": "Another classic war film, relating to themes of 'The Hurt Locker'",
+      "background": "https://image.tmdb.org/t/p/original/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+      "imdbRating": "8.122",
+      "rating": 8.122
+    },
+    {
+      "id": "tt0120863",
+      "type": "movie",
+      "name": "The Thin Red Line",
+      "poster": "https://image.tmdb.org/t/p/w500/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+      "releaseInfo": "1998",
+      "description": "War film with dark themes and great acting, echoing themes found in 'Inglourious Basterds'.",
+      "background": "https://image.tmdb.org/t/p/original/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+      "imdbRating": "7.445",
+      "rating": 7.445
+    },
+    {
+      "id": "tt5727208",
+      "type": "movie",
+      "name": "Uncut Gems",
+      "poster": "https://image.tmdb.org/t/p/w500/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "releaseInfo": "2019",
+      "description": "Intense and stressful crime thriller with a frenetic pace, aligning with the user's liking for crime movies.",
+      "background": "https://image.tmdb.org/t/p/original/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+      "imdbRating": "7.156",
+      "rating": 7.156
+    },
+    {
+      "id": "tt4846232",
+      "type": "movie",
+      "name": "Good Time",
+      "poster": "https://image.tmdb.org/t/p/w500/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "releaseInfo": "2017",
+      "description": "Another fast-paced crime thriller with a gritty aesthetic, similar to films the user has enjoyed.",
+      "background": "https://image.tmdb.org/t/p/original/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+      "imdbRating": "7.217",
+      "rating": 7.217
+    },
+    {
+      "id": "tt0083190",
+      "type": "movie",
+      "name": "Thief",
+      "poster": "https://image.tmdb.org/t/p/w500/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "releaseInfo": "1981",
+      "description": "Stylish heist movie with a strong focus on atmosphere and character, similar to those found in crime movies.",
+      "background": "https://image.tmdb.org/t/p/original/3pYudqkEC8rkjqpBw8pqoLUtGHe.jpg",
+      "imdbRating": "7.212",
+      "rating": 7.212
     }
   ]
 }
