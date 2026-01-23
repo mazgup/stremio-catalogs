@@ -1,3 +1,404 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt3521164",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
+      "releaseInfo": "2016",
+      "description": "Adventure, music, and a strong female lead like Brave.",
+      "background": "https://image.tmdb.org/t/p/original/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
+      "imdbRating": "7.563"
+    },
+    {
+      "id": "tt0892769",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "releaseInfo": "2010",
+      "description": "Exciting adventure with dragons and a great friendship story.",
+      "background": "https://image.tmdb.org/t/p/original/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "imdbRating": "7.855"
+    },
+    {
+      "id": "tt0114709",
+      "type": "movie",
+      "name": "Toy Story",
+      "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "releaseInfo": "1995",
+      "description": "Classic animation about friendship and growing up.",
+      "background": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "imdbRating": "7.97"
+    },
+    {
+      "id": "tt0120363",
+      "type": "movie",
+      "name": "Toy Story 2",
+      "poster": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+      "releaseInfo": "1999",
+      "description": "Continues the fun and adventure of the first Toy Story.",
+      "background": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+      "imdbRating": "7.604"
+    },
+    {
+      "id": "tt0435761",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "releaseInfo": "2010",
+      "description": "Emotional and exciting conclusion to the original Toy Story trilogy.",
+      "background": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+      "imdbRating": "7.804"
+    },
+    {
+      "id": "tt0266543",
+      "type": "movie",
+      "name": "Finding Nemo",
+      "poster": "https://image.tmdb.org/t/p/w500/axyrDKJmQpynKOESqxO2wKmhj9n.jpg",
+      "releaseInfo": "2003",
+      "description": "Beautiful animation with a heartwarming story about family.",
+      "background": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt2277860",
+      "type": "movie",
+      "name": "Finding Dory",
+      "poster": "https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+      "releaseInfo": "2016",
+      "description": "Funny and heartwarming adventure with memorable characters.",
+      "background": "https://image.tmdb.org/t/p/original/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+      "imdbRating": "7.04"
+    },
+    {
+      "id": "tt7979580",
+      "type": "movie",
+      "name": "The Mitchells vs. The Machines",
+      "poster": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "releaseInfo": "2021",
+      "description": "Hilarious and action-packed animated adventure.",
+      "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+      "imdbRating": "7.857"
+    },
+    {
+      "id": "tt1109624",
+      "type": "movie",
+      "name": "Paddington",
+      "poster": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "releaseInfo": "2014",
+      "description": "Charming and funny live-action/animated hybrid.",
+      "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "imdbRating": "7.115"
+    },
+    {
+      "id": "tt4468740",
+      "type": "movie",
+      "name": "Paddington 2",
+      "poster": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "releaseInfo": "2017",
+      "description": "Equally charming and funny sequel with Paddington.",
+      "background": "https://image.tmdb.org/t/p/original/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "imdbRating": "7.478"
+    },
+    {
+      "id": "tt0481499",
+      "type": "movie",
+      "name": "The Croods",
+      "poster": "https://image.tmdb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+      "releaseInfo": "2013",
+      "description": "Funny and heartwarming story about a prehistoric family.",
+      "background": "https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+      "imdbRating": "6.928"
+    },
+    {
+      "id": "tt2850386",
+      "type": "movie",
+      "name": "The Croods: A New Age",
+      "poster": "https://image.tmdb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+      "releaseInfo": "2020",
+      "description": "Continues the adventures of the Croods family.",
+      "background": "https://image.tmdb.org/t/p/original/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+      "imdbRating": "7.455"
+    },
+    {
+      "id": "tt1323594",
+      "type": "movie",
+      "name": "Despicable Me",
+      "poster": "https://image.tmdb.org/t/p/w500/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+      "releaseInfo": "2010",
+      "description": "Funny and heartwarming story about a villain who becomes a dad.",
+      "background": "https://image.tmdb.org/t/p/original/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+      "imdbRating": "7.255"
+    },
+    {
+      "id": "tt1690953",
+      "type": "movie",
+      "name": "Despicable Me 2",
+      "poster": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+      "releaseInfo": "2013",
+      "description": "More fun with Gru and the Minions.",
+      "background": "https://image.tmdb.org/t/p/original/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
+      "imdbRating": "6.94"
+    },
+    {
+      "id": "tt3469046",
+      "type": "movie",
+      "name": "Despicable Me 3",
+      "poster": "https://image.tmdb.org/t/p/w500/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
+      "releaseInfo": "2017",
+      "description": "Even more hilarious adventures with the Despicable Me family.",
+      "background": "https://image.tmdb.org/t/p/original/7JGfZGooHS4uHRHuYpfWLAcCNsE.jpg",
+      "imdbRating": "6.464"
+    },
+    {
+      "id": "tt2293640",
+      "type": "movie",
+      "name": "Minions",
+      "poster": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+      "releaseInfo": "2015",
+      "description": "Origin story of the beloved Minions.",
+      "background": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+      "imdbRating": "6.417"
+    },
+    {
+      "id": "tt5113044",
+      "type": "movie",
+      "name": "Minions: The Rise of Gru",
+      "poster": "https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "releaseInfo": "2022",
+      "description": "More Minion fun and Gru's early villainous adventures.",
+      "background": "https://image.tmdb.org/t/p/original/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+      "imdbRating": "7.279"
+    },
+    {
+      "id": "tt0198781",
+      "type": "movie",
+      "name": "Monsters, Inc.",
+      "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "releaseInfo": "2001",
+      "description": "Creative and funny story about monsters who work in a scare factory.",
+      "background": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+      "imdbRating": "7.847"
+    },
+    {
+      "id": "tt1453405",
+      "type": "movie",
+      "name": "Monsters University",
+      "poster": "https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+      "releaseInfo": "2013",
+      "description": "Prequel about how Sully and Mike met in college.",
+      "background": "https://image.tmdb.org/t/p/original/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg",
+      "imdbRating": "7.044"
+    },
+    {
+      "id": "tt0382932",
+      "type": "movie",
+      "name": "Ratatouille",
+      "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "releaseInfo": "2007",
+      "description": "Charming story about a rat who wants to be a chef.",
+      "background": "https://image.tmdb.org/t/p/original/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+      "imdbRating": "7.835"
+    },
+    {
+      "id": "tt0317219",
+      "type": "movie",
+      "name": "Cars",
+      "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+      "releaseInfo": "2006",
+      "description": "Fun adventure about racing and friendship.",
+      "background": "https://image.tmdb.org/t/p/original/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+      "imdbRating": "7.018"
+    },
+    {
+      "id": "tt1216475",
+      "type": "movie",
+      "name": "Cars 2",
+      "poster": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+      "releaseInfo": "2011",
+      "description": "More racing adventures with Lightning McQueen and Mater.",
+      "background": "https://image.tmdb.org/t/p/original/mDb6HtfFYe8gzxo8d6S1mFkzoBW.jpg",
+      "imdbRating": "6.17"
+    },
+    {
+      "id": "tt3606752",
+      "type": "movie",
+      "name": "Cars 3",
+      "poster": "https://image.tmdb.org/t/p/w500/fyy1nDC8wm553FCiBDojkJmKLCs.jpg",
+      "releaseInfo": "2017",
+      "description": "Emotional story about Lightning McQueen facing his racing future.",
+      "background": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+      "imdbRating": "6.854"
+    },
+    {
+      "id": "tt12801262",
+      "type": "movie",
+      "name": "Luca",
+      "poster": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+      "releaseInfo": "2021",
+      "description": "Charming story about friendship and acceptance set in Italy.",
+      "background": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "imdbRating": "7.788"
+    },
+    {
+      "id": "tt7146812",
+      "type": "movie",
+      "name": "Onward",
+      "poster": "https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "releaseInfo": "2020",
+      "description": "Fantasy adventure about two brothers on a quest.",
+      "background": "https://image.tmdb.org/t/p/original/bcT8CaBIj086WVD7K529h78eujb.jpg",
+      "imdbRating": "7.648"
+    },
+    {
+      "id": "tt0780521",
+      "type": "movie",
+      "name": "The Princess and the Frog",
+      "poster": "https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
+      "releaseInfo": "2009",
+      "description": "Musical and magical story set in New Orleans.",
+      "background": "https://image.tmdb.org/t/p/original/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+      "imdbRating": "7.216"
+    },
+    {
+      "id": "tt0120917",
+      "type": "movie",
+      "name": "The Emperor's New Groove",
+      "poster": "https://image.tmdb.org/t/p/w500/isA0acj3ONKBLp1pKadUNzxEPFv.jpg",
+      "releaseInfo": "2000",
+      "description": "Hilarious and quirky comedy with a unique art style.",
+      "background": "https://image.tmdb.org/t/p/original/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+      "imdbRating": "7.558"
+    },
+    {
+      "id": "tt0275847",
+      "type": "movie",
+      "name": "Lilo & Stitch",
+      "poster": "https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
+      "releaseInfo": "2002",
+      "description": "Heartwarming story about family and friendship.",
+      "background": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+      "imdbRating": "7.563"
+    },
+    {
+      "id": "tt0120630",
+      "type": "movie",
+      "name": "Chicken Run",
+      "poster": "https://image.tmdb.org/t/p/w500/oYbVT9e0k2ZSrRhDSCw2Yqshe1n.jpg",
+      "releaseInfo": "2000",
+      "description": "Claymation adventure about chickens escaping a farm.",
+      "background": "https://image.tmdb.org/t/p/original/fPIFWeRec2gwho9fbxHu91mcYds.jpg",
+      "imdbRating": "6.835"
+    },
+    {
+      "id": "tt2872750",
+      "type": "movie",
+      "name": "A Shaun the Sheep Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg",
+      "releaseInfo": "2015",
+      "description": "Hilarious and charming stop-motion animation.",
+      "background": "https://image.tmdb.org/t/p/original/sQbpfYoGiEBUnr8tBjHP51heNNT.jpg",
+      "imdbRating": "6.983"
+    },
+    {
+      "id": "tt6193408",
+      "type": "movie",
+      "name": "Shaun the Sheep Movie: Farmageddon",
+      "poster": "https://image.tmdb.org/t/p/w500/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg",
+      "releaseInfo": "2019",
+      "description": "Another fun and silly adventure with Shaun the Sheep.",
+      "background": "https://image.tmdb.org/t/p/original/AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0844471",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs",
+      "poster": "https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+      "releaseInfo": "2009",
+      "description": "Silly and imaginative animated comedy.",
+      "background": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
+      "imdbRating": "6.654"
+    },
+    {
+      "id": "tt1985966",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs 2",
+      "poster": "https://image.tmdb.org/t/p/w500/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg",
+      "releaseInfo": "2013",
+      "description": "More food-related fun and adventure.",
+      "background": "https://image.tmdb.org/t/p/original/cZPw0ZHqx3t6WGMdIUWkGIlHctb.jpg",
+      "imdbRating": "6.455"
+    },
+    {
+      "id": "tt1490017",
+      "type": "movie",
+      "name": "The Lego Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "releaseInfo": "2014",
+      "description": "Creative and funny animated adventure with Lego characters.",
+      "background": "https://image.tmdb.org/t/p/original/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+      "imdbRating": "7.423"
+    },
+    {
+      "id": "tt3513498",
+      "type": "movie",
+      "name": "The Lego Movie 2: The Second Part",
+      "poster": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+      "releaseInfo": "2019",
+      "description": "Continues the fun and adventure of the first Lego Movie.",
+      "background": "https://image.tmdb.org/t/p/original/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
+      "imdbRating": "6.66"
+    },
+    {
+      "id": "tt0848537",
+      "type": "movie",
+      "name": "Epic",
+      "poster": "https://image.tmdb.org/t/p/w500/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+      "releaseInfo": "2013",
+      "description": "Beautifully animated adventure set in a hidden world.",
+      "background": "https://image.tmdb.org/t/p/original/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
+      "imdbRating": "6.544"
+    },
+    {
+      "id": "tt1436562",
+      "type": "movie",
+      "name": "Rio",
+      "poster": "https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg",
+      "releaseInfo": "2011",
+      "description": "Colorful and musical adventure set in Brazil.",
+      "background": "https://image.tmdb.org/t/p/original/3vxlXdwBKztOJdgiZ2Qwasl9FY4.jpg",
+      "imdbRating": "6.757"
+    },
+    {
+      "id": "tt2357291",
+      "type": "movie",
+      "name": "Rio 2",
+      "poster": "https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg",
+      "releaseInfo": "2014",
+      "description": "Continues the adventures of Blu and Jewel.",
+      "background": "https://image.tmdb.org/t/p/original/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg",
+      "imdbRating": "6.523"
+    },
+    {
+      "id": "tt2224026",
+      "type": "movie",
+      "name": "Home",
+      "poster": "https://image.tmdb.org/t/p/w500/usFenYnk6mr8C62dB1MoAfSWMGR.jpg",
+      "releaseInfo": "2015",
+      "description": "Cute and funny story about an alien who befriends a human girl.",
+      "background": "https://image.tmdb.org/t/p/original/gnkBzJVH2zicIopP2fHf4kRElne.jpg",
+      "imdbRating": "6.793"
+    },
+    {
+      "id": "tt6324278",
+      "type": "movie",
+      "name": "Abominable",
+      "poster": "https://image.tmdb.org/t/p/w500/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+      "releaseInfo": "2019",
+      "description": "Adventure about a girl who helps a yeti return home.",
+      "background": "https://image.tmdb.org/t/p/original/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
+      "imdbRating": "7.456"
+    }
+  ]
 }
