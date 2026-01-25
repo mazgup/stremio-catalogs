@@ -1,0 +1,37 @@
+{
+  "metas": [
+    {
+      "id": "tt10462034",
+      "type": "series",
+      "name": "Dark (2017)",
+      "poster": "https://image.tmdb.org/t/p/w500/dJNIljz6s1EBwg0UoK4csylUykc.jpg",
+      "releaseInfo": "2017",
+      "description": "A mind-bending German sci-fi mystery with time travel, family secrets, and a very dark tone, similar to 'Stranger Things' but more complex and philosophical.",
+      "background": "https://image.tmdb.org/t/p/original/zLNAMUf8NpfGeKiJaocIKKSTmeQ.jpg",
+      "imdbRating": "6.4",
+      "rating": 6.4
+    },
+    {
+      "id": "tt4032214",
+      "type": "series",
+      "name": "Chernobyl (2019)",
+      "poster": "https://image.tmdb.org/t/p/w500/91u0ITxwdfXSFGXnCFUmoGglmnn.jpg",
+      "releaseInfo": "2019",
+      "description": "A gripping historical drama about the Chernobyl disaster, showcasing the human cost of negligence and the bravery of those who risked their lives. Very intense and realistic.",
+      "background": "https://image.tmdb.org/t/p/original/qpglZLE07zHw63rNncNMDYF7Xtp.jpg",
+      "imdbRating": "7.779",
+      "rating": 7.779
+    },
+    {
+      "id": "tt20871864",
+      "type": "series",
+      "name": "From (2022)",
+      "poster": "https://image.tmdb.org/t/p/w500/AeNL3o3b6PjFU6CGmj4rHQVBAL7.jpg",
+      "releaseInfo": "2022",
+      "description": "A horror series about a town that traps everyone who enters. As residents struggle to keep a sense of normalcy, they must also survive the threats of the surrounding forest, which include terrifying creatures that come out after dark.",
+      "background": "https://image.tmdb.org/t/p/original/yoqkoOWLlocg5RowEeUwDxyz7gq.jpg",
+      "imdbRating": "9.0",
+      "rating": 9.0
+    }
+  ]
+}
