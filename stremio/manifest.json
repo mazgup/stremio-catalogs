@@ -1,8 +1,8 @@
 {
   "id": "org.mazgup.ai_recommender",
   "name": "AI Recommendations",
-  "description": "Personalized recommendations for Movies and TV Shows",
-  "version": "1.1.0",
+  "description": "Personalized recommendations for Movies and TV Shows (6 Streams)",
+  "version": "1.2.0",
   "resources": [
     "catalog"
   ],
@@ -16,15 +16,27 @@
   "posterShape": "poster",
   "catalogs": [
     {
-      "id": "ai_movies",
+      "id": "movies_serious",
       "type": "movie",
-      "name": "AI Movies",
+      "name": "AI Movies - Serious",
       "extra": []
     },
     {
-      "id": "ai_tv",
+      "id": "movies_light",
+      "type": "movie",
+      "name": "AI Movies - Light",
+      "extra": []
+    },
+    {
+      "id": "tv_serious",
       "type": "series",
-      "name": "AI TV Shows",
+      "name": "AI TV - Serious",
+      "extra": []
+    },
+    {
+      "id": "tv_light",
+      "type": "series",
+      "name": "AI TV - Light",
       "extra": []
     },
     {
