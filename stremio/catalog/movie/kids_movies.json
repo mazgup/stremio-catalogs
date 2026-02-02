@@ -1,114 +1,15 @@
 {
   "metas": [
     {
-      "id": "tt1568921",
-      "type": "movie",
-      "name": "The Secret World of Arrietty",
-      "poster": "https://image.tmdb.org/t/p/w500/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
-      "releaseInfo": "2010",
-      "description": "Similar to Kiki's Delivery Service and My Neighbor Totoro, this film features charming animation, a gentle fantasy world, and a focus on a young protagonist discovering magic in everyday life.",
-      "background": "https://image.tmdb.org/t/p/original/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
-      "imdbRating": "7.666",
-      "rating": 7.666
-    },
-    {
-      "id": "tt0347149",
-      "type": "movie",
-      "name": "Howl's Moving Castle",
-      "poster": "https://image.tmdb.org/t/p/w500/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
-      "releaseInfo": "2004",
-      "description": "Another enchanting Studio Ghibli film with a strong female lead, imaginative fantasy elements, and a heartwarming story, much like Kiki's Delivery Service and Spirited Away.",
-      "background": "https://image.tmdb.org/t/p/original/pjy0T63vIFYvxRSJ3ZtjB4tmWV4.jpg",
-      "imdbRating": "8.388",
-      "rating": 8.388
-    },
-    {
-      "id": "tt0087544",
-      "type": "movie",
-      "name": "Nausica\u00e4 of the Valley of the Wind",
-      "poster": "https://image.tmdb.org/t/p/w500/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
-      "releaseInfo": "1984",
-      "description": "A classic Studio Ghibli adventure with a strong environmental message and a brave young heroine, fitting the fantasy and adventure aspects of their watched Ghibli films.",
-      "background": "https://image.tmdb.org/t/p/original/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
-      "imdbRating": "7.95",
-      "rating": 7.95
-    },
-    {
-      "id": "tt0092067",
-      "type": "movie",
-      "name": "Castle in the Sky",
-      "poster": "https://image.tmdb.org/t/p/w500/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
-      "releaseInfo": "1986",
-      "description": "Features thrilling adventure, a sense of wonder, and young protagonists on a quest, aligning with the adventure and fantasy elements of Brave and Tangled.",
-      "background": "https://image.tmdb.org/t/p/original/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
-      "imdbRating": "7.968",
-      "rating": 7.968
-    },
-    {
-      "id": "tt0119698",
-      "type": "movie",
-      "name": "Princess Mononoke",
-      "poster": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
-      "releaseInfo": "1997",
-      "description": "While slightly more mature themes, it's still a beautiful adventure with a strong protagonist and fantastical elements, similar to the adventure and fantasy of Brave and Puss in Boots.",
-      "background": "https://image.tmdb.org/t/p/original/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
-      "imdbRating": "8.322",
-      "rating": 8.322
-    },
-    {
       "id": "tt4729430",
       "type": "movie",
       "name": "Klaus",
       "poster": "https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
       "releaseInfo": "2019",
-      "description": "A beautifully animated and heartwarming story with a touch of magic and humor, reminiscent of the family-friendly charm found in Studio Ghibli films and Kung Fu Panda.",
+      "description": "A visually stunning and heartwarming animated film with a unique origin story for Santa Claus, perfect for the fantasy and family elements they enjoy.",
       "background": "https://image.tmdb.org/t/p/original/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
-      "imdbRating": "8.225",
-      "rating": 8.225
-    },
-    {
-      "id": "tt1109624",
-      "type": "movie",
-      "name": "Paddington",
-      "poster": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
-      "releaseInfo": "2014",
-      "description": "A delightful family comedy with a lovable protagonist and heartwarming adventures, similar to the humor and family focus of The Bad Guys and Kung Fu Panda.",
-      "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
-      "imdbRating": "7.117",
-      "rating": 7.117
-    },
-    {
-      "id": "tt4468740",
-      "type": "movie",
-      "name": "Paddington 2",
-      "poster": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
-      "releaseInfo": "2017",
-      "description": "Continues the charming adventures and humor of the first film, offering more of the family comedy and adventure that kids enjoyed in Wallace & Gromit and The Bad Guys.",
-      "background": "https://image.tmdb.org/t/p/original/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
-      "imdbRating": "7.475",
-      "rating": 7.475
-    },
-    {
-      "id": "tt7979580",
-      "type": "movie",
-      "name": "The Mitchells vs. The Machines",
-      "poster": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
-      "releaseInfo": "2021",
-      "description": "A hilarious and action-packed animated adventure with a quirky family at its center, comparable to the comedy and adventure of Zootopia and Kung Fu Panda.",
-      "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
-      "imdbRating": "7.857",
-      "rating": 7.857
-    },
-    {
-      "id": "tt4633694",
-      "type": "movie",
-      "name": "Spider-Man: Into the Spider-Verse",
-      "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-      "releaseInfo": "2018",
-      "description": "Visually stunning and action-packed, this animated adventure offers a fresh take on superhero stories with humor and heart, appealing to the adventure and animation preferences seen in Zootopia and Puss in Boots.",
-      "background": "https://image.tmdb.org/t/p/original/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
-      "imdbRating": "8.393",
-      "rating": 8.393
+      "imdbRating": "8.224",
+      "rating": 8.224
     },
     {
       "id": "tt0892769",
@@ -116,7 +17,7 @@
       "name": "How to Train Your Dragon",
       "poster": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
       "releaseInfo": "2010",
-      "description": "A fantastic adventure story about friendship and overcoming differences, with stunning animation and a heartwarming message, aligning with the adventure and family themes of Brave and Tangled.",
+      "description": "Features amazing animation, a strong adventure narrative, and a beautiful friendship between a boy and a dragon, aligning with their love for fantasy and adventure.",
       "background": "https://image.tmdb.org/t/p/original/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
       "imdbRating": "7.855",
       "rating": 7.855
@@ -127,7 +28,7 @@
       "name": "How to Train Your Dragon 2",
       "poster": "https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
       "releaseInfo": "2014",
-      "description": "Continues the epic adventures and emotional depth of the first film, offering more of the beloved animation and adventure found in their watch history.",
+      "description": "Continues the epic adventure and character development from the first film, offering more dragons and exciting new worlds.",
       "background": "https://image.tmdb.org/t/p/original/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
       "imdbRating": "7.677",
       "rating": 7.677
@@ -138,21 +39,54 @@
       "name": "How to Train Your Dragon: The Hidden World",
       "poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
       "releaseInfo": "2019",
-      "description": "The conclusion to the beloved trilogy, providing satisfying adventure, stunning visuals, and emotional resonance, appealing to fans of animated adventure like Tangled and Puss in Boots.",
+      "description": "The conclusion to the beloved trilogy, providing a satisfying end to Hiccup and Toothless's journey with more stunning visuals and adventure.",
       "background": "https://image.tmdb.org/t/p/original/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
       "imdbRating": "7.747",
       "rating": 7.747
     },
     {
-      "id": "tt3521164",
+      "id": "tt1109624",
       "type": "movie",
-      "name": "Moana",
-      "poster": "https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
-      "releaseInfo": "2016",
-      "description": "A vibrant animated musical adventure with a strong heroine, beautiful animation, and catchy songs, fitting the musical and adventure aspects of Coco and Sing.",
-      "background": "https://image.tmdb.org/t/p/original/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
-      "imdbRating": "7.563",
-      "rating": 7.563
+      "name": "Paddington",
+      "poster": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "releaseInfo": "2014",
+      "description": "A delightful and charming live-action comedy with a kind-hearted bear at its center, fitting their enjoyment of family comedies and adventure.",
+      "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "imdbRating": "7.117",
+      "rating": 7.117
+    },
+    {
+      "id": "tt4468740",
+      "type": "movie",
+      "name": "Paddington 2",
+      "poster": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "releaseInfo": "2017",
+      "description": "Even more heartwarming and hilarious than the first, Paddington's further adventures are sure to be a hit.",
+      "background": "https://image.tmdb.org/t/p/original/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "imdbRating": "7.476",
+      "rating": 7.476
+    },
+    {
+      "id": "tt5814534",
+      "type": "movie",
+      "name": "Spies in Disguise",
+      "poster": "https://image.tmdb.org/t/p/w500/e7rWcrnuNej3JeVjqmRu0jVeRa4.jpg",
+      "releaseInfo": "2019",
+      "description": "An action-packed animated comedy with great humor and a fun spy theme that echoes the adventure and comedy of Zootopia and Kung Fu Panda.",
+      "background": "https://image.tmdb.org/t/p/original/uG1v9Hk1XKICd6IJChRR20mBh8i.jpg",
+      "imdbRating": "7.565",
+      "rating": 7.565
+    },
+    {
+      "id": "tt5109280",
+      "type": "movie",
+      "name": "Raya and the Last Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+      "releaseInfo": "2021",
+      "description": "A visually spectacular animated adventure with a strong female lead and a quest to save her world, similar to Brave and Tangled.",
+      "background": "https://image.tmdb.org/t/p/original/rcUcYzGGicDvhDs58uM44tJKB9F.jpg",
+      "imdbRating": "7.807",
+      "rating": 7.807
     },
     {
       "id": "tt2953050",
@@ -160,10 +94,87 @@
       "name": "Encanto",
       "poster": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
       "releaseInfo": "2021",
-      "description": "A magical and musical story about family and acceptance, with vibrant animation and memorable songs, similar to Coco and Sing.",
+      "description": "A vibrant and magical animated musical with themes of family and acceptance, reminiscent of Coco and the musical elements of Sing.",
       "background": "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
       "imdbRating": "7.574",
       "rating": 7.574
+    },
+    {
+      "id": "tt7979580",
+      "type": "movie",
+      "name": "The Mitchells vs. the Machines",
+      "poster": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "releaseInfo": "2021",
+      "description": "A highly creative and funny animated adventure about a quirky family saving the world, offering a unique blend of comedy and action.",
+      "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+      "imdbRating": "7.857",
+      "rating": 7.857
+    },
+    {
+      "id": "tt4633694",
+      "type": "movie",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "releaseInfo": "2018",
+      "description": "A groundbreaking animated film with incredible visuals and an engaging story about different Spider-People, appealing to their love for animation and adventure.",
+      "background": "https://image.tmdb.org/t/p/original/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+      "imdbRating": "8.394",
+      "rating": 8.394
+    },
+    {
+      "id": "tt1490017",
+      "type": "movie",
+      "name": "The LEGO Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "releaseInfo": "2014",
+      "description": "An incredibly funny and imaginative animated adventure with a great message about creativity and teamwork.",
+      "background": "https://image.tmdb.org/t/p/original/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+      "imdbRating": "7.422",
+      "rating": 7.422
+    },
+    {
+      "id": "tt4116284",
+      "type": "movie",
+      "name": "The LEGO Batman Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+      "releaseInfo": "2017",
+      "description": "A hilarious and action-packed spin-off that parodies superhero tropes with witty humor, perfect for fans of comedy and adventure.",
+      "background": "https://image.tmdb.org/t/p/original/eoMushgujydxFplE9yPZ54lwOvo.jpg",
+      "imdbRating": "7.233",
+      "rating": 7.233
+    },
+    {
+      "id": "tt3521164",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
+      "releaseInfo": "2016",
+      "description": "A visually stunning animated adventure with a strong female protagonist, catchy songs, and a journey across the ocean, similar to Tangled and Brave.",
+      "background": "https://image.tmdb.org/t/p/original/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
+      "imdbRating": "7.563",
+      "rating": 7.563
+    },
+    {
+      "id": "tt2294629",
+      "type": "movie",
+      "name": "Frozen",
+      "poster": "https://image.tmdb.org/t/p/w500/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "releaseInfo": "2013",
+      "description": "A beloved animated musical fantasy with strong sister relationships and magical elements, fitting the fantasy and family aspects of their watched movies.",
+      "background": "https://image.tmdb.org/t/p/original/9WHM084AoskcHCObAy4QnJg01eM.jpg",
+      "imdbRating": "7.248",
+      "rating": 7.248
+    },
+    {
+      "id": "tt4520988",
+      "type": "movie",
+      "name": "Frozen II",
+      "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "releaseInfo": "2019",
+      "description": "Continues Elsa and Anna's story with a grand adventure and stunning animation, expanding on the magical world they enjoyed.",
+      "background": "https://image.tmdb.org/t/p/original/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+      "imdbRating": "7.236",
+      "rating": 7.236
     },
     {
       "id": "tt0120917",
@@ -171,54 +182,65 @@
       "name": "The Emperor's New Groove",
       "poster": "https://image.tmdb.org/t/p/w500/isA0acj3ONKBLp1pKadUNzxEPFv.jpg",
       "releaseInfo": "2000",
-      "description": "A laugh-out-loud comedy with a unique sense of humor and a fun adventure, appealing to the comedic elements of Kung Fu Panda and The Bad Guys.",
+      "description": "A hilariously witty and fast-paced animated comedy with a unique sense of humor that the kids might enjoy, similar to Kung Fu Panda and Zootopia.",
       "background": "https://image.tmdb.org/t/p/original/w0sI4WjNFhFMNd5QhZYplsADx8g.jpg",
       "imdbRating": "7.558",
       "rating": 7.558
     },
     {
-      "id": "tt0103639",
+      "id": "tt1772341",
       "type": "movie",
-      "name": "Aladdin",
-      "poster": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
-      "releaseInfo": "1992",
-      "description": "A classic Disney animated adventure with humor, romance, and a fantastical element, similar to Tangled and Moana.",
-      "background": "https://image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
-      "imdbRating": "7.654",
-      "rating": 7.654
+      "name": "Wreck-It Ralph",
+      "poster": "https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+      "releaseInfo": "2012",
+      "description": "A creative animated adventure that explores the world of video games, with engaging characters and a fun storyline.",
+      "background": "https://image.tmdb.org/t/p/original/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+      "imdbRating": "7.353",
+      "rating": 7.353
     },
     {
-      "id": "tt0780521",
+      "id": "tt5848272",
       "type": "movie",
-      "name": "The Princess and the Frog",
-      "poster": "https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
-      "releaseInfo": "2009",
-      "description": "A magical adventure with a determined princess, jazz-inspired music, and a charming story, fitting the musical and adventure elements of Coco and Sing.",
-      "background": "https://image.tmdb.org/t/p/original/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
-      "imdbRating": "7.217",
-      "rating": 7.217
+      "name": "Wreck-It Ralph 2: Ralph Breaks the Internet",
+      "poster": "https://image.tmdb.org/t/p/w500/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
+      "releaseInfo": "2018",
+      "description": "Continues Ralph and Vanellope's adventures into the internet, offering more humor, heart, and visual spectacle.",
+      "background": "https://image.tmdb.org/t/p/original/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+      "imdbRating": "7.164",
+      "rating": 7.164
     },
     {
-      "id": "tt1436562",
+      "id": "tt5562070",
       "type": "movie",
-      "name": "Rio",
-      "poster": "https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg",
-      "releaseInfo": "2011",
-      "description": "A colorful and musical animated adventure set in Brazil, with humor and a focus on friendship, resonating with the musical and comedy aspects of Sing and Coco.",
-      "background": "https://image.tmdb.org/t/p/original/yoyLhm534GHsWvx5cNBDhfZdTG7.jpg",
-      "imdbRating": "6.757",
-      "rating": 6.757
+      "name": "Wish Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+      "releaseInfo": "2021",
+      "description": "A charming animated fantasy adventure with a magical dragon and a story about friendship and wishes, similar to Ponyo and Kiki's Delivery Service in its fantastical elements.",
+      "background": "https://image.tmdb.org/t/p/original/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+      "imdbRating": "7.851",
+      "rating": 7.851
     },
     {
-      "id": "tt2357291",
+      "id": "tt12801262",
       "type": "movie",
-      "name": "Rio 2",
-      "poster": "https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg",
-      "releaseInfo": "2014",
-      "description": "Continues the vibrant musical adventures and humor of the first film, offering more of the family-friendly entertainment they enjoyed.",
-      "background": "https://image.tmdb.org/t/p/original/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5
+      "name": "Luca",
+      "poster": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+      "releaseInfo": "2021",
+      "description": "A visually beautiful and heartwarming animated film about friendship and adventure set in the Italian Riviera, with a touch of magical realism.",
+      "background": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "imdbRating": "7.788",
+      "rating": 7.788
+    },
+    {
+      "id": "tt8097030",
+      "type": "movie",
+      "name": "Turning Red",
+      "poster": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "releaseInfo": "2022",
+      "description": "A vibrant and relatable animated film about a teenage girl who turns into a red panda when she gets excited, blending family, comedy, and a touch of fantasy.",
+      "background": "https://image.tmdb.org/t/p/original/b8Ma7TkasTDpMIkoIngzHVcgANa.jpg",
+      "imdbRating": "7.322",
+      "rating": 7.322
     },
     {
       "id": "tt2245084",
@@ -226,65 +248,10 @@
       "name": "Big Hero 6",
       "poster": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
       "releaseInfo": "2014",
-      "description": "A heartwarming and action-packed animated film about friendship and innovation, with a touch of sci-fi adventure, appealing to the adventure and family themes of Zootopia and Tangled.",
+      "description": "An action-packed animated adventure with a blend of science fiction, humor, and a strong emotional core, appealing to adventure and family interests.",
       "background": "https://image.tmdb.org/t/p/original/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
       "imdbRating": "7.725",
       "rating": 7.725
-    },
-    {
-      "id": "tt0126029",
-      "type": "movie",
-      "name": "Shrek",
-      "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-      "releaseInfo": "2001",
-      "description": "A groundbreaking animated comedy with fairy tale twists and a lot of humor, similar to the comedic style of Kung Fu Panda and The Bad Guys.",
-      "background": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
-      "imdbRating": "7.755",
-      "rating": 7.755
-    },
-    {
-      "id": "tt0298148",
-      "type": "movie",
-      "name": "Shrek 2",
-      "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
-      "releaseInfo": "2004",
-      "description": "A highly popular sequel that expands on the humor and adventure of the first film, offering more of the family comedy they enjoyed.",
-      "background": "https://image.tmdb.org/t/p/original/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
-      "imdbRating": "7.305",
-      "rating": 7.305
-    },
-    {
-      "id": "tt1302011",
-      "type": "movie",
-      "name": "Kung Fu Panda 2",
-      "poster": "https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
-      "releaseInfo": "2011",
-      "description": "Continues the action-packed adventures and comedic charm of the original, providing more of the martial arts fun and family comedy they liked.",
-      "background": "https://image.tmdb.org/t/p/original/reHkSQwiYKK4SabnGDY1FWKie82.jpg",
-      "imdbRating": "7.057",
-      "rating": 7.057
-    },
-    {
-      "id": "tt2267968",
-      "type": "movie",
-      "name": "Kung Fu Panda 3",
-      "poster": "https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
-      "releaseInfo": "2016",
-      "description": "The third installment offers more of the beloved animation, humor, and martial arts action, appealing to fans of the series and similar animated comedies.",
-      "background": "https://image.tmdb.org/t/p/original/7iF0ny6ARJ2akZIfILvE4QWyCMy.jpg",
-      "imdbRating": "6.921",
-      "rating": 6.921
-    },
-    {
-      "id": "tt1001526",
-      "type": "movie",
-      "name": "Megamind",
-      "poster": "https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
-      "releaseInfo": "2010",
-      "description": "A clever and humorous animated film that puts a twist on superhero tropes, with plenty of laughs and adventure, similar to The Bad Guys and Zootopia.",
-      "background": "https://image.tmdb.org/t/p/original/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
-      "imdbRating": "7.016",
-      "rating": 7.016
     },
     {
       "id": "tt1323594",
@@ -292,10 +259,10 @@
       "name": "Despicable Me",
       "poster": "https://image.tmdb.org/t/p/w500/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
       "releaseInfo": "2010",
-      "description": "A fun and charming animated comedy with memorable characters and a heartwarming story, aligning with the family comedy and animation preferences seen in Zootopia and Kung Fu Panda.",
+      "description": "A highly popular animated comedy featuring a memorable villain who becomes a loving father figure, with plenty of humor and heart.",
       "background": "https://image.tmdb.org/t/p/original/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3
+      "imdbRating": "7.255",
+      "rating": 7.255
     },
     {
       "id": "tt1690953",
@@ -303,7 +270,7 @@
       "name": "Despicable Me 2",
       "poster": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
       "releaseInfo": "2013",
-      "description": "Continues the hilarious adventures of Gru and the Minions, offering more of the family-friendly comedy they enjoyed.",
+      "description": "Continues Gru's adventures with more hilarious minions and a fun spy-themed plot.",
       "background": "https://image.tmdb.org/t/p/original/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
       "imdbRating": "6.94",
       "rating": 6.94
@@ -314,43 +281,21 @@
       "name": "Despicable Me 3",
       "poster": "https://image.tmdb.org/t/p/w500/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
       "releaseInfo": "2017",
-      "description": "The third film in the popular franchise delivers more laughs, adventure, and lovable characters, keeping with their enjoyment of animated comedies.",
+      "description": "Features a new villain and a surprising reunion, keeping the humor and action of the series alive.",
       "background": "https://image.tmdb.org/t/p/original/7JGfZGooHS4uHRHuYpfWLAcCNsE.jpg",
-      "imdbRating": "6.464",
-      "rating": 6.464
+      "imdbRating": "6.5",
+      "rating": 6.5
     },
     {
-      "id": "tt0382932",
+      "id": "tt1001526",
       "type": "movie",
-      "name": "Ratatouille",
-      "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-      "releaseInfo": "2007",
-      "description": "A wonderfully animated film about following your dreams, with charming characters and a delightful story, similar to the heartwarming and imaginative nature of Studio Ghibli films and Coco.",
-      "background": "https://image.tmdb.org/t/p/original/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
-      "imdbRating": "7.835",
-      "rating": 7.835
-    },
-    {
-      "id": "tt1049413",
-      "type": "movie",
-      "name": "Up",
-      "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
-      "releaseInfo": "2009",
-      "description": "An incredibly heartwarming and adventurous animated film with a unique premise and emotional depth, appealing to the adventure and family aspects of Brave and Tangled.",
-      "background": "https://image.tmdb.org/t/p/original/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
-      "imdbRating": "7.96",
-      "rating": 7.96
-    },
-    {
-      "id": "tt0823671",
-      "type": "movie",
-      "name": "Tinker Bell",
-      "poster": "https://image.tmdb.org/t/p/w500/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg",
-      "releaseInfo": "2008",
-      "description": "A gentle fantasy adventure with a focus on friendship and discovery in a magical world, similar to the fantasy and family themes of Ponyo and Kiki's Delivery Service.",
-      "background": "https://image.tmdb.org/t/p/original/maeox8nZYIxAAE4SdyLA0VOXe1x.jpg",
-      "imdbRating": "6.914",
-      "rating": 6.914
+      "name": "Megamind",
+      "poster": "https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+      "releaseInfo": "2010",
+      "description": "A clever and funny animated film that flips the superhero trope, offering a unique comedic adventure.",
+      "background": "https://image.tmdb.org/t/p/original/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+      "imdbRating": "7.016",
+      "rating": 7.016
     },
     {
       "id": "tt1430607",
@@ -358,10 +303,32 @@
       "name": "Arthur Christmas",
       "poster": "https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg",
       "releaseInfo": "2011",
-      "description": "A clever and funny animated comedy about Santa's operation, with a heartwarming story and exciting adventure, fitting the family comedy and adventure aspects of Wallace & Gromit and The Bad Guys.",
+      "description": "A wonderfully creative and hilarious animated adventure about how Santa delivers presents, with a unique take on the holiday spirit.",
       "background": "https://image.tmdb.org/t/p/original/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
-      "imdbRating": "6.773",
-      "rating": 6.773
+      "imdbRating": "6.8",
+      "rating": 6.8
+    },
+    {
+      "id": "tt0481499",
+      "type": "movie",
+      "name": "The Croods",
+      "poster": "https://image.tmdb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+      "releaseInfo": "2013",
+      "description": "A prehistoric animated adventure comedy about a family of cavemen on a journey to find a new home, filled with humor and discovery.",
+      "background": "https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+      "imdbRating": "6.927",
+      "rating": 6.927
+    },
+    {
+      "id": "tt2850386",
+      "type": "movie",
+      "name": "The Croods: A New Age",
+      "poster": "https://image.tmdb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+      "releaseInfo": "2020",
+      "description": "Continues the Croods' family's adventures as they encounter a more evolved family, offering more humor and exciting scenarios.",
+      "background": "https://image.tmdb.org/t/p/original/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+      "imdbRating": "7.453",
+      "rating": 7.453
     },
     {
       "id": "tt0120630",
@@ -369,21 +336,87 @@
       "name": "Chicken Run",
       "poster": "https://image.tmdb.org/t/p/w500/oYbVT9e0k2ZSrRhDSCw2Yqshe1n.jpg",
       "releaseInfo": "2000",
-      "description": "A delightful stop-motion animated comedy with a plucky group of chickens planning an escape, offering adventure and humor similar to Wallace & Gromit and The Bad Guys.",
+      "description": "A charming stop-motion animated comedy adventure about chickens trying to escape their farm, with great humor and clever storytelling.",
       "background": "https://image.tmdb.org/t/p/original/fPIFWeRec2gwho9fbxHu91mcYds.jpg",
-      "imdbRating": "6.834",
-      "rating": 6.834
+      "imdbRating": "6.835",
+      "rating": 6.835
     },
     {
-      "id": "tt1816518",
+      "id": "tt8337264",
       "type": "movie",
-      "name": "Ernest & Celestine",
-      "poster": "https://image.tmdb.org/t/p/w500/iJPbRASktYW0I009Ktc2zUE6Fvg.jpg",
-      "releaseInfo": "2012",
-      "description": "A beautifully animated and charming story about an unlikely friendship, with a gentle tone and artistic flair, reminiscent of the artistic and heartwarming qualities of Studio Ghibli films.",
-      "background": "https://image.tmdb.org/t/p/original/1yQpY4UCaGEirYq9EqTrDvZ24KQ.jpg",
-      "imdbRating": "7.756",
-      "rating": 7.756
+      "name": "Chicken Run: Dawn of the Nugget",
+      "poster": "https://image.tmdb.org/t/p/w500/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",
+      "releaseInfo": "2023",
+      "description": "The long-awaited sequel, continuing the fun and inventive adventures of the plucky chickens.",
+      "background": "https://image.tmdb.org/t/p/original/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+      "imdbRating": "6.937",
+      "rating": 6.937
+    },
+    {
+      "id": "tt0126029",
+      "type": "movie",
+      "name": "Shrek",
+      "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "releaseInfo": "2001",
+      "description": "A groundbreaking animated comedy that hilariously parodies fairy tales, packed with humor and memorable characters.",
+      "background": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+      "imdbRating": "7.755",
+      "rating": 7.755
+    },
+    {
+      "id": "tt0298148",
+      "type": "movie",
+      "name": "Shrek 2",
+      "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "releaseInfo": "2004",
+      "description": "Even funnier and more adventurous than the first, with witty satire and a compelling story.",
+      "background": "https://image.tmdb.org/t/p/original/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+      "imdbRating": "7.305",
+      "rating": 7.305
+    },
+    {
+      "id": "tt0114709",
+      "type": "movie",
+      "name": "Toy Story",
+      "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "releaseInfo": "1995",
+      "description": "The original and iconic animated adventure that started it all, focusing on friendship and imagination, perfect for family viewing.",
+      "background": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0
+    },
+    {
+      "id": "tt0120363",
+      "type": "movie",
+      "name": "Toy Story 2",
+      "poster": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+      "releaseInfo": "1999",
+      "description": "A fantastic sequel that expands on the characters and themes, offering more humor and emotional depth.",
+      "background": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+      "imdbRating": "7.603",
+      "rating": 7.603
+    },
+    {
+      "id": "tt0435761",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "releaseInfo": "2010",
+      "description": "A highly emotional and adventurous installment that concludes a beloved trilogy with a perfect blend of laughs and tears.",
+      "background": "https://image.tmdb.org/t/p/original/9w40MpsvyxMdtnwu1R4tPVW8Gmb.jpg",
+      "imdbRating": "7.804",
+      "rating": 7.804
+    },
+    {
+      "id": "tt1979376",
+      "type": "movie",
+      "name": "Toy Story 4",
+      "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "releaseInfo": "2019",
+      "description": "Continues the story with new characters and a poignant exploration of belonging and purpose, maintaining the series' quality.",
+      "background": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "imdbRating": "7.467",
+      "rating": 7.467
     },
     {
       "id": "tt0432283",
@@ -391,43 +424,21 @@
       "name": "Fantastic Mr. Fox",
       "poster": "https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
       "releaseInfo": "2009",
-      "description": "A stylish stop-motion animated adventure with witty dialogue and a unique charm, appealing to the adventure and comedy of Wallace & Gromit and Brave.",
+      "description": "A stylish stop-motion animated comedy adventure with Wes Anderson's unique visual flair and witty dialogue, appealing to a sense of quirky adventure.",
       "background": "https://image.tmdb.org/t/p/original/6Ck3N7sVGJJ2cLr3yKWR2dBgLjs.jpg",
       "imdbRating": "7.811",
       "rating": 7.811
     },
     {
-      "id": "tt0317705",
+      "id": "tt1816518",
       "type": "movie",
-      "name": "The Incredibles",
-      "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-      "releaseInfo": "2004",
-      "description": "A fantastic animated superhero adventure with humor, action, and a strong family dynamic, similar to the adventure and family themes of Zootopia and Brave.",
-      "background": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
-      "imdbRating": "7.719",
-      "rating": 7.719
-    },
-    {
-      "id": "tt3606756",
-      "type": "movie",
-      "name": "The Incredibles 2",
-      "poster": "https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-      "releaseInfo": "2018",
-      "description": "Continues the exciting adventures and family dynamics of the Parr family, offering more of the action and comedy they enjoyed.",
-      "background": "https://image.tmdb.org/t/p/original/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
-      "imdbRating": "7.453",
-      "rating": 7.453
-    },
-    {
-      "id": "tt12801262",
-      "type": "movie",
-      "name": "Luca",
-      "poster": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
-      "releaseInfo": "2021",
-      "description": "A visually stunning and heartwarming animated film about friendship and self-discovery set in Italy, with a touch of magical realism, similar to the gentle fantasy of Ponyo and the family themes of Studio Ghibli films.",
-      "background": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-      "imdbRating": "7.788",
-      "rating": 7.788
+      "name": "Ernest & Celestine",
+      "poster": "https://image.tmdb.org/t/p/w500/iJPbRASktYW0I009Ktc2zUE6Fvg.jpg",
+      "releaseInfo": "2012",
+      "description": "A beautifully hand-drawn animated film about an unlikely friendship between a mouse and a bear, with a gentle and heartwarming story that fans of Studio Ghibli might appreciate.",
+      "background": "https://image.tmdb.org/t/p/original/1yQpY4UCaGEirYq9EqTrDvZ24KQ.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8
     }
   ]
 }
