@@ -1,37 +1,15 @@
 {
   "metas": [
     {
-      "id": "tt0364569",
-      "type": "movie",
-      "name": "Oldboy",
-      "poster": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
-      "releaseInfo": "2003",
-      "description": "This South Korean psychological thriller is a masterclass in suspense and visceral storytelling, sharing the intense, dark, and emotionally complex themes found in 'Gone Girl' and 'Sicario', with a gripping mystery that demands attention.",
-      "background": "https://image.tmdb.org/t/p/original/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
-      "imdbRating": "8.241",
-      "rating": 8.241
-    },
-    {
       "id": "tt1392214",
       "type": "movie",
       "name": "Prisoners",
       "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
       "releaseInfo": "2013",
-      "description": "A dark, morally ambiguous thriller with high stakes and emotional complexity. Its gritty crime and psychological mystery elements align perfectly with your appreciation for films like 'Sicario' and 'Gone Girl'.",
+      "description": "Given your appreciation for intense thrillers like 'Sicario' and 'Gone Girl', 'Prisoners' offers a gripping and dark exploration of morality, desperation, and the lengths a parent will go to for their child. It's a masterclass in suspense and emotional complexity.",
       "background": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1
-    },
-    {
-      "id": "tt7984734",
-      "type": "movie",
-      "name": "The Lighthouse",
-      "poster": "https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg",
-      "releaseInfo": "2019",
-      "description": "This visually stunning and psychologically intense film delves into dark themes and emotional complexity, offering a challenging and engaging experience akin to the unsettling atmosphere of 'The Master'.",
-      "background": "https://image.tmdb.org/t/p/original/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
-      "imdbRating": "7.484",
-      "rating": 7.484
+      "imdbRating": "8.102",
+      "rating": 8.102
     },
     {
       "id": "tt8772262",
@@ -39,32 +17,10 @@
       "name": "Midsommar",
       "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
       "releaseInfo": "2019",
-      "description": "While visually bright, this folk horror film is deeply disturbing and emotionally complex. Its dark themes and unsettling nature will resonate with your enjoyment of 'The Conjuring 2' and other intense horror.",
+      "description": "Your enjoyment of unsettling horror like 'The Faculty' and the dark, ritualistic undertones in some of your watched films suggests you'd appreciate the folk horror and disturbing psychological descent in 'Midsommar'. It's a visually striking and deeply unsettling experience.",
       "background": "https://image.tmdb.org/t/p/original/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg",
       "imdbRating": "7.153",
       "rating": 7.153
-    },
-    {
-      "id": "tt1120985",
-      "type": "movie",
-      "name": "Blue Valentine",
-      "poster": "https://image.tmdb.org/t/p/w500/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
-      "releaseInfo": "2010",
-      "description": "A raw and emotionally devastating drama that explores the complexities of relationships with stark realism. It shares the profound emotional depth and mature themes you appreciated in 'The Master' and 'The Wind Rises'.",
-      "background": "https://image.tmdb.org/t/p/original/fAqpfILTPsaKpAzoAvkXf5glgSo.jpg",
-      "imdbRating": "6.96",
-      "rating": 6.96
-    },
-    {
-      "id": "tt4034228",
-      "type": "movie",
-      "name": "Manchester by the Sea",
-      "poster": "https://image.tmdb.org/t/p/w500/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
-      "releaseInfo": "2016",
-      "description": "A powerful and somber drama that deals with grief and emotional complexity. Its serious tone and character-driven narrative align with your interest in 'The Master' and 'The Wind Rises'.",
-      "background": "https://image.tmdb.org/t/p/original/fjk4eE8Ypke4YLv5A3ArDH4GzYH.jpg",
-      "imdbRating": "7.551",
-      "rating": 7.551
     },
     {
       "id": "tt0477348",
@@ -72,32 +28,10 @@
       "name": "No Country for Old Men",
       "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
       "releaseInfo": "2007",
-      "description": "A masterful Coen brothers film that is a dark, violent, and philosophical crime thriller. Its gritty realism and high stakes echo the intensity of 'Sicario' and 'Lucky Number Slevin'.",
+      "description": "The gritty crime and high-stakes tension of 'Sicario' and 'Lucky Number Slevin' will resonate with 'No Country for Old Men'. This Coen Brothers masterpiece is a taut thriller with a relentless antagonist and profound thematic depth.",
       "background": "https://image.tmdb.org/t/p/original/n7LXYfhGS89ZRMj8YaB9vRtQTpu.jpg",
       "imdbRating": "7.946",
       "rating": 7.946
-    },
-    {
-      "id": "tt2872718",
-      "type": "movie",
-      "name": "Nightcrawler",
-      "poster": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
-      "releaseInfo": "2014",
-      "description": "A darkly compelling character study with high stakes and disturbing themes. Its intensity and exploration of moral ambiguity will appeal to fans of 'Gone Girl' and 'The Master'.",
-      "background": "https://image.tmdb.org/t/p/original/bdI6U1mT0kCdTJ6TWtiFxQ42GSn.jpg",
-      "imdbRating": "7.709",
-      "rating": 7.709
-    },
-    {
-      "id": "tt1130884",
-      "type": "movie",
-      "name": "Shutter Island",
-      "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
-      "releaseInfo": "2010",
-      "description": "A gripping psychological mystery with a dark, twist-filled narrative. Its suspenseful atmosphere and complex plot make it a perfect match for your enjoyment of 'Gone Girl' and 'Lucky Number Slevin'.",
-      "background": "https://image.tmdb.org/t/p/original/8xt8AMb1OKC63AdhNSaYBWxB4Iq.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2
     },
     {
       "id": "tt2543164",
@@ -105,10 +39,32 @@
       "name": "Arrival",
       "poster": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
       "releaseInfo": "2016",
-      "description": "This intelligent science fiction film offers profound emotional complexity and a compelling, thought-provoking narrative, similar to the thoughtful storytelling in 'The Wind Rises'.",
+      "description": "Your interest in intelligent science fiction like 'The Faculty' and 'Bugonia' points to 'Arrival'. This film is a thought-provoking and emotionally resonant sci-fi drama that deals with complex themes of communication, time, and humanity.",
       "background": "https://image.tmdb.org/t/p/original/r8FD6CC3GgjWaGVkZh00AcedfpA.jpg",
-      "imdbRating": "7.623",
-      "rating": 7.623
+      "imdbRating": "7.6",
+      "rating": 7.6
+    },
+    {
+      "id": "tt7984734",
+      "type": "movie",
+      "name": "The Lighthouse",
+      "poster": "https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg",
+      "releaseInfo": "2019",
+      "description": "The psychological intensity and dark, often absurd nature of films like 'The Master' and the darker comedies you enjoy suggest 'The Lighthouse' would be a compelling watch. It's a visually stunning, unsettling, and intensely performed descent into madness.",
+      "background": "https://image.tmdb.org/t/p/original/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "imdbRating": "7.484",
+      "rating": 7.484
+    },
+    {
+      "id": "tt1130884",
+      "type": "movie",
+      "name": "Shutter Island",
+      "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "releaseInfo": "2010",
+      "description": "Fans of mind-bending psychological mysteries like 'Gone Girl' and 'It's What's Inside' will find 'Shutter Island' captivating. Scorsese crafts a deeply atmospheric thriller with twists and turns that will keep you guessing until the very end.",
+      "background": "https://image.tmdb.org/t/p/original/8xt8AMb1OKC63AdhNSaYBWxB4Iq.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2
     },
     {
       "id": "tt0780504",
@@ -116,43 +72,10 @@
       "name": "Drive",
       "poster": "https://image.tmdb.org/t/p/w500/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
       "releaseInfo": "2011",
-      "description": "A stylish and intense neo-noir crime thriller with a brooding atmosphere and high stakes. Its gritty nature and suspense will appeal to fans of 'Sicario' and 'Lucky Number Slevin'.",
+      "description": "The blend of crime, intense atmosphere, and moral ambiguity found in 'Lucky Number Slevin' and 'In Bruges' aligns with the stylish, gritty, and character-driven crime drama 'Drive'. It's a neo-noir with a brooding protagonist and sudden bursts of violence.",
       "background": "https://image.tmdb.org/t/p/original/iymDDg4upZWgpbSeiE1JCjsSPBs.jpg",
       "imdbRating": "7.582",
       "rating": 7.582
-    },
-    {
-      "id": "tt9071180",
-      "type": "movie",
-      "name": "Burning",
-      "poster": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
-      "releaseInfo": "2018",
-      "description": "A slow-burn psychological thriller with a sense of unease and profound mystery. Its dark themes and ambiguity will resonate with viewers who appreciate films like 'Gone Girl'.",
-      "background": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5
-    },
-    {
-      "id": "tt4263482",
-      "type": "movie",
-      "name": "The Witch",
-      "poster": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
-      "releaseInfo": "2015",
-      "description": "A critically acclaimed period horror film that relies on atmosphere and psychological dread. Its dark, unsettling nature and mature themes align with your appreciation for horror like 'The Conjuring 2'.",
-      "background": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
-      "imdbRating": "6.996",
-      "rating": 6.996
-    },
-    {
-      "id": "tt0353969",
-      "type": "movie",
-      "name": "Memories of Murder",
-      "poster": "https://image.tmdb.org/t/p/w500/rxndHKwUeFgTHx0PuuhZS4dMtrB.jpg",
-      "releaseInfo": "2003",
-      "description": "From Bong Joon-ho, this is a masterful crime thriller that blends suspense with dark humor and profound social commentary. Its complexity and gritty crime elements are a great fit.",
-      "background": "https://image.tmdb.org/t/p/original/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1
     },
     {
       "id": "tt7784604",
@@ -160,120 +83,21 @@
       "name": "Hereditary",
       "poster": "https://image.tmdb.org/t/p/w500/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg",
       "releaseInfo": "2018",
-      "description": "A deeply unsettling and emotionally charged horror film that pushes boundaries. Its dark themes and psychological intensity will appeal to fans of 'The Conjuring 2' and '28 Days Later'.",
+      "description": "Your preference for serious and intense horror like 'The Conjuring 2' and the unsettling nature of 'The Faculty' indicates 'Hereditary' would be a strong recommendation. It's a critically acclaimed, deeply disturbing, and emotionally devastating horror film.",
       "background": "https://image.tmdb.org/t/p/original/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
-      "imdbRating": "7.293",
-      "rating": 7.293
+      "imdbRating": "7.292",
+      "rating": 7.292
     },
     {
-      "id": "tt1832382",
+      "id": "tt0364569",
       "type": "movie",
-      "name": "A Separation",
-      "poster": "https://image.tmdb.org/t/p/w500/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg",
-      "releaseInfo": "2011",
-      "description": "An intensely dramatic and morally complex film that explores the intricacies of human relationships and societal pressures. Its grounded drama and emotional weight align with your appreciation for 'The Master'.",
-      "background": "https://image.tmdb.org/t/p/original/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg",
-      "imdbRating": "7.897",
-      "rating": 7.897
-    },
-    {
-      "id": "tt1399683",
-      "type": "movie",
-      "name": "Winter's Bone",
-      "poster": "https://image.tmdb.org/t/p/w500/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg",
-      "releaseInfo": "2010",
-      "description": "A gritty and powerful drama set in the Ozarks, focusing on a young woman's desperate search. Its dark themes and realism will appeal to those who enjoyed 'The Shawshank Redemption' and 'Sicario'.",
-      "background": "https://image.tmdb.org/t/p/original/wW4dZWEfUIXWVKhKsPFBokndJbI.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8
-    },
-    {
-      "id": "tt0443706",
-      "type": "movie",
-      "name": "Zodiac",
-      "poster": "https://image.tmdb.org/t/p/w500/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
-      "releaseInfo": "2007",
-      "description": "A meticulous and engrossing thriller that captures the obsessive nature of a serial killer investigation. Its psychological depth and suspenseful narrative make it a strong match for 'Gone Girl'.",
-      "background": "https://image.tmdb.org/t/p/original/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
-      "imdbRating": "7.527",
-      "rating": 7.527
-    },
-    {
-      "id": "tt1441395",
-      "type": "movie",
-      "name": "Under the Skin",
-      "poster": "https://image.tmdb.org/t/p/w500/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
-      "releaseInfo": "2013",
-      "description": "A uniquely unsettling and visually striking science fiction film with a dark, enigmatic core. Its challenging themes and atmospheric tension will appeal to those who enjoy more experimental and intense cinema.",
-      "background": "https://image.tmdb.org/t/p/original/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1
-    },
-    {
-      "id": "tt1825157",
-      "type": "movie",
-      "name": "The Double",
-      "poster": "https://image.tmdb.org/t/p/w500/7kNcpmP1Pe9fWLKEbEOX5GEWueC.jpg",
-      "releaseInfo": "2013",
-      "description": "A surreal and darkly comedic psychological thriller that explores themes of identity and paranoia. Its offbeat tone and unsettling nature will resonate with fans of 'In Bruges' and 'Seven Psychopaths'.",
-      "background": "https://image.tmdb.org/t/p/original/19B3vwsPwLzHvSAo9uxC70QEkqW.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5
-    },
-    {
-      "id": "tt5052448",
-      "type": "movie",
-      "name": "Get Out",
-      "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
-      "releaseInfo": "2017",
-      "description": "A critically acclaimed horror film that masterfully blends social commentary with suspense and dark humor. Its intelligent script and intense narrative will appeal to fans of 'Parasite' and 'The Menu'.",
-      "background": "https://image.tmdb.org/t/p/original/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6
-    },
-    {
-      "id": "tt2321549",
-      "type": "movie",
-      "name": "The Babadook",
-      "poster": "https://image.tmdb.org/t/p/w500/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
-      "releaseInfo": "2014",
-      "description": "A psychological horror film that uses a creature feature as a metaphor for grief and mental illness. Its dark themes and emotional complexity offer a more cerebral scare than traditional horror.",
-      "background": "https://image.tmdb.org/t/p/original/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
-      "imdbRating": "6.53",
-      "rating": 6.53
-    },
-    {
-      "id": "tt0276919",
-      "type": "movie",
-      "name": "Dogville",
-      "poster": "https://image.tmdb.org/t/p/w500/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "name": "Oldboy",
+      "poster": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
       "releaseInfo": "2003",
-      "description": "A stark and challenging drama with dark, unflinching themes about human nature and morality. Its intensity and emotional complexity are on par with 'The Master'.",
-      "background": "https://image.tmdb.org/t/p/original/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8
-    },
-    {
-      "id": "tt1340800",
-      "type": "movie",
-      "name": "Tinker Tailor Soldier Spy",
-      "poster": "https://image.tmdb.org/t/p/w500/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg",
-      "releaseInfo": "2011",
-      "description": "A masterfully crafted espionage thriller that demands attention with its intricate plot and sophisticated tone. Its intellectual complexity and serious themes align with your appreciation for prestige cinema.",
-      "background": "https://image.tmdb.org/t/p/original/6ZwscHN0bSIueTVTo6mlTGUUP90.jpg",
-      "imdbRating": "6.625",
-      "rating": 6.625
-    },
-    {
-      "id": "tt9071180",
-      "type": "movie",
-      "name": "Burning",
-      "poster": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
-      "releaseInfo": "2018",
-      "description": "A slow-burn psychological thriller with a sense of unease and profound mystery. Its dark themes and ambiguity will resonate with viewers who appreciate films like 'Gone Girl'.",
-      "background": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5
+      "description": "For viewers who appreciate the dark, visceral, and shocking elements found in films like 'Sicario' and the revenge themes hinted at in some of your watched movies, the South Korean masterpiece 'Oldboy' delivers an unforgettable and brutal cinematic experience.",
+      "background": "https://image.tmdb.org/t/p/original/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+      "imdbRating": "8.241",
+      "rating": 8.241
     },
     {
       "id": "tt0482571",
@@ -281,32 +105,32 @@
       "name": "The Prestige",
       "poster": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
       "releaseInfo": "2006",
-      "description": "A twisty, intricate thriller that delves into obsession and deception. Its dark themes and complex narrative will appeal to fans of 'Gone Girl' and 'Lucky Number Slevin'.",
+      "description": "The intricate plotting and psychological games in 'Gone Girl' and 'Lucky Number Slevin' suggest you'd enjoy 'The Prestige'. This Nolan film is a captivating mystery filled with ambition, obsession, and stunning reveals.",
       "background": "https://image.tmdb.org/t/p/original/qc9zR02j2apoEwMdptMYBoAFYUC.jpg",
-      "imdbRating": "8.206",
-      "rating": 8.206
+      "imdbRating": "8.205",
+      "rating": 8.205
     },
     {
-      "id": "tt0180093",
+      "id": "tt0947798",
       "type": "movie",
-      "name": "Requiem for a Dream",
-      "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
-      "releaseInfo": "2000",
-      "description": "An incredibly intense and disturbing portrayal of addiction. Its dark themes and emotional devastation are unparalleled and will deeply engage you.",
-      "background": "https://image.tmdb.org/t/p/original/7tZt3PA948fvSTFx0699YF44Tdt.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0
+      "name": "Black Swan",
+      "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "releaseInfo": "2010",
+      "description": "The emotional complexity and psychological unraveling seen in 'The Master' and the dark themes in 'Gone Girl' make 'Black Swan' a perfect fit. It's a visually stunning and intense drama about ambition and obsession.",
+      "background": "https://image.tmdb.org/t/p/original/g0geLM1zXpLb9mpqKw1ePcA5bTJ.jpg",
+      "imdbRating": "7.686",
+      "rating": 7.686
     },
     {
-      "id": "tt5715874",
+      "id": "tt1441395",
       "type": "movie",
-      "name": "The Killing of a Sacred Deer",
-      "poster": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
-      "releaseInfo": "2017",
-      "description": "A deeply unsettling and surreal psychological thriller with a chillingly detached tone. Its dark themes and intense atmosphere will appeal to fans of 'The Lighthouse' and 'Bugonia'.",
-      "background": "https://image.tmdb.org/t/p/original/kJwQXgAk440l2vZOspUJee6inim.jpg",
-      "imdbRating": "7.01",
-      "rating": 7.01
+      "name": "Under the Skin",
+      "poster": "https://image.tmdb.org/t/p/w500/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "releaseInfo": "2013",
+      "description": "Your interest in thought-provoking science fiction like 'Bugonia' and 'The Faculty' will be met by the atmospheric and unsettling 'Under the Skin'. It's a unique and deeply philosophical take on alien encounters and human experience.",
+      "background": "https://image.tmdb.org/t/p/original/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+      "imdbRating": "6.143",
+      "rating": 6.143
     },
     {
       "id": "tt0066921",
@@ -314,32 +138,65 @@
       "name": "A Clockwork Orange",
       "poster": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
       "releaseInfo": "1971",
-      "description": "A controversial and iconic dystopian film known for its dark themes, violence, and exploration of societal control. Its challenging nature and gritty realism align with your interest in intense cinema.",
+      "description": "The dark themes, social commentary, and challenging nature of films like 'The Master' and the grittier crime elements you enjoy point towards 'A Clockwork Orange'. It's a disturbing but undeniably powerful and iconic film.",
       "background": "https://image.tmdb.org/t/p/original/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
       "imdbRating": "8.18",
       "rating": 8.18
     },
     {
-      "id": "tt0166924",
+      "id": "tt5052448",
       "type": "movie",
-      "name": "Mulholland Drive",
-      "poster": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
-      "releaseInfo": "2001",
-      "description": "A surreal and enigmatic mystery that is both dreamlike and deeply disturbing. Its psychological complexity and unconventional narrative will appeal to fans of 'Gone Girl'.",
-      "background": "https://image.tmdb.org/t/p/original/y1giivdsGLyo1LCvlsL6mLKyTZ7.jpg",
-      "imdbRating": "7.801",
-      "rating": 7.801
+      "name": "Get Out",
+      "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "releaseInfo": "2017",
+      "description": "The clever blend of social commentary, thriller elements, and dark humor found in 'Parasite' (which you haven't watched but is listed as an example) and 'It's What's Inside' suggests 'Get Out' is an excellent choice. It's a masterfully crafted horror-thriller with significant depth.",
+      "background": "https://image.tmdb.org/t/p/original/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+      "imdbRating": "7.622",
+      "rating": 7.622
     },
     {
-      "id": "tt0237572",
+      "id": "tt0407887",
       "type": "movie",
-      "name": "The Pledge",
-      "poster": "https://image.tmdb.org/t/p/w500/9QOzFL3FPMAUNNPrNiKC3mEDxco.jpg",
-      "releaseInfo": "2001",
-      "description": "A dark and brooding crime thriller with a haunting performance by Jack Nicholson. Its serious tone and exploration of guilt and obsession are akin to 'The Master' and 'Seven'.",
-      "background": "https://image.tmdb.org/t/p/original/o62VYsoyEUYgYMn21Thd9GHTuUE.jpg",
-      "imdbRating": "6.571",
-      "rating": 6.571
+      "name": "The Departed",
+      "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "releaseInfo": "2006",
+      "description": "Given your enjoyment of gritty crime dramas like 'Sicario' and 'Lucky Number Slevin', and intense thrillers like 'Gone Girl', Martin Scorsese's 'The Departed' is a must-see. It's a suspenseful cat-and-mouse game with stellar performances.",
+      "background": "https://image.tmdb.org/t/p/original/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+      "imdbRating": "8.16",
+      "rating": 8.16
+    },
+    {
+      "id": "tt2321549",
+      "type": "movie",
+      "name": "The Babadook",
+      "poster": "https://image.tmdb.org/t/p/w500/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+      "releaseInfo": "2014",
+      "description": "Your appreciation for serious and emotionally complex horror, as seen with 'The Conjuring 2', suggests 'The Babadook' would resonate. This film delves into grief and psychological terror in a uniquely unsettling way.",
+      "background": "https://image.tmdb.org/t/p/original/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
+      "imdbRating": "6.53",
+      "rating": 6.53
+    },
+    {
+      "id": "tt2359024",
+      "type": "movie",
+      "name": "Blue Ruin",
+      "poster": "https://image.tmdb.org/t/p/w500/q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+      "releaseInfo": "2013",
+      "description": "The raw, gritty crime and intense, high-stakes narrative of 'Sicario' and 'Lucky Number Slevin' make 'Blue Ruin' a great fit. It's a stark and suspenseful revenge thriller with a grounded realism.",
+      "background": "https://image.tmdb.org/t/p/original/epIcUGDXIZVs1jNNFI5lWgWNUIM.jpg",
+      "imdbRating": "6.789",
+      "rating": 6.789
+    },
+    {
+      "id": "tt0443706",
+      "type": "movie",
+      "name": "Zodiac",
+      "poster": "https://image.tmdb.org/t/p/w500/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "releaseInfo": "2007",
+      "description": "For fans of meticulous crime thrillers and mysteries like 'Gone Girl' and the procedural intensity of 'Sicario', David Fincher's 'Zodiac' offers a gripping and detailed exploration of a real-life serial killer investigation.",
+      "background": "https://image.tmdb.org/t/p/original/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+      "imdbRating": "7.527",
+      "rating": 7.527
     },
     {
       "id": "tt5691670",
@@ -347,10 +204,65 @@
       "name": "Under the Silver Lake",
       "poster": "https://image.tmdb.org/t/p/w500/771Ey73LqsE9ORJhQCI25rgMXS2.jpg",
       "releaseInfo": "2018",
-      "description": "A neo-noir mystery with a surreal and paranoid tone. Its complex web of secrets and dark undertones will appeal to those who enjoyed 'Gone Girl' and 'Lucky Number Slevin'.",
+      "description": "The surreal and mysterious nature of some of your sci-fi/thriller watches, like 'Bugonia' and 'It's What's Inside', combined with a touch of dark, offbeat humor, suggests 'Under the Silver Lake' will intrigue you. It's a neo-noir puzzle box of a film.",
       "background": "https://image.tmdb.org/t/p/original/r2z8ceIsg9ON8DIHTf6cMqnK3CL.jpg",
-      "imdbRating": "6.351",
-      "rating": 6.351
+      "imdbRating": "6.352",
+      "rating": 6.352
+    },
+    {
+      "id": "tt9071180",
+      "type": "movie",
+      "name": "Burning",
+      "poster": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
+      "releaseInfo": "2018",
+      "description": "The psychological tension and slow-burn mystery of 'Gone Girl' and the character studies like 'The Master' would likely appeal to the complex and unsettling themes of 'Burning'. It's a critically acclaimed South Korean drama with an enigmatic narrative.",
+      "background": "https://image.tmdb.org/t/p/w500/hxGv1O2W5SOJTmiBc45CL842mrx.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5
+    },
+    {
+      "id": "tt2316411",
+      "type": "movie",
+      "name": "Enemy",
+      "poster": "https://image.tmdb.org/t/p/w500/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "releaseInfo": "2013",
+      "description": "Your appreciation for psychological mysteries and films that explore identity and duality, such as 'It's What's Inside' and 'Gone Girl', makes Denis Villeneuve's 'Enemy' a strong recommendation. It's a surreal and thought-provoking thriller.",
+      "background": "https://image.tmdb.org/t/p/original/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+      "imdbRating": "6.849",
+      "rating": 6.849
+    },
+    {
+      "id": "tt0353969",
+      "type": "movie",
+      "name": "Memories of Murder",
+      "poster": "https://image.tmdb.org/t/p/w500/rxndHKwUeFgTHx0PuuhZS4dMtrB.jpg",
+      "releaseInfo": "2003",
+      "description": "If you enjoyed the gritty crime and suspense of 'Sicario' and the mystery elements of 'Gone Girl', Bong Joon-ho's 'Memories of Murder' is an essential watch. It's a masterful South Korean crime thriller based on a true story.",
+      "background": "https://image.tmdb.org/t/p/original/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1
+    },
+    {
+      "id": "tt1235166",
+      "type": "movie",
+      "name": "A Prophet",
+      "poster": "https://image.tmdb.org/t/p/w500/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg",
+      "releaseInfo": "2009",
+      "description": "The intense crime drama and morally complex character journeys in 'The Shawshank Redemption' and 'Lucky Number Slevin' align well with the gritty, captivating rise of a criminal in Jacques Audiard's 'A Prophet'.",
+      "background": "https://image.tmdb.org/t/p/original/jEJDjDBT6KCoS4WOBq68vZMbFk2.jpg",
+      "imdbRating": "7.57",
+      "rating": 7.57
+    },
+    {
+      "id": "tt3235888",
+      "type": "movie",
+      "name": "It Follows",
+      "poster": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "releaseInfo": "2014",
+      "description": "Your interest in unique and atmospheric horror like 'The Faculty' and the more recent 'V/H/S/Halloween' makes 'It Follows' a great choice. It offers a fresh, dread-filled take on the genre with a distinctive visual style.",
+      "background": "https://image.tmdb.org/t/p/original/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+      "imdbRating": "6.587",
+      "rating": 6.587
     },
     {
       "id": "tt2866360",
@@ -358,65 +270,76 @@
       "name": "Coherence",
       "poster": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
       "releaseInfo": "2013",
-      "description": "A low-budget science fiction thriller that masterfully builds tension and explores mind-bending concepts. Its gripping mystery and dark, unsettling atmosphere make it a hidden gem.",
+      "description": "The sci-fi and mystery elements you enjoyed in 'Bugonia' and 'It's What's Inside', combined with a confined, high-stakes narrative, make 'Coherence' an excellent recommendation. It's a brilliantly conceived and executed low-budget sci-fi thriller.",
       "background": "https://image.tmdb.org/t/p/original/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
       "imdbRating": "7.221",
       "rating": 7.221
     },
     {
-      "id": "tt1242460",
+      "id": "tt5109784",
       "type": "movie",
-      "name": "We Need to Talk About Kevin",
-      "poster": "https://image.tmdb.org/t/p/w500/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg",
-      "releaseInfo": "2011",
-      "description": "A chilling and deeply disturbing psychological drama that examines the nature of evil and parental guilt. Its dark themes and emotional complexity will resonate with your taste for intense dramas.",
-      "background": "https://image.tmdb.org/t/p/original/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
-      "imdbRating": "7.544",
-      "rating": 7.544
+      "name": "Mother!",
+      "poster": "https://image.tmdb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "releaseInfo": "2017",
+      "description": "Your interest in dark themes, psychological intensity, and films that demand attention, similar to 'The Master' and 'Midsommar', would find 'Mother!' a challenging and unforgettable experience. It's a surreal allegorical horror film.",
+      "background": "https://image.tmdb.org/t/p/original/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+      "imdbRating": "6.962",
+      "rating": 6.962
     },
     {
-      "id": "tt2234003",
+      "id": "tt2980592",
       "type": "movie",
-      "name": "Calvary",
-      "poster": "https://image.tmdb.org/t/p/w500/jzgiam18I0gR20LB8BAE5u4dIdm.jpg",
+      "name": "The Guest",
+      "poster": "https://image.tmdb.org/t/p/w500/8hGMD8PhOJrzkew0RZyOWqDhGJR.jpg",
       "releaseInfo": "2014",
-      "description": "A powerful and thought-provoking drama that tackles faith, sin, and redemption in a dark, rural setting. Its morally complex characters and serious themes align with 'The Master'.",
-      "background": "https://image.tmdb.org/t/p/original/3JwLoQ98yofeGq8bu3Pjox5oI5s.jpg",
-      "imdbRating": "7.12",
-      "rating": 7.12
+      "description": "The blend of thriller, dark humor, and a sense of impending doom that you've enjoyed in films like 'Lucky Number Slevin' and 'Seven Psychopaths' makes 'The Guest' a strong recommendation. It's a stylish and suspenseful ride.",
+      "background": "https://image.tmdb.org/t/p/original/tooNIFHXIY3rBjCMLCET8yC8cIb.jpg",
+      "imdbRating": "6.64",
+      "rating": 6.64
     },
     {
-      "id": "tt0096163",
+      "id": "tt5715874",
       "type": "movie",
-      "name": "The Vanishing",
-      "poster": "https://image.tmdb.org/t/p/w500/eE5bbuRJluooG2MjEAsLEYyuJoa.jpg",
-      "releaseInfo": "1988",
-      "description": "A masterfully crafted suspense thriller with a truly unforgettable and disturbing ending. Its psychological depth and high stakes make it a perfect companion to 'Gone Girl'.",
-      "background": "https://image.tmdb.org/t/p/original/gcXbxHjkUwLV4HrE2oJcbP7UGTA.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4
+      "name": "The Killing of a Sacred Deer",
+      "poster": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "releaseInfo": "2017",
+      "description": "For those who appreciate the unsettling psychological drama and dark, almost absurd narratives found in 'The Master' and 'Midsommar', Yorgos Lanthimos's 'The Killing of a Sacred Deer' is a deeply disturbing and thought-provoking film.",
+      "background": "https://image.tmdb.org/t/p/original/kJwQXgAk440l2vZOspUJee6inim.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0
     },
     {
-      "id": "tt1441326",
+      "id": "tt9598492",
       "type": "movie",
-      "name": "Martha Marcy May Marlene",
-      "poster": "https://image.tmdb.org/t/p/w500/bgB4sa9UfCyGdamfKAZXyEWuAwR.jpg",
-      "releaseInfo": "2011",
-      "description": "A haunting and introspective drama that explores the psychological aftermath of cult life. Its dark themes and emotional complexity will appeal to fans of 'The Master'.",
-      "background": "https://image.tmdb.org/t/p/original/eN60BXsEWxFfgatPpYbGMVO5qdM.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6
+      "name": "Under the Volcano",
+      "poster": "https://image.tmdb.org/t/p/w500/h5qQZl0i9iWbhhaFAHBh0GokX3V.jpg",
+      "releaseInfo": "2021",
+      "description": "Given your enjoyment of intense war dramas like 'Inglourious Basterds' and 'The Hurt Locker', this documentary offers a raw and powerful look at the human cost of conflict, focusing on the psychological toll of war.",
+      "background": "https://image.tmdb.org/t/p/original/zwcxpnzWVCabI8Jd6IDZ804XcVf.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0
     },
     {
-      "id": "tt3086442",
+      "id": "tt6218358",
       "type": "movie",
-      "name": "Goodnight Mommy",
-      "poster": "https://image.tmdb.org/t/p/w500/2qGRjDPpai1J2DBrs2Cwqm9fIx9.jpg",
-      "releaseInfo": "2014",
-      "description": "An Austrian psychological horror film that is intensely atmospheric and deeply unsettling. Its dark themes and emotional complexity will appeal to fans of 'The Conjuring 2' and 'Midsommar'.",
-      "background": "https://image.tmdb.org/t/p/original/g2fziL6LeOSnCCR8zEthQjj5EvO.jpg",
-      "imdbRating": "6.674",
-      "rating": 6.674
+      "name": "Calibre",
+      "poster": "https://image.tmdb.org/t/p/w500/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg",
+      "releaseInfo": "2018",
+      "description": "The suspenseful, high-stakes, and morally complex situations in 'Sicario' and 'Lucky Number Slevin' are echoed in 'Calibre', a gripping thriller about two friends facing the consequences of a terrible accident in the Scottish Highlands.",
+      "background": "https://image.tmdb.org/t/p/original/9YJqI5vudysYgU21YHfC2JHKG6t.jpg",
+      "imdbRating": "6.484",
+      "rating": 6.484
+    },
+    {
+      "id": "tt3464902",
+      "type": "movie",
+      "name": "The Lobster",
+      "poster": "https://image.tmdb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "releaseInfo": "2015",
+      "description": "Your taste for dark comedies with a unique premise and societal commentary, similar to the spirit of 'Parasite' and 'In Bruges', will find 'The Lobster' a fascinating and darkly humorous experience. It's a surreal dystopian satire.",
+      "background": "https://image.tmdb.org/t/p/original/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+      "imdbRating": "7.025",
+      "rating": 7.025
     },
     {
       "id": "tt1788391",
@@ -424,10 +347,65 @@
       "name": "Kill List",
       "poster": "https://image.tmdb.org/t/p/w500/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
       "releaseInfo": "2011",
-      "description": "A British crime thriller that morphs into something far more sinister and unsettling. Its dark themes and escalating tension will appeal to fans of gritty crime and psychological horror.",
+      "description": "The descent into darkness and shocking twists in 'Lucky Number Slevin' and the gritty crime of 'Sicario' suggest you'd appreciate the increasingly disturbing and genre-bending nature of 'Kill List'. It starts as a crime film and morphs into something else entirely.",
       "background": "https://image.tmdb.org/t/p/original/ptZypdOBofmADX9JCtgi5E38cnC.jpg",
       "imdbRating": "6.204",
       "rating": 6.204
+    },
+    {
+      "id": "tt4954522",
+      "type": "movie",
+      "name": "Raw",
+      "poster": "https://image.tmdb.org/t/p/w500/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+      "releaseInfo": "2016",
+      "description": "Your enjoyment of intense and challenging horror like 'The Faculty' and '28 Weeks Later' suggests 'Raw' would be a compelling watch. This French horror film is a visceral and unsettling coming-of-age story with a unique cannibalistic twist.",
+      "background": "https://image.tmdb.org/t/p/original/46GikxYW84dRh71sWVY0eRQiHLX.jpg",
+      "imdbRating": "7.028",
+      "rating": 7.028
+    },
+    {
+      "id": "tt5215952",
+      "type": "movie",
+      "name": "The Wailing",
+      "poster": "https://image.tmdb.org/t/p/w500/aXlL7yYwpXInhltamtzKQFBG08G.jpg",
+      "releaseInfo": "2016",
+      "description": "For fans of intense horror and mystery that builds dread, similar to 'The Conjuring 2' and the suspense in 'Gone Girl', the South Korean film 'The Wailing' is a must-see. It's a sprawling, atmospheric, and deeply disturbing supernatural thriller.",
+      "background": "https://image.tmdb.org/t/p/original/9qxBNfI1QFbiZS62fsgaUd563t2.jpg",
+      "imdbRating": "7.376",
+      "rating": 7.376
+    },
+    {
+      "id": "tt8228288",
+      "type": "movie",
+      "name": "The Platform",
+      "poster": "https://image.tmdb.org/t/p/w500/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
+      "releaseInfo": "2019",
+      "description": "The dark themes and high-stakes, confined nature of this film, echoing the tension in some of your watched thrillers, will appeal to your taste for challenging cinema. It's a brutal and allegorical sci-fi horror.",
+      "background": "https://image.tmdb.org/t/p/original/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+      "imdbRating": "6.97",
+      "rating": 6.97
+    },
+    {
+      "id": "tt10944760",
+      "type": "movie",
+      "name": "Titane",
+      "poster": "https://image.tmdb.org/t/p/w500/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg",
+      "releaseInfo": "2021",
+      "description": "Your interest in films that push boundaries and explore dark, complex themes, similar to 'The Master' and potentially the more experimental aspects of 'Bugonia', will find 'Titane' a shocking, visceral, and unforgettable experience. It's a wild body horror ride.",
+      "background": "https://image.tmdb.org/t/p/original/dVOlJVHYRWx7DhMQRNLnbf5bT1q.jpg",
+      "imdbRating": "6.331",
+      "rating": 6.331
+    },
+    {
+      "id": "tt1189073",
+      "type": "movie",
+      "name": "The Skin I Live In",
+      "poster": "https://image.tmdb.org/t/p/w500/xa7uCwGYykrf8MMI8iF5dZvNlrG.jpg",
+      "releaseInfo": "2011",
+      "description": "The psychological twists and dark, complex narratives of 'Gone Girl' and 'Shutter Island' point towards Almod\u00f3var's intense thriller 'The Skin I Live In'. It's a stylish and disturbing exploration of obsession and identity.",
+      "background": "https://image.tmdb.org/t/p/original/qn8NzshtQmJD7Nm06sAp5yOtexH.jpg",
+      "imdbRating": "7.49",
+      "rating": 7.49
     },
     {
       "id": "tt4062536",
@@ -435,10 +413,32 @@
       "name": "Green Room",
       "poster": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
       "releaseInfo": "2015",
-      "description": "A relentlessly tense and violent thriller about a band trapped in a neo-Nazi compound. Its high stakes and brutal realism will appeal to fans of 'Sicario' and '28 Weeks Later'.",
+      "description": "The intense, high-stakes survival scenario and gritty realism of 'Sicario' and 'The Hurt Locker' will resonate with the brutal and claustrophobic thriller 'Green Room'. It's a nail-biting fight for survival against neo-Nazis.",
       "background": "https://image.tmdb.org/t/p/original/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
-      "imdbRating": "6.721",
-      "rating": 6.721
+      "imdbRating": "6.7",
+      "rating": 6.7
+    },
+    {
+      "id": "tt0266697",
+      "type": "movie",
+      "name": "Kill Bill: Vol. 1",
+      "poster": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "releaseInfo": "2003",
+      "description": "Your enjoyment of stylized action and revenge themes, as hinted in 'Inglourious Basterds' and the darker comedies with violence like 'Seven Psychopaths', suggests you'll appreciate the kinetic energy and over-the-top violence of 'Kill Bill: Vol. 1'.",
+      "background": "https://image.tmdb.org/t/p/original/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+      "imdbRating": "7.971",
+      "rating": 7.971
+    },
+    {
+      "id": "tt1029234",
+      "type": "movie",
+      "name": "Martyrs",
+      "poster": "https://image.tmdb.org/t/p/w500/2zj5JHihR3Bih8vZROJK9LOWsZO.jpg",
+      "releaseInfo": "2008",
+      "description": "For viewers who seek out intensely disturbing and challenging horror, your interest in films like 'The Faculty' and '28 Days Later' makes the French film 'Martyrs' a potential, albeit extreme, recommendation. It's known for its extreme content and philosophical exploration of suffering.",
+      "background": "https://image.tmdb.org/t/p/original/fO1hwjlUqDe1ixO7eMfxTby62Ut.jpg",
+      "imdbRating": "7.304",
+      "rating": 7.304
     }
   ]
 }
