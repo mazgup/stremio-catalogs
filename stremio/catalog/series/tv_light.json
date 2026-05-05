@@ -1,26 +1,48 @@
 {
   "metas": [
     {
-      "id": "tt4934214",
+      "id": "tt1266020",
       "type": "series",
-      "name": "Taskmaster",
-      "poster": "https://image.tmdb.org/t/p/w500/4hfOTOuhINvm7z2g8xVRvzfleSn.jpg",
-      "releaseInfo": "2015",
-      "description": "A hilarious and creative British reality competition that provides the same easy-watching entertainment as Gogglebox.",
-      "background": "https://image.tmdb.org/t/p/original/wQc6l7RaUi7cPMuCTNnYMKCjvUt.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3
+      "name": "Parks and Recreation",
+      "poster": "https://image.tmdb.org/t/p/w500/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
+      "releaseInfo": "2009",
+      "description": "This ensemble workplace comedy shares the same optimistic and heartwarming energy as Ted Lasso and the high-concept humor of Community.",
+      "background": "https://image.tmdb.org/t/p/original/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
+      "imdbRating": "8.039",
+      "rating": 8.039
     },
     {
-      "id": "tt8910922",
+      "id": "tt1561755",
       "type": "series",
-      "name": "Solar Opposites",
-      "poster": "https://image.tmdb.org/t/p/w500/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg",
-      "releaseInfo": "2020",
-      "description": "Created by the co-creator of Rick and Morty, it offers similar high-concept sci-fi chaos and animation style.",
-      "background": "https://image.tmdb.org/t/p/original/1cVt0Tm7erwYT5lyae9vUkPr4XY.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8
+      "name": "Bob's Burgers",
+      "poster": "https://image.tmdb.org/t/p/w500/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "releaseInfo": "2011",
+      "description": "A wholesome yet quirky family animation that captures the grounded, character-driven charm of King of the Hill and The Simpsons.",
+      "background": "https://image.tmdb.org/t/p/original/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
+      "imdbRating": "7.846",
+      "rating": 7.846
+    },
+    {
+      "id": "tt0487831",
+      "type": "series",
+      "name": "The IT Crowd",
+      "poster": "https://image.tmdb.org/t/p/w500/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
+      "releaseInfo": "2006",
+      "description": "A quintessential British sitcom with geek-centric humor that aligns perfectly with Silicon Valley and Peep Show.",
+      "background": "https://image.tmdb.org/t/p/original/dqtpDD9Ro1uSdEOX8P1T6M3QdFI.jpg",
+      "imdbRating": "8.171",
+      "rating": 8.171
+    },
+    {
+      "id": "tt7908628",
+      "type": "series",
+      "name": "What We Do in the Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+      "releaseInfo": "2019",
+      "description": "A hilarious mockumentary about vampires that provides the same dry, supernatural humor seen in The Good Place and Dirk Gently.",
+      "background": "https://image.tmdb.org/t/p/original/mKikck71CvVISUSTLk29fwRbH4y.jpg",
+      "imdbRating": "8.008",
+      "rating": 8.008
     }
   ]
 }

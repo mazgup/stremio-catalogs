@@ -1,59 +1,37 @@
 {
   "metas": [
     {
-      "id": "tt4458594",
+      "id": "tt1710177",
       "type": "series",
-      "name": "Blaze and the Monster Machines",
-      "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
-      "releaseInfo": "2014",
-      "description": "Integrates STEM concepts like friction and trajectory into high-speed racing adventures.",
-      "background": "https://image.tmdb.org/t/p/original/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4
+      "name": "Octonauts",
+      "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
+      "releaseInfo": "2010",
+      "description": "Teaches marine biology and teamwork through exciting underwater rescue missions.",
+      "background": "https://image.tmdb.org/t/p/original/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
+      "imdbRating": "7.185",
+      "rating": 7.185
     },
     {
-      "id": "tt3121722",
+      "id": "tt1807859",
       "type": "series",
-      "name": "Paw Patrol",
-      "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-      "releaseInfo": "2013",
-      "description": "Focuses on community service and problem-solving, similar to Special Agent Oso.",
-      "background": "https://image.tmdb.org/t/p/original/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0
-    },
-    {
-      "id": "tt0965404",
-      "type": "series",
-      "name": "Bubble Guppies",
-      "poster": "https://image.tmdb.org/t/p/w500/zJ50jTHpOY3wKmuxiONOL77t9DW.jpg",
+      "name": "Wild Kratts",
+      "poster": "https://image.tmdb.org/t/p/w500/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
       "releaseInfo": "2011",
-      "description": "A variety-show format that covers diverse topics from hygiene to dinosaurs for preschoolers.",
-      "background": "https://image.tmdb.org/t/p/original/6apIHPRPfalOcNlvefdPfp41pJM.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6
+      "description": "Uses creature powers to teach kids about zoology and natural science.",
+      "background": "https://image.tmdb.org/t/p/original/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5
     },
     {
-      "id": "tt11992456",
+      "id": "tt5846856",
       "type": "series",
-      "name": "Elinor Wonders Why",
-      "poster": "https://image.tmdb.org/t/p/w500/3MEwgOMnsTfuOHcPoX8hAOKrKYn.jpg",
-      "releaseInfo": "2020",
-      "description": "Encourages children to follow their curiosity about nature and the environment.",
-      "background": "https://image.tmdb.org/t/p/original/jxA4VAeT6fA11OjmeQ8EsrzzVCw.jpg",
+      "name": "Ask the StoryBots",
+      "poster": "https://image.tmdb.org/t/p/w500/6IY8bmJcUGmgcB9ERnx8hLw7Qz5.jpg",
+      "releaseInfo": "2016",
+      "description": "Explains complex questions like 'how do ears hear' in a fun, musical way similar to Ada Twist.",
+      "background": "https://image.tmdb.org/t/p/original/947dkEryFtsyO0pNlVRJV53ZbEb.jpg",
       "imdbRating": "7.0",
       "rating": 7.0
-    },
-    {
-      "id": "tt14120830",
-      "type": "series",
-      "name": "Alma's Way",
-      "poster": "https://image.tmdb.org/t/p/w500/nt03knfNVuw5Hqr08CLdZZiaOik.jpg",
-      "releaseInfo": "2021",
-      "description": "Helps children develop critical thinking and social-emotional skills through 'Think Throughs'.",
-      "background": "https://image.tmdb.org/t/p/original/nh5EdvDCvvCQfzBDWGqYownldB3.jpg",
-      "imdbRating": "1.0",
-      "rating": 1.0
     }
   ]
 }
