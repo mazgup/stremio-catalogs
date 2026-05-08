@@ -1,3 +1,59 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt0377092",
+      "type": "movie",
+      "name": "Mean Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/fXm3YKXAEjx7d2tIWDg9TfRZtsU.jpg",
+      "releaseInfo": "2004",
+      "description": "Like Clueless, this is a quintessential high school satire that is both funny and deeply influential in pop culture.",
+      "background": "https://image.tmdb.org/t/p/original/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+      "imdbRating": "7.223",
+      "rating": 7.223
+    },
+    {
+      "id": "tt1282140",
+      "type": "movie",
+      "name": "Easy A",
+      "poster": "https://image.tmdb.org/t/p/w500/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+      "releaseInfo": "2010",
+      "description": "A sharp, witty teen comedy that mirrors the smart dialogue and charming lead performance found in 10 Things I Hate About You.",
+      "background": "https://image.tmdb.org/t/p/original/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+      "imdbRating": "6.806",
+      "rating": 6.806
+    },
+    {
+      "id": "tt0250494",
+      "type": "movie",
+      "name": "Legally Blonde",
+      "poster": "https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+      "releaseInfo": "2001",
+      "description": "Matches the aesthetic and uplifting, lighthearted energy of Clueless while being an empowering feel-good story.",
+      "background": "https://image.tmdb.org/t/p/original/viU23X3BIycUFf6TOlm9c7TxLgM.jpg",
+      "imdbRating": "6.806",
+      "rating": 6.806
+    },
+    {
+      "id": "tt0486655",
+      "type": "movie",
+      "name": "Stardust",
+      "poster": "https://image.tmdb.org/t/p/w500/7zbFmxy3DqKYL2M8Hop6uylp2Uy.jpg",
+      "releaseInfo": "2007",
+      "description": "A perfect blend of whimsical fantasy and romance that captures the magical charm of Practical Magic and Fantastic Beasts.",
+      "background": "https://image.tmdb.org/t/p/original/x2LTysjFSpeK0d40zHw6Lqd4oAH.jpg",
+      "imdbRating": "7.288",
+      "rating": 7.288
+    },
+    {
+      "id": "tt6264654",
+      "type": "movie",
+      "name": "Free Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "releaseInfo": "2021",
+      "description": "Like the Jumanji sequels, this uses a video game premise to deliver high-energy action and lighthearted comedy.",
+      "background": "https://image.tmdb.org/t/p/original/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
+      "imdbRating": "7.45",
+      "rating": 7.45
+    }
+  ]
 }

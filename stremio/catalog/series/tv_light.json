@@ -1,15 +1,3 @@
 {
-  "metas": [
-    {
-      "id": "tt2467372",
-      "type": "series",
-      "name": "Brooklyn Nine-Nine",
-      "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
-      "releaseInfo": "2013",
-      "description": "A fast-paced, lighthearted police procedural with a lovable cast similar to Scrubs and New Girl.",
-      "background": "https://image.tmdb.org/t/p/original/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
-      "imdbRating": "8.214",
-      "rating": 8.214
-    }
-  ]
+  "metas": []
 }
