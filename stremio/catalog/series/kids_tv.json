@@ -1,15 +1,26 @@
 {
   "metas": [
     {
-      "id": "tt2948562",
+      "id": "tt22097692",
       "type": "series",
-      "name": "Tumble Leaf",
-      "poster": "https://image.tmdb.org/t/p/w500/8MbsSjulW9HZHfLecV2S2dyzk77.jpg",
-      "releaseInfo": "2014",
-      "description": "Uses stop-motion animation to teach basic physics and problem-solving through play.",
-      "background": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5
+      "name": "StoryBots: Answer Time",
+      "poster": "https://image.tmdb.org/t/p/w500/ccMq0WNCvgq1GitFrBRbJ3BTzet.jpg",
+      "releaseInfo": "2022",
+      "description": "Uses humor and animation to answer science and history questions, perfect for fans of Ada Twist, Scientist.",
+      "background": "https://image.tmdb.org/t/p/original/mnegNlapnoGc0IsDPSKqwVzyi4G.jpg",
+      "imdbRating": "6.9",
+      "rating": 6.9
+    },
+    {
+      "id": "tt2014553",
+      "type": "series",
+      "name": "Daniel Tiger's Neighborhood",
+      "poster": "https://image.tmdb.org/t/p/w500/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg",
+      "releaseInfo": "2012",
+      "description": "Focuses on social-emotional learning and daily routines in a way that fans of Bluey will appreciate.",
+      "background": "https://image.tmdb.org/t/p/original/yAIpWHcLmS1O2aCrx4oBhXtwoHt.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0
     },
     {
       "id": "tt4458594",
@@ -17,10 +28,43 @@
       "name": "Blaze and the Monster Machines",
       "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
       "releaseInfo": "2014",
-      "description": "Introduces STEM concepts like friction, trajectory, and magnetism to young viewers.",
+      "description": "Teaches STEM concepts like physics and math through racing, great for fans of Peg + Cat.",
       "background": "https://image.tmdb.org/t/p/original/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
       "imdbRating": "7.4",
       "rating": 7.4
+    },
+    {
+      "id": "tt2948562",
+      "type": "series",
+      "name": "Tumble Leaf",
+      "poster": "https://image.tmdb.org/t/p/w500/8MbsSjulW9HZHfLecV2S2dyzk77.jpg",
+      "releaseInfo": "2014",
+      "description": "Focuses on preschool-level science through discovery and play in a beautiful stop-motion style.",
+      "background": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5
+    },
+    {
+      "id": "tt3590338",
+      "type": "series",
+      "name": "Puffin Rock",
+      "poster": "https://image.tmdb.org/t/p/w500/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
+      "releaseInfo": "2015",
+      "description": "A gentle and educational series about nature and family, sharing the calm energy of Bluey.",
+      "background": "https://image.tmdb.org/t/p/original/9z945wZwFzJ0EbzY8vsk5ELCZeJ.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4
+    },
+    {
+      "id": "tt3070014",
+      "type": "series",
+      "name": "Sarah & Duck",
+      "poster": "https://image.tmdb.org/t/p/w500/u4SwnXjUFDiyRPPBc4st9TGQefm.jpg",
+      "releaseInfo": "2013",
+      "description": "A whimsical and quiet show about everyday discovery and friendship.",
+      "background": "https://image.tmdb.org/t/p/original/gQ1ams8Deokxs255lXcXFdGApeP.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8
     },
     {
       "id": "tt1594381",
@@ -28,10 +72,54 @@
       "name": "Team Umizoomi",
       "poster": "https://image.tmdb.org/t/p/w500/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
       "releaseInfo": "2010",
-      "description": "Focuses on preschool math skills like counting, shapes, and patterns.",
+      "description": "Focuses on 'mighty math powers' like shapes and patterns, perfect for Numberblocks viewers.",
       "background": "https://image.tmdb.org/t/p/original/pv51XFR2XdIGCXgoTxLVCxZH8IM.jpg",
       "imdbRating": "7.9",
       "rating": 7.9
+    },
+    {
+      "id": "tt11183572",
+      "type": "series",
+      "name": "Xavier Riddle and the Secret Museum",
+      "poster": "https://image.tmdb.org/t/p/w500/ojjbMSKwpUyMc8j0FdJ6oRAqSq8.jpg",
+      "releaseInfo": "2019",
+      "description": "Introduces children to historical figures and their positive character traits.",
+      "background": "https://image.tmdb.org/t/p/original/uSx8LlMdylSjBYSx1Ji0HqcQEKD.jpg",
+      "imdbRating": "9.0",
+      "rating": 9.0
+    },
+    {
+      "id": "tt9165438",
+      "type": "series",
+      "name": "Gabby's Dollhouse",
+      "poster": "https://image.tmdb.org/t/p/w500/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+      "releaseInfo": "2021",
+      "description": "Promotes a growth mindset and creativity through dollhouse-themed play.",
+      "background": "https://image.tmdb.org/t/p/original/qR4tS0urUUaFh6mlRhVUkDZGN5j.jpg",
+      "imdbRating": "7.856",
+      "rating": 7.856
+    },
+    {
+      "id": "tt13135714",
+      "type": "series",
+      "name": "Stillwater",
+      "poster": "https://image.tmdb.org/t/p/w500/t6tcFn0LiyKRqR76XwNfErK81cw.jpg",
+      "releaseInfo": "2020",
+      "description": "Introduces mindfulness and emotional awareness through gentle storytelling.",
+      "background": "https://image.tmdb.org/t/p/original/jESGW5K8tvjkbUbnrtJOygrMGYt.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6
+    },
+    {
+      "id": "tt1307510",
+      "type": "series",
+      "name": "Chuggington",
+      "poster": "https://image.tmdb.org/t/p/w500/7LsJcmPIHmbpbO1NceqPPRbSfwL.jpg",
+      "releaseInfo": "2008",
+      "description": "Teaches lessons about responsibility and friendship through a group of trainee trains.",
+      "background": "https://image.tmdb.org/t/p/original/5jZagQcJqhr28VFd1zSI7cYaYyq.jpg",
+      "imdbRating": "6.7",
+      "rating": 6.7
     }
   ]
 }

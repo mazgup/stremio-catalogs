@@ -1,15 +1,70 @@
 {
   "metas": [
     {
+      "id": "tt2277860",
+      "type": "movie",
+      "name": "Finding Dory",
+      "poster": "https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+      "releaseInfo": "2016",
+      "description": "A wonderful follow-up to Finding Nemo with more exciting ocean exploration.",
+      "background": "https://image.tmdb.org/t/p/original/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+      "imdbRating": "7.039",
+      "rating": 7.039
+    },
+    {
       "id": "tt2245084",
       "type": "movie",
       "name": "Big Hero 6",
       "poster": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
       "releaseInfo": "2014",
-      "description": "Features exciting superhero action and a lovable robot, perfect for fans of Spider-Verse and Sonic.",
+      "description": "Features a cool robot and exciting team adventures similar to Spider-Verse.",
       "background": "https://image.tmdb.org/t/p/original/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
       "imdbRating": "7.723",
       "rating": 7.723
+    },
+    {
+      "id": "tt1772341",
+      "type": "movie",
+      "name": "Wreck-It Ralph",
+      "poster": "https://image.tmdb.org/t/p/w500/fiHyt6UmG4yjcXFt9Cbpw6OedHh.jpg",
+      "releaseInfo": "2012",
+      "description": "Explores video game worlds similar to The Super Mario Bros. Movie.",
+      "background": "https://image.tmdb.org/t/p/original/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+      "imdbRating": "7.356",
+      "rating": 7.356
+    },
+    {
+      "id": "tt0892769",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "releaseInfo": "2010",
+      "description": "An epic adventure about friendship with dragons, much like The Sea Beast.",
+      "background": "https://image.tmdb.org/t/p/original/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "imdbRating": "7.857",
+      "rating": 7.857
+    },
+    {
+      "id": "tt0844471",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs",
+      "poster": "https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+      "releaseInfo": "2009",
+      "description": "A wacky inventor makes food fall from the sky in this colorful comedy.",
+      "background": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
+      "imdbRating": "6.656",
+      "rating": 6.656
+    },
+    {
+      "id": "tt1985966",
+      "type": "movie",
+      "name": "Cloudy with a Chance of Meatballs 2",
+      "poster": "https://image.tmdb.org/t/p/w500/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg",
+      "releaseInfo": "2013",
+      "description": "Features funny 'foodimals' and more colorful inventions for kids to enjoy.",
+      "background": "https://image.tmdb.org/t/p/original/vWriOBVlgW0XWdgbOiijhyLW7B8.jpg",
+      "imdbRating": "6.453",
+      "rating": 6.453
     },
     {
       "id": "tt4468740",
@@ -17,10 +72,54 @@
       "name": "Paddington 2",
       "poster": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
       "releaseInfo": "2017",
-      "description": "A rare sequel that surpasses the original with its incredible charm and comedy.",
+      "description": "An incredibly heartwarming and funny adventure that is perfect for families.",
       "background": "https://image.tmdb.org/t/p/original/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
       "imdbRating": "7.475",
       "rating": 7.475
+    },
+    {
+      "id": "tt2293640",
+      "type": "movie",
+      "name": "Minions",
+      "poster": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+      "releaseInfo": "2015",
+      "description": "Focuses on the funny yellow characters from the Despicable Me franchise.",
+      "background": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+      "imdbRating": "6.418",
+      "rating": 6.418
+    },
+    {
+      "id": "tt4116284",
+      "type": "movie",
+      "name": "The LEGO Batman Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+      "releaseInfo": "2017",
+      "description": "A hilarious take on Batman that is full of jokes for both kids and parents.",
+      "background": "https://image.tmdb.org/t/p/original/eoMushgujydxFplE9yPZ54lwOvo.jpg",
+      "imdbRating": "7.24",
+      "rating": 7.24
+    },
+    {
+      "id": "tt0780521",
+      "type": "movie",
+      "name": "The Princess and the Frog",
+      "poster": "https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
+      "releaseInfo": "2009",
+      "description": "A jazzy musical adventure set in New Orleans with great songs and characters.",
+      "background": "https://image.tmdb.org/t/p/original/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+      "imdbRating": "7.214",
+      "rating": 7.214
+    },
+    {
+      "id": "tt6324278",
+      "type": "movie",
+      "name": "Abominable",
+      "poster": "https://image.tmdb.org/t/p/w500/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+      "releaseInfo": "2019",
+      "description": "A young girl helps a magical Yeti find his way back home across China.",
+      "background": "https://image.tmdb.org/t/p/original/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
+      "imdbRating": "7.45",
+      "rating": 7.45
     }
   ]
 }

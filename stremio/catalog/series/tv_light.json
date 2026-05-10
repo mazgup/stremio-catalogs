@@ -1,26 +1,48 @@
 {
   "metas": [
     {
-      "id": "tt4934214",
+      "id": "tt2467372",
       "type": "series",
-      "name": "Taskmaster",
-      "poster": "https://image.tmdb.org/t/p/w500/oHLZyN7G7EpXCHxYdpMcuUNCUgS.jpg",
-      "releaseInfo": "2015",
-      "description": "Since you enjoy Gogglebox, this British reality show offers hilarious, lighthearted competition and unique personality-driven humor.",
-      "background": "https://image.tmdb.org/t/p/original/wQc6l7RaUi7cPMuCTNnYMKCjvUt.jpg",
-      "imdbRating": "8.285",
-      "rating": 8.285
+      "name": "Brooklyn Nine-Nine",
+      "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+      "releaseInfo": "2013",
+      "description": "A high-energy ensemble workplace comedy that matches the optimistic yet zany vibe of Community and Scrubs.",
+      "background": "https://image.tmdb.org/t/p/original/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
+      "imdbRating": "8.213",
+      "rating": 8.213
     },
     {
-      "id": "tt7908628",
+      "id": "tt1266020",
       "type": "series",
-      "name": "What We Do in the Shadows",
-      "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
-      "releaseInfo": "2019",
-      "description": "A mockumentary that combines the absurdity of Rick and Morty with the clever supernatural world-building of The Good Place.",
-      "background": "https://image.tmdb.org/t/p/original/zqhOntjgYdqeBf5Job3XKEapiRv.jpg",
-      "imdbRating": "8.005",
-      "rating": 8.005
+      "name": "Parks and Recreation",
+      "poster": "https://image.tmdb.org/t/p/w500/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
+      "releaseInfo": "2009",
+      "description": "A quintessential 'comfort' show with an uplifting heart similar to Ted Lasso and The Good Place.",
+      "background": "https://image.tmdb.org/t/p/original/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
+      "imdbRating": "8.04",
+      "rating": 8.04
+    },
+    {
+      "id": "tt0496424",
+      "type": "series",
+      "name": "30 Rock",
+      "poster": "https://image.tmdb.org/t/p/w500/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+      "releaseInfo": "2006",
+      "description": "Fast-paced, joke-dense writing that appeals to fans of Community and Silicon Valley's sharp wit.",
+      "background": "https://image.tmdb.org/t/p/original/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+      "imdbRating": "7.494",
+      "rating": 7.494
+    },
+    {
+      "id": "tt1561755",
+      "type": "series",
+      "name": "Bob's Burgers",
+      "poster": "https://image.tmdb.org/t/p/w500/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "releaseInfo": "2011",
+      "description": "A wholesome yet hilarious family dynamic that captures the grounded charm of King of the Hill and The Simpsons.",
+      "background": "https://image.tmdb.org/t/p/original/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8
     },
     {
       "id": "tt1486217",
@@ -28,43 +50,54 @@
       "name": "Archer",
       "poster": "https://image.tmdb.org/t/p/w500/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
       "releaseInfo": "2009",
-      "description": "A sharp, adult animated series with high-concept scenarios that matches the fast-paced dialogue of Futurama.",
+      "description": "Stylized animation and cynical humor that will appeal to fans of Futurama and Rick and Morty.",
       "background": "https://image.tmdb.org/t/p/original/c4dymvMQT45P1j9RnscRyeyyqSg.jpg",
       "imdbRating": "7.951",
       "rating": 7.951
     },
     {
-      "id": "tt0187664",
+      "id": "tt3526078",
       "type": "series",
-      "name": "Spaced",
-      "poster": "https://image.tmdb.org/t/p/w500/igZWEYUohDxlLodq8RkeJa7jBna.jpg",
-      "releaseInfo": "1999",
-      "description": "A cult classic British comedy about pop-culture obsessed friends, perfect for fans of Community and Peep Show.",
-      "background": "https://image.tmdb.org/t/p/original/q187vcRKB9WCOQyjo9Cl4No9cea.jpg",
-      "imdbRating": "7.92",
-      "rating": 7.92
-    },
-    {
-      "id": "tt1442437",
-      "type": "series",
-      "name": "Modern Family",
-      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "releaseInfo": "2009",
-      "description": "A long-running, comforting mockumentary that provides the same easy-watching family dynamic as Malcolm in the Middle.",
-      "background": "https://image.tmdb.org/t/p/original/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-      "imdbRating": "7.904",
-      "rating": 7.904
-    },
-    {
-      "id": "tt4477976",
-      "type": "series",
-      "name": "Superstore",
-      "poster": "https://image.tmdb.org/t/p/w500/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
+      "name": "Schitt's Creek",
+      "poster": "https://image.tmdb.org/t/p/w500/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
       "releaseInfo": "2015",
-      "description": "An underrated workplace comedy with a diverse cast and relatable, lighthearted humor similar to New Girl and Scrubs.",
-      "background": "https://image.tmdb.org/t/p/original/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
-      "imdbRating": "7.561",
-      "rating": 7.561
+      "description": "A heartwarming 'fish out of water' story with excellent character growth similar to Ted Lasso.",
+      "background": "https://image.tmdb.org/t/p/original/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "imdbRating": "7.783",
+      "rating": 7.783
+    },
+    {
+      "id": "tt7908628",
+      "type": "series",
+      "name": "What We Do in the Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+      "releaseInfo": "2019",
+      "description": "A mockumentary about vampires that blends supernatural elements with the absurd humor of It's Always Sunny.",
+      "background": "https://image.tmdb.org/t/p/original/zqhOntjgYdqeBf5Job3XKEapiRv.jpg",
+      "imdbRating": "8.005",
+      "rating": 8.005
+    },
+    {
+      "id": "tt8910922",
+      "type": "series",
+      "name": "Solar Opposites",
+      "poster": "https://image.tmdb.org/t/p/w500/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg",
+      "releaseInfo": "2020",
+      "description": "Created by the team behind Rick and Morty, offering the same sci-fi absurdity and high-concept comedy.",
+      "background": "https://image.tmdb.org/t/p/original/1cVt0Tm7erwYT5lyae9vUkPr4XY.jpg",
+      "imdbRating": "7.784",
+      "rating": 7.784
+    },
+    {
+      "id": "tt0367279",
+      "type": "series",
+      "name": "Arrested Development",
+      "poster": "https://image.tmdb.org/t/p/w500/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+      "releaseInfo": "2003",
+      "description": "A brilliant ensemble comedy featuring complex running gags similar to the layered humor of Community.",
+      "background": "https://image.tmdb.org/t/p/original/8qn0u64JXSgnGKe2KkKqrfH7V84.jpg",
+      "imdbRating": "7.931",
+      "rating": 7.931
     },
     {
       "id": "tt14218830",
@@ -72,10 +105,186 @@
       "name": "Abbott Elementary",
       "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg",
       "releaseInfo": "2021",
-      "description": "A modern, feel-good mockumentary that captures the wholesome energy and community spirit of Ted Lasso.",
+      "description": "A modern mockumentary that is light, funny, and incredibly easy to watch, much like New Girl.",
       "background": "https://image.tmdb.org/t/p/original/asDINJT3b7tEa76uWI1rZ5TWdJF.jpg",
       "imdbRating": "7.441",
       "rating": 7.441
+    },
+    {
+      "id": "tt4477976",
+      "type": "series",
+      "name": "Superstore",
+      "poster": "https://image.tmdb.org/t/p/w500/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
+      "releaseInfo": "2015",
+      "description": "An easy-to-digest workplace sitcom that captures the relatable retail experience with a Scrubs-like ensemble.",
+      "background": "https://image.tmdb.org/t/p/original/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+      "imdbRating": "7.561",
+      "rating": 7.561
+    },
+    {
+      "id": "tt9184820",
+      "type": "series",
+      "name": "Star Trek: Lower Decks",
+      "poster": "https://image.tmdb.org/t/p/w500/i7Em3r7KCyNfkOwMkyqN8UMvK8S.jpg",
+      "releaseInfo": "2020",
+      "description": "An animated sci-fi comedy that celebrates and pokes fun at the genre, perfect for a Futurama fan.",
+      "background": "https://image.tmdb.org/t/p/original/kG7GwGBHpCI6lA6SaEydKHHOxkU.jpg",
+      "imdbRating": "7.642",
+      "rating": 7.642
+    },
+    {
+      "id": "tt4934214",
+      "type": "series",
+      "name": "Taskmaster",
+      "poster": "https://image.tmdb.org/t/p/w500/oHLZyN7G7EpXCHxYdpMcuUNCUgS.jpg",
+      "releaseInfo": "2015",
+      "description": "A British reality competition that is pure, chaotic fun, matching the lighthearted energy of Gogglebox.",
+      "background": "https://image.tmdb.org/t/p/original/wQc6l7RaUi7cPMuCTNnYMKCjvUt.jpg",
+      "imdbRating": "8.285",
+      "rating": 8.285
+    },
+    {
+      "id": "tt0187664",
+      "type": "series",
+      "name": "Spaced",
+      "poster": "https://image.tmdb.org/t/p/w500/igZWEYUohDxlLodq8RkeJa7jBna.jpg",
+      "releaseInfo": "1999",
+      "description": "A British comedy filled with pop-culture references and surrealism that feels like a precursor to Community.",
+      "background": "https://image.tmdb.org/t/p/original/q187vcRKB9WCOQyjo9Cl4No9cea.jpg",
+      "imdbRating": "7.92",
+      "rating": 7.92
+    },
+    {
+      "id": "tt5912064",
+      "type": "series",
+      "name": "Kim's Convenience",
+      "poster": "https://image.tmdb.org/t/p/w500/82Vue6MPuYZzlpggR65cvWdBdy.jpg",
+      "releaseInfo": "2016",
+      "description": "A warm, funny family sitcom that provides the same 'background' comfort as King of the Hill.",
+      "background": "https://image.tmdb.org/t/p/original/oh5ZkLhrrt1EmGfRZ4qqm743X6b.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6
+    },
+    {
+      "id": "tt8594324",
+      "type": "series",
+      "name": "Ghosts (UK)",
+      "poster": "https://image.tmdb.org/t/p/w500/3Xz4JtqISyVCKct96O94k4Mz5sU.jpg",
+      "releaseInfo": "2019",
+      "description": "A charming and funny ensemble piece about a group of ghosts that shares the warmth of The Good Place.",
+      "background": "https://image.tmdb.org/t/p/original/2FXDdIGjDhEoBkuFk5NhHWLd3VX.jpg",
+      "imdbRating": "7.895",
+      "rating": 7.895
+    },
+    {
+      "id": "tt11000902",
+      "type": "series",
+      "name": "Our Flag Means Death",
+      "poster": "https://image.tmdb.org/t/p/w500/k6CAdKXyR9RMWXZrWAETlSk7b7v.jpg",
+      "releaseInfo": "2022",
+      "description": "A whimsical and inclusive pirate adventure that fits the 'fun action' vibe of One Piece.",
+      "background": "https://image.tmdb.org/t/p/original/uDM0qsZ1q1C82Se2RzVj8I8ufhC.jpg",
+      "imdbRating": "7.576",
+      "rating": 7.576
+    },
+    {
+      "id": "tt0262150",
+      "type": "series",
+      "name": "Black Books",
+      "poster": "https://image.tmdb.org/t/p/w500/uqSCTPmYHa8I8SiK0k6qgmK93Rj.jpg",
+      "releaseInfo": "2000",
+      "description": "A cynical, surreal British comedy that pairs excellently with Peep Show and It's Always Sunny.",
+      "background": "https://image.tmdb.org/t/p/original/wlQDUQF7LjCD3WA2OjGNoMnIx7M.jpg",
+      "imdbRating": "8.061",
+      "rating": 8.061
+    },
+    {
+      "id": "tt5897304",
+      "type": "series",
+      "name": "Mob Psycho 100",
+      "poster": "https://image.tmdb.org/t/p/w500/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+      "releaseInfo": "2016",
+      "description": "From the creator of One-Punch Man, it offers the same mix of incredible action and deadpan comedy.",
+      "background": "https://image.tmdb.org/t/p/original/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+      "imdbRating": "8.499",
+      "rating": 8.499
+    },
+    {
+      "id": "tt13146488",
+      "type": "series",
+      "name": "Peacemaker",
+      "poster": "https://image.tmdb.org/t/p/w500/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
+      "releaseInfo": "2022",
+      "description": "A bold, funny, and action-packed superhero show that matches the tone of Fallout and One-Punch Man.",
+      "background": "https://image.tmdb.org/t/p/original/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
+      "imdbRating": "8.195",
+      "rating": 8.195
+    },
+    {
+      "id": "tt5638056",
+      "type": "series",
+      "name": "The Mick",
+      "poster": "https://image.tmdb.org/t/p/w500/jwYBohob30EeP1rJJMx9zcWSaGS.jpg",
+      "releaseInfo": "2017",
+      "description": "Stars Kaitlin Olson from It's Always Sunny in a similarly degenerate and hilarious family dynamic.",
+      "background": "https://image.tmdb.org/t/p/original/5xCxoMktHFsrcF283IMTL4OGtuR.jpg",
+      "imdbRating": "7.138",
+      "rating": 7.138
+    },
+    {
+      "id": "tt3339966",
+      "type": "series",
+      "name": "Unbreakable Kimmy Schmidt",
+      "poster": "https://image.tmdb.org/t/p/w500/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+      "releaseInfo": "2015",
+      "description": "A vibrant, fast-paced, and relentlessly positive comedy from the creators of 30 Rock.",
+      "background": "https://image.tmdb.org/t/p/original/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+      "imdbRating": "7.107",
+      "rating": 7.107
+    },
+    {
+      "id": "tt1235547",
+      "type": "series",
+      "name": "Better Off Ted",
+      "poster": "https://image.tmdb.org/t/p/w500/tvmafNGqMFA03fJcbUXxjgzSToX.jpg",
+      "releaseInfo": "2009",
+      "description": "A short-lived cult classic corporate satire that matches the sharp wit of Silicon Valley and Community.",
+      "background": "https://image.tmdb.org/t/p/original/mpUcBHfzKpSo72rwo2EaaGkeSX1.jpg",
+      "imdbRating": "7.584",
+      "rating": 7.584
+    },
+    {
+      "id": "tt10234362",
+      "type": "series",
+      "name": "Avenue 5",
+      "poster": "https://image.tmdb.org/t/p/w500/inSe4HBqnwIoeqoChGlagVs0avG.jpg",
+      "releaseInfo": "2020",
+      "description": "A sci-fi comedy about a luxury space cruise gone wrong, appealing to fans of Futurama and Silicon Valley.",
+      "background": "https://image.tmdb.org/t/p/original/suA6aZe1OCTtnv4W3nfDM8GiSaC.jpg",
+      "imdbRating": "6.549",
+      "rating": 6.549
+    },
+    {
+      "id": "tt4779762",
+      "type": "series",
+      "name": "Detroiters",
+      "poster": "https://image.tmdb.org/t/p/w500/hBxeoEzVola4LyhW3C7FjseFeWm.jpg",
+      "releaseInfo": "2017",
+      "description": "A deeply silly and warm-hearted show about two best friends, capturing the 'hangout' vibe of New Girl.",
+      "background": "https://image.tmdb.org/t/p/original/ffbR34OrgYe0VotKU8QqSmELMdI.jpg",
+      "imdbRating": "7.24",
+      "rating": 7.24
+    },
+    {
+      "id": "tt0417373",
+      "type": "series",
+      "name": "The Venture Bros.",
+      "poster": "https://image.tmdb.org/t/p/w500/ckQE1aLYQkRpp2HmHljiELAiOr1.jpg",
+      "releaseInfo": "2003",
+      "description": "A clever, long-running animation that parodies adventure tropes, perfect for fans of Rick and Morty and Futurama.",
+      "background": "https://image.tmdb.org/t/p/original/pP3z3VS68PFRqTmypsYJWhWRkrG.jpg",
+      "imdbRating": "7.787",
+      "rating": 7.787
     }
   ]
 }
