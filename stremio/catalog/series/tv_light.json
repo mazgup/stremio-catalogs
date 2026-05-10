@@ -1,3 +1,81 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt4934214",
+      "type": "series",
+      "name": "Taskmaster",
+      "poster": "https://image.tmdb.org/t/p/w500/oHLZyN7G7EpXCHxYdpMcuUNCUgS.jpg",
+      "releaseInfo": "2015",
+      "description": "Since you enjoy Gogglebox, this British reality show offers hilarious, lighthearted competition and unique personality-driven humor.",
+      "background": "https://image.tmdb.org/t/p/original/wQc6l7RaUi7cPMuCTNnYMKCjvUt.jpg",
+      "imdbRating": "8.285",
+      "rating": 8.285
+    },
+    {
+      "id": "tt7908628",
+      "type": "series",
+      "name": "What We Do in the Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+      "releaseInfo": "2019",
+      "description": "A mockumentary that combines the absurdity of Rick and Morty with the clever supernatural world-building of The Good Place.",
+      "background": "https://image.tmdb.org/t/p/original/zqhOntjgYdqeBf5Job3XKEapiRv.jpg",
+      "imdbRating": "8.005",
+      "rating": 8.005
+    },
+    {
+      "id": "tt1486217",
+      "type": "series",
+      "name": "Archer",
+      "poster": "https://image.tmdb.org/t/p/w500/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+      "releaseInfo": "2009",
+      "description": "A sharp, adult animated series with high-concept scenarios that matches the fast-paced dialogue of Futurama.",
+      "background": "https://image.tmdb.org/t/p/original/c4dymvMQT45P1j9RnscRyeyyqSg.jpg",
+      "imdbRating": "7.951",
+      "rating": 7.951
+    },
+    {
+      "id": "tt0187664",
+      "type": "series",
+      "name": "Spaced",
+      "poster": "https://image.tmdb.org/t/p/w500/igZWEYUohDxlLodq8RkeJa7jBna.jpg",
+      "releaseInfo": "1999",
+      "description": "A cult classic British comedy about pop-culture obsessed friends, perfect for fans of Community and Peep Show.",
+      "background": "https://image.tmdb.org/t/p/original/q187vcRKB9WCOQyjo9Cl4No9cea.jpg",
+      "imdbRating": "7.92",
+      "rating": 7.92
+    },
+    {
+      "id": "tt1442437",
+      "type": "series",
+      "name": "Modern Family",
+      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "releaseInfo": "2009",
+      "description": "A long-running, comforting mockumentary that provides the same easy-watching family dynamic as Malcolm in the Middle.",
+      "background": "https://image.tmdb.org/t/p/original/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "imdbRating": "7.904",
+      "rating": 7.904
+    },
+    {
+      "id": "tt4477976",
+      "type": "series",
+      "name": "Superstore",
+      "poster": "https://image.tmdb.org/t/p/w500/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
+      "releaseInfo": "2015",
+      "description": "An underrated workplace comedy with a diverse cast and relatable, lighthearted humor similar to New Girl and Scrubs.",
+      "background": "https://image.tmdb.org/t/p/original/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+      "imdbRating": "7.561",
+      "rating": 7.561
+    },
+    {
+      "id": "tt14218830",
+      "type": "series",
+      "name": "Abbott Elementary",
+      "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg",
+      "releaseInfo": "2021",
+      "description": "A modern, feel-good mockumentary that captures the wholesome energy and community spirit of Ted Lasso.",
+      "background": "https://image.tmdb.org/t/p/original/asDINJT3b7tEa76uWI1rZ5TWdJF.jpg",
+      "imdbRating": "7.441",
+      "rating": 7.441
+    }
+  ]
 }

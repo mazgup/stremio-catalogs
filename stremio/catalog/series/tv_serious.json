@@ -1,3 +1,26 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+      "releaseInfo": "2022",
+      "description": "A high-concept psychological thriller that captures the eerie, cerebral mystery found in Foundation and The Twilight Zone.",
+      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+      "imdbRating": "8.394",
+      "rating": 8.394
+    },
+    {
+      "id": "tt0306414",
+      "type": "series",
+      "name": "The Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+      "releaseInfo": "2002",
+      "description": "If you enjoyed the gritty realism and systemic crime narratives of Snowfall and Boardwalk Empire, this is an essential masterpiece.",
+      "background": "https://image.tmdb.org/t/p/original/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+      "imdbRating": "8.6",
+      "rating": 8.6
+    }
+  ]
 }

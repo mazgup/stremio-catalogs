@@ -1,3 +1,37 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt2948562",
+      "type": "series",
+      "name": "Tumble Leaf",
+      "poster": "https://image.tmdb.org/t/p/w500/8MbsSjulW9HZHfLecV2S2dyzk77.jpg",
+      "releaseInfo": "2014",
+      "description": "Uses stop-motion animation to teach basic physics and problem-solving through play.",
+      "background": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5
+    },
+    {
+      "id": "tt4458594",
+      "type": "series",
+      "name": "Blaze and the Monster Machines",
+      "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
+      "releaseInfo": "2014",
+      "description": "Introduces STEM concepts like friction, trajectory, and magnetism to young viewers.",
+      "background": "https://image.tmdb.org/t/p/original/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4
+    },
+    {
+      "id": "tt1594381",
+      "type": "series",
+      "name": "Team Umizoomi",
+      "poster": "https://image.tmdb.org/t/p/w500/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
+      "releaseInfo": "2010",
+      "description": "Focuses on preschool math skills like counting, shapes, and patterns.",
+      "background": "https://image.tmdb.org/t/p/original/pv51XFR2XdIGCXgoTxLVCxZH8IM.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9
+    }
+  ]
 }
