@@ -1,37 +1,48 @@
 {
   "metas": [
     {
+      "id": "tt5846856",
+      "type": "series",
+      "name": "Ask the StoryBots",
+      "poster": "https://image.tmdb.org/t/p/w500/6IY8bmJcUGmgcB9ERnx8hLw7Qz5.jpg",
+      "releaseInfo": "2016",
+      "description": "Uses catchy music and humor to answer big science and nature questions, similar to Ada Twist, Scientist.",
+      "background": "https://image.tmdb.org/t/p/original/947dkEryFtsyO0pNlVRJV53ZbEb.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0
+    },
+    {
       "id": "tt1710177",
       "type": "series",
       "name": "Octonauts",
       "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
       "releaseInfo": "2010",
-      "description": "Teaches marine biology and science through rescue missions, perfect for fans of Ada Twist, Scientist.",
+      "description": "An educational adventure series that teaches kids about marine biology and teamwork.",
       "background": "https://image.tmdb.org/t/p/original/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
       "imdbRating": "7.185",
       "rating": 7.185
     },
     {
-      "id": "tt0169414",
+      "id": "tt1807859",
       "type": "series",
-      "name": "Arthur",
-      "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-      "releaseInfo": "1996",
-      "description": "A long-running series about childhood challenges and family life, much like Bluey.",
-      "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
-      "imdbRating": "7.006",
-      "rating": 7.006
+      "name": "Wild Kratts",
+      "poster": "https://image.tmdb.org/t/p/w500/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
+      "releaseInfo": "2011",
+      "description": "Combines animal science with adventure missions, appealing to fans of The Magic School Bus.",
+      "background": "https://image.tmdb.org/t/p/original/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
+      "imdbRating": "7.569",
+      "rating": 7.569
     },
     {
-      "id": "tt0309141",
+      "id": "tt4458594",
       "type": "series",
-      "name": "Cyberchase",
-      "poster": "https://image.tmdb.org/t/p/w500/rNBxZw1GqLkt8FB9TL9p9jSEBl8.jpg",
-      "releaseInfo": "2002",
-      "description": "Focuses on math and logic puzzles, making it a great follow-up for Peg + Cat and Numberblocks.",
-      "background": "https://image.tmdb.org/t/p/original/eKQbV04jCq5GUrDmTyUfgY44oea.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6
+      "name": "Blaze and the Monster Machines",
+      "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
+      "releaseInfo": "2014",
+      "description": "Teaches STEM concepts like friction and trajectory through high-energy racing adventures.",
+      "background": "https://image.tmdb.org/t/p/original/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4
     },
     {
       "id": "tt3590338",
@@ -39,7 +50,7 @@
       "name": "Puffin Rock",
       "poster": "https://image.tmdb.org/t/p/w500/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
       "releaseInfo": "2015",
-      "description": "A gentle and beautifully animated show about nature and sibling bonds.",
+      "description": "A beautifully animated and gentle show about nature and family bonds on an Irish island.",
       "background": "https://image.tmdb.org/t/p/original/9z945wZwFzJ0EbzY8vsk5ELCZeJ.jpg",
       "imdbRating": "7.4",
       "rating": 7.4
@@ -49,88 +60,11 @@
       "type": "series",
       "name": "Tumble Leaf",
       "poster": "https://image.tmdb.org/t/p/w500/8MbsSjulW9HZHfLecV2S2dyzk77.jpg",
-      "releaseInfo": "2014",
-      "description": "Encourages scientific exploration and problem-solving through play.",
+      "releaseInfo": "2013",
+      "description": "A visually stunning stop-motion series that encourages scientific discovery through play.",
       "background": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
       "imdbRating": "7.5",
       "rating": 7.5
-    },
-    {
-      "id": "tt8651594",
-      "type": "series",
-      "name": "Molly of Denali",
-      "poster": "https://image.tmdb.org/t/p/w500/8HdIoG6HHJJaf8M3SAVQrGgCvHp.jpg",
-      "releaseInfo": "2019",
-      "description": "Teaches informational text skills and indigenous culture through relatable childhood stories.",
-      "background": "https://image.tmdb.org/t/p/original/1ltFINyxi9gb8OtOQSucUGBE9mT.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0
-    },
-    {
-      "id": "tt11992456",
-      "type": "series",
-      "name": "Elinor Wonders Why",
-      "poster": "https://image.tmdb.org/t/p/w500/3MEwgOMnsTfuOHcPoX8hAOKrKYn.jpg",
-      "releaseInfo": "2020",
-      "description": "Encourages young viewers to use scientific inquiry to explore the natural world.",
-      "background": "https://image.tmdb.org/t/p/original/jxA4VAeT6fA11OjmeQ8EsrzzVCw.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0
-    },
-    {
-      "id": "tt11183572",
-      "type": "series",
-      "name": "Xavier Riddle and the Secret Museum",
-      "poster": "https://image.tmdb.org/t/p/w500/ojjbMSKwpUyMc8j0FdJ6oRAqSq8.jpg",
-      "releaseInfo": "2019",
-      "description": "Introduces kids to historical figures and the character traits that made them successful.",
-      "background": "https://image.tmdb.org/t/p/original/uSx8LlMdylSjBYSx1Ji0HqcQEKD.jpg",
-      "imdbRating": "9.0",
-      "rating": 9.0
-    },
-    {
-      "id": "tt14120830",
-      "type": "series",
-      "name": "Alma's Way",
-      "poster": "https://image.tmdb.org/t/p/w500/nt03knfNVuw5Hqr08CLdZZiaOik.jpg",
-      "releaseInfo": "2021",
-      "description": "Focuses on critical thinking and helping children work through everyday dilemmas.",
-      "background": "https://image.tmdb.org/t/p/original/nh5EdvDCvvCQfzBDWGqYownldB3.jpg",
-      "imdbRating": "1.0",
-      "rating": 1.0
-    },
-    {
-      "id": "tt1105469",
-      "type": "series",
-      "name": "Super Why!",
-      "poster": "https://image.tmdb.org/t/p/w500/lJttSVfKx56a2wN2pg2yR4IHzwy.jpg",
-      "releaseInfo": "2007",
-      "description": "An interactive literacy show that helps build reading and spelling skills.",
-      "background": "https://image.tmdb.org/t/p/original/U9VKLLo9IeQU1aQAOA6s4Na5Pc.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1
-    },
-    {
-      "id": "tt1594381",
-      "type": "series",
-      "name": "Team Umizoomi",
-      "poster": "https://image.tmdb.org/t/p/w500/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
-      "releaseInfo": "2010",
-      "description": "Teaches mathematical concepts like shapes and counting to a preschool audience.",
-      "background": "https://image.tmdb.org/t/p/original/pv51XFR2XdIGCXgoTxLVCxZH8IM.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9
-    },
-    {
-      "id": "tt0101188",
-      "type": "series",
-      "name": "Rugrats",
-      "poster": "https://image.tmdb.org/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-      "releaseInfo": "1991",
-      "description": "Explores the world from a toddler's perspective with plenty of family-centric comedy.",
-      "background": "https://image.tmdb.org/t/p/original/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
-      "imdbRating": "7.623",
-      "rating": 7.623
     },
     {
       "id": "tt0423657",
@@ -138,32 +72,43 @@
       "name": "Go, Diego, Go!",
       "poster": "https://image.tmdb.org/t/p/w500/p7Y6IPzPRkZ4oHU0D8DOIIis70a.jpg",
       "releaseInfo": "2005",
-      "description": "An action-oriented show focused on animal facts and environmental protection.",
+      "description": "Focuses on animal rescue and environmental science in a high-energy interactive format.",
       "background": "https://image.tmdb.org/t/p/original/9zCZvrbl9dSZOyiiUr0bCCgtHl3.jpg",
       "imdbRating": "6.189",
       "rating": 6.189
     },
     {
-      "id": "tt1600199",
+      "id": "tt9288860",
       "type": "series",
-      "name": "Franklin",
-      "poster": "https://image.tmdb.org/t/p/w500/so3xbOsAcG5lkxgfRjHbTFkXxM0.jpg",
-      "releaseInfo": "1997",
-      "description": "Gentle stories about a turtle learning how to navigate life and social situations.",
-      "background": "https://image.tmdb.org/t/p/original/unl2ZNBSUhu0gHLPRH31QAyxl2i.jpg",
-      "imdbRating": "7.253",
-      "rating": 7.253
+      "name": "Trash Truck",
+      "poster": "https://image.tmdb.org/t/p/w500/5uY9N0H4m0HCHaOJTgkD4Mz5g2f.jpg",
+      "releaseInfo": "2020",
+      "description": "A sweet and gentle animated series about the friendship between a boy and a giant truck.",
+      "background": "https://image.tmdb.org/t/p/original/73Y7FV2Qf7rrE022vrCzoamQJFY.jpg",
+      "imdbRating": "5.9",
+      "rating": 5.9
     },
     {
-      "id": "tt0293737",
+      "id": "tt5292052",
       "type": "series",
-      "name": "The Proud Family",
-      "poster": "https://image.tmdb.org/t/p/w500/wcfbfActZ9VZ3anFqe3YYNWOHsG.jpg",
-      "releaseInfo": "2001",
-      "description": "An animated family sitcom that deals with growing up and family dynamics.",
-      "background": "https://image.tmdb.org/t/p/original/1HZpsTp3N8QQDSNDu5yEmBAb7s1.jpg",
-      "imdbRating": "7.728",
-      "rating": 7.728
+      "name": "Ready Jet Go!",
+      "poster": "https://image.tmdb.org/t/p/w500/2APkN4Qi6SqHaW6te16fBOdIlI.jpg",
+      "releaseInfo": "2016",
+      "description": "Explores astronomy and Earth science through the eyes of an alien visiting Earth.",
+      "background": "https://image.tmdb.org/t/p/original/5pFhN92C10TlIqkzNZy17uyzGcE.jpg",
+      "imdbRating": "0.0",
+      "rating": 0.0
+    },
+    {
+      "id": "tt7006666",
+      "type": "series",
+      "name": "Pinkalicious & Peterrific",
+      "poster": "https://image.tmdb.org/t/p/w500/2Px2hChVZT2tPu1jDhfIs5W2tFt.jpg",
+      "releaseInfo": "2018",
+      "description": "Encourages creative expression through art, music, and imaginative play.",
+      "background": "https://image.tmdb.org/t/p/original/wHwLakgDfWk5uw6PWqGvxheRLem.jpg",
+      "imdbRating": "0.0",
+      "rating": 0.0
     }
   ]
 }
