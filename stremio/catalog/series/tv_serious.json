@@ -6,21 +6,10 @@
       "name": "True Detective",
       "poster": "https://image.tmdb.org/t/p/w500/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
       "releaseInfo": "2014",
-      "description": "Its gritty, philosophical crime-solving matches the atmosphere of Mindhunter, Sharp Objects, and Mare of Easttown.",
+      "description": "Matches the gritty crime, psychological depth, and atmospheric dread found in Mindhunter, Sharp Objects, and Mare of Easttown.",
       "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
       "imdbRating": "8.29",
       "rating": 8.29
-    },
-    {
-      "id": "tt11280740",
-      "type": "series",
-      "name": "Severance",
-      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
-      "releaseInfo": "2022",
-      "description": "A high-stress, mind-bending mystery that appeals to fans of The Twilight Zone and the tense workplace environment of The Bear.",
-      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-      "imdbRating": "8.394",
-      "rating": 8.394
     },
     {
       "id": "tt7660850",
@@ -28,54 +17,21 @@
       "name": "Succession",
       "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
       "releaseInfo": "2018",
-      "description": "A masterclass in high-stakes family drama and sharp dark comedy, aligning perfectly with the tone of BEEF and Atlanta.",
+      "description": "Delivers the same high-stakes familial tension, emotional complexity, and biting dark humor as BEEF and The Bear.",
       "background": "https://image.tmdb.org/t/p/original/bcdUYUFk8GdpZJPiSAas9UeocLH.jpg",
       "imdbRating": "8.3",
       "rating": 8.3
     },
     {
-      "id": "tt5348176",
+      "id": "tt11280740",
       "type": "series",
-      "name": "Barry",
-      "poster": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
-      "releaseInfo": "2018",
-      "description": "Blends intense crime thriller elements with pitch-black comedy, mirroring the dark humor of Inside No. 9 and The Boys.",
-      "background": "https://image.tmdb.org/t/p/original/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
-      "imdbRating": "7.902",
-      "rating": 7.902
-    },
-    {
-      "id": "tt2802850",
-      "type": "series",
-      "name": "Fargo",
-      "poster": "https://image.tmdb.org/t/p/w500/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "releaseInfo": "2014",
-      "description": "An anthology of quirky, violent crime stories with rich character development, ideal for fans of Inside No. 9 and Beef.",
-      "background": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3
-    },
-    {
-      "id": "tt7366338",
-      "type": "series",
-      "name": "Chernobyl",
-      "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-      "releaseInfo": "2019",
-      "description": "A harrowing, high-stakes historical drama that shares the meticulous intensity and dread found in Mindhunter.",
-      "background": "https://image.tmdb.org/t/p/original/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
-      "imdbRating": "8.71",
-      "rating": 8.71
-    },
-    {
-      "id": "tt0306414",
-      "type": "series",
-      "name": "The Wire",
-      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
-      "releaseInfo": "2002",
-      "description": "A gritty, incredibly detailed look at institutional crime and corruption, perfect for fans of Snowfall and Boardwalk Empire.",
-      "background": "https://image.tmdb.org/t/p/original/layPSOJGckJv3PXZDIVluMq69mn.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6
+      "name": "Severance",
+      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+      "releaseInfo": "2022",
+      "description": "A high-concept psychological thriller that captures the eerie existential mystery of The Twilight Zone and Inside No. 9.",
+      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+      "imdbRating": "8.396",
+      "rating": 8.396
     },
     {
       "id": "tt0903747",
@@ -83,10 +39,10 @@
       "name": "Breaking Bad",
       "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
       "releaseInfo": "2008",
-      "description": "An intensely gripping character study of a criminal descent, aligning with the high-stakes narrative of Snowfall.",
+      "description": "A masterclass in character descent and high stakes, matching the intense criminal worlds of Snowfall and Boardwalk Empire.",
       "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "imdbRating": "8.947",
-      "rating": 8.947
+      "imdbRating": "8.946",
+      "rating": 8.946
     },
     {
       "id": "tt3032476",
@@ -94,43 +50,21 @@
       "name": "Better Call Saul",
       "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
       "releaseInfo": "2015",
-      "description": "A slow-burn, masterfully written tragedy and character study that matches the prestige level of Boardwalk Empire.",
+      "description": "Offers patient, prestige-level storytelling with incredible tension and moral complexity, similar to Boardwalk Empire.",
       "background": "https://image.tmdb.org/t/p/original/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7
+      "imdbRating": "8.706",
+      "rating": 8.706
     },
     {
-      "id": "tt4158110",
+      "id": "tt7366338",
       "type": "series",
-      "name": "Mr. Robot",
-      "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-      "releaseInfo": "2015",
-      "description": "A psychological thriller with intense cyber-conspiracies, capturing the dark intellectual duel of Death Note and the mystery of The X-Files.",
-      "background": "https://image.tmdb.org/t/p/original/4ceSkV7cmCon4exXaZwuhW1VdE0.jpg",
-      "imdbRating": "8.264",
-      "rating": 8.264
-    },
-    {
-      "id": "tt2699128",
-      "type": "series",
-      "name": "The Leftovers",
-      "poster": "https://image.tmdb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
-      "releaseInfo": "2014",
-      "description": "An emotionally complex, existential mystery that will captivate fans of Sharp Objects and The Twilight Zone.",
-      "background": "https://image.tmdb.org/t/p/original/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7
-    },
-    {
-      "id": "tt2085059",
-      "type": "series",
-      "name": "Black Mirror",
-      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-      "releaseInfo": "2011",
-      "description": "A dark sci-fi anthology probing the dread of technology, echoing the episodic style of Love, Death & Robots and Inside No. 9.",
-      "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3
+      "name": "Chernobyl",
+      "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "releaseInfo": "2019",
+      "description": "An intensely realistic, dread-filled historical drama that matches the high stakes and prestige production of your favorite thrillers.",
+      "background": "https://image.tmdb.org/t/p/original/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+      "imdbRating": "8.711",
+      "rating": 8.711
     },
     {
       "id": "tt5753856",
@@ -138,10 +72,65 @@
       "name": "Dark",
       "poster": "https://image.tmdb.org/t/p/w500/1DLjjvSWMYo17B7wuz6YikB96hH.jpg",
       "releaseInfo": "2017",
-      "description": "A complex, mind-bending German sci-fi mystery involving time travel, perfect for fans of Stranger Things and The X-Files.",
+      "description": "An incredibly complex sci-fi mystery with a dark tone that will appeal to fans of Stranger Things, The X-Files, and Foundation.",
       "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4
+      "imdbRating": "8.423",
+      "rating": 8.423
+    },
+    {
+      "id": "tt2699128",
+      "type": "series",
+      "name": "The Leftovers",
+      "poster": "https://image.tmdb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+      "releaseInfo": "2014",
+      "description": "A deeply emotional and existential mystery drama that explores grief and trauma in a way that matches Sharp Objects.",
+      "background": "https://image.tmdb.org/t/p/original/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
+      "imdbRating": "7.661",
+      "rating": 7.661
+    },
+    {
+      "id": "tt2085059",
+      "type": "series",
+      "name": "Black Mirror",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "releaseInfo": "2011",
+      "description": "A dark, thought-provoking sci-fi anthology series perfect for fans of Inside No. 9 and Love, Death & Robots.",
+      "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+      "imdbRating": "8.287",
+      "rating": 8.287
+    },
+    {
+      "id": "tt4158110",
+      "type": "series",
+      "name": "Mr. Robot",
+      "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "releaseInfo": "2015",
+      "description": "A mind-bending psychological thriller with high stakes and a complex protagonist, mirroring the mental chess of Death Note.",
+      "background": "https://image.tmdb.org/t/p/original/4ceSkV7cmCon4exXaZwuhW1VdE0.jpg",
+      "imdbRating": "8.265",
+      "rating": 8.265
+    },
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "poster": "https://image.tmdb.org/t/p/w500/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+      "releaseInfo": "2014",
+      "description": "This dark comedy crime anthology captures the violent unpredictability and dry wit of Atlanta and Inside No. 9.",
+      "background": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
+      "imdbRating": "8.287",
+      "rating": 8.287
+    },
+    {
+      "id": "tt5348176",
+      "type": "series",
+      "name": "Barry",
+      "poster": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+      "releaseInfo": "2018",
+      "description": "Combines intense action with existential dread and pitch-black comedy, perfect for fans of BEEF and The Bear.",
+      "background": "https://image.tmdb.org/t/p/original/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
+      "imdbRating": "7.901",
+      "rating": 7.901
     },
     {
       "id": "tt0434706",
@@ -149,21 +138,10 @@
       "name": "Monster",
       "poster": "https://image.tmdb.org/t/p/w500/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
       "releaseInfo": "2004",
-      "description": "A brilliant, psychological crime-thriller anime that deals with moral ambiguity, mirroring Death Note and Mindhunter.",
+      "description": "A legendary slow-burn psychological thriller anime about a serial killer, perfect for fans of Mindhunter and Death Note.",
       "background": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
-      "imdbRating": "8.52",
-      "rating": 8.52
-    },
-    {
-      "id": "tt2560140",
-      "type": "series",
-      "name": "Attack on Titan",
-      "poster": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
-      "releaseInfo": "2013",
-      "description": "An epic, high-stakes anime with extreme intensity, complex plotting, and dark themes that appeal to fans of Invincible and Jujutsu Kaisen.",
-      "background": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7
+      "imdbRating": "8.5",
+      "rating": 8.5
     },
     {
       "id": "tt10233448",
@@ -171,98 +149,10 @@
       "name": "Vinland Saga",
       "poster": "https://image.tmdb.org/t/p/w500/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
       "releaseInfo": "2019",
-      "description": "A brutal, beautifully animated historical epic dealing with vengeance and peace, matching the emotional weight of Invincible.",
+      "description": "An animated historical epic with mature themes of vengeance, trauma, and philosophy, matching the maturity of Invincible.",
       "background": "https://image.tmdb.org/t/p/original/xamCBQePUy9xI42GvtphLuGqd09.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5
-    },
-    {
-      "id": "tt12590266",
-      "type": "series",
-      "name": "Cyberpunk: Edgerunners",
-      "poster": "https://image.tmdb.org/t/p/w500/lqcDVZ8pyk08AVftMBildDR3QUK.jpg",
-      "releaseInfo": "2022",
-      "description": "A high-octane, visually spectacular, and tragic sci-fi anime perfect for fans of Love, Death & Robots and Fallout.",
-      "background": "https://image.tmdb.org/t/p/original/bRE6zX4iOAejLOQCHryoV5WNu8G.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5
-    },
-    {
-      "id": "tt2149175",
-      "type": "series",
-      "name": "The Americans",
-      "poster": "https://image.tmdb.org/t/p/w500/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
-      "releaseInfo": "2013",
-      "description": "A brilliant, intense Cold War spy drama that matches the espionage stakes and psychological tension of The Night Manager.",
-      "background": "https://image.tmdb.org/t/p/original/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9
-    },
-    {
-      "id": "tt5071412",
-      "type": "series",
-      "name": "Ozark",
-      "poster": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
-      "releaseInfo": "2017",
-      "description": "A high-tension, stressful crime drama about money laundering, aligning with the dark, gritty tone of Snowfall.",
-      "background": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
-      "imdbRating": "8.207",
-      "rating": 8.207
-    },
-    {
-      "id": "tt2442560",
-      "type": "series",
-      "name": "Peaky Blinders",
-      "poster": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
-      "releaseInfo": "2013",
-      "description": "A stylish, violent, and highly-rated crime epic set in post-WWI England, appealing to fans of Boardwalk Empire.",
-      "background": "https://image.tmdb.org/t/p/original/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg",
-      "imdbRating": "8.525",
-      "rating": 8.525
-    },
-    {
-      "id": "tt7049682",
-      "type": "series",
-      "name": "Watchmen",
-      "poster": "https://image.tmdb.org/t/p/w500/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
-      "releaseInfo": "2019",
-      "description": "A complex, dark superhero mystery dealing with systemic trauma, perfect for fans of The Boys and Invincible.",
-      "background": "https://image.tmdb.org/t/p/original/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
-      "imdbRating": "7.628",
-      "rating": 7.628
-    },
-    {
-      "id": "tt0098936",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "releaseInfo": "1990",
-      "description": "A foundational, eerie mystery that balances the bizarre and the terrifying, heavily influencing The X-Files and Sharp Objects.",
-      "background": "https://image.tmdb.org/t/p/original/j5w04XEuFv85N3RIovXBJIHxjSb.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3
-    },
-    {
-      "id": "tt6763664",
-      "type": "series",
-      "name": "The Haunting of Hill House",
-      "poster": "https://image.tmdb.org/t/p/w500/38PkhBGRQtmVx2drvPik3F42qHO.jpg",
-      "releaseInfo": "2018",
-      "description": "A masterfully crafted, emotionally heavy horror-drama about trauma, appealing to fans of Them and Sharp Objects.",
-      "background": "https://image.tmdb.org/t/p/original/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
-      "imdbRating": "8.099",
-      "rating": 8.099
-    },
-    {
-      "id": "tt11041332",
-      "type": "series",
-      "name": "Yellowjackets",
-      "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "releaseInfo": "2021",
-      "description": "A dark, intense mystery featuring survival, trauma, and psychological disintegration, appealing to fans of Sharp Objects.",
-      "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-      "imdbRating": "7.459",
-      "rating": 7.459
+      "imdbRating": "8.527",
+      "rating": 8.527
     },
     {
       "id": "tt3581920",
@@ -270,21 +160,10 @@
       "name": "The Last of Us",
       "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
       "releaseInfo": "2023",
-      "description": "A gritty, emotionally devastating post-apocalyptic journey that shares the survival grit and prestige budget of Fallout.",
+      "description": "A brutal, post-apocalyptic journey with immense emotional weight and terrifying threats, aligning with Fallout.",
       "background": "https://image.tmdb.org/t/p/original/acevLdSl5I2MK5RYAm7gwAndt1w.jpg",
-      "imdbRating": "8.43",
-      "rating": 8.43
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
-      "releaseInfo": "2023",
-      "description": "A highly-rated dystopian sci-fi mystery about a subterranean society, fitting perfectly with Fallout and The Expanse.",
-      "background": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
-      "imdbRating": "8.143",
-      "rating": 8.143
+      "imdbRating": "8.428",
+      "rating": 8.428
     },
     {
       "id": "tt9253284",
@@ -292,65 +171,76 @@
       "name": "Andor",
       "poster": "https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
       "releaseInfo": "2022",
-      "description": "A gritty, politically complex spy thriller set in space, aligning with the grounded, high-stakes nature of The Expanse.",
+      "description": "A highly serious, gritty political thriller in space that offers the same mature sci-fi tone as The Expanse.",
       "background": "https://image.tmdb.org/t/p/original/AmUhBqsxcenA75T9hV49G6ouO9c.jpg",
       "imdbRating": "8.3",
       "rating": 8.3
     },
     {
-      "id": "tt2707408",
+      "id": "tt11041332",
       "type": "series",
-      "name": "Narcos",
-      "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
-      "releaseInfo": "2015",
-      "description": "A fast-paced, violent, and gritty exploration of real-life drug empires, perfect for fans of Snowfall.",
-      "background": "https://image.tmdb.org/t/p/original/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1
-    },
-    {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://image.tmdb.org/t/p/w500/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
-      "releaseInfo": "2022",
-      "description": "A clever, cynical, and highly suspenseful spy thriller that will hook fans of The Night Manager.",
-      "background": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0
-    },
-    {
-      "id": "tt13623580",
-      "type": "series",
-      "name": "Reservation Dogs",
-      "poster": "https://image.tmdb.org/t/p/w500/t6hqwD5oQRGgNrZKN71BQYxteC1.jpg",
+      "name": "Yellowjackets",
+      "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
       "releaseInfo": "2021",
-      "description": "An acclaimed, melancholic comedy-drama about Indigenous youth, matching the unique, surreal atmosphere of Atlanta.",
-      "background": "https://image.tmdb.org/t/p/original/4vC3CijGu8g2Z1UobwkJpRQHOVO.jpg",
-      "imdbRating": "7.923",
-      "rating": 7.923
+      "description": "A dual-timeline psychological mystery featuring deep-seated trauma, matching the dark vibes of Sharp Objects and Them.",
+      "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+      "imdbRating": "7.456",
+      "rating": 7.456
     },
     {
-      "id": "tt13406094",
+      "id": "tt2294189",
       "type": "series",
-      "name": "The White Lotus",
-      "poster": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-      "releaseInfo": "2021",
-      "description": "A satirical, stressful dark comedy-drama exploring class tensions and mystery, appealing to fans of Beef and Atlanta.",
-      "background": "https://image.tmdb.org/t/p/original/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
-      "imdbRating": "7.606",
-      "rating": 7.606
+      "name": "The Fall",
+      "poster": "https://image.tmdb.org/t/p/w500/fm7nN3nUADA7JGgnFNlOWpXn1tf.jpg",
+      "releaseInfo": "2013",
+      "description": "A gripping psychological cat-and-mouse game between a detective and a serial killer, perfect for fans of Hannibal.",
+      "background": "https://image.tmdb.org/t/p/original/vunaJ5k1cG8T4ROUGDZ05IhNXkP.jpg",
+      "imdbRating": "7.676",
+      "rating": 7.676
     },
     {
-      "id": "tt2937900",
+      "id": "tt5071412",
       "type": "series",
-      "name": "The Knick",
-      "poster": "https://image.tmdb.org/t/p/w500/oeEqDSIVOi6q0GcZj8L9Q6G7fGC.jpg",
-      "releaseInfo": "2014",
-      "description": "A visceral, intense historical medical drama about addiction and genius, matching the frantic stress of The Bear and the gore of Hannibal.",
-      "background": "https://image.tmdb.org/t/p/original/mw9EcIFuWUjkOTF60aYpbpM02Qu.jpg",
-      "imdbRating": "7.849",
-      "rating": 7.849
+      "name": "Ozark",
+      "poster": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+      "releaseInfo": "2017",
+      "description": "A tense, stressful crime drama about family survival under extreme criminal pressure, echoing Snowfall.",
+      "background": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
+      "imdbRating": "8.208",
+      "rating": 8.208
+    },
+    {
+      "id": "tt2249364",
+      "type": "series",
+      "name": "Broadchurch",
+      "poster": "https://image.tmdb.org/t/p/w500/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+      "releaseInfo": "2013",
+      "description": "A masterfully written mystery following a small community torn apart by crime, matching Mare of Easttown.",
+      "background": "https://image.tmdb.org/t/p/original/66ieYewiusGZsUAbJGuefdo1GpS.jpg",
+      "imdbRating": "7.902",
+      "rating": 7.902
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "releaseInfo": "2013",
+      "description": "A stylish, violent period crime drama filled with intense power struggles, perfect for fans of Boardwalk Empire.",
+      "background": "https://image.tmdb.org/t/p/original/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg",
+      "imdbRating": "8.525",
+      "rating": 8.525
+    },
+    {
+      "id": "tt6763664",
+      "type": "series",
+      "name": "The Haunting of Hill House",
+      "poster": "https://image.tmdb.org/t/p/w500/38PkhBGRQtmVx2drvPik3F42qHO.jpg",
+      "releaseInfo": "2018",
+      "description": "An emotionally devastating, atmospheric horror drama that matches the supernatural tension of Them.",
+      "background": "https://image.tmdb.org/t/p/original/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
+      "imdbRating": "8.098",
+      "rating": 8.098
     },
     {
       "id": "tt0773262",
@@ -358,21 +248,54 @@
       "name": "Dexter",
       "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
       "releaseInfo": "2006",
-      "description": "A gripping crime thriller about a serial killer targeting other criminals, appealing to fans of Death Note and Hannibal.",
+      "description": "Focuses on a complex protagonist balancing a normal life with his dark urges, appealing to fans of Hannibal and Death Note.",
       "background": "https://image.tmdb.org/t/p/original/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
       "imdbRating": "8.234",
       "rating": 8.234
     },
     {
-      "id": "tt10332508",
+      "id": "tt14688458",
       "type": "series",
-      "name": "Primal",
-      "poster": "https://image.tmdb.org/t/p/w500/mf12pRakr3eYdJtv6klQtoznnbU.jpg",
-      "releaseInfo": "2019",
-      "description": "Genndy Tartakovsky's brutal, wordless animated epic about survival, mirroring the intensity of Invincible and Love, Death & Robots.",
-      "background": "https://image.tmdb.org/t/p/original/tbHQDtoDZGJsfe7Kx6BEShcrZAa.jpg",
-      "imdbRating": "8.65",
-      "rating": 8.65
+      "name": "Silo",
+      "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
+      "releaseInfo": "2023",
+      "description": "A claustrophobic, high-stakes dystopian mystery that shares a strong sci-fi lineage with Fallout and The Expanse.",
+      "background": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1
+    },
+    {
+      "id": "tt12590266",
+      "type": "series",
+      "name": "Cyberpunk: Edgerunners",
+      "poster": "https://image.tmdb.org/t/p/w500/lqcDVZ8pyk08AVftMBildDR3QUK.jpg",
+      "releaseInfo": "2022",
+      "description": "A high-octane, visually stunning, and emotionally devastating sci-fi anime, appealing to fans of Invincible.",
+      "background": "https://image.tmdb.org/t/p/original/bRE6zX4iOAejLOQCHryoV5WNu8G.jpg",
+      "imdbRating": "8.459",
+      "rating": 8.459
+    },
+    {
+      "id": "tt0407362",
+      "type": "series",
+      "name": "Battlestar Galactica",
+      "poster": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+      "releaseInfo": "2004",
+      "description": "A landmark space opera tackling political, philosophical, and survival themes, matching the epic scale of The Expanse.",
+      "background": "https://image.tmdb.org/t/p/original/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
+      "imdbRating": "8.207",
+      "rating": 8.207
+    },
+    {
+      "id": "tt2560140",
+      "type": "series",
+      "name": "Attack on Titan",
+      "poster": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+      "releaseInfo": "2013",
+      "description": "A dark, intense anime with massive stakes, complex political intrigue, and brutal twists, fitting Jujutsu Kaisen fans.",
+      "background": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "imdbRating": "8.679",
+      "rating": 8.679
     },
     {
       "id": "tt2708480",
@@ -380,32 +303,43 @@
       "name": "The Terror",
       "poster": "https://image.tmdb.org/t/p/w500/fUVn5mScv83FfwrRUUR694yA7bd.jpg",
       "releaseInfo": "2018",
-      "description": "A chilling blend of historical survival drama and supernatural horror, capturing the dread of Them and The X-Files.",
+      "description": "A claustrophobic, historical horror drama that combines real survival stakes with supernatural dread, appealing to fans of Them.",
       "background": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg",
       "imdbRating": "7.4",
       "rating": 7.4
     },
     {
-      "id": "tt2628232",
+      "id": "tt5875444",
       "type": "series",
-      "name": "Penny Dreadful",
-      "poster": "https://image.tmdb.org/t/p/w500/hQSdrXBYTbLGHYDIseHkBOPXTgL.jpg",
-      "releaseInfo": "2014",
-      "description": "A lavish, psychological gothic horror series that will deeply appeal to fans of Hannibal and The X-Files.",
-      "background": "https://image.tmdb.org/t/p/original/3bViM60LioKQJwsExm5oyLRYagC.jpg",
-      "imdbRating": "7.802",
-      "rating": 7.802
+      "name": "Slow Horses",
+      "poster": "https://image.tmdb.org/t/p/w500/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
+      "releaseInfo": "2022",
+      "description": "A sharp, intense, and gritty espionage thriller that matches the sleek mystery elements of The Night Manager.",
+      "background": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "imdbRating": "8.012",
+      "rating": 8.012
     },
     {
-      "id": "tt8001106",
+      "id": "tt7909970",
       "type": "series",
-      "name": "Giri/Haji",
-      "poster": "https://image.tmdb.org/t/p/w500/mOeqBvuGOcq0eN1ssGCcRtWA7XW.jpg",
+      "name": "Unbelievable",
+      "poster": "https://image.tmdb.org/t/p/w500/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg",
       "releaseInfo": "2019",
-      "description": "An underrated, highly stylish cross-continental crime thriller that balances tense mystery with deep emotional stakes.",
-      "background": "https://image.tmdb.org/t/p/original/h8ngSjGpbtfc1LCyz9hkBMQPvN0.jpg",
-      "imdbRating": "7.353",
-      "rating": 7.353
+      "description": "An emotionally intense, grounded crime miniseries focusing on realistic detective work, appealing to fans of Mare of Easttown.",
+      "background": "https://image.tmdb.org/t/p/original/AhFEqj8PFvvNDQ3Ouv39kNfTraI.jpg",
+      "imdbRating": "7.92",
+      "rating": 7.92
+    },
+    {
+      "id": "tt7472896",
+      "type": "series",
+      "name": "Mr. Inbetween",
+      "poster": "https://image.tmdb.org/t/p/w500/1FkONly4j7hxi6Pz5CmuhRN1Ops.jpg",
+      "releaseInfo": "2018",
+      "description": "An incredibly gritty, darkly funny look at a hitman balancing family life, matching the tone of Barry and BEEF.",
+      "background": "https://image.tmdb.org/t/p/original/2INMEKxee4z0mVYpHCS4AdPxgOb.jpg",
+      "imdbRating": "8.27",
+      "rating": 8.27
     },
     {
       "id": "tt5016504",
@@ -413,21 +347,21 @@
       "name": "Preacher",
       "poster": "https://image.tmdb.org/t/p/w500/ey1WQajA25E5sFGHSApcqSWUSEc.jpg",
       "releaseInfo": "2016",
-      "description": "An absurdly violent, dark, and comedic comic-book adaptation that matches the irreverence and gore of The Boys.",
+      "description": "An action-packed, irreverent, and highly violent adaptation that shares creative DNA and tone with The Boys.",
       "background": "https://image.tmdb.org/t/p/original/bENaaAmX4d0zUYYrZyFCT1U0V86.jpg",
       "imdbRating": "7.445",
       "rating": 7.445
     },
     {
-      "id": "tt26737616",
+      "id": "tt8134186",
       "type": "series",
-      "name": "Pluto",
-      "poster": "https://image.tmdb.org/t/p/w500/agf5sETjlO35s3EDA7wwGliZ5UW.jpg",
-      "releaseInfo": "2023",
-      "description": "An incredibly deep, emotionally complex sci-fi mystery anime about AI and murder, perfect for fans of Death Note.",
-      "background": "https://image.tmdb.org/t/p/original/oz3LT9glLNWpSQACnWlIYoSZA5M.jpg",
-      "imdbRating": "7.849",
-      "rating": 7.849
+      "name": "Devs",
+      "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+      "releaseInfo": "2020",
+      "description": "A stylized, slow-burn psychological sci-fi mystery that aligns with the cerebral nature of Foundation.",
+      "background": "https://image.tmdb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg",
+      "imdbRating": "7.336",
+      "rating": 7.336
     },
     {
       "id": "tt0286486",
@@ -435,10 +369,76 @@
       "name": "The Shield",
       "poster": "https://image.tmdb.org/t/p/w500/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg",
       "releaseInfo": "2002",
-      "description": "A fast-paced, intensely gritty police drama dealing with corruption, matching the frantic stakes of Snowfall and Mindhunter.",
+      "description": "An intense, morally gray, and highly gritty police drama that matches the fast-paced corruption of Snowfall.",
       "background": "https://image.tmdb.org/t/p/original/AuQGIa3ZarPdS0bhWjQWJR0mhJj.jpg",
       "imdbRating": "8.2",
       "rating": 8.2
+    },
+    {
+      "id": "tt8001106",
+      "type": "series",
+      "name": "Giri/Haji",
+      "poster": "https://image.tmdb.org/t/p/w500/mOeqBvuGOcq0eN1ssGCcRtWA7XW.jpg",
+      "releaseInfo": "2019",
+      "description": "A sleek, cross-continental crime thriller with deep emotional stakes, matching the complexity of The Night Manager.",
+      "background": "https://image.tmdb.org/t/p/original/h8ngSjGpbtfc1LCyz9hkBMQPvN0.jpg",
+      "imdbRating": "7.353",
+      "rating": 7.353
+    },
+    {
+      "id": "tt2149175",
+      "type": "series",
+      "name": "The Americans",
+      "poster": "https://image.tmdb.org/t/p/w500/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+      "releaseInfo": "2013",
+      "description": "A masterful, high-tension drama about identity, espionage, and marriage, matching the intense suspense of Mindhunter.",
+      "background": "https://image.tmdb.org/t/p/original/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
+      "imdbRating": "7.875",
+      "rating": 7.875
+    },
+    {
+      "id": "tt2887954",
+      "type": "series",
+      "name": "Tokyo Vice",
+      "poster": "https://image.tmdb.org/t/p/w500/za5QWRfCLwgRLLVXUkx3NUSAm6G.jpg",
+      "releaseInfo": "2022",
+      "description": "A stylish, gritty dive into the criminal underworld of Tokyo, appealing to fans of Snowfall and Boardwalk Empire.",
+      "background": "https://image.tmdb.org/t/p/original/fGhZTONMDkwSaE5V4FDxf26uenl.jpg",
+      "imdbRating": "7.86",
+      "rating": 7.86
+    },
+    {
+      "id": "tt21056886",
+      "type": "series",
+      "name": "Scavengers Reign",
+      "poster": "https://image.tmdb.org/t/p/w500/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
+      "releaseInfo": "2023",
+      "description": "A surreal, beautiful, and terrifying sci-fi animation focused on survival, matching Love, Death & Robots.",
+      "background": "https://image.tmdb.org/t/p/original/rrREM1cowfMZ8SmrJ9KCFO3y4j6.jpg",
+      "imdbRating": "8.486",
+      "rating": 8.486
+    },
+    {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "releaseInfo": "1990",
+      "description": "The quintessential surreal mystery series that paved the way for psychological television, matching The X-Files.",
+      "background": "https://image.tmdb.org/t/p/original/j5w04XEuFv85N3RIovXBJIHxjSb.jpg",
+      "imdbRating": "8.348",
+      "rating": 8.348
+    },
+    {
+      "id": "tt9170108",
+      "type": "series",
+      "name": "Raised by Wolves",
+      "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+      "releaseInfo": "2020",
+      "description": "A weird, high-concept, and highly intense sci-fi drama, matching the grand-scale ambition of Foundation.",
+      "background": "https://image.tmdb.org/t/p/original/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
+      "imdbRating": "7.511",
+      "rating": 7.511
     }
   ]
 }
