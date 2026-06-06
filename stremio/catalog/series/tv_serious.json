@@ -1,12 +1,45 @@
 {
   "metas": [
     {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "poster": "https://image.tmdb.org/t/p/w500/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
+      "releaseInfo": "2014",
+      "description": "This critically acclaimed anthology series delivers the exact same gritty, intense investigative energy and psychological depth found in Mindhunter and Mare of Easttown.",
+      "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+      "imdbRating": "8.291",
+      "rating": 8.291
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+      "releaseInfo": "2022",
+      "description": "A deeply unsettling, highly original mystery thriller. Its sterile, tense environment and psychological puzzles will appeal to fans of The Twilight Zone and Inside No. 9.",
+      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+      "imdbRating": "8.397",
+      "rating": 8.397
+    },
+    {
+      "id": "tt2085059",
+      "type": "series",
+      "name": "Black Mirror",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "releaseInfo": "2011",
+      "description": "As a modern-day anthology equivalent to The Twilight Zone, this series explores dark, tech-focused psychological themes and complex societal dilemmas.",
+      "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+      "imdbRating": "8.287",
+      "rating": 8.287
+    },
+    {
       "id": "tt7660850",
       "type": "series",
       "name": "Succession",
       "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
       "releaseInfo": "2018",
-      "description": "This critically acclaimed prestige drama mirrors the intense, high-stress family and professional dynamics of The Bear and BEEF, but scales it up to billionaire corporate warfare.",
+      "description": "A masterclass in prestige television. Much like BEEF and The Bear, it mixes toxic, high-intensity character dynamics with dark humor and extreme emotional stakes.",
       "background": "https://image.tmdb.org/t/p/original/bcdUYUFk8GdpZJPiSAas9UeocLH.jpg",
       "imdbRating": "8.3",
       "rating": 8.3
@@ -17,21 +50,10 @@
       "name": "Barry",
       "poster": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
       "releaseInfo": "2018",
-      "description": "A perfect transition from BEEF and Atlanta. It seamlessly balances pitch-black humor with shocking, high-stakes violence and intense psychological drama.",
+      "description": "This dark comedy-drama blends intense action-thriller elements with sharp humor, making it perfect for fans who enjoyed the chaotic energy of BEEF and Atlanta.",
       "background": "https://image.tmdb.org/t/p/original/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
       "imdbRating": "7.9",
       "rating": 7.9
-    },
-    {
-      "id": "tt11280740",
-      "type": "series",
-      "name": "Severance",
-      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
-      "releaseInfo": "2022",
-      "description": "Captures the unsettling, high-concept psychological mystery vibe of The Twilight Zone and Inside No. 9, packaged as an intense corporate conspiracy thriller.",
-      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-      "imdbRating": "8.398",
-      "rating": 8.398
     },
     {
       "id": "tt7366338",
@@ -39,21 +61,10 @@
       "name": "Chernobyl",
       "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
       "releaseInfo": "2019",
-      "description": "A masterclass in prestige television. It offers intense, dread-inducing historical drama that demands absolute attention and delivers deep emotional complexity.",
+      "description": "An incredibly intense and devastating prestige drama that captures the grim realism and gripping tension of high-stakes historical events.",
       "background": "https://image.tmdb.org/t/p/original/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7
-    },
-    {
-      "id": "tt2356777",
-      "type": "series",
-      "name": "True Detective",
-      "poster": "https://image.tmdb.org/t/p/w500/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
-      "releaseInfo": "2014",
-      "description": "If you loved the dark atmosphere, psychological profiling, and grit of MINDHUNTER, Sharp Objects, and Mare of Easttown, the first season of this anthology is essential viewing.",
-      "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3
+      "imdbRating": "8.713",
+      "rating": 8.713
     },
     {
       "id": "tt2802850",
@@ -61,43 +72,21 @@
       "name": "Fargo",
       "poster": "https://image.tmdb.org/t/p/w500/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
       "releaseInfo": "2014",
-      "description": "Like Inside No. 9 and BEEF, this series delivers a masterfully twisted combination of dark comedy, shocking crime violence, and brilliant character studies.",
+      "description": "This dark crime anthology delivers twisted mysteries, high-stakes violence, and moral complexity, matching the clever writing style of Inside No. 9.",
       "background": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
       "imdbRating": "8.287",
       "rating": 8.287
     },
     {
-      "id": "tt2085059",
+      "id": "tt5753856",
       "type": "series",
-      "name": "Black Mirror",
-      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-      "releaseInfo": "2011",
-      "description": "Directly appeals to fans of Love, Death & Robots and The Twilight Zone with its dark, speculative sci-fi anthologies about modern societal anxieties.",
-      "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-      "imdbRating": "8.287",
-      "rating": 8.287
-    },
-    {
-      "id": "tt0903747",
-      "type": "series",
-      "name": "Breaking Bad",
-      "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-      "releaseInfo": "2008",
-      "description": "The gold standard of gritty crime dramas. Like Snowfall and Boardwalk Empire, it explores a high-stakes, uncompromising descent into the criminal underworld.",
-      "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "imdbRating": "8.9",
-      "rating": 8.9
-    },
-    {
-      "id": "tt3032476",
-      "type": "series",
-      "name": "Better Call Saul",
-      "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
-      "releaseInfo": "2015",
-      "description": "Matches the deliberate pacing and deep character development of Boardwalk Empire and Snowfall, offering an emotionally complex tragic drama.",
-      "background": "https://image.tmdb.org/t/p/original/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
-      "imdbRating": "8.706",
-      "rating": 8.706
+      "name": "Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/1DLjjvSWMYo17B7wuz6YikB96hH.jpg",
+      "releaseInfo": "2017",
+      "description": "An intricate, mind-bending sci-fi mystery that demands full attention. It is perfect if you loved the complex lore of Stranger Things and the atmosphere of The X-Files.",
+      "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+      "imdbRating": "8.423",
+      "rating": 8.423
     },
     {
       "id": "tt4158110",
@@ -105,7 +94,7 @@
       "name": "Mr. Robot",
       "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
       "releaseInfo": "2015",
-      "description": "Aligns with Death Note and MINDHUNTER. A highly intense, paranoid psychological thriller featuring an anti-hero waging war against a corrupt system.",
+      "description": "A psychological thriller featuring a complex, unreliable narrator. Its high-stakes tension and dark themes will heavily appeal to fans of Mindhunter.",
       "background": "https://image.tmdb.org/t/p/original/4ceSkV7cmCon4exXaZwuhW1VdE0.jpg",
       "imdbRating": "8.3",
       "rating": 8.3
@@ -116,54 +105,43 @@
       "name": "The Wire",
       "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
       "releaseInfo": "2002",
-      "description": "For fans of Snowfall and Boardwalk Empire who appreciate realistic, gritty crime networks and institutional decay handled with elite prestige writing.",
+      "description": "Widely regarded as one of the greatest television dramas ever made, this realistic look at crime and institutions perfectly aligns with your love for Snowfall and Boardwalk Empire.",
       "background": "https://image.tmdb.org/t/p/original/layPSOJGckJv3PXZDIVluMq69mn.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6
+      "imdbRating": "8.627",
+      "rating": 8.627
     },
     {
-      "id": "tt5071412",
+      "id": "tt0903747",
       "type": "series",
-      "name": "Ozark",
-      "poster": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
-      "releaseInfo": "2017",
-      "description": "Like Snowfall and BEEF, this show thrives on intense, high-stress escalation where ordinary people get tangled up in ruthless criminal enterprises.",
-      "background": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
-      "imdbRating": "8.206",
-      "rating": 8.206
+      "name": "Breaking Bad",
+      "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "releaseInfo": "2008",
+      "description": "A landmark television show with unmatched pacing, high stakes, and moral decay, feeding perfectly into your taste for crime dramas like Snowfall.",
+      "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "imdbRating": "8.9",
+      "rating": 8.9
     },
     {
-      "id": "tt0434706",
+      "id": "tt3032476",
       "type": "series",
-      "name": "Monster",
-      "poster": "https://image.tmdb.org/t/p/w500/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
-      "releaseInfo": "2004",
-      "description": "A psychological thriller anime that matches Death Note and MINDHUNTER. It features a brilliant cat-and-mouse game chasing a highly manipulative serial killer.",
-      "background": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5
+      "name": "Better Call Saul",
+      "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "releaseInfo": "2015",
+      "description": "A masterfully written, slow-burn crime drama with immense emotional complexity and meticulous plotting that matches the high standard of Boardwalk Empire.",
+      "background": "https://image.tmdb.org/t/p/original/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
+      "imdbRating": "8.706",
+      "rating": 8.706
     },
     {
-      "id": "tt2699128",
+      "id": "tt0141842",
       "type": "series",
-      "name": "The Leftovers",
-      "poster": "https://image.tmdb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
-      "releaseInfo": "2014",
-      "description": "An intensely emotional and deeply mysterious prestige drama that captures the existential dread and grief found in Sharp Objects and Them.",
-      "background": "https://image.tmdb.org/t/p/original/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
-      "imdbRating": "7.661",
-      "rating": 7.661
-    },
-    {
-      "id": "tt5753856",
-      "type": "series",
-      "name": "Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/1DLjjvSWMYo17B7wuz6YikB96hH.jpg",
-      "releaseInfo": "2017",
-      "description": "A complex puzzle-box sci-fi mystery that takes the small-town supernatural elements of Stranger Things and The X-Files and turns the seriousness up to eleven.",
-      "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
-      "imdbRating": "8.424",
-      "rating": 8.424
+      "name": "The Sopranos",
+      "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+      "releaseInfo": "1999",
+      "description": "The blueprint for modern prestige television. It offers deep psychological profiling and gritty crime themes that align with Boardwalk Empire and Hannibal.",
+      "background": "https://image.tmdb.org/t/p/original/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+      "imdbRating": "8.669",
+      "rating": 8.669
     },
     {
       "id": "tt11041332",
@@ -171,32 +149,65 @@
       "name": "Yellowjackets",
       "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
       "releaseInfo": "2021",
-      "description": "Blends the psychological horror of Them, the deep-seated trauma of Sharp Objects, and the survival thriller elements of a high-stakes drama.",
+      "description": "A dual-timeline survival drama and psychological mystery that features intense female-led trauma, matching the haunting vibes of Sharp Objects.",
       "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-      "imdbRating": "7.456",
-      "rating": 7.456
+      "imdbRating": "7.5",
+      "rating": 7.5
     },
     {
-      "id": "tt2149175",
+      "id": "tt2699128",
       "type": "series",
-      "name": "The Americans",
-      "poster": "https://image.tmdb.org/t/p/w500/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
-      "releaseInfo": "2013",
-      "description": "Fans of The Night Manager will love this intense, slow-burn espionage thriller focusing on the heavy emotional toll and high stakes of living a double life.",
-      "background": "https://image.tmdb.org/t/p/original/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
-      "imdbRating": "7.875",
-      "rating": 7.875
+      "name": "The Leftovers",
+      "poster": "https://image.tmdb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+      "releaseInfo": "2014",
+      "description": "An emotionally devastating, deeply mysterious drama that handles grief and the unexplained with the same prestige complexity seen in Mare of Easttown.",
+      "background": "https://image.tmdb.org/t/p/original/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
+      "imdbRating": "7.66",
+      "rating": 7.66
     },
     {
-      "id": "tt2442560",
+      "id": "tt0098936",
       "type": "series",
-      "name": "Peaky Blinders",
-      "poster": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "name": "Twin Peaks",
+      "poster": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "releaseInfo": "1990",
+      "description": "A direct inspiration for modern mystery television, this surreal, eerie series is highly recommended for fans of The X-Files and The Twilight Zone.",
+      "background": "https://image.tmdb.org/t/p/original/j5w04XEuFv85N3RIovXBJIHxjSb.jpg",
+      "imdbRating": "8.345",
+      "rating": 8.345
+    },
+    {
+      "id": "tt2249364",
+      "type": "series",
+      "name": "Broadchurch",
+      "poster": "https://image.tmdb.org/t/p/w500/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
       "releaseInfo": "2013",
-      "description": "A highly stylish, atmospheric period crime drama that fans of Boardwalk Empire and Snowfall will immediately sink their teeth into.",
-      "background": "https://image.tmdb.org/t/p/original/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5
+      "description": "A gripping, emotionally raw British crime mystery focusing on the ripple effects of a tragedy in a small coastal town, very similar to Mare of Easttown.",
+      "background": "https://image.tmdb.org/t/p/original/66ieYewiusGZsUAbJGuefdo1GpS.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9
+    },
+    {
+      "id": "tt2294189",
+      "type": "series",
+      "name": "The Fall",
+      "poster": "https://image.tmdb.org/t/p/w500/fm7nN3nUADA7JGgnFNlOWpXn1tf.jpg",
+      "releaseInfo": "2013",
+      "description": "An intense, cat-and-mouse psychological game between a cold-hearted serial killer and a brilliant detective, matching the exact dynamic of Hannibal.",
+      "background": "https://image.tmdb.org/t/p/original/vunaJ5k1cG8T4ROUGDZ05IhNXkP.jpg",
+      "imdbRating": "7.676",
+      "rating": 7.676
+    },
+    {
+      "id": "tt0434706",
+      "type": "series",
+      "name": "Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+      "releaseInfo": "2004",
+      "description": "A masterpiece of dark psychological suspense anime. Its grounded, cat-and-mouse detective narrative is a perfect match for Death Note and Mindhunter.",
+      "background": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+      "imdbRating": "8.523",
+      "rating": 8.523
     },
     {
       "id": "tt2560140",
@@ -204,7 +215,7 @@
       "name": "Attack on Titan",
       "poster": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
       "releaseInfo": "2013",
-      "description": "Matches the brutal action and high stakes of Jujutsu Kaisen and Invincible, delivering a dark, complex narrative about war, survival, and moral ambiguity.",
+      "description": "An incredibly intense, high-stakes dark fantasy anime with brutal action, shocking twists, and political intrigue, perfect for fans of Invincible.",
       "background": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
       "imdbRating": "8.7",
       "rating": 8.7
@@ -215,153 +226,10 @@
       "name": "Vinland Saga",
       "poster": "https://image.tmdb.org/t/p/w500/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
       "releaseInfo": "2019",
-      "description": "A mature, brutal, and emotionally complex animated epic that balances visceral historical action with profound philosophical themes, perfect for Invincible fans.",
+      "description": "A brutal, beautifully animated historical drama exploring revenge, pacifism, and human nature, appealing to fans who appreciate mature storytelling in Invincible.",
       "background": "https://image.tmdb.org/t/p/original/xamCBQePUy9xI42GvtphLuGqd09.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5
-    },
-    {
-      "id": "tt7049682",
-      "type": "series",
-      "name": "Watchmen",
-      "poster": "https://image.tmdb.org/t/p/w500/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
-      "releaseInfo": "2019",
-      "description": "Like The Boys, this prestige HBO series deconstructs superhero tropes, but does so with a serious, politically charged, and deeply atmospheric mystery.",
-      "background": "https://image.tmdb.org/t/p/original/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
-      "imdbRating": "7.628",
-      "rating": 7.628
-    },
-    {
-      "id": "tt2294189",
-      "type": "series",
-      "name": "The Fall",
-      "poster": "https://image.tmdb.org/t/p/w500/fm7nN3nUADA7JGgnFNlOWpXn1tf.jpg",
-      "releaseInfo": "2013",
-      "description": "A slow-burn, highly intense psychological cat-and-mouse thriller between a cold-blooded serial killer and a brilliant detective, matching the DNA of MINDHUNTER.",
-      "background": "https://image.tmdb.org/t/p/original/vunaJ5k1cG8T4ROUGDZ05IhNXkP.jpg",
-      "imdbRating": "7.676",
-      "rating": 7.676
-    },
-    {
-      "id": "tt21056886",
-      "type": "series",
-      "name": "Scavengers Reign",
-      "poster": "https://image.tmdb.org/t/p/w500/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
-      "releaseInfo": "2023",
-      "description": "An incredibly imaginative, beautiful, and unsettling animated sci-fi series that will captivate fans of Love, Death & Robots and The Expanse.",
-      "background": "https://image.tmdb.org/t/p/original/rrREM1cowfMZ8SmrJ9KCFO3y4j6.jpg",
-      "imdbRating": "8.486",
-      "rating": 8.486
-    },
-    {
-      "id": "tt0407362",
-      "type": "series",
-      "name": "Battlestar Galactica",
-      "poster": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
-      "releaseInfo": "2004",
-      "description": "This gritty space opera delivers the intense political intrigue, military tension, and deep ensemble drama that fans of The Expanse and Foundation crave.",
-      "background": "https://image.tmdb.org/t/p/original/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
-      "imdbRating": "8.207",
-      "rating": 8.207
-    },
-    {
-      "id": "tt13623580",
-      "type": "series",
-      "name": "Reservation Dogs",
-      "poster": "https://image.tmdb.org/t/p/w500/t6hqwD5oQRGgNrZKN71BQYxteC1.jpg",
-      "releaseInfo": "2021",
-      "description": "Recommended for fans of Atlanta who appreciate highly authentic, critically acclaimed dark comedy-dramas that effortlessly shift from humor to grief.",
-      "background": "https://image.tmdb.org/t/p/original/4vC3CijGu8g2Z1UobwkJpRQHOVO.jpg",
-      "imdbRating": "7.914",
-      "rating": 7.914
-    },
-    {
-      "id": "tt2708480",
-      "type": "series",
-      "name": "The Terror",
-      "poster": "https://image.tmdb.org/t/p/w500/fUVn5mScv83FfwrRUUR694yA7bd.jpg",
-      "releaseInfo": "2018",
-      "description": "Combines historical drama with claustrophobic, psychological dread. A perfect fit for fans of Them and the eerie mystery of The X-Files.",
-      "background": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4
-    },
-    {
-      "id": "tt8134186",
-      "type": "series",
-      "name": "Devs",
-      "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
-      "releaseInfo": "2020",
-      "description": "A cerebral, visually stunning sci-fi mystery from Alex Garland that matches the complex existential themes of Foundation and The Expanse.",
-      "background": "https://image.tmdb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg",
-      "imdbRating": "7.337",
-      "rating": 7.337
-    },
-    {
-      "id": "tt3647998",
-      "type": "series",
-      "name": "Taboo",
-      "poster": "https://image.tmdb.org/t/p/w500/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
-      "releaseInfo": "2017",
-      "description": "A dark, gritty, and atmospheric historical drama starring Tom Hardy that shares the rugged crime aesthetics of Boardwalk Empire.",
-      "background": "https://image.tmdb.org/t/p/original/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
-      "imdbRating": "7.881",
-      "rating": 7.881
-    },
-    {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://image.tmdb.org/t/p/w500/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
-      "releaseInfo": "2022",
-      "description": "A sharp, witty, and high-tension espionage thriller that provides a grittier, cynical counterpart to the slick spycraft of The Night Manager.",
-      "background": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "imdbRating": "8.013",
-      "rating": 8.013
-    },
-    {
-      "id": "tt3920596",
-      "type": "series",
-      "name": "Big Little Lies",
-      "poster": "https://image.tmdb.org/t/p/w500/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg",
-      "releaseInfo": "2017",
-      "description": "Like Sharp Objects and Mare of Easttown, this prestige murder mystery peels back the layers of a seemingly perfect community to reveal dark secrets.",
-      "background": "https://image.tmdb.org/t/p/original/8Wo2Pqjxn7Xmd7p2dxRMIJtyMV7.jpg",
-      "imdbRating": "7.879",
-      "rating": 7.879
-    },
-    {
-      "id": "tt5016504",
-      "type": "series",
-      "name": "Preacher",
-      "poster": "https://image.tmdb.org/t/p/w500/ey1WQajA25E5sFGHSApcqSWUSEc.jpg",
-      "releaseInfo": "2016",
-      "description": "Adapted from the comics by the creators of The Boys, this show delivers the same brand of hyper-violent, sacrilegious action, and dark comedy.",
-      "background": "https://image.tmdb.org/t/p/original/bENaaAmX4d0zUYYrZyFCT1U0V86.jpg",
-      "imdbRating": "7.441",
-      "rating": 7.441
-    },
-    {
-      "id": "tt2375692",
-      "type": "series",
-      "name": "Black Sails",
-      "poster": "https://image.tmdb.org/t/p/w500/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
-      "releaseInfo": "2014",
-      "description": "A gritty, underrated historical drama loaded with intense political scheming, brutal action, and complex characters, perfect for fans of Boardwalk Empire.",
-      "background": "https://image.tmdb.org/t/p/original/A7lo83g09i3cDmLRKtDiiYN8w0z.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6
-    },
-    {
-      "id": "tt7909970",
-      "type": "series",
-      "name": "Unbelievable",
-      "poster": "https://image.tmdb.org/t/p/w500/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg",
-      "releaseInfo": "2019",
-      "description": "A devastatingly intense and gripping true-crime dramatization that matches the procedural genius of MINDHUNTER and the raw empathy of Mare of Easttown.",
-      "background": "https://image.tmdb.org/t/p/original/AhFEqj8PFvvNDQ3Ouv39kNfTraI.jpg",
-      "imdbRating": "7.92",
-      "rating": 7.92
+      "imdbRating": "8.525",
+      "rating": 8.525
     },
     {
       "id": "tt12590266",
@@ -369,10 +237,43 @@
       "name": "Cyberpunk: Edgerunners",
       "poster": "https://image.tmdb.org/t/p/w500/lqcDVZ8pyk08AVftMBildDR3QUK.jpg",
       "releaseInfo": "2022",
-      "description": "Matches the mature, hyper-violent sci-fi aesthetics of Love, Death & Robots and Invincible, wrapped in a tragic and visually spectacular story.",
+      "description": "A high-octane, violent, and emotionally devastating sci-fi anime that matches the cyberpunk tone and visual flair of Love, Death & Robots.",
       "background": "https://image.tmdb.org/t/p/original/bRE6zX4iOAejLOQCHryoV5WNu8G.jpg",
       "imdbRating": "8.459",
       "rating": 8.459
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "releaseInfo": "2013",
+      "description": "A stylish, gritty period crime drama with high stakes and complex family dynamics, making it an excellent fit if you enjoyed Boardwalk Empire.",
+      "background": "https://image.tmdb.org/t/p/original/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg",
+      "imdbRating": "8.525",
+      "rating": 8.525
+    },
+    {
+      "id": "tt2707408",
+      "type": "series",
+      "name": "Narcos",
+      "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+      "releaseInfo": "2015",
+      "description": "A fast-paced, high-stakes look at the rise of the global drug trade, serving as a perfect companion piece to Snowfall.",
+      "background": "https://image.tmdb.org/t/p/original/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
+      "imdbRating": "8.072",
+      "rating": 8.072
+    },
+    {
+      "id": "tt2149175",
+      "type": "series",
+      "name": "The Americans",
+      "poster": "https://image.tmdb.org/t/p/w500/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+      "releaseInfo": "2013",
+      "description": "A deeply tense and emotionally complex espionage drama about sleeper agents. It demands full attention and delivers high-stakes family tension.",
+      "background": "https://image.tmdb.org/t/p/original/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
+      "imdbRating": "7.875",
+      "rating": 7.875
     },
     {
       "id": "tt6763664",
@@ -380,10 +281,54 @@
       "name": "The Haunting of Hill House",
       "poster": "https://image.tmdb.org/t/p/w500/38PkhBGRQtmVx2drvPik3F42qHO.jpg",
       "releaseInfo": "2018",
-      "description": "An emotionally devastating horror masterpiece that uses supernatural elements to explore family trauma, matching the dread of Them and Sharp Objects.",
+      "description": "An emotionally complex horror drama exploring grief and generational trauma, perfect for viewers who liked the horror elements of Them.",
       "background": "https://image.tmdb.org/t/p/original/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1
+      "imdbRating": "8.099",
+      "rating": 8.099
+    },
+    {
+      "id": "tt10574558",
+      "type": "series",
+      "name": "Midnight Mass",
+      "poster": "https://image.tmdb.org/t/p/w500/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
+      "releaseInfo": "2021",
+      "description": "A slow-burn, philosophically deep horror mystery with terrifying thematic undertones, matching the intellectual tension of The Twilight Zone.",
+      "background": "https://image.tmdb.org/t/p/original/YauN3gyvgqktYhze4gXPWuoZBY.jpg",
+      "imdbRating": "7.552",
+      "rating": 7.552
+    },
+    {
+      "id": "tt0475784",
+      "type": "series",
+      "name": "Westworld",
+      "poster": "https://image.tmdb.org/t/p/w500/ALlSU9du9iRiKIIoY1sREGNqQ5.jpg",
+      "releaseInfo": "2016",
+      "description": "A puzzle-box sci-fi thriller exploring consciousness and morality, perfect for fans of Foundation and Fallout.",
+      "background": "https://image.tmdb.org/t/p/original/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+      "imdbRating": "8.021",
+      "rating": 8.021
+    },
+    {
+      "id": "tt8134186",
+      "type": "series",
+      "name": "Devs",
+      "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+      "releaseInfo": "2020",
+      "description": "A highly intellectual, visually stunning sci-fi mystery that deals with determinism and technology, matching the tone of Foundation.",
+      "background": "https://image.tmdb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg",
+      "imdbRating": "7.337",
+      "rating": 7.337
+    },
+    {
+      "id": "tt7909970",
+      "type": "series",
+      "name": "Unbelievable",
+      "poster": "https://image.tmdb.org/t/p/w500/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg",
+      "releaseInfo": "2019",
+      "description": "A gritty, incredibly realistic crime investigation that treats its sensitive subject matter with immense respect, appealing to fans of Mare of Easttown.",
+      "background": "https://image.tmdb.org/t/p/original/AhFEqj8PFvvNDQ3Ouv39kNfTraI.jpg",
+      "imdbRating": "7.92",
+      "rating": 7.92
     },
     {
       "id": "tt4604612",
@@ -391,10 +336,32 @@
       "name": "The Alienist",
       "poster": "https://image.tmdb.org/t/p/w500/zUd4RPbfHuB1zIG2iNI5bdZcQo3.jpg",
       "releaseInfo": "2018",
-      "description": "A historical psychological thriller focusing on the early days of criminal profiling to catch a serial killer, perfect for fans of MINDHUNTER and Hannibal.",
+      "description": "A dark, atmospheric psychological thriller set in Gilded Age New York. Its investigation of a serial killer matches Mindhunter and Hannibal.",
       "background": "https://image.tmdb.org/t/p/original/oDTBlmFiHAslFwj4JU8jkBB6E6V.jpg",
-      "imdbRating": "7.512",
-      "rating": 7.512
+      "imdbRating": "7.519",
+      "rating": 7.519
+    },
+    {
+      "id": "tt2017109",
+      "type": "series",
+      "name": "Banshee",
+      "poster": "https://image.tmdb.org/t/p/w500/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
+      "releaseInfo": "2013",
+      "description": "An action-packed, visceral, and incredibly gritty crime thriller that matches the over-the-top violence and high intensity of The Boys.",
+      "background": "https://image.tmdb.org/t/p/original/cwosIp9M9B6TcLnv0bBg86s0WUx.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0
+    },
+    {
+      "id": "tt5016504",
+      "type": "series",
+      "name": "Preacher",
+      "poster": "https://image.tmdb.org/t/p/w500/ey1WQajA25E5sFGHSApcqSWUSEc.jpg",
+      "releaseInfo": "2016",
+      "description": "An irreverent, violent, and darkly comedic comic-book adaptation that matches the tone, style, and extreme nature of The Boys.",
+      "background": "https://image.tmdb.org/t/p/original/bENaaAmX4d0zUYYrZyFCT1U0V86.jpg",
+      "imdbRating": "7.441",
+      "rating": 7.441
     },
     {
       "id": "tt8001106",
@@ -402,43 +369,76 @@
       "name": "Giri/Haji",
       "poster": "https://image.tmdb.org/t/p/w500/mOeqBvuGOcq0eN1ssGCcRtWA7XW.jpg",
       "releaseInfo": "2019",
-      "description": "A brilliant, stylish, and emotionally charged cross-cultural crime thriller that blends elements of Boardwalk Empire and the high stakes of BEEF.",
+      "description": "An underappreciated, stylish cross-cultural crime thriller set in London and Tokyo, offering high emotional stakes and intense action sequences.",
       "background": "https://image.tmdb.org/t/p/original/h8ngSjGpbtfc1LCyz9hkBMQPvN0.jpg",
       "imdbRating": "7.357",
       "rating": 7.357
     },
     {
-      "id": "tt2384811",
+      "id": "tt5645432",
       "type": "series",
-      "name": "Utopia",
-      "poster": "https://image.tmdb.org/t/p/w500/snOU6W5CU7aGVSVu29wBWzdzNzi.jpg",
-      "releaseInfo": "2013",
-      "description": "The original UK version is a stunningly violent, conspiracy-driven thriller with a striking visual style that will appeal to fans of The Boys and The X-Files.",
-      "background": "https://image.tmdb.org/t/p/original/kDhUhjBrJKVPvSSAmqncCJFvKFD.jpg",
-      "imdbRating": "7.948",
-      "rating": 7.948
+      "name": "The Old Man",
+      "poster": "https://image.tmdb.org/t/p/w500/8Ec9zCZl2Go8WhDN1JWjjgQRlEi.jpg",
+      "releaseInfo": "2022",
+      "description": "A gritty espionage thriller about a retired operative forced back into action, appealing to fans of high-tension spy stories like The Night Manager.",
+      "background": "https://image.tmdb.org/t/p/original/x5VGLsI5Hgc1UgbQUCYIS6SIfYf.jpg",
+      "imdbRating": "7.22",
+      "rating": 7.22
     },
     {
-      "id": "tt2303687",
+      "id": "tt0348914",
       "type": "series",
-      "name": "Line of Duty",
-      "poster": "https://image.tmdb.org/t/p/w500/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
-      "releaseInfo": "2012",
-      "description": "One of the most intense, high-stakes police thrillers ever made. Its legendary interrogation scenes will grip fans of MINDHUNTER and Mare of Easttown.",
-      "background": "https://image.tmdb.org/t/p/original/5ZLEFPayOJr3KhXPoAnLWdVQJem.jpg",
-      "imdbRating": "8.222",
-      "rating": 8.222
+      "name": "Deadwood",
+      "poster": "https://image.tmdb.org/t/p/w500/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
+      "releaseInfo": "2004",
+      "description": "A gritty, profanity-laced, and beautifully written historical drama that shares the prestige, character-driven quality of Boardwalk Empire.",
+      "background": "https://image.tmdb.org/t/p/original/dGzPJnh8YcUS4J10sNunohaXMVn.jpg",
+      "imdbRating": "8.106",
+      "rating": 8.106
     },
     {
-      "id": "tt7661390",
+      "id": "tt8332438",
       "type": "series",
-      "name": "Gangs of London",
-      "poster": "https://image.tmdb.org/t/p/w500/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg",
+      "name": "ZeroZeroZero",
+      "poster": "https://image.tmdb.org/t/p/w500/c0AISx9tx6crOih0KdjQsfAm3Uo.jpg",
       "releaseInfo": "2020",
-      "description": "Featuring some of the most brutal and jaw-dropping action sequences on television, this gritty crime saga is a must-watch for fans of Snowfall and Boardwalk Empire.",
-      "background": "https://image.tmdb.org/t/p/original/9aJ6KwLASA38WzdMRVjk7ILpuTv.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8
+      "description": "An unforgiving, beautifully shot global thriller tracking a single shipment of cocaine, perfect for fans of Snowfall.",
+      "background": "https://image.tmdb.org/t/p/original/rU6AKtd2wZf0Y3t5cCBr3khGlNN.jpg",
+      "imdbRating": "7.769",
+      "rating": 7.769
+    },
+    {
+      "id": "tt3428912",
+      "type": "series",
+      "name": "Happy Valley",
+      "poster": "https://image.tmdb.org/t/p/w500/xZK5iQSrn2mouZEk2PwyLPCwa4u.jpg",
+      "releaseInfo": "2014",
+      "description": "An intense, emotionally exhausting British police drama led by a fierce protagonist, strongly appealing to fans of Mare of Easttown.",
+      "background": "https://image.tmdb.org/t/p/original/zG1K7njAaHcLElUKqNRqmVEbXdh.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9
+    },
+    {
+      "id": "tt21056886",
+      "type": "series",
+      "name": "Scavengers Reign",
+      "poster": "https://image.tmdb.org/t/p/w500/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
+      "releaseInfo": "2023",
+      "description": "A surreal, beautiful, and deeply intense sci-fi animated drama about survival on an alien world, perfect for fans of Love, Death & Robots.",
+      "background": "https://image.tmdb.org/t/p/original/rrREM1cowfMZ8SmrJ9KCFO3y4j6.jpg",
+      "imdbRating": "8.489",
+      "rating": 8.489
+    },
+    {
+      "id": "tt2708480",
+      "type": "series",
+      "name": "The Terror",
+      "poster": "https://image.tmdb.org/t/p/w500/fUVn5mScv83FfwrRUUR694yA7bd.jpg",
+      "releaseInfo": "2018",
+      "description": "A grueling, historically grounded survival thriller with psychological horror elements, matching the grim, intense atmosphere of Them.",
+      "background": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4
     }
   ]
 }

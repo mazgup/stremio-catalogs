@@ -1,26 +1,15 @@
 {
   "metas": [
     {
-      "id": "tt1282140",
-      "type": "movie",
-      "name": "Easy A",
-      "poster": "https://image.tmdb.org/t/p/w500/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
-      "releaseInfo": "2010",
-      "description": "This fast-talking, incredibly witty teen comedy shares the same high-energy charm, literary roots, and sharp humor as Clueless and 10 Things I Hate About You.",
-      "background": "https://image.tmdb.org/t/p/original/30rvmoEBqovm723agDJ3QddWXcY.jpg",
-      "imdbRating": "6.805",
-      "rating": 6.805
-    },
-    {
       "id": "tt0377092",
       "type": "movie",
       "name": "Mean Girls",
       "poster": "https://image.tmdb.org/t/p/w500/dOD99br6a65QHC6i2jjl7A2Bsul.jpg",
       "releaseInfo": "2004",
-      "description": "A defining teen comedy classic that matches Clueless in its iconic fashion, brilliant satire of high school social hierarchies, and highly quotable dialogue.",
+      "description": "If you loved Clueless and 10 Things I Hate About You, this iconic, highly quotable teen comedy is the ultimate match for your taste in smart, lighthearted high school humor.",
       "background": "https://image.tmdb.org/t/p/original/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
-      "imdbRating": "7.225",
-      "rating": 7.225
+      "imdbRating": "7.226",
+      "rating": 7.226
     },
     {
       "id": "tt0250494",
@@ -28,32 +17,21 @@
       "name": "Legally Blonde",
       "poster": "https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
       "releaseInfo": "2001",
-      "description": "Much like Clueless, this features a bright, fashionable heroine who is underestimated but incredibly capable, delivering pure feel-good comedy and charm.",
+      "description": "Shares the fashionable, deceptively smart, and uplifting protagonist energy of Clueless, making it a perfect cozy feel-good watch.",
       "background": "https://image.tmdb.org/t/p/original/viU23X3BIycUFf6TOlm9c7TxLgM.jpg",
-      "imdbRating": "6.814",
-      "rating": 6.814
+      "imdbRating": "6.815",
+      "rating": 6.815
     },
     {
-      "id": "tt0454945",
+      "id": "tt1282140",
       "type": "movie",
-      "name": "She's the Man",
-      "poster": "https://image.tmdb.org/t/p/w500/gdF2PEBdwoohpPqKL93eCk17zNO.jpg",
-      "releaseInfo": "2006",
-      "description": "Since you enjoyed the Shakespeare-inspired 10 Things I Hate About You, you will love this hilarious adaptation of Twelfth Night featuring brilliant physical comedy.",
-      "background": "https://image.tmdb.org/t/p/original/9ys3pySjmZiONZWAy8QhOxv5SDH.jpg",
-      "imdbRating": "6.816",
-      "rating": 6.816
-    },
-    {
-      "id": "tt0204946",
-      "type": "movie",
-      "name": "Bring It On",
-      "poster": "https://image.tmdb.org/t/p/w500/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
-      "releaseInfo": "2000",
-      "description": "A high-energy, nostalgic teen comedy with the same vibrant, competitive, and lighthearted spirit as your favorite late-90s rom-coms.",
-      "background": "https://image.tmdb.org/t/p/original/3XpxR3cSQJou79KBQpPCcpZzmhj.jpg",
-      "imdbRating": "6.266",
-      "rating": 6.266
+      "name": "Easy A",
+      "poster": "https://image.tmdb.org/t/p/w500/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+      "releaseInfo": "2010",
+      "description": "Much like 10 Things I Hate About You, this is a witty, modern high school adaptation of classic literature filled with charm and clever comedy.",
+      "background": "https://image.tmdb.org/t/p/original/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+      "imdbRating": "6.805",
+      "rating": 6.805
     },
     {
       "id": "tt0486655",
@@ -61,10 +39,10 @@
       "name": "Stardust",
       "poster": "https://image.tmdb.org/t/p/w500/7zbFmxy3DqKYL2M8Hop6uylp2Uy.jpg",
       "releaseInfo": "2007",
-      "description": "A whimsical, romantic fantasy adventure with an incredible sense of humor. It captures the cozy magic of Practical Magic and the epic adventure of Dungeons & Dragons.",
+      "description": "A perfect transition from Dungeons & Dragons and Fantastic Beasts, offering a cozy, highly entertaining fantasy adventure filled with humor and romance.",
       "background": "https://image.tmdb.org/t/p/original/x2LTysjFSpeK0d40zHw6Lqd4oAH.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3
+      "imdbRating": "7.29",
+      "rating": 7.29
     },
     {
       "id": "tt0093779",
@@ -72,76 +50,10 @@
       "name": "The Princess Bride",
       "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
       "releaseInfo": "1987",
-      "description": "The ultimate cozy fantasy-adventure. Its perfect balance of romance, meta-humor, and lighthearted swashbuckling matches the tone of Dungeons & Dragons: Honor Among Thieves.",
+      "description": "An absolute classic that matches the meta-humor, romance, and lighthearted fantasy adventure vibes of Dungeons & Dragons: Honor Among Thieves.",
       "background": "https://image.tmdb.org/t/p/original/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
-      "imdbRating": "7.699",
-      "rating": 7.699
-    },
-    {
-      "id": "tt9214832",
-      "type": "movie",
-      "name": "Emma.",
-      "poster": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
-      "releaseInfo": "2020",
-      "description": "Clueless is famously based on Jane Austen's Emma. This visually stunning, pastel-colored, and incredibly witty adaptation is the perfect companion piece.",
-      "background": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg",
-      "imdbRating": "7.013",
-      "rating": 7.013
-    },
-    {
-      "id": "tt0461770",
-      "type": "movie",
-      "name": "Enchanted",
-      "poster": "https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
-      "releaseInfo": "2007",
-      "description": "A highly delightful, lighthearted fantasy-romance that parodies fairy tales while embracing pure joy, aligning with your love for Practical Magic.",
-      "background": "https://image.tmdb.org/t/p/original/u4UpRDi0w84aNrigr9p049rMHiy.jpg",
-      "imdbRating": "6.846",
-      "rating": 6.846
-    },
-    {
-      "id": "tt2194499",
-      "type": "movie",
-      "name": "About Time",
-      "poster": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
-      "releaseInfo": "2013",
-      "description": "A beautiful, heartwarming romantic comedy with a touch of fantasy/time-travel that provides a deep sense of comfort, love, and life appreciation.",
-      "background": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
-      "imdbRating": "7.905",
-      "rating": 7.905
-    },
-    {
-      "id": "tt2015381",
-      "type": "movie",
-      "name": "Guardians of the Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
-      "releaseInfo": "2014",
-      "description": "Directed by James Gunn, this space adventure delivers the exact same high-octane action, colorful visuals, and irreverent comedy that made you love Thor: Ragnarok.",
-      "background": "https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
-      "imdbRating": "7.905",
-      "rating": 7.905
-    },
-    {
-      "id": "tt6264654",
-      "type": "movie",
-      "name": "Free Guy",
-      "poster": "https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
-      "releaseInfo": "2021",
-      "description": "A high-concept, video game-infused action-comedy that shares the highly entertaining, CGI-rich avatar mechanics and lighthearted stakes of Jumanji: Welcome to the Jungle.",
-      "background": "https://image.tmdb.org/t/p/original/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5
-    },
-    {
-      "id": "tt13320622",
-      "type": "movie",
-      "name": "The Lost City",
-      "poster": "https://image.tmdb.org/t/p/w500/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg",
-      "releaseInfo": "2022",
-      "description": "A hilarious jungle-adventure rom-com that pairs action-packed set pieces with great star chemistry, very much in the spirit of Jumanji.",
-      "background": "https://image.tmdb.org/t/p/original/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg",
-      "imdbRating": "6.458",
-      "rating": 6.458
+      "imdbRating": "7.7",
+      "rating": 7.7
     },
     {
       "id": "tt8946378",
@@ -149,7 +61,7 @@
       "name": "Knives Out",
       "poster": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
       "releaseInfo": "2019",
-      "description": "Since you have Wake Up Dead Man on your watchlist, you must experience the star-studded whodunnit that started the franchise, blending sharp mystery with playful humor.",
+      "description": "Since you have the upcoming Wake Up Dead Man on your watchlist, you will love the star-studded, hilarious, and brilliant whodunit that started the franchise.",
       "background": "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
       "imdbRating": "7.841",
       "rating": 7.841
@@ -160,109 +72,10 @@
       "name": "Glass Onion: A Knives Out Mystery",
       "poster": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
       "releaseInfo": "2022",
-      "description": "A colorful, incredibly fun sequel that delivers another twisty, laugh-out-loud mystery in a gorgeous, high-class setting.",
+      "description": "The direct predecessor to Wake Up Dead Man, offering another colorful, hilarious, and wildly entertaining puzzlebox mystery.",
       "background": "https://image.tmdb.org/t/p/original/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
       "imdbRating": "7.032",
       "rating": 7.032
-    },
-    {
-      "id": "tt2222042",
-      "type": "movie",
-      "name": "Love and Monsters",
-      "poster": "https://image.tmdb.org/t/p/w500/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
-      "releaseInfo": "2020",
-      "description": "A highly underrated creature-feature adventure that is incredibly heartwarming, visually creative, and maintains a light, fun tone throughout the post-apocalypse.",
-      "background": "https://image.tmdb.org/t/p/original/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
-      "imdbRating": "7.272",
-      "rating": 7.272
-    },
-    {
-      "id": "tt12593682",
-      "type": "movie",
-      "name": "Bullet Train",
-      "poster": "https://image.tmdb.org/t/p/w500/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
-      "releaseInfo": "2022",
-      "description": "A highly stylized, fast-paced action comedy with an ensemble of quirky assassins, carrying the same witty banter and crime-comedy energy as The Nice Guys.",
-      "background": "https://image.tmdb.org/t/p/original/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
-      "imdbRating": "7.413",
-      "rating": 7.413
-    },
-    {
-      "id": "tt0120616",
-      "type": "movie",
-      "name": "The Mummy",
-      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
-      "releaseInfo": "1999",
-      "description": "The gold standard for fun action-adventure. Its mix of ancient fantasy, great creatures, and charismatic comedy perfectly aligns with Dungeons & Dragons and Jumanji.",
-      "background": "https://image.tmdb.org/t/p/original/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
-      "imdbRating": "6.976",
-      "rating": 6.976
-    },
-    {
-      "id": "tt2802144",
-      "type": "movie",
-      "name": "Kingsman: The Secret Service",
-      "poster": "https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
-      "releaseInfo": "2014",
-      "description": "A stylized, high-octane spy comedy with incredible action choreography and a cheeky, self-aware sense of humor.",
-      "background": "https://image.tmdb.org/t/p/original/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
-      "imdbRating": "7.62",
-      "rating": 7.62
-    },
-    {
-      "id": "tt0448115",
-      "type": "movie",
-      "name": "Shazam!",
-      "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
-      "releaseInfo": "2019",
-      "description": "A superhero movie that feels like a classic 80s family adventure. It is lighthearted, incredibly funny, and features the same child-in-adult-body fun as Jumanji.",
-      "background": "https://image.tmdb.org/t/p/original/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
-      "imdbRating": "6.978",
-      "rating": 6.978
-    },
-    {
-      "id": "tt4633694",
-      "type": "movie",
-      "name": "Spider-Man: Into the Spider-Verse",
-      "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-      "releaseInfo": "2018",
-      "description": "An eye-popping, exceptionally creative, and hilarious animated ride that offers top-tier superhero action combined with deep heart and comedy.",
-      "background": "https://image.tmdb.org/t/p/original/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
-      "imdbRating": "8.393",
-      "rating": 8.393
-    },
-    {
-      "id": "tt7979580",
-      "type": "movie",
-      "name": "The Mitchells vs. the Machines",
-      "poster": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
-      "releaseInfo": "2021",
-      "description": "A wonderfully chaotic, laugh-out-loud animated comedy about a quirky family fighting a robot apocalypse, offering pure fun and creative visuals.",
-      "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
-      "imdbRating": "7.844",
-      "rating": 7.844
-    },
-    {
-      "id": "tt0373469",
-      "type": "movie",
-      "name": "Kiss Kiss Bang Bang",
-      "poster": "https://image.tmdb.org/t/p/w500/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
-      "releaseInfo": "2005",
-      "description": "Written and directed by Shane Black, who also made The Nice Guys. This film is the ultimate sharp-tongued, hilarious neo-noir buddy-comedy.",
-      "background": "https://image.tmdb.org/t/p/original/8Mq428bLVcBixhsKP4dAyEL1Ycu.jpg",
-      "imdbRating": "7.158",
-      "rating": 7.158
-    },
-    {
-      "id": "tt2704998",
-      "type": "movie",
-      "name": "Game Night",
-      "poster": "https://image.tmdb.org/t/p/w500/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
-      "releaseInfo": "2018",
-      "description": "One of the best modern studio comedies, featuring a suburban game night gone wrong. It matches the fast-paced, high-stakes humor of The Nice Guys.",
-      "background": "https://image.tmdb.org/t/p/original/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
-      "imdbRating": "6.843",
-      "rating": 6.843
     },
     {
       "id": "tt5439796",
@@ -270,21 +83,87 @@
       "name": "Logan Lucky",
       "poster": "https://image.tmdb.org/t/p/w500/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
       "releaseInfo": "2017",
-      "description": "A delightful, breezy heist comedy with a stellar cast playing lovable, bumbling southern characters, matching the crime-comedy tone of Get Shorty.",
+      "description": "A lighthearted, witty heist-comedy that perfectly captures the breezy, crime-centric charm of Get Shorty and The Nice Guys.",
       "background": "https://image.tmdb.org/t/p/original/eszmHIWJHAKdnJcE3KcvVzOb6Jd.jpg",
-      "imdbRating": "6.734",
-      "rating": 6.734
+      "imdbRating": "6.735",
+      "rating": 6.735
     },
     {
-      "id": "tt0425112",
+      "id": "tt0373469",
       "type": "movie",
-      "name": "Hot Fuzz",
-      "poster": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "name": "Kiss Kiss Bang Bang",
+      "poster": "https://image.tmdb.org/t/p/w500/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
+      "releaseInfo": "2005",
+      "description": "Written and directed by Shane Black (who also made The Nice Guys), this hilarious neo-noir buddy comedy shares the exact same sharp, rapid-fire dialogue.",
+      "background": "https://image.tmdb.org/t/p/original/8Mq428bLVcBixhsKP4dAyEL1Ycu.jpg",
+      "imdbRating": "7.158",
+      "rating": 7.158
+    },
+    {
+      "id": "tt0461770",
+      "type": "movie",
+      "name": "Enchanted",
+      "poster": "https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
       "releaseInfo": "2007",
-      "description": "A masterfully written action-comedy that parodies buddy-cop movies. It offers incredible laugh-to-minute ratios and brilliant physical humor.",
-      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
-      "imdbRating": "7.565",
-      "rating": 7.565
+      "description": "Blends magical fantasy with lighthearted rom-com tropes, hitting the same sweet, comforting notes as Practical Magic.",
+      "background": "https://image.tmdb.org/t/p/original/u4UpRDi0w84aNrigr9p049rMHiy.jpg",
+      "imdbRating": "6.846",
+      "rating": 6.846
+    },
+    {
+      "id": "tt0113824",
+      "type": "movie",
+      "name": "Whisper of the Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+      "releaseInfo": "1995",
+      "description": "If you loved the gentle, nostalgic, and romantic slice-of-life nature of Studio Ghibli's Only Yesterday, this film is its perfect companion piece.",
+      "background": "https://image.tmdb.org/t/p/original/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
+      "imdbRating": "7.948",
+      "rating": 7.948
+    },
+    {
+      "id": "tt4272866",
+      "type": "movie",
+      "name": "The Boy and the Beast",
+      "poster": "https://image.tmdb.org/t/p/w500/kRofx67xkbnJ6pAVcHdeMyBm4OM.jpg",
+      "releaseInfo": "2015",
+      "description": "Captures the vibrant, imaginative fantasy elements of Night Is Short, Walk On Girl, mixed with an heartwarming adventure narrative.",
+      "background": "https://image.tmdb.org/t/p/original/8yniaG7C4iCm0VVTSShAPUZYM3Y.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9
+    },
+    {
+      "id": "tt6264654",
+      "type": "movie",
+      "name": "Free Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "releaseInfo": "2021",
+      "description": "An incredibly fun, high-energy action-adventure movie that plays with video game tropes, sharing a spiritual connection to the modern Jumanji films.",
+      "background": "https://image.tmdb.org/t/p/original/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
+      "imdbRating": "7.451",
+      "rating": 7.451
+    },
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "name": "Guardians of the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "releaseInfo": "2014",
+      "description": "Matches the colorful, music-driven, and highly comedic sci-fi action aesthetic of Thor: Ragnarok.",
+      "background": "https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+      "imdbRating": "7.906",
+      "rating": 7.906
+    },
+    {
+      "id": "tt0120616",
+      "type": "movie",
+      "name": "The Mummy",
+      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+      "releaseInfo": "1999",
+      "description": "The ultimate comfort action-adventure movie. It shares the same campy, thrilling, and comedic dungeon-crawling energy as Dungeons & Dragons.",
+      "background": "https://image.tmdb.org/t/p/original/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+      "imdbRating": "6.976",
+      "rating": 6.976
     },
     {
       "id": "tt0365748",
@@ -292,98 +171,32 @@
       "name": "Shaun of the Dead",
       "poster": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
       "releaseInfo": "2004",
-      "description": "The ultimate horror-comedy that is highly comforting and incredibly smart. It blends relationship drama with a zombie outbreak in the most charming British way.",
+      "description": "A brilliant genre-blending comedy that matches the sharp-witted pacing of The Nice Guys and the absurdist fun of Ace Ventura.",
       "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
-      "imdbRating": "7.542",
-      "rating": 7.542
+      "imdbRating": "7.543",
+      "rating": 7.543
     },
     {
-      "id": "tt1232829",
+      "id": "tt0425112",
       "type": "movie",
-      "name": "21 Jump Street",
-      "poster": "https://image.tmdb.org/t/p/w500/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
-      "releaseInfo": "2012",
-      "description": "A surprisingly smart, self-aware, and incredibly funny action-comedy that subverts high school movie tropes with fantastic buddy-cop chemistry.",
-      "background": "https://image.tmdb.org/t/p/original/d1ACwtoBygLKkGjCq9LUXnmcki.jpg",
-      "imdbRating": "6.886",
-      "rating": 6.886
+      "name": "Hot Fuzz",
+      "poster": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "releaseInfo": "2007",
+      "description": "Arguably the greatest buddy-cop action comedy ever made, delivering the same hilarious character chemistry found in The Nice Guys.",
+      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "imdbRating": "7.565",
+      "rating": 7.565
     },
     {
-      "id": "tt11291274",
+      "id": "tt2222042",
       "type": "movie",
-      "name": "The Unbearable Weight of Massive Talent",
-      "poster": "https://image.tmdb.org/t/p/w500/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
-      "releaseInfo": "2022",
-      "description": "Nicolas Cage plays a fictionalized version of himself in this highly endearing meta-comedy buddy-movie that is pure, unadulterated fun.",
-      "background": "https://image.tmdb.org/t/p/original/k4TpF7wl1FMPzHRJNudODAm7h0P.jpg",
-      "imdbRating": "6.779",
-      "rating": 6.779
-    },
-    {
-      "id": "tt2278388",
-      "type": "movie",
-      "name": "The Grand Budapest Hotel",
-      "poster": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
-      "releaseInfo": "2014",
-      "description": "A visually symmetrical, whimsical caper comedy that is fast-paced, star-studded, and deeply comforting to watch.",
-      "background": "https://image.tmdb.org/t/p/original/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0
-    },
-    {
-      "id": "tt6452332",
-      "type": "movie",
-      "name": "Lu Over the Wall",
-      "poster": "https://image.tmdb.org/t/p/w500/3L0a3iNraKyedBcHhrYD9sy4V5W.jpg",
-      "releaseInfo": "2017",
-      "description": "Directed by Masaaki Yuasa (who directed Night Is Short, Walk On Girl), this film shares his signature fluid, colorful, and insanely imaginative animation style.",
-      "background": "https://image.tmdb.org/t/p/original/6s1ONEuRCcMTvptATfA5Y5WVHEw.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0
-    },
-    {
-      "id": "tt0446029",
-      "type": "movie",
-      "name": "Scott Pilgrim vs. the World",
-      "poster": "https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
-      "releaseInfo": "2010",
-      "description": "A hyper-stylized action-comedy-romance with video game physics, fast edits, and an incredible soundtrack, capturing a highly energetic, fun vibe.",
-      "background": "https://image.tmdb.org/t/p/original/6R9nT6m8wmzayV5XOQq3TRA6yZw.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5
-    },
-    {
-      "id": "tt0211915",
-      "type": "movie",
-      "name": "Am\u00e9lie",
-      "poster": "https://image.tmdb.org/t/p/w500/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
-      "releaseInfo": "2001",
-      "description": "An ultra-cozy, whimsical, and visually gorgeous French romantic comedy that celebrates the small joys in life and leaves you feeling wonderful.",
-      "background": "https://image.tmdb.org/t/p/original/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-      "imdbRating": "7.921",
-      "rating": 7.921
-    },
-    {
-      "id": "tt8079248",
-      "type": "movie",
-      "name": "Yesterday",
-      "poster": "https://image.tmdb.org/t/p/w500/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
-      "releaseInfo": "2019",
-      "description": "A charming, high-concept musical comedy about a struggling musician who becomes the only person on Earth who remembers The Beatles.",
-      "background": "https://image.tmdb.org/t/p/original/t5Kp02Jzixl0KfpwthHp9ZUex9t.jpg",
-      "imdbRating": "6.687",
-      "rating": 6.687
-    },
-    {
-      "id": "tt1156398",
-      "type": "movie",
-      "name": "Zombieland",
-      "poster": "https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
-      "releaseInfo": "2009",
-      "description": "A fast-paced, highly entertaining horror-comedy about a makeshift family surviving the apocalypse. Fun, violent, but deeply lighthearted.",
-      "background": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
-      "imdbRating": "7.26",
-      "rating": 7.26
+      "name": "Love & Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+      "releaseInfo": "2020",
+      "description": "An incredibly charming, lighthearted post-apocalyptic adventure that matches the creature-filled fun of Jumanji and Fantastic Beasts.",
+      "background": "https://image.tmdb.org/t/p/original/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
+      "imdbRating": "7.272",
+      "rating": 7.272
     },
     {
       "id": "tt3104988",
@@ -391,21 +204,76 @@
       "name": "Crazy Rich Asians",
       "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
       "releaseInfo": "2018",
-      "description": "A lavish, extremely colorful, and highly comforting romantic comedy-drama that feels like a warm hug and features spectacular set designs.",
+      "description": "A lush, colorful, and hilariously heartwarming modern rom-com that fits right in with Clueless and 10 Things I Hate About You.",
       "background": "https://image.tmdb.org/t/p/original/7tTCnQcKzUkabDV3BJMe7LIzlEs.jpg",
-      "imdbRating": "7.051",
-      "rating": 7.051
+      "imdbRating": "7.052",
+      "rating": 7.052
     },
     {
-      "id": "tt9484998",
+      "id": "tt0454945",
       "type": "movie",
-      "name": "Palm Springs",
-      "poster": "https://image.tmdb.org/t/p/w500/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
-      "releaseInfo": "2020",
-      "description": "A hilarious, clever sci-fi romantic comedy utilizing a time-loop concept to explore life, love, and existential dread in a highly entertaining way.",
-      "background": "https://image.tmdb.org/t/p/original/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
-      "imdbRating": "7.339",
-      "rating": 7.339
+      "name": "She's the Man",
+      "poster": "https://image.tmdb.org/t/p/w500/gdF2PEBdwoohpPqKL93eCk17zNO.jpg",
+      "releaseInfo": "2006",
+      "description": "Another hilarious, comfortable 2000s teen comedy adapted from Shakespeare, carrying the exact same DNA as 10 Things I Hate About You.",
+      "background": "https://image.tmdb.org/t/p/original/9ys3pySjmZiONZWAy8QhOxv5SDH.jpg",
+      "imdbRating": "6.817",
+      "rating": 6.817
+    },
+    {
+      "id": "tt2194499",
+      "type": "movie",
+      "name": "About Time",
+      "poster": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+      "releaseInfo": "2013",
+      "description": "A beautifully heartwarming rom-com with a sci-fi/fantasy twist that perfectly balances comfort, romance, and life-affirming themes.",
+      "background": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+      "imdbRating": "7.905",
+      "rating": 7.905
+    },
+    {
+      "id": "tt0339291",
+      "type": "movie",
+      "name": "Lemony Snicket's A Series of Unfortunate Events",
+      "poster": "https://image.tmdb.org/t/p/w500/76Xi8z7Whv5WFIdfzzvC5tKSicd.jpg",
+      "releaseInfo": "2004",
+      "description": "Offers a whimsical, visually stunning gothic fantasy vibe that fans of Practical Magic and Fantastic Beasts will adore.",
+      "background": "https://image.tmdb.org/t/p/original/i0M3a8Z2hfj5Oj4msArajhLjGvV.jpg",
+      "imdbRating": "6.823",
+      "rating": 6.823
+    },
+    {
+      "id": "tt0988045",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "poster": "https://image.tmdb.org/t/p/w500/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+      "releaseInfo": "2009",
+      "description": "Features a brilliant, highly entertaining buddy-cop dynamic and mystery element that matches The Nice Guys and Get Shorty.",
+      "background": "https://image.tmdb.org/t/p/original/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
+      "imdbRating": "7.221",
+      "rating": 7.221
+    },
+    {
+      "id": "tt0942385",
+      "type": "movie",
+      "name": "Tropic Thunder",
+      "poster": "https://image.tmdb.org/t/p/w500/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+      "releaseInfo": "2008",
+      "description": "If you enjoy the fearless, laugh-out-loud comedy of Br\u00fcno, this meta-satirical action comedy is a must-watch.",
+      "background": "https://image.tmdb.org/t/p/original/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+      "imdbRating": "6.716",
+      "rating": 6.716
+    },
+    {
+      "id": "tt12593682",
+      "type": "movie",
+      "name": "Bullet Train",
+      "poster": "https://image.tmdb.org/t/p/w500/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "releaseInfo": "2022",
+      "description": "An incredibly fast-paced, neon-drenched, and hilariously violent action film that matches the energetic, comedic tone of Thor: Ragnarok.",
+      "background": "https://image.tmdb.org/t/p/original/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+      "imdbRating": "7.413",
+      "rating": 7.413
     },
     {
       "id": "tt0110475",
@@ -413,10 +281,87 @@
       "name": "The Mask",
       "poster": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
       "releaseInfo": "1994",
-      "description": "Featuring Jim Carrey at the height of his physical-comedy powers, this energetic cartoon-come-to-life matches the nostalgic absurdity of Ace Ventura.",
+      "description": "For fans of Ace Ventura: Pet Detective, this features Jim Carrey at the peak of his physical comedy powers in a fun superhero fantasy setting.",
       "background": "https://image.tmdb.org/t/p/original/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
-      "imdbRating": "6.988",
-      "rating": 6.988
+      "imdbRating": "6.989",
+      "rating": 6.989
+    },
+    {
+      "id": "tt0118655",
+      "type": "movie",
+      "name": "Austin Powers: International Man of Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+      "releaseInfo": "1997",
+      "description": "Offers the same silly, satirical, and highly eccentric character-driven comedy found in Ace Ventura and Br\u00fcno.",
+      "background": "https://image.tmdb.org/t/p/original/wSm5McaHSAyOx4gGRYdlDHzj00y.jpg",
+      "imdbRating": "6.597",
+      "rating": 6.597
+    },
+    {
+      "id": "tt0095159",
+      "type": "movie",
+      "name": "A Fish Called Wanda",
+      "poster": "https://image.tmdb.org/t/p/w500/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+      "releaseInfo": "1888",
+      "description": "A masterpiece of crime comedy filled with eccentric characters, fitting perfectly alongside Get Shorty and The Nice Guys.",
+      "background": "https://image.tmdb.org/t/p/original/6IFTmhNh9kmwd5ix53OdlSphPYl.jpg",
+      "imdbRating": "7.205",
+      "rating": 7.205
+    },
+    {
+      "id": "tt8079248",
+      "type": "movie",
+      "name": "Yesterday",
+      "poster": "https://image.tmdb.org/t/p/w500/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+      "releaseInfo": "2019",
+      "description": "A sweet, lighthearted high-concept rom-com about a musician who realizes he is the only person on Earth who remembers The Beatles.",
+      "background": "https://image.tmdb.org/t/p/original/t5Kp02Jzixl0KfpwthHp9ZUex9t.jpg",
+      "imdbRating": "6.687",
+      "rating": 6.687
+    },
+    {
+      "id": "tt4633694",
+      "type": "movie",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "releaseInfo": "2018",
+      "description": "An absolute visual masterpiece that mixes incredible comic-book action with the same joyful, comedic heart as Thor: Ragnarok.",
+      "background": "https://image.tmdb.org/t/p/original/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+      "imdbRating": "8.393",
+      "rating": 8.393
+    },
+    {
+      "id": "tt2278388",
+      "type": "movie",
+      "name": "The Grand Budapest Hotel",
+      "poster": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+      "releaseInfo": "2014",
+      "description": "A highly stylized, eccentric, and hilarious caper that matches the witty tone of Knives Out and the whimsical charm of fantasy adventures.",
+      "background": "https://image.tmdb.org/t/p/original/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
+      "imdbRating": "8.028",
+      "rating": 8.028
+    },
+    {
+      "id": "tt1605783",
+      "type": "movie",
+      "name": "Midnight in Paris",
+      "poster": "https://image.tmdb.org/t/p/w500/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+      "releaseInfo": "2011",
+      "description": "A charming, magical-realism rom-com that captures the whimsical, romantic fantasy elements of Night Is Short, Walk On Girl.",
+      "background": "https://image.tmdb.org/t/p/original/oJ0nkBNSZ9TqMKNWYdkp09dPMRn.jpg",
+      "imdbRating": "7.514",
+      "rating": 7.514
+    },
+    {
+      "id": "tt1156398",
+      "type": "movie",
+      "name": "Zombieland",
+      "poster": "https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "releaseInfo": "2009",
+      "description": "A hilarious, fast-paced road-trip comedy that turns a monster-infested world into a delightful, cozy playground.",
+      "background": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+      "imdbRating": "7.26",
+      "rating": 7.26
     },
     {
       "id": "tt0368891",
@@ -424,21 +369,76 @@
       "name": "National Treasure",
       "poster": "https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg",
       "releaseInfo": "2004",
-      "description": "A wonderfully cheesy, high-energy treasure hunt movie that is endlessly rewatchable, full of fun history puzzles and light adventure.",
+      "description": "A peak comfort movie featuring history-themed puzzles, high-stakes fun, and the light adventure tone of the Jumanji franchise.",
       "background": "https://image.tmdb.org/t/p/original/xXWT0je8dTFFNBq6P2CeTZkPUu2.jpg",
       "imdbRating": "6.651",
       "rating": 6.651
     },
     {
-      "id": "tt7846844",
+      "id": "tt0251127",
       "type": "movie",
-      "name": "Enola Holmes",
-      "poster": "https://image.tmdb.org/t/p/w500/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
-      "releaseInfo": "2020",
-      "description": "A lighthearted, fourth-wall-breaking mystery adventure about Sherlock Holmes' spunky younger sister, capturing a highly fun, breezy, and whimsical tone.",
-      "background": "https://image.tmdb.org/t/p/original/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
-      "imdbRating": "7.226",
-      "rating": 7.226
+      "name": "How to Lose a Guy in 10 Days",
+      "poster": "https://image.tmdb.org/t/p/w500/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
+      "releaseInfo": "2003",
+      "description": "A foundational classic of the golden age of romantic comedies, carrying the same lighthearted romance and banter as Clueless.",
+      "background": "https://image.tmdb.org/t/p/original/cdYj6HFpKp5NTmLiHHbNEGSmDT4.jpg",
+      "imdbRating": "6.9",
+      "rating": 6.9
+    },
+    {
+      "id": "tt3079380",
+      "type": "movie",
+      "name": "Spy",
+      "poster": "https://image.tmdb.org/t/p/w500/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg",
+      "releaseInfo": "2015",
+      "description": "An incredibly funny, action-packed espionage comedy that offers endless laughs and highly satisfying action sequences.",
+      "background": "https://image.tmdb.org/t/p/original/eHEGPHKHTVhWdXzBQcrTATz9M0I.jpg",
+      "imdbRating": "6.832",
+      "rating": 6.832
+    },
+    {
+      "id": "tt0359950",
+      "type": "movie",
+      "name": "The Secret Life of Walter Mitty",
+      "poster": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+      "releaseInfo": "2013",
+      "description": "A visually breathtaking, deeply comforting, and feel-good adventure film about breaking out of your shell.",
+      "background": "https://image.tmdb.org/t/p/original/pzMrxeP9XkKOtQVUBPTq5yk4ck5.jpg",
+      "imdbRating": "7.225",
+      "rating": 7.225
+    },
+    {
+      "id": "tt0211915",
+      "type": "movie",
+      "name": "Am\u00e9lie",
+      "poster": "https://image.tmdb.org/t/p/w500/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+      "releaseInfo": "2001",
+      "description": "If you loved the quirky, stylized, and romantic visual journey of Night Is Short, Walk On Girl, this cozy masterpiece is an absolute essential.",
+      "background": "https://image.tmdb.org/t/p/original/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "imdbRating": "7.921",
+      "rating": 7.921
+    },
+    {
+      "id": "tt0448115",
+      "type": "movie",
+      "name": "Shazam!",
+      "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "releaseInfo": "2019",
+      "description": "A superhero movie with the heart of Big, delivering the exact same family-friendly, high-concept fun as Jumanji.",
+      "background": "https://image.tmdb.org/t/p/original/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+      "imdbRating": "6.978",
+      "rating": 6.978
+    },
+    {
+      "id": "tt3416742",
+      "type": "movie",
+      "name": "What We Do in the Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+      "releaseInfo": "2014",
+      "description": "Directed by Taika Waititi (Thor: Ragnarok), this hilarious mockumentary about vampire roommates is incredibly witty, lighthearted, and unique.",
+      "background": "https://image.tmdb.org/t/p/original/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
+      "imdbRating": "7.549",
+      "rating": 7.549
     }
   ]
 }
