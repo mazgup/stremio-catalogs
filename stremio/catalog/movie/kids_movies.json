@@ -1,3 +1,70 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt2294629",
+      "type": "movie",
+      "name": "Frozen",
+      "poster": "https://image.tmdb.org/t/p/w500/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "releaseInfo": "2013",
+      "description": "Kids will love the catchy songs, magical powers, and sisterly love in this winter wonderland adventure.",
+      "background": "https://image.tmdb.org/t/p/original/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+      "imdbRating": "7.249",
+      "rating": 7.249
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "The Lion King",
+      "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "releaseInfo": "1994",
+      "description": "A timeless tale of courage, destiny, and family with incredible music and animation.",
+      "background": "https://image.tmdb.org/t/p/original/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+      "imdbRating": "8.254",
+      "rating": 8.254
+    },
+    {
+      "id": "tt0103639",
+      "type": "movie",
+      "name": "Aladdin",
+      "poster": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "releaseInfo": "1992",
+      "description": "Enjoy a magical carpet ride with a charming street thief, a princess, and a hilarious genie.",
+      "background": "https://image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+      "imdbRating": "7.655",
+      "rating": 7.655
+    },
+    {
+      "id": "tt0101414",
+      "type": "movie",
+      "name": "Beauty and the Beast",
+      "poster": "https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "releaseInfo": "1991",
+      "description": "A beautiful story of inner beauty, enchantment, and overcoming appearances.",
+      "background": "https://image.tmdb.org/t/p/original/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+      "imdbRating": "7.728",
+      "rating": 7.728
+    },
+    {
+      "id": "tt0097757",
+      "type": "movie",
+      "name": "The Little Mermaid",
+      "poster": "https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+      "releaseInfo": "1989",
+      "description": "Dive under the sea for a magical adventure with Ariel and her musical friends.",
+      "background": "https://image.tmdb.org/t/p/original/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+      "imdbRating": "7.351",
+      "rating": 7.351
+    },
+    {
+      "id": "tt0042332",
+      "type": "movie",
+      "name": "Cinderella",
+      "poster": "https://image.tmdb.org/t/p/w500/ug3ndicuPM1V07vhVFGLMsd4AZl.jpg",
+      "releaseInfo": "1950",
+      "description": "Experience a timeless fairytale of kindness, magic, and a dream coming true.",
+      "background": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+      "imdbRating": "7.048",
+      "rating": 7.048
+    }
+  ]
 }

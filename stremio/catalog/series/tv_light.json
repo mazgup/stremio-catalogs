@@ -1,3 +1,70 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt1266020",
+      "type": "series",
+      "name": "Parks and Recreation",
+      "poster": "https://image.tmdb.org/t/p/w500/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
+      "releaseInfo": "2009",
+      "description": "Its optimistic humor and lovable characters create a consistently feel-good, light viewing experience.",
+      "background": "https://image.tmdb.org/t/p/original/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
+      "imdbRating": "8.034",
+      "rating": 8.034
+    },
+    {
+      "id": "tt2467372",
+      "type": "series",
+      "name": "Brooklyn Nine-Nine",
+      "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+      "releaseInfo": "2013",
+      "description": "A hilarious ensemble comedy with witty banter and heartwarming friendships, perfect for relaxation.",
+      "background": "https://image.tmdb.org/t/p/original/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2
+    },
+    {
+      "id": "tt0386676",
+      "type": "series",
+      "name": "The Office (US)",
+      "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "releaseInfo": "2005",
+      "description": "Relatable workplace humor and endearing characters make it a comforting, easy-to-watch background show.",
+      "background": "https://image.tmdb.org/t/p/original/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
+      "imdbRating": "8.588",
+      "rating": 8.588
+    },
+    {
+      "id": "tt3526078",
+      "type": "series",
+      "name": "Schitt's Creek",
+      "poster": "https://image.tmdb.org/t/p/w500/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+      "releaseInfo": "2015",
+      "description": "This heartwarming comedy about family resilience and growth is truly uplifting and joyful.",
+      "background": "https://image.tmdb.org/t/p/original/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "imdbRating": "7.779",
+      "rating": 7.779
+    },
+    {
+      "id": "tt1442437",
+      "type": "series",
+      "name": "Modern Family",
+      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "releaseInfo": "2009",
+      "description": "Its clever mockumentary style and relatable family dynamics offer consistent, lighthearted laughs.",
+      "background": "https://image.tmdb.org/t/p/original/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "imdbRating": "7.909",
+      "rating": 7.909
+    },
+    {
+      "id": "tt0496424",
+      "type": "series",
+      "name": "30 Rock",
+      "poster": "https://image.tmdb.org/t/p/w500/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+      "releaseInfo": "2006",
+      "description": "Fast-paced, surreal humor and brilliant writing provide endless, witty entertainment.",
+      "background": "https://image.tmdb.org/t/p/original/cGQmSoB0e0bpuNJky5xj6U61erq.jpg",
+      "imdbRating": "7.486",
+      "rating": 7.486
+    }
+  ]
 }

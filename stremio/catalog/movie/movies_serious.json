@@ -1,3 +1,70 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt1392214",
+      "type": "movie",
+      "name": "Prisoners",
+      "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
+      "releaseInfo": "2013",
+      "description": "Intense, high-stakes thriller with dark themes and moral complexity.",
+      "background": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
+      "imdbRating": "8.106",
+      "rating": 8.106
+    },
+    {
+      "id": "tt2543164",
+      "type": "movie",
+      "name": "Arrival",
+      "poster": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "releaseInfo": "2016",
+      "description": "Thought-provoking sci-fi drama with deep emotional complexity and high stakes.",
+      "background": "https://image.tmdb.org/t/p/original/uKPbFF08QkRMvIAsgCh1soeyPhZ.jpg",
+      "imdbRating": "7.627",
+      "rating": 7.627
+    },
+    {
+      "id": "tt0477348",
+      "type": "movie",
+      "name": "No Country for Old Men",
+      "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+      "releaseInfo": "2007",
+      "description": "Gritty, intense crime thriller with high stakes and relentless tension.",
+      "background": "https://image.tmdb.org/t/p/original/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+      "imdbRating": "7.951",
+      "rating": 7.951
+    },
+    {
+      "id": "tt0114369",
+      "type": "movie",
+      "name": "Se7en",
+      "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "releaseInfo": "1995",
+      "description": "Dark, disturbing psychological thriller with a complex mystery and grim atmosphere.",
+      "background": "https://image.tmdb.org/t/p/original/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+      "imdbRating": "8.4",
+      "rating": 8.4
+    },
+    {
+      "id": "tt0137523",
+      "type": "movie",
+      "name": "Fight Club",
+      "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "releaseInfo": "1999",
+      "description": "Challenging psychological drama with dark themes and a powerful social commentary.",
+      "background": "https://image.tmdb.org/t/p/original/xRyINp9KfMLVjRiO5nCsoRDdvvF.jpg",
+      "imdbRating": "8.4",
+      "rating": 8.4
+    },
+    {
+      "id": "tt0209144",
+      "type": "movie",
+      "name": "Memento",
+      "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "releaseInfo": "2000",
+      "description": "Mind-bending psychological thriller demanding attention with its unique narrative structure.",
+      "background": "https://image.tmdb.org/t/p/original/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2
+    }
+  ]
 }

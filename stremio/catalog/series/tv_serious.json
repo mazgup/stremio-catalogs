@@ -1,3 +1,70 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "releaseInfo": "2008",
+      "description": "Follows a chemistry teacher's descent into a high-stakes criminal empire.",
+      "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "imdbRating": "8.946",
+      "rating": 8.946
+    },
+    {
+      "id": "tt3032476",
+      "type": "series",
+      "name": "Better Call Saul",
+      "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "releaseInfo": "2015",
+      "description": "Explores a lawyer's morally complex journey into the criminal underworld.",
+      "background": "https://image.tmdb.org/t/p/original/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
+      "imdbRating": "8.7",
+      "rating": 8.7
+    },
+    {
+      "id": "tt5071412",
+      "type": "series",
+      "name": "Ozark",
+      "poster": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+      "releaseInfo": "2017",
+      "description": "A financial advisor launders money for a cartel, leading to dark family drama.",
+      "background": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
+      "imdbRating": "8.204",
+      "rating": 8.204
+    },
+    {
+      "id": "tt0306414",
+      "type": "series",
+      "name": "The Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+      "releaseInfo": "2002",
+      "description": "Offers a gritty, realistic portrayal of the drug trade and urban institutions.",
+      "background": "https://image.tmdb.org/t/p/original/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+      "imdbRating": "8.6",
+      "rating": 8.6
+    },
+    {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "poster": "https://image.tmdb.org/t/p/w500/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
+      "releaseInfo": "2014",
+      "description": "Anthology series delving into complex, dark psychological crime mysteries.",
+      "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3
+    },
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "poster": "https://image.tmdb.org/t/p/w500/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+      "releaseInfo": "2014",
+      "description": "Presents darkly comedic crime stories with eccentric characters and unexpected twists.",
+      "background": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
+      "imdbRating": "8.29",
+      "rating": 8.29
+    }
+  ]
 }
