@@ -1,12 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt0386676",
+      "type": "series",
+      "name": "The Office (US)",
+      "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "releaseInfo": "2005",
+      "description": "Iconic workplace mockumentary offering endless laughs and relatable characters.",
+      "background": "https://image.tmdb.org/t/p/original/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
+      "imdbRating": "8.588",
+      "rating": 8.588
+    },
+    {
       "id": "tt1266020",
       "type": "series",
       "name": "Parks and Recreation",
       "poster": "https://image.tmdb.org/t/p/w500/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
       "releaseInfo": "2009",
-      "description": "Its optimistic humor and lovable characters create a consistently feel-good, light viewing experience.",
+      "description": "Uplifting ensemble comedy about local government, full of heart and humor.",
       "background": "https://image.tmdb.org/t/p/original/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
       "imdbRating": "8.034",
       "rating": 8.034
@@ -17,32 +28,10 @@
       "name": "Brooklyn Nine-Nine",
       "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
       "releaseInfo": "2013",
-      "description": "A hilarious ensemble comedy with witty banter and heartwarming friendships, perfect for relaxation.",
+      "description": "Hilarious police precinct comedy with lovable characters and witty banter.",
       "background": "https://image.tmdb.org/t/p/original/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
       "imdbRating": "8.2",
       "rating": 8.2
-    },
-    {
-      "id": "tt0386676",
-      "type": "series",
-      "name": "The Office (US)",
-      "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "releaseInfo": "2005",
-      "description": "Relatable workplace humor and endearing characters make it a comforting, easy-to-watch background show.",
-      "background": "https://image.tmdb.org/t/p/original/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
-      "imdbRating": "8.588",
-      "rating": 8.588
-    },
-    {
-      "id": "tt3526078",
-      "type": "series",
-      "name": "Schitt's Creek",
-      "poster": "https://image.tmdb.org/t/p/w500/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
-      "releaseInfo": "2015",
-      "description": "This heartwarming comedy about family resilience and growth is truly uplifting and joyful.",
-      "background": "https://image.tmdb.org/t/p/original/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
-      "imdbRating": "7.779",
-      "rating": 7.779
     },
     {
       "id": "tt1442437",
@@ -50,7 +39,7 @@
       "name": "Modern Family",
       "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "releaseInfo": "2009",
-      "description": "Its clever mockumentary style and relatable family dynamics offer consistent, lighthearted laughs.",
+      "description": "Feel-good family mockumentary with witty humor and heartwarming moments.",
       "background": "https://image.tmdb.org/t/p/original/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
       "imdbRating": "7.909",
       "rating": 7.909
@@ -61,10 +50,230 @@
       "name": "30 Rock",
       "poster": "https://image.tmdb.org/t/p/w500/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
       "releaseInfo": "2006",
-      "description": "Fast-paced, surreal humor and brilliant writing provide endless, witty entertainment.",
+      "description": "Fast-paced, meta-comedy about a sketch show writer, packed with sharp jokes.",
       "background": "https://image.tmdb.org/t/p/original/cGQmSoB0e0bpuNJky5xj6U61erq.jpg",
       "imdbRating": "7.486",
       "rating": 7.486
+    },
+    {
+      "id": "tt1759761",
+      "type": "series",
+      "name": "Veep",
+      "poster": "https://image.tmdb.org/t/p/w500/cdd78fGdaA3EbK2ToZRWcaaB1fx.jpg",
+      "releaseInfo": "2012",
+      "description": "Sharp political satire with brilliant comedic performances and cynical humor.",
+      "background": "https://image.tmdb.org/t/p/original/vKaDMLbdLrThldFj9Vavo6suTS2.jpg",
+      "imdbRating": "7.484",
+      "rating": 7.484
+    },
+    {
+      "id": "tt3526078",
+      "type": "series",
+      "name": "Schitt's Creek",
+      "poster": "https://image.tmdb.org/t/p/w500/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+      "releaseInfo": "2015",
+      "description": "Heartwarming journey of a wealthy family losing everything, ultimately uplifting.",
+      "background": "https://image.tmdb.org/t/p/original/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "imdbRating": "7.779",
+      "rating": 7.779
+    },
+    {
+      "id": "tt4477976",
+      "type": "series",
+      "name": "Superstore",
+      "poster": "https://image.tmdb.org/t/p/w500/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
+      "releaseInfo": "2015",
+      "description": "Workplace comedy set in a big-box store with relatable, quirky humor.",
+      "background": "https://image.tmdb.org/t/p/original/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+      "imdbRating": "7.555",
+      "rating": 7.555
+    },
+    {
+      "id": "tt0237123",
+      "type": "series",
+      "name": "Coupling",
+      "poster": "https://image.tmdb.org/t/p/w500/cfHQwmPUrCbm6XAPnuuBAVZpC94.jpg",
+      "releaseInfo": "2000",
+      "description": "Witty British sitcom exploring relationships and friendships with clever writing.",
+      "background": "https://image.tmdb.org/t/p/original/uYwXRytQ99XQKq31JFGqrnlIyhh.jpg",
+      "imdbRating": "7.916",
+      "rating": 7.916
+    },
+    {
+      "id": "tt0187664",
+      "type": "series",
+      "name": "Spaced",
+      "poster": "https://image.tmdb.org/t/p/w500/igZWEYUohDxlLodq8RkeJa7jBna.jpg",
+      "releaseInfo": "1999",
+      "description": "Cult classic British comedy with pop culture references and surreal humor.",
+      "background": "https://image.tmdb.org/t/p/original/q187vcRKB9WCOQyjo9Cl4No9cea.jpg",
+      "imdbRating": "7.923",
+      "rating": 7.923
+    },
+    {
+      "id": "tt1073507",
+      "type": "series",
+      "name": "Party Down",
+      "poster": "https://image.tmdb.org/t/p/w500/hbsoFctJ1dDPp3KUIuUgd2E1U4r.jpg",
+      "releaseInfo": "2009",
+      "description": "Darkly comedic look at caterers in Los Angeles, filled with dry wit.",
+      "background": "https://image.tmdb.org/t/p/original/AmmgWFPclweF5fdjdy9ITksMAVC.jpg",
+      "imdbRating": "7.485",
+      "rating": 7.485
+    },
+    {
+      "id": "tt1610527",
+      "type": "series",
+      "name": "Workaholics",
+      "poster": "https://image.tmdb.org/t/p/w500/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg",
+      "releaseInfo": "2011",
+      "description": "Three slacker friends navigating post-college life with outrageous antics.",
+      "background": "https://image.tmdb.org/t/p/original/zDSvUcCR2nkrGhLUTIgqQ18P27U.jpg",
+      "imdbRating": "7.403",
+      "rating": 7.403
+    },
+    {
+      "id": "tt1587678",
+      "type": "series",
+      "name": "Happy Endings",
+      "poster": "https://image.tmdb.org/t/p/w500/lY44BjOnwCqtUO4VoKOz7IcG9RC.jpg",
+      "releaseInfo": "2011",
+      "description": "Energetic friend group comedy with rapid-fire jokes and dynamic characters.",
+      "background": "https://image.tmdb.org/t/p/original/vXO3m7GNvUhXQwNmqRD8aOGLifh.jpg",
+      "imdbRating": "6.895",
+      "rating": 6.895
+    },
+    {
+      "id": "tt2578560",
+      "type": "series",
+      "name": "Broad City",
+      "poster": "https://image.tmdb.org/t/p/w500/fRu9zQFdWHjEVyHwnIYqm0LRoKA.jpg",
+      "releaseInfo": "2014",
+      "description": "Unapologetic and hilarious look at two women navigating life in NYC.",
+      "background": "https://image.tmdb.org/t/p/original/r0Fx0BJn71eJLYGvojcgHRec2Lx.jpg",
+      "imdbRating": "7.126",
+      "rating": 7.126
+    },
+    {
+      "id": "tt3339966",
+      "type": "series",
+      "name": "Unbreakable Kimmy Schmidt",
+      "poster": "https://image.tmdb.org/t/p/w500/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+      "releaseInfo": "2015",
+      "description": "Optimistic woman restarts life after escaping a cult, full of absurd humor.",
+      "background": "https://image.tmdb.org/t/p/original/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+      "imdbRating": "7.101",
+      "rating": 7.101
+    },
+    {
+      "id": "tt1723816",
+      "type": "series",
+      "name": "Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
+      "releaseInfo": "2012",
+      "description": "Relatable and raw comedy about young women navigating life in New York.",
+      "background": "https://image.tmdb.org/t/p/original/9O2k1lfAMes2UgrWzHVvpMJHjw.jpg",
+      "imdbRating": "6.394",
+      "rating": 6.394
+    },
+    {
+      "id": "tt0264235",
+      "type": "series",
+      "name": "Curb Your Enthusiasm",
+      "poster": "https://image.tmdb.org/t/p/w500/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
+      "releaseInfo": "2000",
+      "description": "Larry David's cringe comedy delivers awkward situations and sharp satire.",
+      "background": "https://image.tmdb.org/t/p/original/eNSIkGIYqXVFNmT85P4X7BsXkYI.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0
+    },
+    {
+      "id": "tt0098904",
+      "type": "series",
+      "name": "Seinfeld",
+      "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "releaseInfo": "1989",
+      "description": "Iconic 'show about nothing' with sharp observational humor and timeless jokes.",
+      "background": "https://image.tmdb.org/t/p/original/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+      "imdbRating": "8.262",
+      "rating": 8.262
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+      "releaseInfo": "1994",
+      "description": "Beloved classic about six friends in New York City, always comforting.",
+      "background": "https://image.tmdb.org/t/p/original/m3Jev59mJLyUp5bXhY5SVfIBZI0.jpg",
+      "imdbRating": "8.4",
+      "rating": 8.4
+    },
+    {
+      "id": "tt0898266",
+      "type": "series",
+      "name": "The Big Bang Theory",
+      "poster": "https://image.tmdb.org/t/p/w500/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg",
+      "releaseInfo": "2007",
+      "description": "Geeky scientists and their socially awkward lives provide consistent laughs.",
+      "background": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+      "imdbRating": "7.918",
+      "rating": 7.918
+    },
+    {
+      "id": "tt0115167",
+      "type": "series",
+      "name": "Everybody Loves Raymond",
+      "poster": "https://image.tmdb.org/t/p/w500/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+      "releaseInfo": "1996",
+      "description": "Classic family sitcom with relatable humor about in-laws and marriage.",
+      "background": "https://image.tmdb.org/t/p/original/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+      "imdbRating": "6.817",
+      "rating": 6.817
+    },
+    {
+      "id": "tt0106004",
+      "type": "series",
+      "name": "Frasier",
+      "poster": "https://image.tmdb.org/t/p/w500/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+      "releaseInfo": "1993",
+      "description": "Sophisticated and witty spin-off from Cheers with intellectual humor.",
+      "background": "https://image.tmdb.org/t/p/original/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
+      "imdbRating": "7.693",
+      "rating": 7.693
+    },
+    {
+      "id": "tt0083399",
+      "type": "series",
+      "name": "Cheers",
+      "poster": "https://image.tmdb.org/t/p/w500/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+      "releaseInfo": "1982",
+      "description": "Iconic bar where everybody knows your name, a comforting classic.",
+      "background": "https://image.tmdb.org/t/p/original/5U7NIuRK836GutAlo7TLPfmVtGW.jpg",
+      "imdbRating": "7.569",
+      "rating": 7.569
+    },
+    {
+      "id": "tt0157246",
+      "type": "series",
+      "name": "Will & Grace",
+      "poster": "https://image.tmdb.org/t/p/w500/aEaYdyHcpHN3fIXHhXHtXOs8Rtk.jpg",
+      "releaseInfo": "1998",
+      "description": "Pioneering sitcom with witty banter and strong, comedic characters.",
+      "background": "https://image.tmdb.org/t/p/original/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+      "imdbRating": "6.868",
+      "rating": 6.868
+    },
+    {
+      "id": "tt3609352",
+      "type": "series",
+      "name": "Grace and Frankie",
+      "poster": "https://image.tmdb.org/t/p/w500/3aD3PaSeF8eHJFLliLlWYw4EcPt.jpg",
+      "releaseInfo": "2015",
+      "description": "Two women reinventing life after their husbands come out, full of heart.",
+      "background": "https://image.tmdb.org/t/p/original/jco0oPYZN7bUDZ0xAmstotXI1gB.jpg",
+      "imdbRating": "7.705",
+      "rating": 7.705
     }
   ]
 }

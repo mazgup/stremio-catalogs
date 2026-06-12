@@ -1,12 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt0063951",
+      "type": "series",
+      "name": "Sesame Street",
+      "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+      "releaseInfo": "1969",
+      "description": "Kids learn letters, numbers, and social skills from beloved puppets.",
+      "background": "https://image.tmdb.org/t/p/original/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1
+    },
+    {
       "id": "tt3121722",
       "type": "series",
       "name": "Paw Patrol",
       "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
       "releaseInfo": "2013",
-      "description": "Kids love watching these pups work together to save the day.",
+      "description": "Pups work together to solve problems and help their community.",
       "background": "https://image.tmdb.org/t/p/original/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
       "imdbRating": "7.0",
       "rating": 7.0
@@ -17,7 +28,7 @@
       "name": "PJ Masks",
       "poster": "https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
       "releaseInfo": "2015",
-      "description": "Kids enjoy watching these young heroes on exciting nighttime adventures.",
+      "description": "Three friends transform into superheroes, learning valuable lessons nightly.",
       "background": "https://image.tmdb.org/t/p/original/kwxcf1Rxhd1jusTvIptSYEjl2NA.jpg",
       "imdbRating": "6.5",
       "rating": 6.5
@@ -28,21 +39,10 @@
       "name": "Wild Kratts",
       "poster": "https://image.tmdb.org/t/p/w500/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
       "releaseInfo": "2011",
-      "description": "Kids will learn about amazing animals and their unique abilities.",
+      "description": "Brothers explore animal habitats, learning about science and creatures.",
       "background": "https://image.tmdb.org/t/p/original/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
       "imdbRating": "7.516",
       "rating": 7.516
-    },
-    {
-      "id": "tt1710177",
-      "type": "series",
-      "name": "Octonauts",
-      "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
-      "releaseInfo": "2010",
-      "description": "Kids enjoy underwater adventures while learning about marine life.",
-      "background": "https://image.tmdb.org/t/p/original/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2
     },
     {
       "id": "tt1105469",
@@ -50,65 +50,21 @@
       "name": "Super Why!",
       "poster": "https://image.tmdb.org/t/p/w500/lJttSVfKx56a2wN2pg2yR4IHzwy.jpg",
       "releaseInfo": "2007",
-      "description": "Kids learn phonics, reading, and problem-solving through classic stories.",
+      "description": "Four friends jump into storybooks to solve problems using literacy skills.",
       "background": "https://image.tmdb.org/t/p/original/U9VKLLo9IeQU1aQAOA6s4Na5Pc.jpg",
       "imdbRating": "7.1",
       "rating": 7.1
     },
     {
-      "id": "tt22097692",
+      "id": "tt0169414",
       "type": "series",
-      "name": "StoryBots: Answer Time",
-      "poster": "https://image.tmdb.org/t/p/w500/ccMq0WNCvgq1GitFrBRbJ3BTzet.jpg",
-      "releaseInfo": "2022",
-      "description": "Kids will love finding answers to big questions through songs and humor.",
-      "background": "https://image.tmdb.org/t/p/original/mnegNlapnoGc0IsDPSKqwVzyi4G.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9
-    },
-    {
-      "id": "tt4458594",
-      "type": "series",
-      "name": "Blaze and the Monster Machines",
-      "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
-      "releaseInfo": "2014",
-      "description": "Kids learn about STEM concepts through exciting monster truck races.",
-      "background": "https://image.tmdb.org/t/p/original/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4
-    },
-    {
-      "id": "tt5172468",
-      "type": "series",
-      "name": "Go Jetters",
-      "poster": "https://image.tmdb.org/t/p/w500/kvSAVAqbXagMmUUSPlmJbS9RXxo.jpg",
-      "releaseInfo": "2015",
-      "description": "Kids explore global landmarks and learn geography with exciting missions.",
-      "background": "https://image.tmdb.org/t/p/original/scoCpSJrCwPMlt71e0yD6soy7Fr.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8
-    },
-    {
-      "id": "tt11992456",
-      "type": "series",
-      "name": "Elinor Wonders Why",
-      "poster": "https://image.tmdb.org/t/p/w500/3MEwgOMnsTfuOHcPoX8hAOKrKYn.jpg",
-      "releaseInfo": "2020",
-      "description": "Kids discover the wonders of nature by asking questions and observing.",
-      "background": "https://image.tmdb.org/t/p/original/jxA4VAeT6fA11OjmeQ8EsrzzVCw.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0
-    },
-    {
-      "id": "tt21329138",
-      "type": "series",
-      "name": "Rosie's Rules",
-      "poster": "https://image.tmdb.org/t/p/w500/hTluDJhDsY7GjidJiZYdauC82Dn.jpg",
-      "releaseInfo": "2022",
-      "description": "Kids learn social studies and problem-solving through Rosie's adventures.",
-      "background": "https://image.tmdb.org/t/p/original/8JhwCWQigfuobgEYkgEhE0QQo7x.jpg",
-      "imdbRating": "4.0",
-      "rating": 4.0
+      "name": "Arthur",
+      "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+      "releaseInfo": "1996",
+      "description": "A kind aardvark and his friends navigate childhood challenges and friendships.",
+      "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
+      "imdbRating": "7.016",
+      "rating": 7.016
     }
   ]
 }

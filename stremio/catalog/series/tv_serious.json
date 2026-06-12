@@ -1,12 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt0306414",
+      "type": "series",
+      "name": "The Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+      "releaseInfo": "2002",
+      "description": "Gritty, realistic crime drama examining urban institutions and complex characters.",
+      "background": "https://image.tmdb.org/t/p/original/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+      "imdbRating": "8.6",
+      "rating": 8.6
+    },
+    {
       "id": "tt0903747",
       "type": "series",
       "name": "Breaking Bad",
       "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
       "releaseInfo": "2008",
-      "description": "Follows a chemistry teacher's descent into a high-stakes criminal empire.",
+      "description": "A chemistry teacher's descent into the criminal underworld is gripping and intense.",
       "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
       "imdbRating": "8.946",
       "rating": 8.946
@@ -17,10 +28,32 @@
       "name": "Better Call Saul",
       "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
       "releaseInfo": "2015",
-      "description": "Explores a lawyer's morally complex journey into the criminal underworld.",
+      "description": "A compelling character study showing a lawyer's transformation into a criminal.",
       "background": "https://image.tmdb.org/t/p/original/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
       "imdbRating": "8.7",
       "rating": 8.7
+    },
+    {
+      "id": "tt0141842",
+      "type": "series",
+      "name": "The Sopranos",
+      "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+      "releaseInfo": "1999",
+      "description": "Explores the complex psyche of a mob boss balancing family and crime.",
+      "background": "https://image.tmdb.org/t/p/original/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+      "imdbRating": "8.7",
+      "rating": 8.7
+    },
+    {
+      "id": "tt7660850",
+      "type": "series",
+      "name": "Succession",
+      "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+      "releaseInfo": "2018",
+      "description": "A dark, witty drama about a powerful media family's ruthless power struggles.",
+      "background": "https://image.tmdb.org/t/p/original/bcdUYUFk8GdpZJPiSAas9UeocLH.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3
     },
     {
       "id": "tt5071412",
@@ -28,43 +61,10 @@
       "name": "Ozark",
       "poster": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
       "releaseInfo": "2017",
-      "description": "A financial advisor launders money for a cartel, leading to dark family drama.",
+      "description": "A family laundering money for a cartel leads to increasingly dangerous situations.",
       "background": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
       "imdbRating": "8.204",
       "rating": 8.204
-    },
-    {
-      "id": "tt0306414",
-      "type": "series",
-      "name": "The Wire",
-      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
-      "releaseInfo": "2002",
-      "description": "Offers a gritty, realistic portrayal of the drug trade and urban institutions.",
-      "background": "https://image.tmdb.org/t/p/original/layPSOJGckJv3PXZDIVluMq69mn.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6
-    },
-    {
-      "id": "tt2356777",
-      "type": "series",
-      "name": "True Detective",
-      "poster": "https://image.tmdb.org/t/p/w500/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
-      "releaseInfo": "2014",
-      "description": "Anthology series delving into complex, dark psychological crime mysteries.",
-      "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3
-    },
-    {
-      "id": "tt2802850",
-      "type": "series",
-      "name": "Fargo",
-      "poster": "https://image.tmdb.org/t/p/w500/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "releaseInfo": "2014",
-      "description": "Presents darkly comedic crime stories with eccentric characters and unexpected twists.",
-      "background": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "imdbRating": "8.29",
-      "rating": 8.29
     }
   ]
 }
