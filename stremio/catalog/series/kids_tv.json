@@ -1,26 +1,26 @@
 {
   "metas": [
     {
-      "id": "tt0063951",
-      "type": "series",
-      "name": "Sesame Street",
-      "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-      "releaseInfo": "1969",
-      "description": "Kids learn letters, numbers, and social skills from beloved puppets.",
-      "background": "https://image.tmdb.org/t/p/original/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1
-    },
-    {
       "id": "tt3121722",
       "type": "series",
       "name": "Paw Patrol",
       "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
       "releaseInfo": "2013",
-      "description": "Pups work together to solve problems and help their community.",
+      "description": "Teamwork and problem-solving with lovable pups keep kids entertained.",
       "background": "https://image.tmdb.org/t/p/original/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
       "imdbRating": "7.0",
       "rating": 7.0
+    },
+    {
+      "id": "tt1710177",
+      "type": "series",
+      "name": "Octonauts",
+      "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
+      "releaseInfo": "2010",
+      "description": "Explores underwater creatures and habitats, teaching marine biology with adventure.",
+      "background": "https://image.tmdb.org/t/p/original/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2
     },
     {
       "id": "tt4148744",
@@ -28,43 +28,43 @@
       "name": "PJ Masks",
       "poster": "https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
       "releaseInfo": "2015",
-      "description": "Three friends transform into superheroes, learning valuable lessons nightly.",
+      "description": "Three friends transform into superheroes, teaching valuable lessons about helping others.",
       "background": "https://image.tmdb.org/t/p/original/kwxcf1Rxhd1jusTvIptSYEjl2NA.jpg",
       "imdbRating": "6.5",
       "rating": 6.5
     },
     {
-      "id": "tt1807859",
+      "id": "tt0965404",
       "type": "series",
-      "name": "Wild Kratts",
-      "poster": "https://image.tmdb.org/t/p/w500/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
+      "name": "Bubble Guppies",
+      "poster": "https://image.tmdb.org/t/p/w500/zJ50jTHpOY3wKmuxiONOL77t9DW.jpg",
       "releaseInfo": "2011",
-      "description": "Brothers explore animal habitats, learning about science and creatures.",
-      "background": "https://image.tmdb.org/t/p/original/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
-      "imdbRating": "7.516",
-      "rating": 7.516
+      "description": "Engaging musical adventures introduce preschoolers to various academic subjects.",
+      "background": "https://image.tmdb.org/t/p/original/6apIHPRPfalOcNlvefdPfp41pJM.jpg",
+      "imdbRating": "7.633",
+      "rating": 7.633
     },
     {
-      "id": "tt1105469",
+      "id": "tt1594381",
       "type": "series",
-      "name": "Super Why!",
-      "poster": "https://image.tmdb.org/t/p/w500/lJttSVfKx56a2wN2pg2yR4IHzwy.jpg",
-      "releaseInfo": "2007",
-      "description": "Four friends jump into storybooks to solve problems using literacy skills.",
-      "background": "https://image.tmdb.org/t/p/original/U9VKLLo9IeQU1aQAOA6s4Na5Pc.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1
+      "name": "Team Umizoomi",
+      "poster": "https://image.tmdb.org/t/p/w500/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
+      "releaseInfo": "2010",
+      "description": "Math-focused missions in Umi City teach shapes, patterns, and counting.",
+      "background": "https://image.tmdb.org/t/p/original/pv51XFR2XdIGCXgoTxLVCxZH8IM.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9
     },
     {
-      "id": "tt0169414",
+      "id": "tt0423657",
       "type": "series",
-      "name": "Arthur",
-      "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-      "releaseInfo": "1996",
-      "description": "A kind aardvark and his friends navigate childhood challenges and friendships.",
-      "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
-      "imdbRating": "7.016",
-      "rating": 7.016
+      "name": "Go, Diego, Go!",
+      "poster": "https://image.tmdb.org/t/p/w500/p7Y6IPzPRkZ4oHU0D8DOIIis70a.jpg",
+      "releaseInfo": "2005",
+      "description": "Diego rescues animals and teaches Spanish words, promoting conservation.",
+      "background": "https://image.tmdb.org/t/p/original/9zCZvrbl9dSZOyiiUr0bCCgtHl3.jpg",
+      "imdbRating": "6.189",
+      "rating": 6.189
     }
   ]
 }
