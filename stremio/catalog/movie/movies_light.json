@@ -8,10 +8,19 @@
       "releaseInfo": "2017",
       "description": "Edgar Wright's stylish action and music-driven humor match Scott Pilgrim perfectly.",
       "background": "https://image.tmdb.org/t/p/original/yir5430WblZSZuIMd9C6pIZerfA.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.5,
+        "metacritic": 86,
+        "metacriticuser": 7.8,
+        "trakt": 77,
+        "tomatoes": 92,
+        "popcorn": 86,
+        "tmdb": 74,
+        "letterboxd": 7.4,
+        "rogerebert": 3.5,
+        "mdblist": 81
       }
     },
     {
@@ -22,10 +31,18 @@
       "releaseInfo": "2007",
       "description": "A laugh-out-loud buddy cop parody full of kinetic energy and witty banter.",
       "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.8,
+        "metacritic": 81,
+        "metacriticuser": 8.5,
+        "trakt": 78,
+        "tomatoes": 91,
+        "popcorn": 89,
+        "tmdb": 75,
+        "letterboxd": 8.2,
+        "mdblist": 82
       }
     },
     {
@@ -36,10 +53,17 @@
       "releaseInfo": "2004",
       "description": "Smart, romantic, and hilarious horror-comedy from the director of Scott Pilgrim.",
       "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.8,
+        "metacritic": 76,
+        "metacriticuser": 8.2,
+        "trakt": 78,
+        "tmdb": 75,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -50,10 +74,19 @@
       "releaseInfo": "2013",
       "description": "Action-packed sci-fi comedy featuring brilliant comic chemistry and rapid-fire jokes.",
       "background": "https://image.tmdb.org/t/p/original/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 81,
+        "metacriticuser": 7.6,
+        "trakt": 70,
+        "tomatoes": 89,
+        "popcorn": 72,
+        "tmdb": 68,
+        "letterboxd": 7.2,
+        "rogerebert": 3.5,
+        "mdblist": 76
       }
     },
     {
@@ -64,10 +97,19 @@
       "releaseInfo": "2014",
       "description": "Completes the cosmic, fun-loving trilogy you already enjoy so much.",
       "background": "https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.0,
+        "metacritic": 76,
+        "metacriticuser": 8.5,
+        "trakt": 82,
+        "tomatoes": 91,
+        "popcorn": 92,
+        "tmdb": 79,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 81
       }
     },
     {
@@ -81,7 +123,16 @@
       "imdbRating": "7.1",
       "rating": 7.1,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.1,
+        "metacritic": 61,
+        "metacriticuser": 7.7,
+        "trakt": 75,
+        "tomatoes": 64,
+        "popcorn": 79,
+        "tmdb": 70,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -92,10 +143,19 @@
       "releaseInfo": "2007",
       "description": "More globe-trotting buddy-cop chaos with Chan and Tucker.",
       "background": "https://image.tmdb.org/t/p/original/ozsLB1HRCN6ZAmJN89pWtoiAwnb.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.3,
+        "metacritic": 44,
+        "metacriticuser": 6.2,
+        "trakt": 69,
+        "tomatoes": 18,
+        "popcorn": 63,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "rogerebert": 2.0,
+        "mdblist": 54
       }
     },
     {
@@ -106,10 +166,19 @@
       "releaseInfo": "2000",
       "description": "Charming chemistry and inventive martial arts comedy set in the Old West.",
       "background": "https://image.tmdb.org/t/p/original/xuwPmDMHslcx71T7zHc9YqF2Ny3.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.6,
+        "metacritic": 77,
+        "metacriticuser": 7.1,
+        "trakt": 68,
+        "tomatoes": 80,
+        "popcorn": 65,
+        "tmdb": 64,
+        "letterboxd": 6.2,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -120,10 +189,19 @@
       "releaseInfo": "2003",
       "description": "Hilarious action sequel matching Jackie Chan's stunts with Owen Wilson's banter.",
       "background": "https://image.tmdb.org/t/p/original/AoXqOWzD0HGZttYi0wHMvvGJZhZ.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.2,
+        "metacritic": 58,
+        "metacriticuser": 6.5,
+        "trakt": 65,
+        "tomatoes": 65,
+        "popcorn": 54,
+        "tmdb": 61,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 62
       }
     },
     {
@@ -134,10 +212,19 @@
       "releaseInfo": "2005",
       "description": "Shane Black's whip-smart, hilarious neo-noir comedy starring Robert Downey Jr.",
       "background": "https://image.tmdb.org/t/p/original/kKdBNPXfjENj3wG5qtiCrZ2wflp.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.4,
+        "metacritic": 73,
+        "metacriticuser": 7.5,
+        "trakt": 74,
+        "tomatoes": 86,
+        "popcorn": 87,
+        "tmdb": 71,
+        "letterboxd": 7.4,
+        "rogerebert": 2.5,
+        "mdblist": 75
       }
     },
     {
@@ -148,10 +235,19 @@
       "releaseInfo": "2008",
       "description": "Darkly funny crime caper from the director of Seven Psychopaths.",
       "background": "https://image.tmdb.org/t/p/original/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.9,
+        "metacritic": 67,
+        "metacriticuser": 8.3,
+        "trakt": 77,
+        "tomatoes": 84,
+        "popcorn": 87,
+        "tmdb": 75,
+        "letterboxd": 8.2,
+        "rogerebert": 4.0,
+        "mdblist": 81
       }
     },
     {
@@ -162,10 +258,19 @@
       "releaseInfo": "2000",
       "description": "Fast-paced, eccentric British crime caper brimming with irreverent humor and style.",
       "background": "https://image.tmdb.org/t/p/original/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.2,
+        "metacritic": 55,
+        "metacriticuser": 8.3,
+        "trakt": 82,
+        "tomatoes": 73,
+        "popcorn": 93,
+        "tmdb": 78,
+        "letterboxd": 8.2,
+        "rogerebert": 2.0,
+        "mdblist": 74
       }
     },
     {
@@ -179,7 +284,16 @@
       "imdbRating": "8.1",
       "rating": 8.1,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.1,
+        "metacritic": 67,
+        "metacriticuser": 8.4,
+        "trakt": 81,
+        "tomatoes": 72,
+        "popcorn": 93,
+        "tmdb": 80,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 78
       }
     },
     {
@@ -190,10 +304,19 @@
       "releaseInfo": "2017",
       "description": "A colorful, laugh-out-loud space romp matching the vibe of Guardians of the Galaxy.",
       "background": "https://image.tmdb.org/t/p/original/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.9,
+        "metacritic": 74,
+        "metacriticuser": 7.7,
+        "trakt": 79,
+        "tomatoes": 93,
+        "popcorn": 87,
+        "tmdb": 75,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 79
       }
     },
     {
@@ -207,7 +330,16 @@
       "imdbRating": "8.4",
       "rating": 8.4,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.4,
+        "metacritic": 87,
+        "metacriticuser": 8.8,
+        "trakt": 87,
+        "tomatoes": 97,
+        "popcorn": 93,
+        "tmdb": 84,
+        "letterboxd": 8.8,
+        "rogerebert": 3.5,
+        "mdblist": 88
       }
     },
     {
@@ -218,10 +350,19 @@
       "releaseInfo": "2023",
       "description": "Breathtakingly animated, witty superhero spectacle packed with heart and humor.",
       "background": "https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.5,
+        "metacritic": 86,
+        "metacriticuser": 8.5,
+        "trakt": 88,
+        "tomatoes": 95,
+        "popcorn": 95,
+        "tmdb": 83,
+        "letterboxd": 8.8,
+        "rogerebert": 4.0,
+        "mdblist": 90
       }
     },
     {
@@ -232,10 +373,17 @@
       "releaseInfo": "2017",
       "description": "John Hughes-inspired teenage superhero fun full of breezy charm.",
       "background": "https://image.tmdb.org/t/p/original/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.4,
+        "metacritic": 73,
+        "metacriticuser": 7.4,
+        "trakt": 77,
+        "tmdb": 73,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 77
       }
     },
     {
@@ -246,10 +394,19 @@
       "releaseInfo": "2019",
       "description": "Breezy Euro-trip teen comedy wrapped inside a high-flying Marvel spectacle.",
       "background": "https://image.tmdb.org/t/p/original/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.3,
+        "metacritic": 69,
+        "metacriticuser": 7.2,
+        "trakt": 77,
+        "tomatoes": 91,
+        "popcorn": 95,
+        "tmdb": 73,
+        "letterboxd": 6.8,
+        "rogerebert": 2.5,
+        "mdblist": 76
       }
     },
     {
@@ -260,10 +417,19 @@
       "releaseInfo": "2021",
       "description": "Thrilling, nostalgic crowd-pleaser that builds directly on your Spider-Man favorites.",
       "background": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.1,
+        "metacritic": 71,
+        "metacriticuser": 8.4,
+        "trakt": 84,
+        "tomatoes": 93,
+        "popcorn": 97,
+        "tmdb": 79,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 82
       }
     },
     {
@@ -274,10 +440,19 @@
       "releaseInfo": "2002",
       "description": "Sam Raimi's heartfelt classic that launched your favorite early superhero era.",
       "background": "https://image.tmdb.org/t/p/original/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.5,
+        "metacritic": 73,
+        "metacriticuser": 8.3,
+        "trakt": 78,
+        "tomatoes": 90,
+        "popcorn": 67,
+        "tmdb": 73,
+        "letterboxd": 7.8,
+        "rogerebert": 2.5,
+        "mdblist": 74
       }
     },
     {
@@ -288,10 +463,17 @@
       "releaseInfo": "2004",
       "description": "The quintessential superhero sequel balancing great humor, heart, and vibrant action.",
       "background": "https://image.tmdb.org/t/p/original/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.5,
+        "metacritic": 83,
+        "metacriticuser": 8.7,
+        "trakt": 78,
+        "tmdb": 73,
+        "letterboxd": 8.0,
+        "rogerebert": 2.5,
+        "mdblist": 78
       }
     },
     {
@@ -302,10 +484,17 @@
       "releaseInfo": "2016",
       "description": "Irreverent, meta superhero action comedy with relentless, chaotic energy.",
       "background": "https://image.tmdb.org/t/p/original/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.0,
+        "metacritic": 65,
+        "metacriticuser": 8.0,
+        "trakt": 81,
+        "tmdb": 76,
+        "letterboxd": 7.4,
+        "rogerebert": 2.0,
+        "mdblist": 71
       }
     },
     {
@@ -316,10 +505,19 @@
       "releaseInfo": "2018",
       "description": "Uproarious superhero comedy sequel with even bigger jokes and wild set pieces.",
       "background": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.6,
+        "metacritic": 66,
+        "metacriticuser": 7.6,
+        "trakt": 79,
+        "tomatoes": 83,
+        "popcorn": 85,
+        "tmdb": 74,
+        "letterboxd": 7.0,
+        "rogerebert": 2.5,
+        "mdblist": 74
       }
     },
     {
@@ -330,10 +528,19 @@
       "releaseInfo": "2024",
       "description": "Nostalgic, raunchy buddy comedy packed with chaotic high-octane Marvel fun.",
       "background": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.5,
+        "metacritic": 56,
+        "metacriticuser": 7.9,
+        "trakt": 80,
+        "tomatoes": 77,
+        "popcorn": 94,
+        "tmdb": 75,
+        "letterboxd": 7.0,
+        "rogerebert": 2.5,
+        "mdblist": 73
       }
     },
     {
@@ -344,10 +551,17 @@
       "releaseInfo": "2021",
       "description": "Charming, video-game-infused action comedy echoing Scott Pilgrim's colorful energy.",
       "background": "https://image.tmdb.org/t/p/original/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.1,
+        "metacritic": 62,
+        "metacriticuser": 7.0,
+        "trakt": 75,
+        "tmdb": 74,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 67
       }
     },
     {
@@ -358,10 +572,19 @@
       "releaseInfo": "2021",
       "description": "James Gunn's signature zany humor, gory spectacle, and lovable misfit team dynamic.",
       "background": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.2,
+        "metacritic": 72,
+        "metacriticuser": 7.3,
+        "trakt": 74,
+        "tomatoes": 90,
+        "popcorn": 82,
+        "tmdb": 74,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -372,10 +595,19 @@
       "releaseInfo": "2010",
       "description": "James Gunn's quirky, darkly comic indie take on vigilante superheroes.",
       "background": "https://image.tmdb.org/t/p/original/5OGrBmi0fWAE6b1R6uv5EnuWOaL.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.7,
+        "metacritic": 50,
+        "metacriticuser": 6.9,
+        "trakt": 67,
+        "tomatoes": 50,
+        "popcorn": 56,
+        "tmdb": 65,
+        "letterboxd": 6.6,
+        "rogerebert": 2.0,
+        "mdblist": 58
       }
     },
     {
@@ -386,10 +618,17 @@
       "releaseInfo": "2004",
       "description": "The ultimate quotable teen comedy that shares Clueless's sharp satirical wit.",
       "background": "https://image.tmdb.org/t/p/original/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.1,
+        "metacritic": 66,
+        "metacriticuser": 8.0,
+        "trakt": 77,
+        "tmdb": 72,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -400,10 +639,19 @@
       "releaseInfo": "2010",
       "description": "Brisk high school comedy inspired by classic literature like 10 Things I Hate About You.",
       "background": "https://image.tmdb.org/t/p/original/30rvmoEBqovm723agDJ3QddWXcY.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 72,
+        "metacriticuser": 7.3,
+        "trakt": 73,
+        "tomatoes": 85,
+        "popcorn": 77,
+        "tmdb": 68,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 75
       }
     },
     {
@@ -414,10 +662,17 @@
       "releaseInfo": "2001",
       "description": "Uplifting, fashionably clever comedy bursting with the joyful optimism of Clueless.",
       "background": "https://image.tmdb.org/t/p/original/viU23X3BIycUFf6TOlm9c7TxLgM.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.6,
+        "metacritic": 59,
+        "metacriticuser": 6.8,
+        "trakt": 75,
+        "tmdb": 68,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -428,10 +683,19 @@
       "releaseInfo": "1999",
       "description": "Nostalgic late-90s high school rom-com full of endearing romantic tropes.",
       "background": "https://image.tmdb.org/t/p/original/oSY7vsYlScliVKomRNviGuWXykC.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.0",
+      "rating": 6.0,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.0,
+        "metacritic": 51,
+        "metacriticuser": 6.5,
+        "trakt": 67,
+        "tomatoes": 43,
+        "popcorn": 55,
+        "tmdb": 63,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 57
       }
     },
     {
@@ -442,10 +706,19 @@
       "releaseInfo": "1998",
       "description": "Classic 90s ensemble teen comedy capturing high school graduation madness.",
       "background": "https://image.tmdb.org/t/p/original/yPVhkvOiI4UZC0jOpjO1HntlxHv.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.5,
+        "metacritic": 53,
+        "metacriticuser": 6.5,
+        "trakt": 68,
+        "tomatoes": 42,
+        "popcorn": 63,
+        "tmdb": 62,
+        "letterboxd": 6.2,
+        "rogerebert": 1.5,
+        "mdblist": 56
       }
     },
     {
@@ -456,10 +729,19 @@
       "releaseInfo": "2024",
       "description": "Zany, fast-moving queer road-trip crime caper with a screwball comic spirit.",
       "background": "https://image.tmdb.org/t/p/original/thFSP3fBwqBYUZUyIAmaHuwNkvB.jpg",
-      "imdbRating": "5.5",
-      "rating": 5.5,
+      "imdbRating": "5.4",
+      "rating": 5.4,
       "ratings": {
-        "imdb": 5.5
+        "imdb": 5.4,
+        "metacritic": 56,
+        "metacriticuser": 4.7,
+        "trakt": 56,
+        "tomatoes": 64,
+        "popcorn": 37,
+        "tmdb": 54,
+        "letterboxd": 5.6,
+        "rogerebert": 3.5,
+        "mdblist": 58
       }
     },
     {
@@ -470,10 +752,19 @@
       "releaseInfo": "2015",
       "description": "The breathtaking high-octane companion piece to Furiosa with non-stop adrenaline.",
       "background": "https://image.tmdb.org/t/p/original/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.1,
+        "metacritic": 90,
+        "metacriticuser": 8.5,
+        "trakt": 80,
+        "tomatoes": 97,
+        "popcorn": 86,
+        "tmdb": 76,
+        "letterboxd": 8.4,
+        "rogerebert": 4.0,
+        "mdblist": 86
       }
     },
     {
@@ -484,10 +775,19 @@
       "releaseInfo": "2016",
       "description": "The hit predecessor to A Bad Moms Christmas filled with hilarious parenting chaos.",
       "background": "https://image.tmdb.org/t/p/original/zci26eN6YKEg9gPLUp3wB5eqcEx.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.2,
+        "metacritic": 60,
+        "metacriticuser": 5.3,
+        "trakt": 69,
+        "tomatoes": 59,
+        "popcorn": 63,
+        "tmdb": 64,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 63
       }
     },
     {
@@ -498,10 +798,19 @@
       "releaseInfo": "2019",
       "description": "Hilarious modern buddy comedy with irresistible heart and witty banter.",
       "background": "https://image.tmdb.org/t/p/original/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.1,
+        "metacritic": 84,
+        "metacriticuser": 6.8,
+        "trakt": 74,
+        "tomatoes": 96,
+        "popcorn": 77,
+        "tmdb": 69,
+        "letterboxd": 7.4,
+        "rogerebert": 4.0,
+        "mdblist": 80
       }
     },
     {
@@ -512,10 +821,17 @@
       "releaseInfo": "2007",
       "description": "Warm-hearted raunchy teen classic with unmatched comic chemistry.",
       "background": "https://image.tmdb.org/t/p/original/coru98UcFBzJIU7bxZguxaePgu0.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 76,
+        "metacriticuser": 7.9,
+        "trakt": 76,
+        "tmdb": 72,
+        "letterboxd": 7.8,
+        "rogerebert": 3.5,
+        "mdblist": 77
       }
     },
     {
@@ -526,10 +842,17 @@
       "releaseInfo": "2012",
       "description": "Incredibly funny buddy-cop reboot with fantastic chemistry and clever action.",
       "background": "https://image.tmdb.org/t/p/original/rXrpYOveFl76ivMmyb2612T7Q8w.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.2,
+        "metacritic": 69,
+        "metacriticuser": 7.5,
+        "trakt": 73,
+        "tmdb": 68,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -540,10 +863,19 @@
       "releaseInfo": "2014",
       "description": "Rare sequel that amplifies the self-aware laughs and delightful buddy dynamic.",
       "background": "https://image.tmdb.org/t/p/original/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 71,
+        "metacriticuser": 7.2,
+        "trakt": 71,
+        "tomatoes": 84,
+        "popcorn": 77,
+        "tmdb": 68,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -554,10 +886,18 @@
       "releaseInfo": "1995",
       "description": "More iconic physical comedy and absurd antics from Jim Carrey.",
       "background": "https://image.tmdb.org/t/p/original/h5Y9T4OoFpMrONhVBZvN2X2DfAB.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.4,
+        "metacritic": 43,
+        "metacriticuser": 6.7,
+        "trakt": 67,
+        "tomatoes": 23,
+        "popcorn": 72,
+        "tmdb": 63,
+        "letterboxd": 6.2,
+        "mdblist": 56
       }
     },
     {
@@ -571,7 +911,16 @@
       "imdbRating": "7.0",
       "rating": 7.0,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.0,
+        "metacritic": 59,
+        "metacriticuser": 7.6,
+        "trakt": 74,
+        "tomatoes": 83,
+        "popcorn": 68,
+        "tmdb": 70,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -582,10 +931,17 @@
       "releaseInfo": "1997",
       "description": "Heartwarming, fast-paced comedy packed with Jim Carrey's peerless physical gags.",
       "background": "https://image.tmdb.org/t/p/original/nuDMG0uTaiWFVD6XfHPruum5JOL.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.9,
+        "metacritic": 70,
+        "metacriticuser": 7.4,
+        "trakt": 72,
+        "tmdb": 67,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -596,10 +952,17 @@
       "releaseInfo": "1994",
       "description": "Essential 90s slapstick road-trip comedy bursting with timeless laughs.",
       "background": "https://image.tmdb.org/t/p/original/8uBTDGRcNHhYChcoazP5rleRME7.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.3,
+        "metacritic": 41,
+        "metacriticuser": 7.8,
+        "trakt": 71,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "rogerebert": 2.0,
+        "mdblist": 61
       }
     },
     {
@@ -610,10 +973,19 @@
       "releaseInfo": "2012",
       "description": "Absurd political satire showcasing Sacha Baron Cohen's boundary-pushing comedy.",
       "background": "https://image.tmdb.org/t/p/original/jWq20KNbg5txb28tLxJl0yLYuxp.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.5,
+        "metacritic": 58,
+        "metacriticuser": 6.5,
+        "trakt": 67,
+        "tomatoes": 56,
+        "popcorn": 45,
+        "tmdb": 63,
+        "letterboxd": 6.0,
+        "rogerebert": 3.0,
+        "mdblist": 61
       }
     },
     {
@@ -624,10 +996,19 @@
       "releaseInfo": "1987",
       "description": "Supernatural rom-com charm matching the mystical sisterhood of Practical Magic.",
       "background": "https://image.tmdb.org/t/p/original/5xgtdWDqBhc2nD5e6zlgyjeQ6XD.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.6,
+        "metacritic": 67,
+        "metacriticuser": 7.0,
+        "trakt": 67,
+        "tomatoes": 67,
+        "popcorn": 62,
+        "tmdb": 65,
+        "letterboxd": 6.6,
+        "rogerebert": 3.5,
+        "mdblist": 68
       }
     },
     {
@@ -638,10 +1019,18 @@
       "releaseInfo": "1992",
       "description": "Campy fantasy comedy with dark humor and glamorous leading ladies.",
       "background": "https://image.tmdb.org/t/p/original/vDFhaKEMKPIUePtQH2nOwSHfgPy.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.7,
+        "metacritic": 56,
+        "metacriticuser": 7.6,
+        "trakt": 73,
+        "tomatoes": 58,
+        "popcorn": 62,
+        "tmdb": 68,
+        "letterboxd": 7.6,
+        "mdblist": 65
       }
     },
     {
@@ -652,10 +1041,19 @@
       "releaseInfo": "1993",
       "description": "Beloved magical comedy full of autumnal comfort and eccentric witches.",
       "background": "https://image.tmdb.org/t/p/original/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 6.9,
+        "metacritic": 43,
+        "metacriticuser": 7.0,
+        "trakt": 75,
+        "tomatoes": 42,
+        "popcorn": 72,
+        "tmdb": 70,
+        "letterboxd": 7.0,
+        "rogerebert": 1.0,
+        "mdblist": 58
       }
     },
     {
@@ -666,10 +1064,19 @@
       "releaseInfo": "2007",
       "description": "Delightful blend of fairy-tale romance, modern comedy, and uplifting tunes.",
       "background": "https://image.tmdb.org/t/p/original/u4UpRDi0w84aNrigr9p049rMHiy.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.1,
+        "metacritic": 75,
+        "metacriticuser": 7.4,
+        "trakt": 74,
+        "tomatoes": 93,
+        "popcorn": 80,
+        "tmdb": 68,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -683,7 +1090,16 @@
       "imdbRating": "7.4",
       "rating": 7.4,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.4,
+        "metacritic": 71,
+        "metacriticuser": 7.8,
+        "trakt": 76,
+        "tomatoes": 83,
+        "popcorn": 82,
+        "tmdb": 73,
+        "letterboxd": 7.4,
+        "rogerebert": 2.0,
+        "mdblist": 72
       }
     },
     {
@@ -694,10 +1110,19 @@
       "releaseInfo": "2024",
       "description": "Nostalgic fantasy comedy sequel filled with eccentric humor and spooky fun.",
       "background": "https://image.tmdb.org/t/p/original/A1dZ6faTjg0e6HYftBmEKujuXGQ.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.6,
+        "metacritic": 62,
+        "metacriticuser": 6.3,
+        "trakt": 70,
+        "tomatoes": 76,
+        "popcorn": 78,
+        "tmdb": 69,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -708,10 +1133,17 @@
       "releaseInfo": "1999",
       "description": "Affectionate sci-fi spoof matching the humor and adventure of Guardians.",
       "background": "https://image.tmdb.org/t/p/original/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.4,
+        "metacritic": 70,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tmdb": 71,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -722,10 +1154,19 @@
       "releaseInfo": "1997",
       "description": "Effortlessly cool sci-fi comedy pairing slick action with unbeatable banter.",
       "background": "https://image.tmdb.org/t/p/original/aJMhYOP80cVBtq5ku3uyqASF3Ol.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.3,
+        "metacritic": 72,
+        "metacriticuser": 7.8,
+        "trakt": 77,
+        "tomatoes": 91,
+        "popcorn": 80,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -736,10 +1177,17 @@
       "releaseInfo": "2002",
       "description": "Fun continuation of Will Smith and Tommy Lee Jones's alien-busting partnership.",
       "background": "https://image.tmdb.org/t/p/original/o1l6OCqA3pYDZHIc5L1s7CEzCMv.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.2,
+        "metacritic": 49,
+        "metacriticuser": 6.0,
+        "trakt": 69,
+        "tmdb": 63,
+        "letterboxd": 6.2,
+        "rogerebert": 1.5,
+        "mdblist": 57
       }
     },
     {
@@ -750,10 +1198,17 @@
       "releaseInfo": "1984",
       "description": "Quintessential supernatural comedy classic loaded with witty one-liners.",
       "background": "https://image.tmdb.org/t/p/original/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.8,
+        "metacritic": 71,
+        "metacriticuser": 8.2,
+        "trakt": 78,
+        "tmdb": 74,
+        "letterboxd": 7.4,
+        "rogerebert": 3.5,
+        "mdblist": 77
       }
     },
     {
@@ -764,10 +1219,19 @@
       "releaseInfo": "2021",
       "description": "Heartfelt adventure balancing charming nostalgia with family-friendly spooky thrills.",
       "background": "https://image.tmdb.org/t/p/original/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.0,
+        "metacritic": 45,
+        "metacriticuser": 7.6,
+        "trakt": 73,
+        "tomatoes": 63,
+        "popcorn": 94,
+        "tmdb": 72,
+        "letterboxd": 6.0,
+        "rogerebert": 1.0,
+        "mdblist": 62
       }
     },
     {
@@ -778,10 +1242,17 @@
       "releaseInfo": "2004",
       "description": "Spectacular slapstick martial arts epic with cartoonish energy and charm.",
       "background": "https://image.tmdb.org/t/p/original/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.7,
+        "metacritic": 78,
+        "metacriticuser": 8.1,
+        "trakt": 79,
+        "tmdb": 75,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 77
       }
     },
     {
@@ -792,10 +1263,18 @@
       "releaseInfo": "2001",
       "description": "Outrageous kung-fu sports comedy packed with anime-style visual humor.",
       "background": "https://image.tmdb.org/t/p/original/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.3,
+        "metacritic": 68,
+        "trakt": 75,
+        "tomatoes": 89,
+        "popcorn": 84,
+        "tmdb": 72,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -806,10 +1285,17 @@
       "releaseInfo": "2008",
       "description": "Hilarious action-movie satire matching the chaotic soldier dynamic of Three Kings.",
       "background": "https://image.tmdb.org/t/p/original/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.1,
+        "metacritic": 71,
+        "metacriticuser": 7.6,
+        "trakt": 72,
+        "tmdb": 67,
+        "letterboxd": 7.2,
+        "rogerebert": 3.5,
+        "mdblist": 74
       }
     },
     {
@@ -820,10 +1306,19 @@
       "releaseInfo": "1993",
       "description": "Silly, relentless military action parody full of slapstick sight gags.",
       "background": "https://image.tmdb.org/t/p/original/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.6,
+        "metacritic": 64,
+        "metacriticuser": 7.2,
+        "trakt": 69,
+        "tomatoes": 59,
+        "popcorn": 63,
+        "tmdb": 65,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -834,10 +1329,17 @@
       "releaseInfo": "2001",
       "description": "Slick, charismatic ensemble heist with breezy pacing and witty dialogue.",
       "background": "https://image.tmdb.org/t/p/original/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.7,
+        "metacritic": 74,
+        "metacriticuser": 8.0,
+        "trakt": 79,
+        "tmdb": 74,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -848,10 +1350,19 @@
       "releaseInfo": "2018",
       "description": "Stylish, fun-loving all-female heist comedy with star-studded glamour.",
       "background": "https://image.tmdb.org/t/p/original/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.3,
+        "metacritic": 61,
+        "metacriticuser": 5.4,
+        "trakt": 71,
+        "tomatoes": 69,
+        "popcorn": 47,
+        "tmdb": 69,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -862,10 +1373,17 @@
       "releaseInfo": "2017",
       "description": "Charming, offbeat Southern heist comedy directed with effortless breezy cool.",
       "background": "https://image.tmdb.org/t/p/original/eszmHIWJHAKdnJcE3KcvVzOb6Jd.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.0,
+        "metacritic": 78,
+        "metacriticuser": 6.9,
+        "trakt": 71,
+        "tmdb": 67,
+        "letterboxd": 7.2,
+        "rogerebert": 3.5,
+        "mdblist": 74
       }
     },
     {
@@ -876,10 +1394,19 @@
       "releaseInfo": "1998",
       "description": "Elmore Leonard crime romance echoing the slick cool of Get Shorty.",
       "background": "https://image.tmdb.org/t/p/original/rOvXN8m3l4qNKCdNscLUjxK6I9I.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.0,
+        "metacritic": 84,
+        "metacriticuser": 7.1,
+        "trakt": 69,
+        "tomatoes": 94,
+        "popcorn": 74,
+        "tmdb": 66,
+        "letterboxd": 7.4,
+        "rogerebert": 3.5,
+        "mdblist": 77
       }
     },
     {
@@ -890,10 +1417,17 @@
       "releaseInfo": "1997",
       "description": "Stylish Elmore Leonard adaptation with breezy swagger and brilliant characters.",
       "background": "https://image.tmdb.org/t/p/original/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.5,
+        "metacritic": 62,
+        "metacriticuser": 7.6,
+        "trakt": 75,
+        "tmdb": 73,
+        "letterboxd": 7.8,
+        "rogerebert": 4.0,
+        "mdblist": 77
       }
     },
     {
@@ -904,10 +1438,19 @@
       "releaseInfo": "2005",
       "description": "The direct, star-studded Hollywood sequel to Get Shorty.",
       "background": "https://image.tmdb.org/t/p/original/rAx0aCQ6luULuUb8tW6CD1365Mh.jpg",
-      "imdbRating": "5.5",
-      "rating": 5.5,
+      "imdbRating": "5.6",
+      "rating": 5.6,
       "ratings": {
-        "imdb": 5.5
+        "imdb": 5.6,
+        "metacritic": 37,
+        "metacriticuser": 6.2,
+        "trakt": 61,
+        "tomatoes": 29,
+        "popcorn": 42,
+        "tmdb": 55,
+        "letterboxd": 5.2,
+        "rogerebert": 1.5,
+        "mdblist": 46
       }
     },
     {
@@ -918,10 +1461,19 @@
       "releaseInfo": "1988",
       "description": "Gold standard buddy-cop action comedy driven by fantastic character banter.",
       "background": "https://image.tmdb.org/t/p/original/5bJuEI1jHkZIktD3vnshdWkJSH8.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.5,
+        "metacritic": 78,
+        "metacriticuser": 7.9,
+        "trakt": 75,
+        "tomatoes": 95,
+        "popcorn": 87,
+        "tmdb": 71,
+        "letterboxd": 7.8,
+        "rogerebert": 3.5,
+        "mdblist": 80
       }
     },
     {
@@ -932,10 +1484,19 @@
       "releaseInfo": "1984",
       "description": "Eddie Murphy's charismatic action-comedy masterclass with 80s swagger.",
       "background": "https://image.tmdb.org/t/p/original/p256RduW9wMC3uhGJTerywmGiiX.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.4,
+        "metacritic": 66,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 84,
+        "popcorn": 82,
+        "tmdb": 72,
+        "letterboxd": 7.2,
+        "rogerebert": 2.5,
+        "mdblist": 73
       }
     },
     {
@@ -946,10 +1507,19 @@
       "releaseInfo": "2024",
       "description": "A breezy, nostalgic return to Axel Foley's classic blend of action and comedy.",
       "background": "https://image.tmdb.org/t/p/original/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.4,
+        "metacritic": 53,
+        "metacriticuser": 6.7,
+        "trakt": 71,
+        "tomatoes": 66,
+        "popcorn": 74,
+        "tmdb": 66,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -963,7 +1533,16 @@
       "imdbRating": "6.8",
       "rating": 6.8,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.8,
+        "metacritic": 41,
+        "metacriticuser": 6.6,
+        "trakt": 73,
+        "tomatoes": 46,
+        "popcorn": 78,
+        "tmdb": 68,
+        "letterboxd": 6.6,
+        "rogerebert": 2.0,
+        "mdblist": 61
       }
     },
     {
@@ -974,10 +1553,19 @@
       "releaseInfo": "2003",
       "description": "Over-the-top, bombastic buddy action with relentless comic chemistry.",
       "background": "https://image.tmdb.org/t/p/original/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.6,
+        "metacritic": 38,
+        "metacriticuser": 6.7,
+        "trakt": 72,
+        "tomatoes": 23,
+        "popcorn": 78,
+        "tmdb": 66,
+        "letterboxd": 6.6,
+        "rogerebert": 1.0,
+        "mdblist": 54
       }
     },
     {
@@ -988,10 +1576,19 @@
       "releaseInfo": "2020",
       "description": "Fun revival that balances nostalgic character chemistry with great modern action.",
       "background": "https://image.tmdb.org/t/p/original/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 6.5,
+        "metacritic": 59,
+        "metacriticuser": 6.5,
+        "trakt": 71,
+        "tomatoes": 76,
+        "popcorn": 96,
+        "tmdb": 71,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 70
       }
     },
     {
@@ -1002,10 +1599,19 @@
       "releaseInfo": "2024",
       "description": "Energetic summer crowd-pleaser packed with dynamic shootouts and classic banter.",
       "background": "https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 6.5,
+        "metacritic": 54,
+        "metacriticuser": 6.1,
+        "trakt": 73,
+        "tomatoes": 65,
+        "popcorn": 96,
+        "tmdb": 73,
+        "letterboxd": 6.4,
+        "rogerebert": 2.0,
+        "mdblist": 67
       }
     },
     {
@@ -1016,10 +1622,17 @@
       "releaseInfo": "1987",
       "description": "The quintessential buddy cop thriller that inspired the comedy in Rush Hour.",
       "background": "https://image.tmdb.org/t/p/original/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 68,
+        "metacriticuser": 7.7,
+        "trakt": 77,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "rogerebert": 4.0,
+        "mdblist": 78
       }
     },
     {
@@ -1030,10 +1643,19 @@
       "releaseInfo": "1989",
       "description": "Expands the buddy cop humor with Joe Pesci's hilarious introduction.",
       "background": "https://image.tmdb.org/t/p/original/uY8i4RABFyBpH2cmFWMVLEswopD.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.3,
+        "metacritic": 70,
+        "metacriticuser": 7.6,
+        "trakt": 75,
+        "tomatoes": 81,
+        "popcorn": 78,
+        "tmdb": 70,
+        "letterboxd": 7.2,
+        "rogerebert": 3.5,
+        "mdblist": 75
       }
     },
     {
@@ -1044,10 +1666,19 @@
       "releaseInfo": "1991",
       "description": "Gritty yet sharply hilarious action buddy film written by Shane Black.",
       "background": "https://image.tmdb.org/t/p/original/8AZ8Hjcr4Jr1eR93OW70g9jjUr9.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 52,
+        "metacriticuser": 7.1,
+        "trakt": 71,
+        "tomatoes": 50,
+        "popcorn": 68,
+        "tmdb": 68,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -1058,10 +1689,19 @@
       "releaseInfo": "2016",
       "description": "Hilarious mismatched buddy dynamic between Dwayne Johnson and Kevin Hart.",
       "background": "https://image.tmdb.org/t/p/original/12gfRwL8RuZUQ4kiGzq9kRYBK5J.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.3,
+        "metacritic": 52,
+        "metacriticuser": 6.2,
+        "trakt": 69,
+        "tomatoes": 71,
+        "popcorn": 62,
+        "tmdb": 64,
+        "letterboxd": 5.6,
+        "rogerebert": 3.5,
+        "mdblist": 65
       }
     },
     {
@@ -1072,10 +1712,16 @@
       "releaseInfo": "2010",
       "description": "Absurdist police comedy with endlessly quotable dialogue and wacky action.",
       "background": "https://image.tmdb.org/t/p/original/nHyri67CN6juBR6hmOefCn9oGf8.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.7,
+        "metacritic": 64,
+        "metacriticuser": 6.9,
+        "trakt": 68,
+        "tmdb": 63,
+        "letterboxd": 6.6,
+        "mdblist": 65
       }
     },
     {
@@ -1086,10 +1732,19 @@
       "releaseInfo": "2008",
       "description": "Unapologetic, chaotic slapstick comedy with unbeatable Will Ferrell energy.",
       "background": "https://image.tmdb.org/t/p/original/247H2jS9Te9TTmKDcAMg3LN5gmI.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.9,
+        "metacritic": 51,
+        "metacriticuser": 7.2,
+        "trakt": 71,
+        "tomatoes": 54,
+        "popcorn": 69,
+        "tmdb": 65,
+        "letterboxd": 7.0,
+        "rogerebert": 1.5,
+        "mdblist": 60
       }
     },
     {
@@ -1100,10 +1755,19 @@
       "releaseInfo": "2004",
       "description": "Timeless, absurd comedy bursting with hilarious quotes and zany cameos.",
       "background": "https://image.tmdb.org/t/p/original/qWSI9Lpq8K4o1n9ZD9zUVD4Gds1.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.1,
+        "metacritic": 63,
+        "metacriticuser": 7.3,
+        "trakt": 71,
+        "tomatoes": 66,
+        "popcorn": 86,
+        "tmdb": 67,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -1114,10 +1778,19 @@
       "releaseInfo": "2006",
       "description": "High-speed sports satire packed with hilarious improvisational banter.",
       "background": "https://image.tmdb.org/t/p/original/qTVgXx0pgBmsGqc8wJsfbd71ppa.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.6,
+        "metacritic": 66,
+        "metacriticuser": 6.8,
+        "trakt": 69,
+        "tomatoes": 72,
+        "popcorn": 73,
+        "tmdb": 63,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 70
       }
     },
     {
@@ -1128,10 +1801,19 @@
       "releaseInfo": "2009",
       "description": "Thrilling, laugh-out-loud horror comedy with a lovable found-family team.",
       "background": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.5,
+        "metacritic": 73,
+        "metacriticuser": 7.8,
+        "trakt": 76,
+        "tomatoes": 89,
+        "popcorn": 86,
+        "tmdb": 72,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 77
       }
     },
     {
@@ -1142,10 +1824,19 @@
       "releaseInfo": "2019",
       "description": "More breezy zombie-slaying action and sharp character chemistry.",
       "background": "https://image.tmdb.org/t/p/original/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.6,
+        "metacritic": 55,
+        "metacriticuser": 6.5,
+        "trakt": 70,
+        "tomatoes": 68,
+        "popcorn": 88,
+        "tmdb": 69,
+        "letterboxd": 6.0,
+        "rogerebert": 2.0,
+        "mdblist": 65
       }
     },
     {
@@ -1156,10 +1847,19 @@
       "releaseInfo": "2015",
       "description": "Pure slapstick brilliance and delightful visual comedy suitable for ultimate comfort.",
       "background": "https://image.tmdb.org/t/p/original/sQbpfYoGiEBUnr8tBjHP51heNNT.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.3,
+        "metacritic": 81,
+        "metacriticuser": 8.0,
+        "trakt": 73,
+        "tomatoes": 99,
+        "popcorn": 81,
+        "tmdb": 69,
+        "letterboxd": 7.2,
+        "rogerebert": 4.0,
+        "mdblist": 81
       }
     },
     {
@@ -1170,10 +1870,19 @@
       "releaseInfo": "2014",
       "description": "Warm, uplifting family adventure brimming with kindness and physical comedy.",
       "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.3,
+        "metacritic": 77,
+        "metacriticuser": 7.7,
+        "trakt": 75,
+        "tomatoes": 96,
+        "popcorn": 81,
+        "tmdb": 71,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 78
       }
     },
     {
@@ -1184,10 +1893,19 @@
       "releaseInfo": "2017",
       "description": "A cinematic hug featuring magnificent slapstick, pastel aesthetics, and pure joy.",
       "background": "https://image.tmdb.org/t/p/original/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.8,
+        "metacritic": 88,
+        "metacriticuser": 8.2,
+        "trakt": 79,
+        "tomatoes": 99,
+        "popcorn": 89,
+        "tmdb": 74,
+        "letterboxd": 8.2,
+        "rogerebert": 3.0,
+        "mdblist": 83
       }
     },
     {
@@ -1198,10 +1916,19 @@
       "releaseInfo": "2003",
       "description": "Feel-good musical comedy driven by Jack Black's irresistible infectious passion.",
       "background": "https://image.tmdb.org/t/p/original/k5MTAtE9CCi5TWA84qaFMYv3ajB.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.2,
+        "metacritic": 82,
+        "metacriticuser": 7.9,
+        "trakt": 75,
+        "tomatoes": 92,
+        "popcorn": 64,
+        "tmdb": 70,
+        "letterboxd": 7.6,
+        "rogerebert": 3.5,
+        "mdblist": 77
       }
     },
     {
@@ -1212,10 +1939,19 @@
       "releaseInfo": "2006",
       "description": "Quirky, wholesome wrestling comedy full of sweet, eccentric humor.",
       "background": "https://image.tmdb.org/t/p/original/nNCleqiADKVMKWDC5G7hjYcVCmv.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.0",
+      "rating": 6.0,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.0,
+        "metacritic": 52,
+        "metacriticuser": 6.9,
+        "trakt": 62,
+        "tomatoes": 39,
+        "popcorn": 55,
+        "tmdb": 65,
+        "letterboxd": 7.0,
+        "rogerebert": 1.5,
+        "mdblist": 55
       }
     },
     {
@@ -1226,10 +1962,17 @@
       "releaseInfo": "2008",
       "description": "Spectacular martial arts action wrapped in an uplifting, funny animated story.",
       "background": "https://image.tmdb.org/t/p/original/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 74,
+        "metacriticuser": 8.3,
+        "trakt": 78,
+        "tmdb": 73,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 75
       }
     },
     {
@@ -1240,10 +1983,19 @@
       "releaseInfo": "2010",
       "description": "Smart, subversive animated superhero comedy matching the humor of Guardians.",
       "background": "https://image.tmdb.org/t/p/original/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.3,
+        "metacritic": 63,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 73,
+        "popcorn": 72,
+        "tmdb": 70,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -1254,10 +2006,19 @@
       "releaseInfo": "2014",
       "description": "Fast-paced visual feast packed with pop-culture parody and relentless jokes.",
       "background": "https://image.tmdb.org/t/p/original/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.7,
+        "metacritic": 83,
+        "metacriticuser": 8.2,
+        "trakt": 77,
+        "tomatoes": 96,
+        "popcorn": 87,
+        "tmdb": 74,
+        "letterboxd": 7.8,
+        "rogerebert": 4.0,
+        "mdblist": 84
       }
     },
     {
@@ -1271,7 +2032,16 @@
       "imdbRating": "7.3",
       "rating": 7.3,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.3,
+        "metacritic": 75,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 89,
+        "popcorn": 81,
+        "tmdb": 72,
+        "letterboxd": 8.0,
+        "rogerebert": 2.5,
+        "mdblist": 76
       }
     },
     {
@@ -1285,7 +2055,16 @@
       "imdbRating": "7.0",
       "rating": 7.0,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.0,
+        "metacritic": 71,
+        "metacriticuser": 7.4,
+        "trakt": 71,
+        "tomatoes": 90,
+        "popcorn": 81,
+        "tmdb": 69,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 71
       }
     },
     {
@@ -1296,10 +2075,19 @@
       "releaseInfo": "2015",
       "description": "Breezy heist-comedy superhero film starring the endlessly charming Paul Rudd.",
       "background": "https://image.tmdb.org/t/p/original/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.2,
+        "metacritic": 64,
+        "metacriticuser": 7.8,
+        "trakt": 74,
+        "tomatoes": 83,
+        "popcorn": 85,
+        "tmdb": 70,
+        "letterboxd": 6.4,
+        "rogerebert": 3.5,
+        "mdblist": 74
       }
     },
     {
@@ -1310,10 +2098,19 @@
       "releaseInfo": "2018",
       "description": "Playful, light-footed comic caper with inventive size-shifting visual comedy.",
       "background": "https://image.tmdb.org/t/p/original/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.0,
+        "metacritic": 70,
+        "metacriticuser": 6.8,
+        "trakt": 72,
+        "tomatoes": 87,
+        "popcorn": 78,
+        "tmdb": 68,
+        "letterboxd": 5.6,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -1324,10 +2121,19 @@
       "releaseInfo": "2018",
       "description": "Ingenious action-comedy with clever twists and incredible ensemble comic timing.",
       "background": "https://image.tmdb.org/t/p/original/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 66,
+        "metacriticuser": 7.1,
+        "trakt": 72,
+        "tomatoes": 85,
+        "popcorn": 78,
+        "tmdb": 68,
+        "letterboxd": 7.0,
+        "rogerebert": 3.5,
+        "mdblist": 74
       }
     },
     {
@@ -1338,10 +2144,19 @@
       "releaseInfo": "2011",
       "description": "Darkly funny crime-comedy driven by exceptional chemistry among the trio.",
       "background": "https://image.tmdb.org/t/p/original/9fkYHcOtaz4cKmlDWw7tqUr5TUt.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.9,
+        "metacritic": 57,
+        "metacriticuser": 7.0,
+        "trakt": 70,
+        "tomatoes": 68,
+        "popcorn": 70,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "rogerebert": 3.5,
+        "mdblist": 68
       }
     },
     {
@@ -1352,10 +2167,19 @@
       "releaseInfo": "2013",
       "description": "Melissa McCarthy and Jason Bateman bring funny road-trip friction and heart.",
       "background": "https://image.tmdb.org/t/p/original/lDc6JPsXm9ARe9w9PC9qegqYs94.jpg",
-      "imdbRating": "5.9",
-      "rating": 5.9,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 5.9
+        "imdb": 5.7,
+        "metacritic": 35,
+        "metacriticuser": 5.0,
+        "trakt": 64,
+        "tomatoes": 20,
+        "popcorn": 53,
+        "tmdb": 58,
+        "letterboxd": 5.2,
+        "rogerebert": 2.0,
+        "mdblist": 48
       }
     },
     {
@@ -1366,10 +2190,17 @@
       "releaseInfo": "2015",
       "description": "Action-packed spy spoof that lets Melissa McCarthy shine as an undercover badass.",
       "background": "https://image.tmdb.org/t/p/original/eHEGPHKHTVhWdXzBQcrTATz9M0I.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 75,
+        "metacriticuser": 6.9,
+        "trakt": 71,
+        "tmdb": 68,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -1383,7 +2214,16 @@
       "imdbRating": "6.6",
       "rating": 6.6,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.6,
+        "metacritic": 60,
+        "metacriticuser": 6.4,
+        "trakt": 69,
+        "tomatoes": 65,
+        "popcorn": 71,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -1394,10 +2234,19 @@
       "releaseInfo": "2000",
       "description": "Charming, laugh-out-loud action-comedy led by Sandra Bullock's lovable clumsiness.",
       "background": "https://image.tmdb.org/t/p/original/bTpjn4OEeoLEJYjRvEvkPfPQZdb.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.4,
+        "metacritic": 43,
+        "metacriticuser": 6.7,
+        "trakt": 69,
+        "tomatoes": 42,
+        "popcorn": 69,
+        "tmdb": 65,
+        "letterboxd": 6.8,
+        "rogerebert": 2.0,
+        "mdblist": 58
       }
     },
     {
@@ -1408,10 +2257,17 @@
       "releaseInfo": "2007",
       "description": "Effortlessly suave Vegas revenge heist full of breezy smiles and cool style.",
       "background": "https://image.tmdb.org/t/p/original/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.9,
+        "metacritic": 62,
+        "metacriticuser": 6.9,
+        "trakt": 72,
+        "tmdb": 67,
+        "letterboxd": 7.0,
+        "rogerebert": 2.5,
+        "mdblist": 67
       }
     },
     {
@@ -1422,10 +2278,19 @@
       "releaseInfo": "2003",
       "description": "Fun, high-energy caper with Mini Cooper chases and charismatic stars.",
       "background": "https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 68,
+        "metacriticuser": 7.1,
+        "trakt": 73,
+        "tomatoes": 73,
+        "popcorn": 80,
+        "tmdb": 68,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -1436,10 +2301,19 @@
       "releaseInfo": "2011",
       "description": "Peak high-octane ensemble heist fun that revitalized the Fast & Furious franchise.",
       "background": "https://image.tmdb.org/t/p/original/tQN9JEQ4N4aqej7O6AkQtt0dLpt.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.3,
+        "metacritic": 66,
+        "metacriticuser": 7.4,
+        "trakt": 75,
+        "tomatoes": 77,
+        "popcorn": 83,
+        "tmdb": 72,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -1450,10 +2324,19 @@
       "releaseInfo": "2013",
       "description": "Spectacularly entertaining action with absurdly fun set-pieces and family camaraderie.",
       "background": "https://image.tmdb.org/t/p/original/xDp29MSWa7O3ROC13r6dPTFnREJ.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 61,
+        "metacriticuser": 7.0,
+        "trakt": 72,
+        "tomatoes": 71,
+        "popcorn": 84,
+        "tmdb": 68,
+        "letterboxd": 6.2,
+        "rogerebert": 2.0,
+        "mdblist": 67
       }
     },
     {
@@ -1464,10 +2347,18 @@
       "releaseInfo": "2015",
       "description": "Heartfelt blockbuster action with flying cars and pure blockbuster escapism.",
       "background": "https://image.tmdb.org/t/p/original/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.1,
+        "metacritic": 67,
+        "metacriticuser": 6.8,
+        "trakt": 74,
+        "tomatoes": 81,
+        "popcorn": 82,
+        "tmdb": 72,
+        "letterboxd": 6.8,
+        "mdblist": 73
       }
     },
     {
@@ -1478,10 +2369,19 @@
       "releaseInfo": "2022",
       "description": "Hyper-stylized, comedic action thriller packed with eccentric assassins and quick wit.",
       "background": "https://image.tmdb.org/t/p/original/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.3,
+        "metacritic": 49,
+        "metacriticuser": 7.3,
+        "trakt": 77,
+        "tomatoes": 53,
+        "popcorn": 76,
+        "tmdb": 74,
+        "letterboxd": 7.2,
+        "rogerebert": 2.5,
+        "mdblist": 67
       }
     },
     {
@@ -1492,10 +2392,19 @@
       "releaseInfo": "2024",
       "description": "Charming romantic action-comedy celebrating Hollywood stunt work with Ryan Gosling.",
       "background": "https://image.tmdb.org/t/p/original/2rjI2uXmjitMAaXVO21r9ao7v2j.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.8,
+        "metacritic": 73,
+        "metacriticuser": 6.8,
+        "trakt": 73,
+        "tomatoes": 81,
+        "popcorn": 84,
+        "tmdb": 69,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 75
       }
     },
     {
@@ -1506,10 +2415,17 @@
       "releaseInfo": "2011",
       "description": "Smart ensemble rom-com featuring Ryan Gosling's charisma and great laughs.",
       "background": "https://image.tmdb.org/t/p/original/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.4,
+        "metacritic": 68,
+        "metacriticuser": 7.4,
+        "trakt": 76,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -1520,10 +2436,19 @@
       "releaseInfo": "2016",
       "description": "Vibrant, visually stunning musical romance full of joyful whimsy and charm.",
       "background": "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.0,
+        "metacritic": 94,
+        "metacriticuser": 8.4,
+        "trakt": 78,
+        "tomatoes": 91,
+        "popcorn": 82,
+        "tmdb": 78,
+        "letterboxd": 8.2,
+        "rogerebert": 3.5,
+        "mdblist": 84
       }
     },
     {
@@ -1534,10 +2459,19 @@
       "releaseInfo": "2020",
       "description": "Clever, laugh-out-loud sci-fi time loop rom-com with infectious chemistry.",
       "background": "https://image.tmdb.org/t/p/original/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.4,
+        "metacritic": 83,
+        "metacriticuser": 7.6,
+        "trakt": 77,
+        "tomatoes": 95,
+        "popcorn": 89,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "rogerebert": 3.5,
+        "mdblist": 81
       }
     },
     {
@@ -1548,10 +2482,19 @@
       "releaseInfo": "1993",
       "description": "The quintessential comedic time-loop classic combining philosophical heart and laughs.",
       "background": "https://image.tmdb.org/t/p/original/4W6RYDNe4OByNryOCvJprrutm9h.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.0,
+        "metacritic": 72,
+        "metacriticuser": 8.4,
+        "trakt": 79,
+        "tomatoes": 93,
+        "popcorn": 88,
+        "tmdb": 76,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 79
       }
     },
     {
@@ -1562,10 +2505,19 @@
       "releaseInfo": "1986",
       "description": "Ultimate uplifting feel-good comedy celebrating freedom and youthful fun.",
       "background": "https://image.tmdb.org/t/p/original/jehzP4JKiFzgTWIaASLFOJocJke.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.8,
+        "metacritic": 61,
+        "metacriticuser": 7.9,
+        "trakt": 79,
+        "tomatoes": 85,
+        "popcorn": 92,
+        "tmdb": 76,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 78
       }
     },
     {
@@ -1576,10 +2528,19 @@
       "releaseInfo": "1985",
       "description": "The defining 80s teen dramedy that influenced high-school films like Clueless.",
       "background": "https://image.tmdb.org/t/p/original/s5HDOmFZaPVQFjk9BxxDrLu1T0g.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 7.8,
+        "metacritic": 66,
+        "metacriticuser": 8.2,
+        "trakt": 79,
+        "tomatoes": 87,
+        "popcorn": 92,
+        "tmdb": 77,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 78
       }
     },
     {
@@ -1593,7 +2554,14 @@
       "imdbRating": "6.7",
       "rating": 6.7,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.7,
+        "metacritic": 56,
+        "metacriticuser": 7.3,
+        "trakt": 70,
+        "tmdb": 66,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -1604,10 +2572,19 @@
       "releaseInfo": "1999",
       "description": "Sweet, nostalgic 90s high-school rom-com with Drew Barrymore's radiant charm.",
       "background": "https://image.tmdb.org/t/p/original/vNdulTZXaL11xFs7FWCnxEE7wqR.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.0",
+      "rating": 6.0,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.0,
+        "metacritic": 60,
+        "metacriticuser": 5.8,
+        "trakt": 64,
+        "tomatoes": 56,
+        "popcorn": 69,
+        "tmdb": 62,
+        "letterboxd": 5.2,
+        "rogerebert": 3.0,
+        "mdblist": 62
       }
     },
     {
@@ -1618,10 +2595,19 @@
       "releaseInfo": "1998",
       "description": "Irresistibly sweet 80s-set rom-com with delightful music and lovable humor.",
       "background": "https://image.tmdb.org/t/p/original/7Kfuj85Bbi6EJqfhg2wKUh2fEkN.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 60,
+        "metacriticuser": 6.9,
+        "trakt": 72,
+        "tomatoes": 72,
+        "popcorn": 80,
+        "tmdb": 67,
+        "letterboxd": 6.8,
+        "rogerebert": 1.0,
+        "mdblist": 64
       }
     },
     {
@@ -1632,10 +2618,17 @@
       "releaseInfo": "2004",
       "description": "Warm, tropical rom-com filled with goofy laughs and genuine emotional sweetness.",
       "background": "https://image.tmdb.org/t/p/original/v8lPo8UWKyP2tIXD8N64HfNP4Pw.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.8,
+        "metacritic": 48,
+        "metacriticuser": 6.6,
+        "trakt": 73,
+        "tmdb": 68,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 67
       }
     },
     {
@@ -1646,10 +2639,17 @@
       "releaseInfo": "2008",
       "description": "Hilarious breakup comedy with Hawaiian scenery, quirky characters, and heart.",
       "background": "https://image.tmdb.org/t/p/original/s39aQY3dK1s6ARrUKP5yeq824nR.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 7.1,
+        "metacritic": 67,
+        "metacriticuser": 7.7,
+        "trakt": 72,
+        "tmdb": 65,
+        "letterboxd": 6.6,
+        "rogerebert": 3.5,
+        "mdblist": 71
       }
     },
     {
@@ -1660,10 +2660,19 @@
       "releaseInfo": "2009",
       "description": "Wholesome, awkward 'bromance' comedy led by Paul Rudd and Jason Segel.",
       "background": "https://image.tmdb.org/t/p/original/zLXACaQzLLKmzbSBPpgXW6wfGdv.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 7.0,
+        "metacritic": 70,
+        "metacriticuser": 7.2,
+        "trakt": 72,
+        "tomatoes": 82,
+        "popcorn": 74,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 73
       }
     },
     {
@@ -1674,10 +2683,17 @@
       "releaseInfo": "2008",
       "description": "Laugh-out-loud comedy about misfits connecting through ridiculous medieval role-play.",
       "background": "https://image.tmdb.org/t/p/original/wEnMNW8rGX1RVhKY4Lj5sVDYSK8.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.8,
+        "metacritic": 61,
+        "metacriticuser": 7.1,
+        "trakt": 69,
+        "tmdb": 64,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -1688,10 +2704,19 @@
       "releaseInfo": "2004",
       "description": "Endlessly quotable, energetic sports comedy with ridiculous characters.",
       "background": "https://image.tmdb.org/t/p/original/1nL5TJrldKI4rIj16tZTdqpdYL3.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.7,
+        "metacritic": 55,
+        "metacriticuser": 6.8,
+        "trakt": 69,
+        "tomatoes": 71,
+        "popcorn": 76,
+        "tmdb": 63,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 67
       }
     },
     {
@@ -1702,10 +2727,18 @@
       "releaseInfo": "2007",
       "description": "Absurdly funny figure-skating sports comedy with dazzling slapstick antics.",
       "background": "https://image.tmdb.org/t/p/original/brJ9nYhHNa8EsJRKRkJD4lv9c5j.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.3,
+        "metacritic": 64,
+        "metacriticuser": 6.4,
+        "trakt": 64,
+        "tomatoes": 70,
+        "popcorn": 68,
+        "tmdb": 61,
+        "letterboxd": 6.4,
+        "mdblist": 64
       }
     },
     {
@@ -1716,10 +2749,19 @@
       "releaseInfo": "2001",
       "description": "Iconic high-fashion satire overflowing with delightfully dumb quotes and cameos.",
       "background": "https://image.tmdb.org/t/p/original/lIyyiBOuyokL82rPEDcZaMKleA3.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.5,
+        "metacritic": 61,
+        "metacriticuser": 6.6,
+        "trakt": 67,
+        "tomatoes": 63,
+        "popcorn": 80,
+        "tmdb": 62,
+        "letterboxd": 6.8,
+        "rogerebert": 1.0,
+        "mdblist": 61
       }
     },
     {
@@ -1730,10 +2772,17 @@
       "releaseInfo": "1997",
       "description": "Groovy, hilarious 60s spy spoof with unforgettable physical humor.",
       "background": "https://image.tmdb.org/t/p/original/wSm5McaHSAyOx4gGRYdlDHzj00y.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 7.0,
+        "metacritic": 51,
+        "metacriticuser": 7.2,
+        "trakt": 71,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -1744,10 +2793,19 @@
       "releaseInfo": "1999",
       "description": "Bigger, sillier spy parody gags from Mike Myers at his peak.",
       "background": "https://image.tmdb.org/t/p/original/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.7,
+        "metacritic": 59,
+        "metacriticuser": 6.9,
+        "trakt": 69,
+        "tomatoes": 53,
+        "popcorn": 71,
+        "tmdb": 63,
+        "letterboxd": 6.6,
+        "rogerebert": 2.5,
+        "mdblist": 63
       }
     },
     {
@@ -1758,10 +2816,19 @@
       "releaseInfo": "1992",
       "description": "Lovable rock-n-roll slacker comedy full of meta-humor and fourth-wall breaks.",
       "background": "https://image.tmdb.org/t/p/original/lAvf5zzyOgTZmpRBRJFa7IVVqCK.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.0,
+        "metacritic": 57,
+        "metacriticuser": 7.5,
+        "trakt": 72,
+        "tomatoes": 79,
+        "popcorn": 84,
+        "tmdb": 66,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -1772,10 +2839,18 @@
       "releaseInfo": "1989",
       "description": "Sweet-natured, time-traveling buddy adventure full of positive vibes.",
       "background": "https://image.tmdb.org/t/p/original/aMASmAmkn7NT0nEq8PBZEgwBfGN.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 50,
+        "metacriticuser": 7.3,
+        "trakt": 73,
+        "tomatoes": 83,
+        "popcorn": 75,
+        "tmdb": 68,
+        "letterboxd": 7.4,
+        "mdblist": 70
       }
     },
     {
@@ -1789,7 +2864,16 @@
       "imdbRating": "5.9",
       "rating": 5.9,
       "ratings": {
-        "imdb": 5.9
+        "imdb": 5.9,
+        "metacritic": 65,
+        "metacriticuser": 5.9,
+        "trakt": 62,
+        "tomatoes": 83,
+        "popcorn": 64,
+        "tmdb": 59,
+        "letterboxd": 6.0,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -1800,10 +2884,19 @@
       "releaseInfo": "1985",
       "description": "The perfect popcorn movie combining comedy, sci-fi thrills, and pure nostalgia.",
       "background": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.5,
+        "metacritic": 88,
+        "metacriticuser": 9.0,
+        "trakt": 86,
+        "tomatoes": 93,
+        "popcorn": 95,
+        "tmdb": 83,
+        "letterboxd": 8.4,
+        "rogerebert": 3.5,
+        "mdblist": 87
       }
     },
     {
@@ -1817,7 +2910,16 @@
       "imdbRating": "7.8",
       "rating": 7.8,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.8,
+        "metacritic": 57,
+        "metacriticuser": 8.2,
+        "trakt": 81,
+        "tomatoes": 63,
+        "popcorn": 86,
+        "tmdb": 77,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 74
       }
     },
     {
@@ -1831,7 +2933,14 @@
       "imdbRating": "7.5",
       "rating": 7.5,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.5,
+        "metacritic": 55,
+        "metacriticuser": 7.8,
+        "trakt": 78,
+        "tmdb": 75,
+        "letterboxd": 7.2,
+        "rogerebert": 2.5,
+        "mdblist": 69
       }
     },
     {
@@ -1842,10 +2951,19 @@
       "releaseInfo": "1989",
       "description": "Nostalgic 90s family sci-fi comedy full of miniature adventures and heart.",
       "background": "https://image.tmdb.org/t/p/original/jQuP23kN9iEBglGpw4AxRagoqBf.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.5,
+        "metacritic": 63,
+        "metacriticuser": 7.1,
+        "trakt": 69,
+        "tomatoes": 75,
+        "popcorn": 54,
+        "tmdb": 63,
+        "letterboxd": 6.4,
+        "rogerebert": 2.0,
+        "mdblist": 62
       }
     },
     {
@@ -1856,10 +2974,19 @@
       "releaseInfo": "2017",
       "description": "Hilarious body-swap action adventure with sensational video-game-inspired mechanics.",
       "background": "https://image.tmdb.org/t/p/original/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 58,
+        "metacriticuser": 6.8,
+        "trakt": 72,
+        "tomatoes": 76,
+        "popcorn": 87,
+        "tmdb": 68,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -1870,10 +2997,19 @@
       "releaseInfo": "2019",
       "description": "Adds fresh character impressions and grand adventure to a fun formula.",
       "background": "https://image.tmdb.org/t/p/original/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.6,
+        "metacritic": 58,
+        "metacriticuser": 6.4,
+        "trakt": 72,
+        "tomatoes": 71,
+        "popcorn": 87,
+        "tmdb": 68,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -1884,10 +3020,19 @@
       "releaseInfo": "2021",
       "description": "Star-powered, globe-trotting art-heist caper full of snappy one-liners.",
       "background": "https://image.tmdb.org/t/p/original/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.3,
+        "metacritic": 37,
+        "metacriticuser": 5.9,
+        "trakt": 71,
+        "tomatoes": 36,
+        "popcorn": 92,
+        "tmdb": 67,
+        "letterboxd": 5.0,
+        "rogerebert": 1.5,
+        "mdblist": 56
       }
     },
     {
@@ -1898,10 +3043,19 @@
       "releaseInfo": "2013",
       "description": "Flashy, entertaining magic-heist thriller with slick twists and ensemble charm.",
       "background": "https://image.tmdb.org/t/p/original/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.2,
+        "metacritic": 50,
+        "metacriticuser": 6.8,
+        "trakt": 76,
+        "tomatoes": 51,
+        "popcorn": 70,
+        "tmdb": 73,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 67
       }
     },
     {
@@ -1912,10 +3066,19 @@
       "releaseInfo": "2016",
       "description": "More dazzling illusionist capers and fun ensemble banter across exotic locales.",
       "background": "https://image.tmdb.org/t/p/original/oFQilRMEq6yQbtMPxIYWpXeQ5ZN.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.4,
+        "metacritic": 46,
+        "metacriticuser": 6.2,
+        "trakt": 71,
+        "tomatoes": 33,
+        "popcorn": 53,
+        "tmdb": 68,
+        "letterboxd": 6.2,
+        "rogerebert": 2.0,
+        "mdblist": 55
       }
     },
     {
@@ -1926,10 +3089,19 @@
       "releaseInfo": "2019",
       "description": "Wickedly witty, cozy murder mystery with an unforgettable eccentric detective.",
       "background": "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.9,
+        "metacritic": 82,
+        "metacriticuser": 7.8,
+        "trakt": 82,
+        "tomatoes": 97,
+        "popcorn": 92,
+        "tmdb": 78,
+        "letterboxd": 8.0,
+        "rogerebert": 3.5,
+        "mdblist": 84
       }
     },
     {
@@ -1940,10 +3112,19 @@
       "releaseInfo": "2022",
       "description": "Brightly colored, sun-drenched mystery romp satirizing tech billionaires with flair.",
       "background": "https://image.tmdb.org/t/p/original/y3uOfZAYwLkbvhunswBCskNMrfI.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.1,
+        "metacritic": 81,
+        "metacriticuser": 6.2,
+        "trakt": 76,
+        "tomatoes": 91,
+        "popcorn": 92,
+        "tmdb": 70,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 78
       }
     },
     {
@@ -1954,10 +3135,19 @@
       "releaseInfo": "2022",
       "description": "Charming, theatrical 1950s backstage whodunit featuring witty buddy-cop chemistry.",
       "background": "https://image.tmdb.org/t/p/original/cn9GQzCaeYylEV2hymVR8bskRMJ.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.5,
+        "metacritic": 60,
+        "metacriticuser": 6.1,
+        "trakt": 66,
+        "tomatoes": 75,
+        "popcorn": 69,
+        "tmdb": 63,
+        "letterboxd": 6.4,
+        "rogerebert": 2.5,
+        "mdblist": 65
       }
     },
     {
@@ -1968,10 +3158,19 @@
       "releaseInfo": "1985",
       "description": "Rapid-fire screwball mystery classic packed with slapstick and brilliant delivery.",
       "background": "https://image.tmdb.org/t/p/original/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.3,
+        "metacritic": 41,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 74,
+        "popcorn": 86,
+        "tmdb": 72,
+        "letterboxd": 7.8,
+        "rogerebert": 2.0,
+        "mdblist": 68
       }
     },
     {
@@ -1982,10 +3181,19 @@
       "releaseInfo": "2019",
       "description": "Breezy comic whodunit starring Adam Sandler and Jennifer Aniston in Europe.",
       "background": "https://image.tmdb.org/t/p/original/wL8KA3zIJQPbbU5hJlyIdmmLZit.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.1",
+      "rating": 6.1,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.1,
+        "metacritic": 38,
+        "metacriticuser": 5.4,
+        "trakt": 67,
+        "tomatoes": 43,
+        "popcorn": 47,
+        "tmdb": 62,
+        "letterboxd": 5.6,
+        "rogerebert": 2.0,
+        "mdblist": 53
       }
     },
     {
@@ -1996,10 +3204,19 @@
       "releaseInfo": "2021",
       "description": "Rowdy, feel-good comedy about vacation pals who crash an upscale wedding.",
       "background": "https://image.tmdb.org/t/p/original/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 6.3,
+        "metacritic": 49,
+        "metacriticuser": 5.9,
+        "trakt": 69,
+        "tomatoes": 59,
+        "popcorn": 55,
+        "tmdb": 69,
+        "letterboxd": 5.6,
+        "rogerebert": 1.5,
+        "mdblist": 57
       }
     },
     {
@@ -2010,10 +3227,19 @@
       "releaseInfo": "2018",
       "description": "Surprisingly sweet and hilarious modern teen-prom comedy for parents and kids.",
       "background": "https://image.tmdb.org/t/p/original/bStCGzVYFrKxtOyThKkqgI8gjgE.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.2,
+        "metacritic": 69,
+        "metacriticuser": 6.3,
+        "trakt": 67,
+        "tomatoes": 84,
+        "popcorn": 51,
+        "tmdb": 62,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 64
       }
     },
     {
@@ -2024,10 +3250,19 @@
       "releaseInfo": "2015",
       "description": "Biting, funny modern rom-com starring Amy Schumer with great sports-world cameos.",
       "background": "https://image.tmdb.org/t/p/original/9O6pLFE630h7IxslegYR9CV64aE.jpg",
-      "imdbRating": "5.8",
-      "rating": 5.8,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 5.8
+        "imdb": 6.2,
+        "metacritic": 75,
+        "metacriticuser": 5.5,
+        "trakt": 62,
+        "tomatoes": 84,
+        "popcorn": 65,
+        "tmdb": 57,
+        "letterboxd": 5.4,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -2038,10 +3273,19 @@
       "releaseInfo": "2012",
       "description": "Upbeat musical comedy with catchy mashups and infectious ensemble camaraderie.",
       "background": "https://image.tmdb.org/t/p/original/2sE6hrwfn9IV7eDlMvpIb9q1EWy.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.1,
+        "metacritic": 66,
+        "metacriticuser": 7.3,
+        "trakt": 76,
+        "tomatoes": 81,
+        "popcorn": 83,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 2.0,
+        "mdblist": 71
       }
     },
     {
@@ -2052,10 +3296,19 @@
       "releaseInfo": "2011",
       "description": "Wildly funny, heartfelt comedy showcasing brilliant comedic performances throughout.",
       "background": "https://image.tmdb.org/t/p/original/1pkpV7a02phSfAPeGVmpHaQd99J.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.8,
+        "metacritic": 75,
+        "metacriticuser": 7.0,
+        "trakt": 70,
+        "tomatoes": 89,
+        "popcorn": 76,
+        "tmdb": 65,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 74
       }
     },
     {
@@ -2066,10 +3319,19 @@
       "releaseInfo": "2017",
       "description": "Unapologetically hilarious road-trip comedy about lifelong friendship and wild adventures.",
       "background": "https://image.tmdb.org/t/p/original/nWKOp57cAzdgGXZ2BN5AElVfujN.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.2,
+        "metacritic": 71,
+        "metacriticuser": 5.6,
+        "trakt": 72,
+        "tomatoes": 91,
+        "popcorn": 78,
+        "tmdb": 68,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -2080,10 +3342,19 @@
       "releaseInfo": "1996",
       "description": "Robin Williams and Nathan Lane dazzle in this warm, hilarious screwball farce.",
       "background": "https://image.tmdb.org/t/p/original/yNOtXSNep1BLnfZ0yhLejm1TULi.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.3,
+        "metacritic": 71,
+        "metacriticuser": 7.6,
+        "trakt": 76,
+        "tomatoes": 87,
+        "popcorn": 81,
+        "tmdb": 70,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -2094,10 +3365,19 @@
       "releaseInfo": "1993",
       "description": "Classic family comedy blending Robin Williams's improvisational genius with heart.",
       "background": "https://image.tmdb.org/t/p/original/xAWx1UGc6LEMpao5FaNxgTNljay.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.1,
+        "metacritic": 54,
+        "metacriticuser": 7.6,
+        "trakt": 75,
+        "tomatoes": 74,
+        "popcorn": 77,
+        "tmdb": 71,
+        "letterboxd": 7.4,
+        "rogerebert": 2.5,
+        "mdblist": 69
       }
     },
     {
@@ -2108,10 +3388,19 @@
       "releaseInfo": "1999",
       "description": "Clever Hollywood comedy satire starring Steve Martin and Eddie Murphy.",
       "background": "https://image.tmdb.org/t/p/original/vLfksvG182LklmmiHek0Al4FdRN.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.5,
+        "metacritic": 73,
+        "metacriticuser": 7.3,
+        "trakt": 65,
+        "tomatoes": 83,
+        "popcorn": 61,
+        "tmdb": 61,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 70
       }
     },
     {
@@ -2122,10 +3411,19 @@
       "releaseInfo": "1996",
       "description": "Eddie Murphy's tour-de-force comic showcase brimming with broad physical laughs.",
       "background": "https://image.tmdb.org/t/p/original/gHFuLHxruielBcMEZx1WowxbRWS.jpg",
-      "imdbRating": "5.6",
-      "rating": 5.6,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 5.6
+        "imdb": 5.7,
+        "metacritic": 64,
+        "metacriticuser": 6.5,
+        "trakt": 60,
+        "tomatoes": 65,
+        "popcorn": 44,
+        "tmdb": 56,
+        "letterboxd": 5.2,
+        "rogerebert": 3.0,
+        "mdblist": 59
       }
     },
     {
@@ -2136,10 +3434,18 @@
       "releaseInfo": "1988",
       "description": "Endearing, laugh-out-loud 80s classic about a prince seeking true love.",
       "background": "https://image.tmdb.org/t/p/original/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.1,
+        "metacritic": 47,
+        "metacriticuser": 7.4,
+        "trakt": 74,
+        "tomatoes": 70,
+        "popcorn": 85,
+        "tmdb": 68,
+        "letterboxd": 7.2,
+        "mdblist": 69
       }
     },
     {
@@ -2150,10 +3456,19 @@
       "releaseInfo": "1983",
       "description": "Sharp social comedy featuring irresistible comic friction between Murphy and Aykroyd.",
       "background": "https://image.tmdb.org/t/p/original/3FO1kbQmRlU1H6Kmn7sTfmd7mw9.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.5,
+        "metacritic": 69,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 86,
+        "popcorn": 85,
+        "tmdb": 72,
+        "letterboxd": 7.2,
+        "rogerebert": 3.5,
+        "mdblist": 77
       }
     },
     {
@@ -2164,10 +3479,19 @@
       "releaseInfo": "1992",
       "description": "Irresistibly funny courtroom comedy led by Joe Pesci and Marisa Tomei.",
       "background": "https://image.tmdb.org/t/p/original/uEoaOfvWibpvjBNxFoj4MxWn0OH.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.6,
+        "metacritic": 68,
+        "metacriticuser": 7.6,
+        "trakt": 78,
+        "tomatoes": 84,
+        "popcorn": 87,
+        "tmdb": 75,
+        "letterboxd": 7.8,
+        "rogerebert": 2.5,
+        "mdblist": 76
       }
     },
     {
@@ -2178,10 +3502,17 @@
       "releaseInfo": "1988",
       "description": "Wicked British-American caper comedy loaded with eccentric characters and farce.",
       "background": "https://image.tmdb.org/t/p/original/nNLOEK9HGhhZIOgdVUO9F7ndTIw.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.5,
+        "metacritic": 80,
+        "metacriticuser": 8.0,
+        "trakt": 74,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 4.0,
+        "mdblist": 79
       }
     },
     {
@@ -2192,10 +3523,17 @@
       "releaseInfo": "2011",
       "description": "Whimsical romantic fantasy celebrating art, nostalgia, and the magic of Paris.",
       "background": "https://image.tmdb.org/t/p/original/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.6,
+        "metacritic": 81,
+        "metacriticuser": 7.8,
+        "trakt": 75,
+        "tmdb": 75,
+        "letterboxd": 7.4,
+        "rogerebert": 3.5,
+        "mdblist": 78
       }
     },
     {
@@ -2206,10 +3544,16 @@
       "releaseInfo": "2021",
       "description": "Thrilling, energetic cat-and-mouse chase movie with breathless kinetic pacing.",
       "background": "https://image.tmdb.org/t/p/original/sOR6e2JhxhHQmcvawhfi6gAntgc.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 6.5,
+        "trakt": 77,
+        "tomatoes": 100,
+        "popcorn": 62,
+        "tmdb": 71,
+        "letterboxd": 7.0,
+        "mdblist": 74
       }
     },
     {
@@ -2220,10 +3564,16 @@
       "releaseInfo": "1988",
       "description": "Tom Hanks brings innocent wonder to this magical, heartwarming body-swap comedy.",
       "background": "https://image.tmdb.org/t/p/original/bi9ihIMB9DoXs7odkS5oKkHoK2o.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.3,
+        "metacritic": 73,
+        "metacriticuser": 7.7,
+        "trakt": 75,
+        "tmdb": 71,
+        "letterboxd": 7.2,
+        "mdblist": 72
       }
     },
     {
@@ -2234,10 +3584,19 @@
       "releaseInfo": "1998",
       "description": "Visually creative, heartwarming fantasy about discovering color and personal freedom.",
       "background": "https://image.tmdb.org/t/p/original/yPmLNEl9tC9RBO5c95L2R67uxGR.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.5,
+        "metacritic": 71,
+        "metacriticuser": 7.5,
+        "trakt": 75,
+        "tomatoes": 85,
+        "popcorn": 79,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 4.0,
+        "mdblist": 78
       }
     },
     {
@@ -2251,7 +3610,16 @@
       "imdbRating": "8.2",
       "rating": 8.2,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.2,
+        "metacritic": 90,
+        "metacriticuser": 8.7,
+        "trakt": 84,
+        "tomatoes": 94,
+        "popcorn": 89,
+        "tmdb": 81,
+        "letterboxd": 8.4,
+        "rogerebert": 4.0,
+        "mdblist": 88
       }
     },
     {
@@ -2262,10 +3630,17 @@
       "releaseInfo": "1999",
       "description": "Charming 90s rom-com about a sheltered fallout-shelter inhabitant discovering romance.",
       "background": "https://image.tmdb.org/t/p/original/qr3yKVRrPmPCpxqtEeFkdisGE4n.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.7,
+        "metacritic": 50,
+        "metacriticuser": 7.6,
+        "trakt": 71,
+        "tmdb": 68,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -2276,10 +3651,19 @@
       "releaseInfo": "2003",
       "description": "Delightfully stylized retro-romantic comedy parody with colorful 60s flair.",
       "background": "https://image.tmdb.org/t/p/original/gncvmif7zzVOpMNxnpAOPfSXgUq.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.3,
+        "metacritic": 52,
+        "metacriticuser": 6.1,
+        "trakt": 66,
+        "tomatoes": 60,
+        "popcorn": 62,
+        "tmdb": 61,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 63
       }
     },
     {
@@ -2290,10 +3674,19 @@
       "releaseInfo": "2016",
       "description": "Ridiculously catchy, joke-a-minute music mockumentary from The Lonely Island.",
       "background": "https://image.tmdb.org/t/p/original/nUUKoiMSRa82cxoltjhSpVNpFXO.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.7,
+        "metacritic": 68,
+        "metacriticuser": 7.5,
+        "trakt": 70,
+        "tomatoes": 79,
+        "popcorn": 65,
+        "tmdb": 65,
+        "letterboxd": 7.2,
+        "rogerebert": 2.5,
+        "mdblist": 68
       }
     },
     {
@@ -2304,10 +3697,19 @@
       "releaseInfo": "2007",
       "description": "Cult comedy gem filled with absurd stunts, punchy music, and slapstick.",
       "background": "https://image.tmdb.org/t/p/original/R0p2aJVD7NTrCJFbDlTPKoVCCz.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.7,
+        "metacritic": 43,
+        "metacriticuser": 7.4,
+        "trakt": 68,
+        "tomatoes": 39,
+        "popcorn": 64,
+        "tmdb": 64,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 61
       }
     },
     {
@@ -2318,10 +3720,18 @@
       "releaseInfo": "2010",
       "description": "Unapologetically silly action spoof with outrageous one-liners and explosions.",
       "background": "https://image.tmdb.org/t/p/original/sWApVoELxEgdUArLWpki6cQMqoB.jpg",
-      "imdbRating": "5.4",
-      "rating": 5.4,
+      "imdbRating": "5.6",
+      "rating": 5.6,
       "ratings": {
-        "imdb": 5.4
+        "imdb": 5.6,
+        "metacritic": 43,
+        "metacriticuser": 6.5,
+        "trakt": 59,
+        "tomatoes": 47,
+        "popcorn": 36,
+        "tmdb": 54,
+        "letterboxd": 6.2,
+        "mdblist": 51
       }
     },
     {
@@ -2332,10 +3742,19 @@
       "releaseInfo": "2014",
       "description": "Absurdist parody of NYC romantic comedies starring Paul Rudd and Amy Poehler.",
       "background": "https://image.tmdb.org/t/p/original/be8mNf9tHTjrJWQ1O9srDYEAfTj.jpg",
-      "imdbRating": "5.6",
-      "rating": 5.6,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 5.6
+        "imdb": 5.7,
+        "metacritic": 60,
+        "metacriticuser": 5.9,
+        "trakt": 61,
+        "tomatoes": 70,
+        "popcorn": 40,
+        "tmdb": 55,
+        "letterboxd": 6.4,
+        "rogerebert": 1.5,
+        "mdblist": 55
       }
     },
     {
@@ -2346,10 +3765,19 @@
       "releaseInfo": "2001",
       "description": "Cult satire of 80s summer camp movies packed with comic superstars.",
       "background": "https://image.tmdb.org/t/p/original/boct1C0KWZ533T6o5qjFVfaUpSt.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.5,
+        "metacritic": 42,
+        "metacriticuser": 7.0,
+        "trakt": 67,
+        "tomatoes": 40,
+        "popcorn": 75,
+        "tmdb": 62,
+        "letterboxd": 7.0,
+        "rogerebert": 1.0,
+        "mdblist": 55
       }
     },
     {
@@ -2360,10 +3788,19 @@
       "releaseInfo": "1988",
       "description": "Unrivaled slapstick masterpiece offering non-stop visual gags and deadpan delivery.",
       "background": "https://image.tmdb.org/t/p/original/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 76,
+        "metacriticuser": 8.3,
+        "trakt": 76,
+        "tomatoes": 88,
+        "popcorn": 84,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 3.5,
+        "mdblist": 79
       }
     },
     {
@@ -2374,10 +3811,19 @@
       "releaseInfo": "1980",
       "description": "The quintessential comedy spoof with a joke per second rate.",
       "background": "https://image.tmdb.org/t/p/original/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.7,
+        "metacritic": 78,
+        "metacriticuser": 7.8,
+        "trakt": 76,
+        "tomatoes": 97,
+        "popcorn": 89,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 80
       }
     },
     {
@@ -2388,10 +3834,17 @@
       "releaseInfo": "1984",
       "description": "Inventive visual parody blending Cold War spy thrillers and Elvis musicals.",
       "background": "https://image.tmdb.org/t/p/original/ljY0REcQp0HyEjlfkYP4kopKsIR.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.2,
+        "metacritic": 68,
+        "metacriticuser": 7.3,
+        "trakt": 73,
+        "tmdb": 71,
+        "letterboxd": 7.4,
+        "rogerebert": 3.5,
+        "mdblist": 74
       }
     },
     {
@@ -2402,10 +3855,19 @@
       "releaseInfo": "1993",
       "description": "Silly, energetic buddy-cop spoof riffing on Lethal Weapon and 90s action.",
       "background": "https://image.tmdb.org/t/p/original/vYq0sXktMc9zwSiAsRCYwRlayk3.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.2,
+        "metacritic": 30,
+        "metacriticuser": 6.7,
+        "trakt": 65,
+        "tomatoes": 21,
+        "popcorn": 50,
+        "tmdb": 60,
+        "letterboxd": 6.2,
+        "rogerebert": 1.0,
+        "mdblist": 47
       }
     },
     {
@@ -2419,7 +3881,15 @@
       "imdbRating": "6.2",
       "rating": 6.2,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.2,
+        "metacritic": 47,
+        "metacriticuser": 6.2,
+        "trakt": 65,
+        "tomatoes": 37,
+        "popcorn": 49,
+        "tmdb": 62,
+        "letterboxd": 5.8,
+        "mdblist": 54
       }
     },
     {
@@ -2430,10 +3900,19 @@
       "releaseInfo": "2020",
       "description": "Joyful, musical comedy brimming with great original songs and earnest heart.",
       "background": "https://image.tmdb.org/t/p/original/jMO1icztaUUEUApdAQx0cZOt7b8.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.5,
+        "metacritic": 50,
+        "metacriticuser": 7.6,
+        "trakt": 68,
+        "tomatoes": 63,
+        "popcorn": 77,
+        "tmdb": 64,
+        "letterboxd": 5.6,
+        "rogerebert": 2.5,
+        "mdblist": 63
       }
     },
     {
@@ -2444,10 +3923,19 @@
       "releaseInfo": "2021",
       "description": "Brightly colored, surreal comedy celebrating female friendship and whimsical absurdity.",
       "background": "https://image.tmdb.org/t/p/original/mvxR0mbDVQkQp3K1OhEU9iDbGcA.jpg",
-      "imdbRating": "6.0",
-      "rating": 6.0,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.0
+        "imdb": 6.4,
+        "metacritic": 64,
+        "metacriticuser": 6.2,
+        "trakt": 66,
+        "tomatoes": 81,
+        "popcorn": 60,
+        "tmdb": 60,
+        "letterboxd": 7.0,
+        "rogerebert": 3.5,
+        "mdblist": 69
       }
     },
     {
@@ -2458,10 +3946,19 @@
       "releaseInfo": "1997",
       "description": "Fashion-forward 90s comedy pairing delightful silliness with genuine sweet friendship.",
       "background": "https://image.tmdb.org/t/p/original/piPxbzkBkxtxkNek4YgTayx6aGQ.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.4,
+        "metacritic": 60,
+        "metacriticuser": 7.4,
+        "trakt": 66,
+        "tomatoes": 75,
+        "popcorn": 66,
+        "tmdb": 62,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 67
       }
     },
     {
@@ -2472,10 +3969,19 @@
       "releaseInfo": "2001",
       "description": "Satirical, colorful pop-punk comic adaptation that matches Scott Pilgrim's rock energy.",
       "background": "https://image.tmdb.org/t/p/original/1HmR1tooTRDmKj1vU9ppUEMx0uc.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "5.8",
+      "rating": 5.8,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 5.8,
+        "metacritic": 47,
+        "metacriticuser": 7.3,
+        "trakt": 66,
+        "tomatoes": 54,
+        "popcorn": 53,
+        "tmdb": 66,
+        "letterboxd": 7.2,
+        "rogerebert": 0.5,
+        "mdblist": 52
       }
     },
     {
@@ -2486,10 +3992,19 @@
       "releaseInfo": "1999",
       "description": "Clever, bubbly teen comedy placing two ditsy teens inside the Watergate scandal.",
       "background": "https://image.tmdb.org/t/p/original/5WLdmRWfTpohU3aSbBgvF4zljfM.jpg",
-      "imdbRating": "6.0",
-      "rating": 6.0,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.0
+        "imdb": 6.3,
+        "metacritic": 65,
+        "metacriticuser": 6.4,
+        "trakt": 63,
+        "tomatoes": 71,
+        "popcorn": 53,
+        "tmdb": 60,
+        "letterboxd": 7.2,
+        "rogerebert": 3.5,
+        "mdblist": 66
       }
     },
     {
@@ -2500,10 +4015,19 @@
       "releaseInfo": "1999",
       "description": "Darkly hilarious mockumentary about small-town teen beauty pageants and sabotage.",
       "background": "https://image.tmdb.org/t/p/original/xXSDhhyC853VgF7OCDKpXKeA5Md.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.7,
+        "metacritic": 28,
+        "metacriticuser": 7.5,
+        "trakt": 71,
+        "tomatoes": 46,
+        "popcorn": 75,
+        "tmdb": 65,
+        "letterboxd": 7.8,
+        "rogerebert": 2.0,
+        "mdblist": 60
       }
     },
     {
@@ -2514,10 +4038,19 @@
       "releaseInfo": "2004",
       "description": "Biting high-school satire with heart, sharp wit, and a stellar cast.",
       "background": "https://image.tmdb.org/t/p/original/ehy1Q7v1xnmi9E55jQ9X7OX2Dr1.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.7,
+        "metacritic": 62,
+        "metacriticuser": 7.2,
+        "trakt": 70,
+        "tomatoes": 61,
+        "popcorn": 78,
+        "tmdb": 64,
+        "letterboxd": 7.0,
+        "rogerebert": 3.5,
+        "mdblist": 69
       }
     },
     {
@@ -2528,10 +4061,19 @@
       "releaseInfo": "1999",
       "description": "Sharp, laugh-out-loud comedy about high school politics with Reese Witherspoon.",
       "background": "https://image.tmdb.org/t/p/original/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.2,
+        "metacritic": 83,
+        "metacriticuser": 7.9,
+        "trakt": 70,
+        "tomatoes": 92,
+        "popcorn": 79,
+        "tmdb": 69,
+        "letterboxd": 7.6,
+        "rogerebert": 3.5,
+        "mdblist": 78
       }
     },
     {
@@ -2542,10 +4084,19 @@
       "releaseInfo": "2001",
       "description": "Cheeky teen crime-comedy following cheerleaders who execute bank heists.",
       "background": "https://image.tmdb.org/t/p/original/r61qpgtIUEuRHGh3VdQpgcxN8zN.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "5.8",
+      "rating": 5.8,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 5.8,
+        "metacritic": 48,
+        "metacriticuser": 5.7,
+        "trakt": 63,
+        "tomatoes": 30,
+        "popcorn": 43,
+        "tmdb": 64,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 56
       }
     },
     {
@@ -2556,10 +4107,19 @@
       "releaseInfo": "2001",
       "description": "Charming, quirky bank-robber rom-com starring Bruce Willis and Billy Bob Thornton.",
       "background": "https://image.tmdb.org/t/p/original/cDogbR7pjlgQeQHUpxyRYPHDpGq.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.5,
+        "metacritic": 60,
+        "metacriticuser": 6.6,
+        "trakt": 66,
+        "tomatoes": 64,
+        "popcorn": 58,
+        "tmdb": 63,
+        "letterboxd": 6.4,
+        "rogerebert": 2.0,
+        "mdblist": 61
       }
     },
     {
@@ -2570,10 +4130,19 @@
       "releaseInfo": "2011",
       "description": "Fun, fast-paced ensemble robbery comedy that lets Eddie Murphy steal scenes.",
       "background": "https://image.tmdb.org/t/p/original/7BtEvieL4QRNW3j7OAw6Zv2CDap.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.2,
+        "metacritic": 59,
+        "metacriticuser": 6.2,
+        "trakt": 66,
+        "tomatoes": 67,
+        "popcorn": 48,
+        "tmdb": 61,
+        "letterboxd": 5.6,
+        "rogerebert": 2.5,
+        "mdblist": 60
       }
     },
     {
@@ -2584,10 +4153,19 @@
       "releaseInfo": "2015",
       "description": "Exquisitely stylish Cold War spy action-comedy with effortless charisma and humor.",
       "background": "https://image.tmdb.org/t/p/original/lZ2MSmrhb3zanyvg0KTNNTzmK9B.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.2,
+        "metacritic": 56,
+        "metacriticuser": 7.4,
+        "trakt": 74,
+        "tomatoes": 68,
+        "popcorn": 73,
+        "tmdb": 70,
+        "letterboxd": 7.0,
+        "rogerebert": 2.0,
+        "mdblist": 66
       }
     },
     {
@@ -2598,10 +4176,17 @@
       "releaseInfo": "2014",
       "description": "Audacious, fast-moving comic book spy action with irreverent British humor.",
       "background": "https://image.tmdb.org/t/p/original/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.7,
+        "metacritic": 60,
+        "metacriticuser": 7.9,
+        "trakt": 79,
+        "tmdb": 76,
+        "letterboxd": 7.6,
+        "rogerebert": 2.0,
+        "mdblist": 72
       }
     },
     {
@@ -2612,10 +4197,19 @@
       "releaseInfo": "2010",
       "description": "Energetic, violent superhero comedy with vibrant music and comic book styling.",
       "background": "https://image.tmdb.org/t/p/original/P4bGyJQF0shAcRku3I2perNUQR.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.6,
+        "metacritic": 66,
+        "metacriticuser": 7.9,
+        "trakt": 75,
+        "tomatoes": 78,
+        "popcorn": 81,
+        "tmdb": 71,
+        "letterboxd": 7.0,
+        "rogerebert": 1.0,
+        "mdblist": 67
       }
     },
     {
@@ -2626,10 +4220,17 @@
       "releaseInfo": "2011",
       "description": "Thrilling London sci-fi creature feature with great streetwise humor and heart.",
       "background": "https://image.tmdb.org/t/p/original/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.6,
+        "metacritic": 75,
+        "metacriticuser": 7.0,
+        "trakt": 68,
+        "tmdb": 64,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -2640,10 +4241,19 @@
       "releaseInfo": "2020",
       "description": "Charming, creature-filled post-apocalyptic adventure brimming with heart and humor.",
       "background": "https://image.tmdb.org/t/p/original/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 6.9,
+        "metacritic": 63,
+        "metacriticuser": 7.4,
+        "trakt": 75,
+        "tomatoes": 94,
+        "popcorn": 89,
+        "tmdb": 72,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 75
       }
     },
     {
@@ -2654,10 +4264,19 @@
       "releaseInfo": "2013",
       "description": "Clever, sweet zombie romantic comedy told from the perspective of an undead lover.",
       "background": "https://image.tmdb.org/t/p/original/faEe5nH1VP2xMmE8f9lgqjhsmYI.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.8,
+        "metacritic": 60,
+        "metacriticuser": 7.0,
+        "trakt": 69,
+        "tomatoes": 80,
+        "popcorn": 73,
+        "tmdb": 64,
+        "letterboxd": 6.0,
+        "rogerebert": 3.5,
+        "mdblist": 70
       }
     },
     {
@@ -2668,10 +4287,19 @@
       "releaseInfo": "2014",
       "description": "Hilarious mockumentary following vampire roommates navigating mundane modern chores.",
       "background": "https://image.tmdb.org/t/p/original/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.6,
+        "metacritic": 76,
+        "metacriticuser": 7.8,
+        "trakt": 77,
+        "tomatoes": 96,
+        "popcorn": 87,
+        "tmdb": 75,
+        "letterboxd": 8.2,
+        "rogerebert": 3.5,
+        "mdblist": 82
       }
     },
     {
@@ -2682,10 +4310,19 @@
       "releaseInfo": "2016",
       "description": "Heartwarming, whimsical buddy adventure set in the gorgeous New Zealand bush.",
       "background": "https://image.tmdb.org/t/p/original/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.8,
+        "metacritic": 81,
+        "metacriticuser": 8.0,
+        "trakt": 79,
+        "tomatoes": 97,
+        "popcorn": 91,
+        "tmdb": 76,
+        "letterboxd": 8.2,
+        "rogerebert": 3.5,
+        "mdblist": 83
       }
     },
     {
@@ -2696,10 +4333,17 @@
       "releaseInfo": "2021",
       "description": "Visually hyperactive animated sci-fi comedy full of relatable family heart.",
       "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.6,
+        "metacritic": 81,
+        "metacriticuser": 8.0,
+        "trakt": 80,
+        "tmdb": 78,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 77
       }
     },
     {
@@ -2710,10 +4354,19 @@
       "releaseInfo": "2021",
       "description": "Charming animated tech comedy about friendship with a delightfully malfunctioning robot.",
       "background": "https://image.tmdb.org/t/p/original/sdL37sfUBth7mdkAolI83bXAl7L.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.1,
+        "metacritic": 65,
+        "metacriticuser": 7.4,
+        "trakt": 78,
+        "tomatoes": 82,
+        "popcorn": 94,
+        "tmdb": 78,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -2724,10 +4377,19 @@
       "releaseInfo": "2023",
       "description": "Rebellious, punk-rock animated fantasy with sharp humor and vibrant action.",
       "background": "https://image.tmdb.org/t/p/original/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.5,
+        "metacritic": 75,
+        "metacriticuser": 7.5,
+        "trakt": 84,
+        "tomatoes": 92,
+        "popcorn": 90,
+        "tmdb": 78,
+        "letterboxd": 8.0,
+        "rogerebert": 2.0,
+        "mdblist": 78
       }
     },
     {
@@ -2738,10 +4400,19 @@
       "releaseInfo": "2014",
       "description": "Delightful superhero adventure featuring lovable robot Baymax and colorful gadget action.",
       "background": "https://image.tmdb.org/t/p/original/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 7.8,
+        "metacritic": 74,
+        "metacriticuser": 7.8,
+        "trakt": 80,
+        "tomatoes": 90,
+        "popcorn": 91,
+        "tmdb": 77,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 80
       }
     },
     {
@@ -2752,10 +4423,19 @@
       "releaseInfo": "2004",
       "description": "Peak animated fairy-tale comedy with rapid pop-culture jokes and hilarious energy.",
       "background": "https://image.tmdb.org/t/p/original/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.4,
+        "metacritic": 75,
+        "metacriticuser": 8.5,
+        "trakt": 78,
+        "tomatoes": 89,
+        "popcorn": 69,
+        "tmdb": 73,
+        "letterboxd": 8.2,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -2766,10 +4446,18 @@
       "releaseInfo": "2010",
       "description": "Charming, funny animated romance with great songs, adventure, and sweet humor.",
       "background": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.7,
+        "metacritic": 71,
+        "metacriticuser": 8.1,
+        "trakt": 80,
+        "tomatoes": 89,
+        "popcorn": 87,
+        "tmdb": 76,
+        "letterboxd": 8.2,
+        "mdblist": 80
       }
     },
     {
@@ -2780,10 +4468,19 @@
       "releaseInfo": "2023",
       "description": "Pure B-movie creature-feature fun matching the campy energy of Anaconda.",
       "background": "https://image.tmdb.org/t/p/original/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "5.0",
+      "rating": 5.0,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 5.0,
+        "metacritic": 40,
+        "metacriticuser": 4.6,
+        "trakt": 59,
+        "tomatoes": 27,
+        "popcorn": 72,
+        "tmdb": 63,
+        "letterboxd": 4.2,
+        "rogerebert": 1.0,
+        "mdblist": 47
       }
     },
     {
@@ -2794,10 +4491,19 @@
       "releaseInfo": "2019",
       "description": "Fast-paced, entertaining creature feature packed with high-tension alligator encounters.",
       "background": "https://image.tmdb.org/t/p/original/lm4xH0YwFbVvTgdtau1thNK5S6J.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.1",
+      "rating": 6.1,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.1,
+        "metacritic": 60,
+        "metacriticuser": 6.0,
+        "trakt": 65,
+        "tomatoes": 84,
+        "popcorn": 75,
+        "tmdb": 63,
+        "letterboxd": 5.8,
+        "rogerebert": 2.5,
+        "mdblist": 66
       }
     },
     {
@@ -2811,7 +4517,16 @@
       "imdbRating": "6.0",
       "rating": 6.0,
       "ratings": {
-        "imdb": 6.0
+        "imdb": 6.0,
+        "metacritic": 54,
+        "metacriticuser": 6.5,
+        "trakt": 64,
+        "tomatoes": 61,
+        "popcorn": 40,
+        "tmdb": 60,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 59
       }
     },
     {
@@ -2822,10 +4537,16 @@
       "releaseInfo": "1990",
       "description": "The quintessential desert monster comedy packed with lovable characters and thrills.",
       "background": "https://image.tmdb.org/t/p/original/3L3DUwfRLW18OUiLSdmovfICyY3.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.2,
+        "metacritic": 65,
+        "metacriticuser": 7.6,
+        "trakt": 72,
+        "tmdb": 69,
+        "letterboxd": 7.0,
+        "mdblist": 69
       }
     },
     {
@@ -2836,10 +4557,19 @@
       "releaseInfo": "2002",
       "description": "Playful, tongue-in-cheek giant spider creature comedy loaded with B-movie fun.",
       "background": "https://image.tmdb.org/t/p/original/4QeKdd8mkzEIjOWUYJ5UaeZSLom.jpg",
-      "imdbRating": "5.8",
-      "rating": 5.8,
+      "imdbRating": "5.5",
+      "rating": 5.5,
       "ratings": {
-        "imdb": 5.8
+        "imdb": 5.5,
+        "metacritic": 53,
+        "metacriticuser": 5.8,
+        "trakt": 57,
+        "tomatoes": 49,
+        "popcorn": 33,
+        "tmdb": 58,
+        "letterboxd": 5.2,
+        "rogerebert": 3.0,
+        "mdblist": 54
       }
     },
     {
@@ -2853,7 +4583,16 @@
       "imdbRating": "6.1",
       "rating": 6.1,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.1,
+        "metacritic": 40,
+        "metacriticuser": 5.9,
+        "trakt": 65,
+        "tomatoes": 44,
+        "popcorn": 48,
+        "tmdb": 61,
+        "letterboxd": 5.8,
+        "rogerebert": 2.5,
+        "mdblist": 54
       }
     },
     {
@@ -2867,7 +4606,16 @@
       "imdbRating": "6.4",
       "rating": 6.4,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.4,
+        "metacritic": 52,
+        "metacriticuser": 6.4,
+        "trakt": 66,
+        "tomatoes": 57,
+        "popcorn": 53,
+        "tmdb": 64,
+        "letterboxd": 6.6,
+        "rogerebert": 2.0,
+        "mdblist": 59
       }
     },
     {
@@ -2878,10 +4626,19 @@
       "releaseInfo": "1987",
       "description": "Mel Brooks's beloved, laugh-out-loud sci-fi parody of the Star Wars universe.",
       "background": "https://image.tmdb.org/t/p/original/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.1,
+        "metacritic": 46,
+        "metacriticuser": 7.4,
+        "trakt": 73,
+        "tomatoes": 53,
+        "popcorn": 83,
+        "tmdb": 68,
+        "letterboxd": 6.8,
+        "rogerebert": 2.5,
+        "mdblist": 65
       }
     },
     {
@@ -2892,10 +4649,18 @@
       "releaseInfo": "1993",
       "description": "Silly medieval slapstick adventure filled with fourth-wall breaks and catchy numbers.",
       "background": "https://image.tmdb.org/t/p/original/xFhpZ9UDUGXu52lCHdN39PIooRt.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.7,
+        "metacritic": 44,
+        "metacriticuser": 6.1,
+        "trakt": 71,
+        "tomatoes": 42,
+        "popcorn": 81,
+        "tmdb": 66,
+        "letterboxd": 6.6,
+        "mdblist": 62
       }
     },
     {
@@ -2906,10 +4671,18 @@
       "releaseInfo": "1987",
       "description": "Timeless blend of fencing, fighting, true love, miracles, and endless quotes.",
       "background": "https://image.tmdb.org/t/p/original/onACwa3TjpeaY7EVHSZZbeNkd2q.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 8.0,
+        "metacritic": 78,
+        "metacriticuser": 8.3,
+        "trakt": 82,
+        "tomatoes": 93,
+        "popcorn": 94,
+        "tmdb": 77,
+        "letterboxd": 8.2,
+        "mdblist": 83
       }
     },
     {
@@ -2920,10 +4693,19 @@
       "releaseInfo": "2007",
       "description": "Enchanting romantic fantasy adventure featuring sky pirates, wit, and magical wonder.",
       "background": "https://image.tmdb.org/t/p/original/x2LTysjFSpeK0d40zHw6Lqd4oAH.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 66,
+        "metacriticuser": 7.9,
+        "trakt": 77,
+        "tomatoes": 77,
+        "popcorn": 86,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 2.5,
+        "mdblist": 73
       }
     },
     {
@@ -2934,10 +4716,19 @@
       "releaseInfo": "2004",
       "description": "Breezy, musical fairy-tale rom-com packed with charming humor and heart.",
       "background": "https://image.tmdb.org/t/p/original/r4Q7GKzTiAzr1MGU1b13s9L12YZ.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.3,
+        "metacritic": 53,
+        "metacriticuser": 6.2,
+        "trakt": 71,
+        "tomatoes": 52,
+        "popcorn": 57,
+        "tmdb": 64,
+        "letterboxd": 7.0,
+        "rogerebert": 3.5,
+        "mdblist": 64
       }
     },
     {
@@ -2951,7 +4742,14 @@
       "imdbRating": "6.7",
       "rating": 6.7,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.7,
+        "metacritic": 48,
+        "trakt": 71,
+        "tomatoes": 53,
+        "popcorn": 73,
+        "tmdb": 67,
+        "letterboxd": 6.6,
+        "mdblist": 63
       }
     },
     {
@@ -2962,10 +4760,19 @@
       "releaseInfo": "2013",
       "description": "Heartwarming time-travel romantic dramedy that leaves viewers feeling deeply uplifted.",
       "background": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 7.8,
+        "metacritic": 55,
+        "metacriticuser": 7.9,
+        "trakt": 82,
+        "tomatoes": 71,
+        "popcorn": 82,
+        "tmdb": 79,
+        "letterboxd": 8.2,
+        "rogerebert": 2.5,
+        "mdblist": 73
       }
     },
     {
@@ -2976,10 +4783,19 @@
       "releaseInfo": "2019",
       "description": "Feel-good romantic comedy celebrating the timeless, joy-inducing music of The Beatles.",
       "background": "https://image.tmdb.org/t/p/original/t5Kp02Jzixl0KfpwthHp9ZUex9t.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.8,
+        "metacritic": 55,
+        "metacriticuser": 6.2,
+        "trakt": 71,
+        "tomatoes": 64,
+        "popcorn": 89,
+        "tmdb": 66,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 66
       }
     },
     {
@@ -2993,7 +4809,16 @@
       "imdbRating": "7.9",
       "rating": 7.9,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 7.9,
+        "metacritic": 79,
+        "metacriticuser": 8.5,
+        "trakt": 79,
+        "tomatoes": 95,
+        "popcorn": 92,
+        "tmdb": 79,
+        "letterboxd": 8.2,
+        "rogerebert": 3.5,
+        "mdblist": 84
       }
     },
     {
@@ -3004,10 +4829,19 @@
       "releaseInfo": "2008",
       "description": "Indie music romance featuring Michael Cera's signature lovable charm in NYC.",
       "background": "https://image.tmdb.org/t/p/original/q9m40JSqittqMWYQet2TCzVWSPO.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.6,
+        "metacritic": 64,
+        "metacriticuser": 6.8,
+        "trakt": 69,
+        "tomatoes": 74,
+        "popcorn": 65,
+        "tmdb": 64,
+        "letterboxd": 6.4,
+        "rogerebert": 2.0,
+        "mdblist": 64
       }
     },
     {
@@ -3018,10 +4852,19 @@
       "releaseInfo": "2007",
       "description": "Snappy, eccentric comedy driven by Michael Cera and witty quirky dialogue.",
       "background": "https://image.tmdb.org/t/p/original/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.4,
+        "metacritic": 81,
+        "metacriticuser": 7.7,
+        "trakt": 73,
+        "tomatoes": 93,
+        "popcorn": 88,
+        "tmdb": 70,
+        "letterboxd": 7.4,
+        "rogerebert": 4.0,
+        "mdblist": 81
       }
     },
     {
@@ -3032,10 +4875,19 @@
       "releaseInfo": "2018",
       "description": "Slick, stylish crime caper with vibrant swagger and energetic modern beats.",
       "background": "https://image.tmdb.org/t/p/original/fJKJXKiRSzDihp50c7j39zb3ILi.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "5.3",
+      "rating": 5.3,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 5.3,
+        "metacritic": 52,
+        "metacriticuser": 6.1,
+        "trakt": 64,
+        "tomatoes": 51,
+        "popcorn": 47,
+        "tmdb": 67,
+        "letterboxd": 5.4,
+        "rogerebert": 2.5,
+        "mdblist": 56
       }
     },
     {
@@ -3046,10 +4898,19 @@
       "releaseInfo": "2008",
       "description": "High-energy Guy Ritchie underworld comedy with an effortlessly cool ensemble.",
       "background": "https://image.tmdb.org/t/p/original/11V6JMreBokxvTZTsxmSQsibaRb.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.2,
+        "metacritic": 53,
+        "metacriticuser": 7.3,
+        "trakt": 73,
+        "tomatoes": 61,
+        "popcorn": 71,
+        "tmdb": 69,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 68
       }
     },
     {
@@ -3060,10 +4921,19 @@
       "releaseInfo": "2001",
       "description": "Heath Ledger shines in this joyful, rock-and-roll-infused medieval crowd-pleaser.",
       "background": "https://image.tmdb.org/t/p/original/gkT737kgnmI6jZyXbUBJRwVbGkW.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.0,
+        "metacritic": 56,
+        "metacriticuser": 7.0,
+        "trakt": 74,
+        "tomatoes": 59,
+        "popcorn": 79,
+        "tmdb": 68,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -3077,7 +4947,16 @@
       "imdbRating": "6.5",
       "rating": 6.5,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.5,
+        "metacritic": 57,
+        "metacriticuser": 5.9,
+        "trakt": 66,
+        "tomatoes": 44,
+        "popcorn": 57,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "rogerebert": 2.0,
+        "mdblist": 58
       }
     },
     {
@@ -3088,10 +4967,18 @@
       "releaseInfo": "1996",
       "description": "Feel-good 90s military comedy about lovable submarine misfits winning against the odds.",
       "background": "https://image.tmdb.org/t/p/original/waytOOLxw9IDbo0hNKZLk1z4lzI.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.2,
+        "metacritic": 39,
+        "metacriticuser": 7.3,
+        "trakt": 69,
+        "tomatoes": 11,
+        "popcorn": 63,
+        "tmdb": 64,
+        "letterboxd": 5.8,
+        "mdblist": 52
       }
     },
     {
@@ -3102,10 +4989,18 @@
       "releaseInfo": "1989",
       "description": "Hilarious baseball comedy about a team of lovable underdogs defying expectations.",
       "background": "https://image.tmdb.org/t/p/original/v37dE7vn1xogzcxOrHoVbdG2pH3.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.3,
+        "metacritic": 62,
+        "metacriticuser": 7.5,
+        "trakt": 74,
+        "tomatoes": 82,
+        "popcorn": 84,
+        "tmdb": 69,
+        "letterboxd": 7.0,
+        "mdblist": 73
       }
     },
     {
@@ -3116,10 +5011,19 @@
       "releaseInfo": "1992",
       "description": "Warm, inspiring baseball classic loaded with humor, heart, and unforgettable quotes.",
       "background": "https://image.tmdb.org/t/p/original/kb2FuXGruaPA6ErjOpcifpCyPyY.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.4,
+        "metacritic": 69,
+        "metacriticuser": 7.8,
+        "trakt": 75,
+        "tomatoes": 83,
+        "popcorn": 84,
+        "tmdb": 72,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -3133,7 +5037,14 @@
       "imdbRating": "7.0",
       "rating": 7.0,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.0,
+        "metacritic": 60,
+        "metacriticuser": 7.4,
+        "trakt": 75,
+        "tmdb": 70,
+        "letterboxd": 7.2,
+        "rogerebert": 2.5,
+        "mdblist": 68
       }
     },
     {
@@ -3147,7 +5058,16 @@
       "imdbRating": "6.6",
       "rating": 6.6,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.6,
+        "metacritic": 46,
+        "metacriticuser": 6.4,
+        "trakt": 69,
+        "tomatoes": 29,
+        "popcorn": 65,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "rogerebert": 2.0,
+        "mdblist": 57
       }
     },
     {
@@ -3161,7 +5081,16 @@
       "imdbRating": "6.2",
       "rating": 6.2,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.2,
+        "metacritic": 53,
+        "metacriticuser": 6.6,
+        "trakt": 66,
+        "tomatoes": 43,
+        "popcorn": 53,
+        "tmdb": 61,
+        "letterboxd": 6.2,
+        "rogerebert": 3.0,
+        "mdblist": 59
       }
     },
     {
@@ -3172,10 +5101,17 @@
       "releaseInfo": "1994",
       "description": "Endearing, laugh-filled football underdog story highlighting classic 90s comfort vibes.",
       "background": "https://image.tmdb.org/t/p/original/gl58xoX8NK95vIgtIMCsKsd2its.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.5,
+        "trakt": 68,
+        "tomatoes": 50,
+        "popcorn": 63,
+        "tmdb": 66,
+        "letterboxd": 6.4,
+        "rogerebert": 1.0,
+        "mdblist": 57
       }
     },
     {
@@ -3186,10 +5122,19 @@
       "releaseInfo": "1996",
       "description": "Nostalgic 90s spectacle merging Looney Tunes slapstick with basketball fun.",
       "background": "https://image.tmdb.org/t/p/original/lWybXICZZpxnSvWSOW53XxTERUg.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.5,
+        "metacritic": 57,
+        "metacriticuser": 7.1,
+        "trakt": 71,
+        "tomatoes": 46,
+        "popcorn": 63,
+        "tmdb": 68,
+        "letterboxd": 6.6,
+        "rogerebert": 3.5,
+        "mdblist": 65
       }
     },
     {
@@ -3200,10 +5145,18 @@
       "releaseInfo": "2013",
       "description": "Classic Steve Coogan cringe comedy featuring the pompous broadcaster in top form.",
       "background": "https://image.tmdb.org/t/p/original/de5FcDrVhkhNQHkn6O5q6jaatKP.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.9,
+        "metacritic": 66,
+        "metacriticuser": 6.9,
+        "trakt": 69,
+        "tomatoes": 87,
+        "popcorn": 73,
+        "tmdb": 66,
+        "letterboxd": 7.2,
+        "mdblist": 71
       }
     }
   ]

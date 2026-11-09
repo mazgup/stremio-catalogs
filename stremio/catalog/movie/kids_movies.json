@@ -8,10 +8,17 @@
       "releaseInfo": "2010",
       "description": "Kids love the thrilling dragon flights and the heartwarming bond between Hiccup and Toothless.",
       "background": "https://image.tmdb.org/t/p/original/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.1,
+        "metacritic": 75,
+        "metacriticuser": 8.6,
+        "trakt": 83,
+        "tmdb": 78,
+        "letterboxd": 8.4,
+        "rogerebert": 3.0,
+        "mdblist": 83
       }
     },
     {
@@ -22,10 +29,19 @@
       "releaseInfo": "2014",
       "description": "Packed with soaring aerial adventures and spectacular new dragons that kids will adore.",
       "background": "https://image.tmdb.org/t/p/original/8AAuJtCzaibYkbE0QVHc8EBsELB.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 7.8,
+        "metacritic": 77,
+        "metacriticuser": 8.3,
+        "trakt": 80,
+        "tomatoes": 92,
+        "popcorn": 90,
+        "tmdb": 76,
+        "letterboxd": 7.8,
+        "rogerebert": 3.5,
+        "mdblist": 82
       }
     },
     {
@@ -36,10 +52,19 @@
       "releaseInfo": "2019",
       "description": "Features magical glowing worlds and delightful, playful dragon interactions kids will love.",
       "background": "https://image.tmdb.org/t/p/original/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 7.4,
+        "metacritic": 71,
+        "metacriticuser": 7.9,
+        "trakt": 81,
+        "tomatoes": 90,
+        "popcorn": 87,
+        "tmdb": 77,
+        "letterboxd": 7.4,
+        "rogerebert": 3.5,
+        "mdblist": 80
       }
     },
     {
@@ -50,10 +75,19 @@
       "releaseInfo": "2014",
       "description": "Baymax is the ultimate huggable robot companion who brings huge laughs and superhero action.",
       "background": "https://image.tmdb.org/t/p/original/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 7.8,
+        "metacritic": 74,
+        "metacriticuser": 7.8,
+        "trakt": 80,
+        "tomatoes": 90,
+        "popcorn": 91,
+        "tmdb": 77,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 80
       }
     },
     {
@@ -64,10 +98,17 @@
       "releaseInfo": "2021",
       "description": "Wacky family antics and hilarious robot battles keep kids giggling the entire time.",
       "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.6,
+        "metacritic": 81,
+        "metacriticuser": 8.0,
+        "trakt": 80,
+        "tmdb": 78,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 77
       }
     },
     {
@@ -78,10 +119,19 @@
       "releaseInfo": "2010",
       "description": "Kids enjoy the hilarious superhero twists and Megamind's goofy, lovable inventions.",
       "background": "https://image.tmdb.org/t/p/original/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.3,
+        "metacritic": 63,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 73,
+        "popcorn": 72,
+        "tmdb": 70,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -92,10 +142,19 @@
       "releaseInfo": "2013",
       "description": "Shows how Mike and Sulley became friends through silly monster college games.",
       "background": "https://image.tmdb.org/t/p/original/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.2,
+        "metacritic": 65,
+        "metacriticuser": 7.6,
+        "trakt": 75,
+        "tomatoes": 80,
+        "popcorn": 81,
+        "tmdb": 70,
+        "letterboxd": 7.0,
+        "rogerebert": 4.0,
+        "mdblist": 76
       }
     },
     {
@@ -106,10 +165,19 @@
       "releaseInfo": "2004",
       "description": "A superpowered family working together creates nonstop excitement and funny moments.",
       "background": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 8.0,
+        "metacritic": 90,
+        "metacriticuser": 8.7,
+        "trakt": 81,
+        "tomatoes": 97,
+        "popcorn": 75,
+        "tmdb": 77,
+        "letterboxd": 8.2,
+        "rogerebert": 3.5,
+        "mdblist": 83
       }
     },
     {
@@ -123,7 +191,16 @@
       "imdbRating": "7.5",
       "rating": 7.5,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.5,
+        "metacritic": 80,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 93,
+        "popcorn": 84,
+        "tmdb": 74,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 79
       }
     },
     {
@@ -134,10 +211,17 @@
       "releaseInfo": "2012",
       "description": "Kids love the colorful candy racing world and fun video game cameo appearances.",
       "background": "https://image.tmdb.org/t/p/original/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.7,
+        "metacritic": 72,
+        "metacriticuser": 8.3,
+        "trakt": 78,
+        "tmdb": 73,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 74
       }
     },
     {
@@ -148,10 +232,17 @@
       "releaseInfo": "2018",
       "description": "Hilarious Disney princess scenes and lively internet adventures captivate younger audiences.",
       "background": "https://image.tmdb.org/t/p/original/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.0,
+        "metacritic": 71,
+        "metacriticuser": 6.3,
+        "trakt": 73,
+        "tmdb": 71,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -162,10 +253,19 @@
       "releaseInfo": "2016",
       "description": "Shows the hilarious, secret mischief cute household animals get into every day.",
       "background": "https://image.tmdb.org/t/p/original/c1Ywtvlqls6tPBZ3BqbPtBwHyng.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.5,
+        "metacritic": 61,
+        "metacriticuser": 6.1,
+        "trakt": 71,
+        "tomatoes": 71,
+        "popcorn": 62,
+        "tmdb": 63,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -176,10 +276,17 @@
       "releaseInfo": "2019",
       "description": "Packed with funny superhero animal antics and charming farmyard adventures for kids.",
       "background": "https://image.tmdb.org/t/p/original/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.4,
+        "metacritic": 55,
+        "metacriticuser": 5.9,
+        "trakt": 72,
+        "tmdb": 69,
+        "letterboxd": 5.2,
+        "rogerebert": 2.0,
+        "mdblist": 60
       }
     },
     {
@@ -193,7 +300,16 @@
       "imdbRating": "6.4",
       "rating": 6.4,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.4,
+        "metacritic": 56,
+        "metacriticuser": 5.3,
+        "trakt": 70,
+        "tomatoes": 55,
+        "popcorn": 49,
+        "tmdb": 64,
+        "letterboxd": 6.2,
+        "rogerebert": 3.0,
+        "mdblist": 61
       }
     },
     {
@@ -204,10 +320,19 @@
       "releaseInfo": "2022",
       "description": "Delivers fast-paced kung fu fun and nonstop silly yellow henchmen humor.",
       "background": "https://image.tmdb.org/t/p/original/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 6.5,
+        "metacritic": 56,
+        "metacriticuser": 7.4,
+        "trakt": 73,
+        "tomatoes": 70,
+        "popcorn": 89,
+        "tmdb": 72,
+        "letterboxd": 6.2,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -218,10 +343,19 @@
       "releaseInfo": "2017",
       "description": "Twin brother shenanigans and bubblegum battles offer loads of colorful, zany excitement.",
       "background": "https://image.tmdb.org/t/p/original/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.3,
+        "metacritic": 49,
+        "metacriticuser": 5.7,
+        "trakt": 70,
+        "tomatoes": 58,
+        "popcorn": 53,
+        "tmdb": 64,
+        "letterboxd": 5.4,
+        "rogerebert": 1.5,
+        "mdblist": 56
       }
     },
     {
@@ -232,10 +366,19 @@
       "releaseInfo": "2024",
       "description": "Superpowered 'Mega Minions' bring ultra-silly slapstick chaos that younger viewers will love.",
       "background": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 6.2,
+        "metacritic": 52,
+        "metacriticuser": 6.0,
+        "trakt": 71,
+        "tomatoes": 56,
+        "popcorn": 86,
+        "tmdb": 69,
+        "letterboxd": 5.6,
+        "rogerebert": 2.5,
+        "mdblist": 64
       }
     },
     {
@@ -246,10 +389,19 @@
       "releaseInfo": "2005",
       "description": "Zoo animals lost in the jungle create pure physical comedy and catchy musical moments.",
       "background": "https://image.tmdb.org/t/p/original/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.0,
+        "metacritic": 57,
+        "metacriticuser": 7.1,
+        "trakt": 74,
+        "tomatoes": 56,
+        "popcorn": 67,
+        "tmdb": 69,
+        "letterboxd": 7.2,
+        "rogerebert": 2.5,
+        "mdblist": 65
       }
     },
     {
@@ -260,10 +412,19 @@
       "releaseInfo": "2008",
       "description": "Plane crashes and cheeky penguin schemes make this an absolute blast for children.",
       "background": "https://image.tmdb.org/t/p/original/3yXLkSTrVhG66MIAr3X6C4gjccw.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.7,
+        "metacritic": 61,
+        "metacriticuser": 6.9,
+        "trakt": 71,
+        "tomatoes": 64,
+        "popcorn": 66,
+        "tmdb": 65,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -274,10 +435,18 @@
       "releaseInfo": "2012",
       "description": "A dazzling, neon circus adventure full of lively acrobatics and wild animal humor.",
       "background": "https://image.tmdb.org/t/p/original/uDR9UjSuykTL8g3N3bh3siZ4n3C.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.8,
+        "metacritic": 60,
+        "metacriticuser": 6.7,
+        "trakt": 71,
+        "tomatoes": 77,
+        "popcorn": 72,
+        "tmdb": 66,
+        "letterboxd": 6.4,
+        "mdblist": 68
       }
     },
     {
@@ -288,10 +457,19 @@
       "releaseInfo": "2014",
       "description": "Secret agent penguins pull off ridiculous undercover missions kids find utterly hilarious.",
       "background": "https://image.tmdb.org/t/p/original/msnknPOg9dx86b0YozXOFP8PgBI.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.7,
+        "metacritic": 53,
+        "metacriticuser": 6.7,
+        "trakt": 71,
+        "tomatoes": 74,
+        "popcorn": 63,
+        "tmdb": 65,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -302,10 +480,19 @@
       "releaseInfo": "2009",
       "description": "Giant pancakes and spaghetti tornadoes turn delicious food into whimsical, imaginative chaos.",
       "background": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.9,
+        "metacritic": 66,
+        "metacriticuser": 7.4,
+        "trakt": 72,
+        "tomatoes": 85,
+        "popcorn": 72,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "rogerebert": 2.5,
+        "mdblist": 70
       }
     },
     {
@@ -316,10 +503,19 @@
       "releaseInfo": "2013",
       "description": "Kids adore discovering adorable, pun-filled 'foodimals' like shrimpanzees and tacodiles.",
       "background": "https://image.tmdb.org/t/p/original/vWriOBVlgW0XWdgbOiijhyLW7B8.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.3,
+        "metacritic": 59,
+        "metacriticuser": 6.7,
+        "trakt": 69,
+        "tomatoes": 71,
+        "popcorn": 66,
+        "tmdb": 64,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 64
       }
     },
     {
@@ -330,10 +526,19 @@
       "releaseInfo": "2013",
       "description": "A funny prehistoric family journeys across a world filled with imaginative, colorful beasts.",
       "background": "https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.1,
+        "metacritic": 55,
+        "metacriticuser": 7.1,
+        "trakt": 73,
+        "tomatoes": 71,
+        "popcorn": 77,
+        "tmdb": 69,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -344,10 +549,19 @@
       "releaseInfo": "2020",
       "description": "Vibrant treehouse gadgets and punch-monkey battles deliver relentless laughs for the family.",
       "background": "https://image.tmdb.org/t/p/original/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 6.9,
+        "metacritic": 56,
+        "metacriticuser": 6.3,
+        "trakt": 74,
+        "tomatoes": 76,
+        "popcorn": 94,
+        "tmdb": 74,
+        "letterboxd": 6.0,
+        "rogerebert": 2.0,
+        "mdblist": 69
       }
     },
     {
@@ -361,7 +575,16 @@
       "imdbRating": "7.0",
       "rating": 7.0,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.0,
+        "metacritic": 67,
+        "metacriticuser": 7.8,
+        "trakt": 70,
+        "tomatoes": 87,
+        "popcorn": 76,
+        "tmdb": 70,
+        "letterboxd": 7.4,
+        "rogerebert": 2.0,
+        "mdblist": 70
       }
     },
     {
@@ -372,10 +595,17 @@
       "releaseInfo": "2000",
       "description": "A selfish emperor turned into a llama delivers the funniest Disney slapstick ever.",
       "background": "https://image.tmdb.org/t/p/original/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.4,
+        "metacritic": 70,
+        "metacriticuser": 7.9,
+        "trakt": 79,
+        "tmdb": 75,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 75
       }
     },
     {
@@ -386,10 +616,15 @@
       "releaseInfo": "2005",
       "description": "Lovable Kronk's silly cooking misadventures provide lighthearted giggles for younger fans.",
       "background": "https://image.tmdb.org/t/p/original/ypekeDgHaJEzUNCo9fbRuyNk3Uy.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "5.8",
+      "rating": 5.8,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 5.8,
+        "trakt": 67,
+        "popcorn": 46,
+        "tmdb": 64,
+        "letterboxd": 6.2,
+        "mdblist": 59
       }
     },
     {
@@ -400,10 +635,19 @@
       "releaseInfo": "1999",
       "description": "Incredible tree-surfing action and catchy Phil Collins songs amaze adventurous kids.",
       "background": "https://image.tmdb.org/t/p/original/a0E1mbejev56Ii51hCnYUDj4tZS.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.3,
+        "metacritic": 80,
+        "metacriticuser": 7.8,
+        "trakt": 77,
+        "tomatoes": 90,
+        "popcorn": 75,
+        "tmdb": 74,
+        "letterboxd": 7.4,
+        "rogerebert": 4.0,
+        "mdblist": 80
       }
     },
     {
@@ -414,10 +658,19 @@
       "releaseInfo": "1997",
       "description": "Mythological monsters and heroic gospel tunes make this a thrilling, joyful watch.",
       "background": "https://image.tmdb.org/t/p/original/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.3,
+        "metacritic": 74,
+        "metacriticuser": 7.9,
+        "trakt": 77,
+        "tomatoes": 83,
+        "popcorn": 76,
+        "tmdb": 74,
+        "letterboxd": 7.8,
+        "rogerebert": 3.5,
+        "mdblist": 77
       }
     },
     {
@@ -428,10 +681,19 @@
       "releaseInfo": "1998",
       "description": "Mushu the dragon adds constant laughs to an inspiring, action-packed heroic journey.",
       "background": "https://image.tmdb.org/t/p/original/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 7.7,
+        "metacritic": 72,
+        "metacriticuser": 8.2,
+        "trakt": 80,
+        "tomatoes": 92,
+        "popcorn": 85,
+        "tmdb": 79,
+        "letterboxd": 8.4,
+        "rogerebert": 3.5,
+        "mdblist": 82
       }
     },
     {
@@ -442,10 +704,19 @@
       "releaseInfo": "1994",
       "description": "Unforgettable musical numbers, funny sidekicks, and an epic savannah story kids cherish.",
       "background": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.5,
+        "metacritic": 88,
+        "metacriticuser": 8.9,
+        "trakt": 84,
+        "tomatoes": 92,
+        "popcorn": 93,
+        "tmdb": 82,
+        "letterboxd": 8.4,
+        "rogerebert": 3.5,
+        "mdblist": 86
       }
     },
     {
@@ -456,10 +727,16 @@
       "releaseInfo": "2004",
       "description": "Timon and Pumbaa retell the classic story with pure silliness and mischief.",
       "background": "https://image.tmdb.org/t/p/original/3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.5,
+        "trakt": 71,
+        "tomatoes": 76,
+        "popcorn": 62,
+        "tmdb": 65,
+        "letterboxd": 6.4,
+        "mdblist": 67
       }
     },
     {
@@ -470,10 +747,19 @@
       "releaseInfo": "2003",
       "description": "Cute bear cubs and silly moose brothers make this nature journey very touching.",
       "background": "https://image.tmdb.org/t/p/original/sZhY0BAsN1bMAPLIqMRqG1fqb3A.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 6.9,
+        "metacritic": 48,
+        "metacriticuser": 6.8,
+        "trakt": 77,
+        "tomatoes": 38,
+        "popcorn": 66,
+        "tmdb": 72,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -484,10 +770,16 @@
       "releaseInfo": "2008",
       "description": "A TV star dog who thinks his superpowers are real goes on an adventure.",
       "background": "https://image.tmdb.org/t/p/original/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.8,
+        "metacritic": 67,
+        "metacriticuser": 7.2,
+        "trakt": 71,
+        "tmdb": 65,
+        "letterboxd": 6.4,
+        "mdblist": 67
       }
     },
     {
@@ -498,10 +790,18 @@
       "releaseInfo": "2007",
       "description": "Wacky future gadgets and dancing frogs celebrate inventiveness and boundless creativity.",
       "background": "https://image.tmdb.org/t/p/original/AsWuvFnzgmG6kZMIpJO7HZpvYRB.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 6.9,
+        "metacritic": 61,
+        "metacriticuser": 6.8,
+        "trakt": 73,
+        "tomatoes": 68,
+        "popcorn": 74,
+        "tmdb": 69,
+        "letterboxd": 7.4,
+        "mdblist": 69
       }
     },
     {
@@ -512,10 +812,19 @@
       "releaseInfo": "2002",
       "description": "Solar-surfing across outer space offers imaginative pirate excitement for young dreamers.",
       "background": "https://image.tmdb.org/t/p/original/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.2,
+        "metacritic": 60,
+        "metacriticuser": 8.0,
+        "trakt": 79,
+        "tomatoes": 68,
+        "popcorn": 73,
+        "tmdb": 75,
+        "letterboxd": 8.0,
+        "rogerebert": 2.5,
+        "mdblist": 71
       }
     },
     {
@@ -526,10 +835,19 @@
       "releaseInfo": "2001",
       "description": "Cool submarines and ancient glowing crystals fuel an exciting undersea adventure.",
       "background": "https://image.tmdb.org/t/p/original/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 6.9,
+        "metacritic": 52,
+        "metacriticuser": 7.2,
+        "trakt": 75,
+        "tomatoes": 49,
+        "popcorn": 55,
+        "tmdb": 70,
+        "letterboxd": 7.6,
+        "rogerebert": 3.5,
+        "mdblist": 66
       }
     },
     {
@@ -540,10 +858,19 @@
       "releaseInfo": "2008",
       "description": "The curious little cleaning robot's cute beeps and big heart charm all ages.",
       "background": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.4,
+        "metacritic": 95,
+        "metacriticuser": 8.9,
+        "trakt": 85,
+        "tomatoes": 95,
+        "popcorn": 90,
+        "tmdb": 81,
+        "letterboxd": 8.4,
+        "rogerebert": 3.5,
+        "mdblist": 87
       }
     },
     {
@@ -554,10 +881,19 @@
       "releaseInfo": "1998",
       "description": "Fun circus bugs and clever tiny inventions make the insect world fascinating.",
       "background": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.2,
+        "metacritic": 78,
+        "metacriticuser": 7.6,
+        "trakt": 74,
+        "tomatoes": 92,
+        "popcorn": 73,
+        "tmdb": 69,
+        "letterboxd": 7.0,
+        "rogerebert": 3.5,
+        "mdblist": 76
       }
     },
     {
@@ -568,10 +904,19 @@
       "releaseInfo": "2006",
       "description": "Talking racecars and silly tow-truck antics immediately capture every kid's imagination.",
       "background": "https://image.tmdb.org/t/p/original/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.3,
+        "metacritic": 73,
+        "metacriticuser": 7.9,
+        "trakt": 77,
+        "tomatoes": 75,
+        "popcorn": 80,
+        "tmdb": 70,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 75
       }
     },
     {
@@ -585,7 +930,16 @@
       "imdbRating": "6.2",
       "rating": 6.2,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.2,
+        "metacritic": 57,
+        "metacriticuser": 6.1,
+        "trakt": 68,
+        "tomatoes": 40,
+        "popcorn": 50,
+        "tmdb": 61,
+        "letterboxd": 6.4,
+        "rogerebert": 3.5,
+        "mdblist": 61
       }
     },
     {
@@ -596,10 +950,19 @@
       "releaseInfo": "2017",
       "description": "Exciting racetrack training and inspiring teamwork make this an uplifting racing story.",
       "background": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.7,
+        "metacritic": 59,
+        "metacriticuser": 6.9,
+        "trakt": 73,
+        "tomatoes": 70,
+        "popcorn": 69,
+        "tmdb": 68,
+        "letterboxd": 6.4,
+        "rogerebert": 2.5,
+        "mdblist": 66
       }
     },
     {
@@ -610,10 +973,19 @@
       "releaseInfo": "2013",
       "description": "A small crop duster takes to the skies to race around the globe.",
       "background": "https://image.tmdb.org/t/p/original/vxgnRbELXgcTSdby7bHR30XEE4f.jpg",
-      "imdbRating": "5.9",
-      "rating": 5.9,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 5.9
+        "imdb": 5.7,
+        "metacritic": 39,
+        "metacriticuser": 4.1,
+        "trakt": 63,
+        "tomatoes": 26,
+        "popcorn": 49,
+        "tmdb": 59,
+        "letterboxd": 4.6,
+        "rogerebert": 2.0,
+        "mdblist": 48
       }
     },
     {
@@ -624,10 +996,19 @@
       "releaseInfo": "2014",
       "description": "Brave smokejumper planes tackling forest fires bring thrilling rescue action kids enjoy.",
       "background": "https://image.tmdb.org/t/p/original/4DryRw1Jyh2c7r8glVayvyhNngP.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "5.9",
+      "rating": 5.9,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 5.9,
+        "metacritic": 48,
+        "metacriticuser": 5.9,
+        "trakt": 66,
+        "tomatoes": 44,
+        "popcorn": 56,
+        "tmdb": 62,
+        "letterboxd": 4.6,
+        "rogerebert": 2.5,
+        "mdblist": 55
       }
     },
     {
@@ -638,10 +1019,19 @@
       "releaseInfo": "2015",
       "description": "A friendly young dinosaur and a wild boy form a sweet survival friendship.",
       "background": "https://image.tmdb.org/t/p/original/cF3H9pyUF6dsvqlYUcH0TyBAMTG.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.7,
+        "metacritic": 66,
+        "metacriticuser": 6.5,
+        "trakt": 71,
+        "tomatoes": 76,
+        "popcorn": 64,
+        "tmdb": 67,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 66
       }
     },
     {
@@ -652,10 +1042,19 @@
       "releaseInfo": "2020",
       "description": "Elf brothers on a magical van quest find hilarious spells and fantasy creatures.",
       "background": "https://image.tmdb.org/t/p/original/bcT8CaBIj086WVD7K529h78eujb.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.3,
+        "metacritic": 61,
+        "metacriticuser": 7.3,
+        "trakt": 78,
+        "tomatoes": 88,
+        "popcorn": 95,
+        "tmdb": 76,
+        "letterboxd": 6.6,
+        "rogerebert": 2.0,
+        "mdblist": 73
       }
     },
     {
@@ -666,10 +1065,19 @@
       "releaseInfo": "2021",
       "description": "Sea monsters turning human on land to eat pasta and ride Vespas is delightful.",
       "background": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.4,
+        "metacritic": 71,
+        "metacriticuser": 7.6,
+        "trakt": 81,
+        "tomatoes": 91,
+        "popcorn": 85,
+        "tmdb": 77,
+        "letterboxd": 7.4,
+        "rogerebert": 2.5,
+        "mdblist": 76
       }
     },
     {
@@ -680,10 +1088,19 @@
       "releaseInfo": "2023",
       "description": "Fire and water people living together creates dazzling visuals and heartwarming humor.",
       "background": "https://image.tmdb.org/t/p/original/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.0,
+        "metacritic": 58,
+        "metacriticuser": 6.1,
+        "trakt": 79,
+        "tomatoes": 73,
+        "popcorn": 93,
+        "tmdb": 75,
+        "letterboxd": 6.8,
+        "rogerebert": 2.0,
+        "mdblist": 70
       }
     },
     {
@@ -694,10 +1111,19 @@
       "releaseInfo": "2019",
       "description": "A cheeky alien visitor causes delightful, wordless visual comedy across the farm.",
       "background": "https://image.tmdb.org/t/p/original/4pEYqcEpmwDKZg5XFJgZUrZdQCB.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.8,
+        "metacritic": 79,
+        "metacriticuser": 7.2,
+        "trakt": 72,
+        "tomatoes": 96,
+        "popcorn": 79,
+        "tmdb": 69,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 77
       }
     },
     {
@@ -708,10 +1134,19 @@
       "releaseInfo": "2015",
       "description": "Brilliant stop-motion slapstick with farm animals disguising themselves in the big city.",
       "background": "https://image.tmdb.org/t/p/original/sQbpfYoGiEBUnr8tBjHP51heNNT.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.3,
+        "metacritic": 81,
+        "metacriticuser": 8.0,
+        "trakt": 73,
+        "tomatoes": 99,
+        "popcorn": 81,
+        "tmdb": 69,
+        "letterboxd": 7.2,
+        "rogerebert": 4.0,
+        "mdblist": 81
       }
     },
     {
@@ -722,10 +1157,18 @@
       "releaseInfo": "2006",
       "description": "Singing slugs and zany sewer city adventures keep young audiences laughing out loud.",
       "background": "https://image.tmdb.org/t/p/original/7xQk3HdCvkNmk3gblDGn9fVnbsT.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.6,
+        "metacritic": 74,
+        "metacriticuser": 6.6,
+        "trakt": 68,
+        "tomatoes": 73,
+        "popcorn": 65,
+        "tmdb": 63,
+        "letterboxd": 6.6,
+        "mdblist": 67
       }
     },
     {
@@ -736,10 +1179,18 @@
       "releaseInfo": "2005",
       "description": "Bungling pest control inventors hunting a giant fluffy monster is whimsical comedy gold.",
       "background": "https://image.tmdb.org/t/p/original/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.5,
+        "metacritic": 87,
+        "metacriticuser": 8.0,
+        "trakt": 75,
+        "tomatoes": 95,
+        "popcorn": 79,
+        "tmdb": 71,
+        "letterboxd": 7.8,
+        "mdblist": 80
       }
     },
     {
@@ -753,7 +1204,16 @@
       "imdbRating": "6.1",
       "rating": 6.1,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.1,
+        "metacritic": 68,
+        "metacriticuser": 6.3,
+        "trakt": 66,
+        "tomatoes": 80,
+        "popcorn": 48,
+        "tmdb": 61,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 64
       }
     },
     {
@@ -764,10 +1224,19 @@
       "releaseInfo": "2006",
       "description": "Forest critters discovering human junk food results in high-energy, laugh-out-loud mischief.",
       "background": "https://image.tmdb.org/t/p/original/4BmZXt8Yty7F2He4KE05jqGidEz.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.7,
+        "metacritic": 67,
+        "metacriticuser": 7.3,
+        "trakt": 70,
+        "tomatoes": 75,
+        "popcorn": 71,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -781,7 +1250,16 @@
       "imdbRating": "6.0",
       "rating": 6.0,
       "ratings": {
-        "imdb": 6.0
+        "imdb": 6.0,
+        "metacritic": 48,
+        "metacriticuser": 5.1,
+        "trakt": 65,
+        "tomatoes": 34,
+        "popcorn": 47,
+        "tmdb": 60,
+        "letterboxd": 6.2,
+        "rogerebert": 2.0,
+        "mdblist": 53
       }
     },
     {
@@ -792,10 +1270,19 @@
       "releaseInfo": "2009",
       "description": "Goofy, giant misfit monsters team up to battle funny alien conquerors.",
       "background": "https://image.tmdb.org/t/p/original/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.4,
+        "metacritic": 56,
+        "metacriticuser": 6.3,
+        "trakt": 67,
+        "tomatoes": 73,
+        "popcorn": 59,
+        "tmdb": 62,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 62
       }
     },
     {
@@ -806,10 +1293,19 @@
       "releaseInfo": "2013",
       "description": "A super-speedy garden snail racing in the Indy 500 is delightfully absurd fun.",
       "background": "https://image.tmdb.org/t/p/original/3qfiZd8ETMk9MQsmhbOB5QAAx0l.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.4,
+        "metacritic": 58,
+        "metacriticuser": 6.3,
+        "trakt": 68,
+        "tomatoes": 68,
+        "popcorn": 65,
+        "tmdb": 62,
+        "letterboxd": 5.6,
+        "rogerebert": 2.5,
+        "mdblist": 62
       }
     },
     {
@@ -820,10 +1316,19 @@
       "releaseInfo": "2015",
       "description": "A color-changing alien named Oh brings bubbly, eccentric fun and heartwarming friendship.",
       "background": "https://image.tmdb.org/t/p/original/gnkBzJVH2zicIopP2fHf4kRElne.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.5,
+        "metacritic": 55,
+        "metacriticuser": 6.6,
+        "trakt": 71,
+        "tomatoes": 53,
+        "popcorn": 64,
+        "tmdb": 67,
+        "letterboxd": 6.0,
+        "rogerebert": 2.0,
+        "mdblist": 60
       }
     },
     {
@@ -834,10 +1339,19 @@
       "releaseInfo": "2014",
       "description": "Quirky, lovable creatures living inside cardboard boxes build inventive gadgets underground.",
       "background": "https://image.tmdb.org/t/p/original/dkBx0XNzsngDDqiWiPG08eMWBm7.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.8,
+        "metacritic": 61,
+        "metacriticuser": 6.9,
+        "trakt": 70,
+        "tomatoes": 78,
+        "popcorn": 63,
+        "tmdb": 67,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 70
       }
     },
     {
@@ -851,7 +1365,15 @@
       "imdbRating": "7.7",
       "rating": 7.7,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 7.7,
+        "metacritic": 84,
+        "metacriticuser": 8.1,
+        "trakt": 79,
+        "tomatoes": 97,
+        "popcorn": 86,
+        "tmdb": 77,
+        "letterboxd": 8.0,
+        "mdblist": 82
       }
     },
     {
@@ -862,10 +1384,19 @@
       "releaseInfo": "2006",
       "description": "Scrat's desperate acorn pursuits and giant water park slides provide endless giggles.",
       "background": "https://image.tmdb.org/t/p/original/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.8,
+        "metacritic": 59,
+        "metacriticuser": 7.0,
+        "trakt": 72,
+        "tomatoes": 56,
+        "popcorn": 71,
+        "tmdb": 67,
+        "letterboxd": 6.4,
+        "rogerebert": 2.5,
+        "mdblist": 64
       }
     },
     {
@@ -876,10 +1407,19 @@
       "releaseInfo": "2009",
       "description": "Discovering an underground dinosaur world brings gigantic, funny prehistoric thrills.",
       "background": "https://image.tmdb.org/t/p/original/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 50,
+        "metacriticuser": 7.0,
+        "trakt": 73,
+        "tomatoes": 46,
+        "popcorn": 63,
+        "tmdb": 68,
+        "letterboxd": 6.6,
+        "rogerebert": 3.5,
+        "mdblist": 65
       }
     },
     {
@@ -890,10 +1430,19 @@
       "releaseInfo": "2012",
       "description": "Pirate animals sailing on icebergs create a chaotic, fun-filled high seas adventure.",
       "background": "https://image.tmdb.org/t/p/original/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.5,
+        "metacritic": 49,
+        "metacriticuser": 6.0,
+        "trakt": 69,
+        "tomatoes": 37,
+        "popcorn": 61,
+        "tmdb": 63,
+        "letterboxd": 5.8,
+        "rogerebert": 2.0,
+        "mdblist": 56
       }
     },
     {
@@ -904,10 +1453,19 @@
       "releaseInfo": "2016",
       "description": "Cosmic mishaps and meteor-deflecting shenanigans offer goofy slapstick for little kids.",
       "background": "https://image.tmdb.org/t/p/original/rBEH34dgPMy1WuqZ0AFXR2ThmNo.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 5.7,
+        "metacritic": 34,
+        "metacriticuser": 4.5,
+        "trakt": 67,
+        "tomatoes": 18,
+        "popcorn": 38,
+        "tmdb": 61,
+        "letterboxd": 4.8,
+        "rogerebert": 2.0,
+        "mdblist": 45
       }
     },
     {
@@ -918,10 +1476,19 @@
       "releaseInfo": "2005",
       "description": "A dazzling mechanical metropolis where spare parts come together for huge laughs.",
       "background": "https://image.tmdb.org/t/p/original/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.4,
+        "metacritic": 64,
+        "metacriticuser": 6.8,
+        "trakt": 70,
+        "tomatoes": 62,
+        "popcorn": 54,
+        "tmdb": 65,
+        "letterboxd": 6.8,
+        "rogerebert": 3.5,
+        "mdblist": 66
       }
     },
     {
@@ -932,10 +1499,18 @@
       "releaseInfo": "2008",
       "description": "Dr. Seuss's colorful characters deliver rhyming fun, kindness, and big jungle laughs.",
       "background": "https://image.tmdb.org/t/p/original/Nfwmdxl2EDvVVE4An18Lio6tSx.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.8,
+        "metacritic": 71,
+        "metacriticuser": 6.6,
+        "trakt": 69,
+        "tomatoes": 80,
+        "popcorn": 73,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "mdblist": 69
       }
     },
     {
@@ -949,7 +1524,16 @@
       "imdbRating": "6.6",
       "rating": 6.6,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.6,
+        "metacritic": 52,
+        "metacriticuser": 6.3,
+        "trakt": 70,
+        "tomatoes": 65,
+        "popcorn": 65,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "rogerebert": 2.0,
+        "mdblist": 61
       }
     },
     {
@@ -960,10 +1544,19 @@
       "releaseInfo": "2017",
       "description": "A giant, gentle bull who prefers smelling flowers makes for sweet, humorous storytelling.",
       "background": "https://image.tmdb.org/t/p/original/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 6.7,
+        "metacritic": 58,
+        "metacriticuser": 6.7,
+        "trakt": 74,
+        "tomatoes": 71,
+        "popcorn": 53,
+        "tmdb": 72,
+        "letterboxd": 6.0,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -974,10 +1567,19 @@
       "releaseInfo": "2019",
       "description": "A suave super-spy accidentally turned into a goofy pigeon yields hilarious gadgets.",
       "background": "https://image.tmdb.org/t/p/original/uG1v9Hk1XKICd6IJChRR20mBh8i.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 6.8,
+        "metacritic": 54,
+        "metacriticuser": 6.8,
+        "trakt": 74,
+        "tomatoes": 76,
+        "popcorn": 92,
+        "tmdb": 75,
+        "letterboxd": 6.0,
+        "rogerebert": 2.5,
+        "mdblist": 70
       }
     },
     {
@@ -988,10 +1590,19 @@
       "releaseInfo": "2023",
       "description": "A mischievous shapeshifting girl turns into funny animals while rocking out.",
       "background": "https://image.tmdb.org/t/p/original/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.5,
+        "metacritic": 75,
+        "metacriticuser": 7.5,
+        "trakt": 84,
+        "tomatoes": 92,
+        "popcorn": 90,
+        "tmdb": 78,
+        "letterboxd": 8.0,
+        "rogerebert": 2.0,
+        "mdblist": 78
       }
     },
     {
@@ -1002,10 +1613,19 @@
       "releaseInfo": "2014",
       "description": "A mile-a-minute gag fest where everything is awesome and creatively built from bricks.",
       "background": "https://image.tmdb.org/t/p/original/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.7,
+        "metacritic": 83,
+        "metacriticuser": 8.2,
+        "trakt": 77,
+        "tomatoes": 96,
+        "popcorn": 87,
+        "tmdb": 74,
+        "letterboxd": 7.8,
+        "rogerebert": 4.0,
+        "mdblist": 84
       }
     },
     {
@@ -1016,10 +1636,19 @@
       "releaseInfo": "2019",
       "description": "Glittery space worlds and catchier songs continue the chaotic, imaginative brick-building fun.",
       "background": "https://image.tmdb.org/t/p/original/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.5,
+        "metacritic": 65,
+        "metacriticuser": 6.7,
+        "trakt": 69,
+        "tomatoes": 84,
+        "popcorn": 67,
+        "tmdb": 66,
+        "letterboxd": 6.2,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -1033,7 +1662,16 @@
       "imdbRating": "7.3",
       "rating": 7.3,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.3,
+        "metacritic": 75,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 89,
+        "popcorn": 81,
+        "tmdb": 72,
+        "letterboxd": 8.0,
+        "rogerebert": 2.5,
+        "mdblist": 76
       }
     },
     {
@@ -1044,10 +1682,19 @@
       "releaseInfo": "2017",
       "description": "Giant robot mechs and an adorable live-action cat invader spark huge giggles.",
       "background": "https://image.tmdb.org/t/p/original/6BQis8u6Q8U5J4EHqdyRRIE0njI.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.1",
+      "rating": 6.1,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.1,
+        "metacritic": 55,
+        "metacriticuser": 5.7,
+        "trakt": 68,
+        "tomatoes": 56,
+        "popcorn": 47,
+        "tmdb": 64,
+        "letterboxd": 6.4,
+        "rogerebert": 1.5,
+        "mdblist": 56
       }
     },
     {
@@ -1058,10 +1705,19 @@
       "releaseInfo": "1999",
       "description": "A friendly giant metal robot eats scrap cars and becomes a boy's protector.",
       "background": "https://image.tmdb.org/t/p/original/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.1,
+        "metacritic": 85,
+        "metacriticuser": 8.7,
+        "trakt": 82,
+        "tomatoes": 96,
+        "popcorn": 90,
+        "tmdb": 79,
+        "letterboxd": 8.6,
+        "rogerebert": 3.5,
+        "mdblist": 85
       }
     },
     {
@@ -1072,10 +1728,19 @@
       "releaseInfo": "2001",
       "description": "A cartoon city inside the human body offers inventive, microscopic detective comedy.",
       "background": "https://image.tmdb.org/t/p/original/b4bOy4QfEN9DfWrH2iTVi2W9eOp.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.3,
+        "metacritic": 57,
+        "metacriticuser": 6.0,
+        "trakt": 67,
+        "tomatoes": 55,
+        "popcorn": 42,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "rogerebert": 3.0,
+        "mdblist": 60
       }
     },
     {
@@ -1086,10 +1751,19 @@
       "releaseInfo": "2021",
       "description": "Looney Tunes characters cause classic cartoon mayhem in a high-tech basketball showdown.",
       "background": "https://image.tmdb.org/t/p/original/8s4h9friP6Ci3adRGahHARVd76E.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "4.5",
+      "rating": 4.5,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 4.5,
+        "metacritic": 36,
+        "metacriticuser": 3.7,
+        "trakt": 59,
+        "tomatoes": 25,
+        "popcorn": 79,
+        "tmdb": 66,
+        "letterboxd": 3.8,
+        "rogerebert": 3.0,
+        "mdblist": 52
       }
     },
     {
@@ -1100,10 +1774,19 @@
       "releaseInfo": "2003",
       "description": "Bugs Bunny and Daffy Duck bring real-world cartoon slapstick to life everywhere.",
       "background": "https://image.tmdb.org/t/p/original/iZiYzix7sMS0NEWsHURSzHF1wxt.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "5.8",
+      "rating": 5.8,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 5.8,
+        "metacritic": 64,
+        "metacriticuser": 6.4,
+        "trakt": 65,
+        "tomatoes": 57,
+        "popcorn": 50,
+        "tmdb": 63,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 62
       }
     },
     {
@@ -1114,10 +1797,16 @@
       "releaseInfo": "1990",
       "description": "Scrooge McDuck hunting genies and ancient treasure is thrilling for young adventurers.",
       "background": "https://image.tmdb.org/t/p/original/rpFJFmZplfOp2JzpmsWzmX72hJK.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.8,
+        "trakt": 72,
+        "tomatoes": 65,
+        "popcorn": 69,
+        "tmdb": 66,
+        "letterboxd": 6.6,
+        "mdblist": 67
       }
     },
     {
@@ -1131,7 +1820,16 @@
       "imdbRating": "7.0",
       "rating": 7.0,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.0,
+        "metacritic": 53,
+        "metacriticuser": 7.5,
+        "trakt": 74,
+        "tomatoes": 64,
+        "popcorn": 71,
+        "tmdb": 70,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 68
       }
     },
     {
@@ -1142,10 +1840,16 @@
       "releaseInfo": "2000",
       "description": "Goofy going to college and skateboarding in extreme games creates silly, joyful comedy.",
       "background": "https://image.tmdb.org/t/p/original/2XoHSRRhwSdv42suJMJBgEyWy5b.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.4,
+        "trakt": 68,
+        "tomatoes": 63,
+        "popcorn": 49,
+        "tmdb": 64,
+        "letterboxd": 6.8,
+        "mdblist": 62
       }
     },
     {
@@ -1156,10 +1860,18 @@
       "releaseInfo": "1973",
       "description": "A heroic fox outsmarting a thumb-sucking lion king brings timeless charm and laughs.",
       "background": "https://image.tmdb.org/t/p/original/3WeFPoPVIGgMumjgLn0EPIfq53A.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.5,
+        "metacritic": 57,
+        "metacriticuser": 7.3,
+        "trakt": 75,
+        "tomatoes": 57,
+        "popcorn": 81,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "mdblist": 70
       }
     },
     {
@@ -1170,10 +1882,16 @@
       "releaseInfo": "1967",
       "description": "Baloo the bear teaching the 'Bare Necessities' makes jungle life pure toe-tapping fun.",
       "background": "https://image.tmdb.org/t/p/original/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 65,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "mdblist": 72
       }
     },
     {
@@ -1184,10 +1902,18 @@
       "releaseInfo": "1963",
       "description": "Merlin's wacky wizard duels and animal transformations delight kids fascinated by magic.",
       "background": "https://image.tmdb.org/t/p/original/uMe6McFXAPEhkasGVlaLTOuhfnl.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.1,
+        "metacritic": 61,
+        "metacriticuser": 7.2,
+        "trakt": 74,
+        "tomatoes": 65,
+        "popcorn": 73,
+        "tmdb": 72,
+        "letterboxd": 7.0,
+        "mdblist": 69
       }
     },
     {
@@ -1198,10 +1924,19 @@
       "releaseInfo": "1970",
       "description": "Playful kittens playing piano and jazz-singing alley cats deliver jazzy, colorful warmth.",
       "background": "https://image.tmdb.org/t/p/original/rnMwOM8gMqo6Gf6XXMpaJEayUwk.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.1,
+        "metacritic": 66,
+        "metacriticuser": 6.9,
+        "trakt": 75,
+        "tomatoes": 64,
+        "popcorn": 70,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -1212,10 +1947,18 @@
       "releaseInfo": "1961",
       "description": "Scores of adorable spotted puppies outwitting clumsy dognappers creates edge-of-seat fun.",
       "background": "https://image.tmdb.org/t/p/original/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.3,
+        "metacritic": 83,
+        "trakt": 73,
+        "tomatoes": 98,
+        "popcorn": 76,
+        "tmdb": 72,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 78
       }
     },
     {
@@ -1226,10 +1969,18 @@
       "releaseInfo": "1988",
       "description": "Cool city dogs and a sweet kitten sing energetic 1980s tunes.",
       "background": "https://image.tmdb.org/t/p/original/k18aKqDPrbTsijtN9jRpnTHxQks.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.6,
+        "metacritic": 58,
+        "metacriticuser": 7.0,
+        "trakt": 70,
+        "tomatoes": 52,
+        "popcorn": 62,
+        "tmdb": 67,
+        "letterboxd": 6.6,
+        "mdblist": 63
       }
     },
     {
@@ -1240,10 +1991,19 @@
       "releaseInfo": "1986",
       "description": "A clever mouse Sherlock Holmes solves mysteries with clockwork gadgets and wit.",
       "background": "https://image.tmdb.org/t/p/original/ijCfzdRLhrdu9OUIaPsVt08ogT5.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.1,
+        "metacritic": 73,
+        "metacriticuser": 7.7,
+        "trakt": 72,
+        "tomatoes": 79,
+        "popcorn": 79,
+        "tmdb": 70,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -1254,10 +2014,18 @@
       "releaseInfo": "1977",
       "description": "Brave tiny mice flying on albatrosses to save the day captivate young minds.",
       "background": "https://image.tmdb.org/t/p/original/dSlofjxxcTSLmnH6602WsSSELU5.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 74,
+        "metacriticuser": 6.9,
+        "trakt": 71,
+        "tomatoes": 79,
+        "popcorn": 68,
+        "tmdb": 67,
+        "letterboxd": 7.0,
+        "mdblist": 71
       }
     },
     {
@@ -1268,10 +2036,19 @@
       "releaseInfo": "1990",
       "description": "Spectacular giant golden eagle flying sequences make this Australian adventure truly breathtaking.",
       "background": "https://image.tmdb.org/t/p/original/nOAmKHegzi3uXZ8tkYiiZWBdUl5.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.8,
+        "metacritic": 68,
+        "metacriticuser": 6.9,
+        "trakt": 69,
+        "tomatoes": 85,
+        "popcorn": 68,
+        "tmdb": 66,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -1282,10 +2059,18 @@
       "releaseInfo": "1955",
       "description": "Spaghetti dinners and charming canine adventures provide sweet, gentle storytelling for kids.",
       "background": "https://image.tmdb.org/t/p/original/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.3,
+        "metacritic": 78,
+        "metacriticuser": 7.4,
+        "trakt": 75,
+        "tomatoes": 91,
+        "popcorn": 80,
+        "tmdb": 71,
+        "letterboxd": 7.2,
+        "mdblist": 77
       }
     },
     {
@@ -1299,7 +2084,15 @@
       "imdbRating": "7.2",
       "rating": 7.2,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.2,
+        "metacritic": 76,
+        "metacriticuser": 6.9,
+        "trakt": 74,
+        "tomatoes": 79,
+        "popcorn": 80,
+        "tmdb": 71,
+        "letterboxd": 7.0,
+        "mdblist": 74
       }
     },
     {
@@ -1310,10 +2103,19 @@
       "releaseInfo": "1950",
       "description": "Tiny mice making dresses and pumpkin carriage transformations bring pure fairy-tale wonder.",
       "background": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.3,
+        "metacritic": 85,
+        "metacriticuser": 7.8,
+        "trakt": 71,
+        "tomatoes": 95,
+        "popcorn": 80,
+        "tmdb": 70,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 77
       }
     },
     {
@@ -1324,10 +2126,19 @@
       "releaseInfo": "1940",
       "description": "A wooden puppet dreaming of being real goes on wild, magical adventures.",
       "background": "https://image.tmdb.org/t/p/original/ikpwuaK0yzNhXO24OeB7cKulhZE.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.4,
+        "metacritic": 99,
+        "metacriticuser": 8.1,
+        "trakt": 73,
+        "tomatoes": 100,
+        "popcorn": 73,
+        "tmdb": 71,
+        "letterboxd": 7.0,
+        "rogerebert": 4.0,
+        "mdblist": 82
       }
     },
     {
@@ -1338,10 +2149,18 @@
       "releaseInfo": "1941",
       "description": "A little elephant who learns to fly with his big ears inspires joy.",
       "background": "https://image.tmdb.org/t/p/original/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.2,
+        "metacritic": 96,
+        "metacriticuser": 7.6,
+        "trakt": 72,
+        "tomatoes": 95,
+        "popcorn": 70,
+        "tmdb": 69,
+        "letterboxd": 6.8,
+        "mdblist": 77
       }
     },
     {
@@ -1352,10 +2171,19 @@
       "releaseInfo": "1989",
       "description": "Colorful singing sea creatures and a mermaid's human curiosities create musical enchantment.",
       "background": "https://image.tmdb.org/t/p/original/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.6,
+        "metacritic": 88,
+        "metacriticuser": 7.3,
+        "trakt": 76,
+        "tomatoes": 92,
+        "popcorn": 88,
+        "tmdb": 73,
+        "letterboxd": 7.4,
+        "rogerebert": 4.0,
+        "mdblist": 83
       }
     },
     {
@@ -1366,10 +2194,15 @@
       "releaseInfo": "2017",
       "description": "Rapunzel's magical glowing hair returns for fun, fast-paced kingdom adventures.",
       "background": "https://image.tmdb.org/t/p/original/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.5,
+        "trakt": 72,
+        "popcorn": 69,
+        "tmdb": 68,
+        "letterboxd": 6.8,
+        "mdblist": 68
       }
     },
     {
@@ -1380,10 +2213,19 @@
       "releaseInfo": "2011",
       "description": "Gentle, laugh-out-loud wordplay and cozy Hundred Acre Wood antics charm young hearts.",
       "background": "https://image.tmdb.org/t/p/original/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.1,
+        "metacritic": 74,
+        "metacriticuser": 7.6,
+        "trakt": 73,
+        "tomatoes": 90,
+        "popcorn": 80,
+        "tmdb": 69,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 75
       }
     },
     {
@@ -1394,10 +2236,16 @@
       "releaseInfo": "1977",
       "description": "Bouncy Tigger and silly honey pots create pure, comfortingly funny childhood memories.",
       "background": "https://image.tmdb.org/t/p/original/19lyrve8NcorainRPLXELTDVnA2.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.5,
+        "trakt": 74,
+        "tomatoes": 100,
+        "popcorn": 87,
+        "tmdb": 72,
+        "letterboxd": 7.6,
+        "mdblist": 82
       }
     },
     {
@@ -1408,10 +2256,18 @@
       "releaseInfo": "2003",
       "description": "Small friends proving they can accomplish very big things makes kids feel empowered.",
       "background": "https://image.tmdb.org/t/p/original/yrIL6TukQ3m2KLf9oFoLMF7kDnz.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.2,
+        "metacritic": 62,
+        "metacriticuser": 7.5,
+        "trakt": 70,
+        "tomatoes": 71,
+        "popcorn": 64,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "mdblist": 66
       }
     },
     {
@@ -1422,10 +2278,18 @@
       "releaseInfo": "2000",
       "description": "High-bouncing shenanigans and sweet friendships make this an endlessly energetic, funny watch.",
       "background": "https://image.tmdb.org/t/p/original/60JMvMGuLHSlVjoUpi86UiB5Lmq.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.4,
+        "metacritic": 53,
+        "metacriticuser": 6.5,
+        "trakt": 69,
+        "tomatoes": 64,
+        "popcorn": 62,
+        "tmdb": 66,
+        "letterboxd": 7.0,
+        "mdblist": 64
       }
     },
     {
@@ -1436,10 +2300,18 @@
       "releaseInfo": "2005",
       "description": "Roo making friends with a cuddly, misunderstood creature teaches love and acceptance.",
       "background": "https://image.tmdb.org/t/p/original/wUFgVDjkSlUwX6ehWhOsy6JSnCx.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.4,
+        "metacritic": 64,
+        "metacriticuser": 6.7,
+        "trakt": 71,
+        "tomatoes": 80,
+        "popcorn": 68,
+        "tmdb": 68,
+        "letterboxd": 7.2,
+        "mdblist": 69
       }
     },
     {
@@ -1453,7 +2325,16 @@
       "imdbRating": "6.5",
       "rating": 6.5,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.5,
+        "metacritic": 62,
+        "metacriticuser": 6.4,
+        "trakt": 69,
+        "tomatoes": 70,
+        "popcorn": 70,
+        "tmdb": 65,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 68
       }
     },
     {
@@ -1464,10 +2345,17 @@
       "releaseInfo": "1988",
       "description": "Adorable baby dinosaurs working together to find the Great Valley sparks great empathy.",
       "background": "https://image.tmdb.org/t/p/original/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.4,
+        "metacritic": 66,
+        "metacriticuser": 7.9,
+        "trakt": 75,
+        "tmdb": 71,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -1478,10 +2366,19 @@
       "releaseInfo": "1986",
       "description": "Fievel the mouse's determined search for his family features heartwarming, memorable songs.",
       "background": "https://image.tmdb.org/t/p/original/WRgAzhlujb9BRnSj97TZVMIvpz.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.9,
+        "metacritic": 38,
+        "metacriticuser": 6.8,
+        "trakt": 71,
+        "tomatoes": 76,
+        "popcorn": 71,
+        "tmdb": 68,
+        "letterboxd": 7.0,
+        "rogerebert": 2.0,
+        "mdblist": 64
       }
     },
     {
@@ -1492,10 +2389,17 @@
       "releaseInfo": "1991",
       "description": "Cowboy mice, villainous cats, and silly slapstick turn the frontier into big fun.",
       "background": "https://image.tmdb.org/t/p/original/8UpJ8svNnwVtpu8n62vGke8MOJf.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.5,
+        "trakt": 68,
+        "tomatoes": 56,
+        "popcorn": 62,
+        "tmdb": 63,
+        "letterboxd": 6.4,
+        "rogerebert": 2.5,
+        "mdblist": 62
       }
     },
     {
@@ -1509,7 +2413,14 @@
       "imdbRating": "6.8",
       "rating": 6.8,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.8,
+        "metacritic": 50,
+        "metacriticuser": 7.1,
+        "trakt": 71,
+        "tmdb": 68,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 67
       }
     },
     {
@@ -1520,10 +2431,19 @@
       "releaseInfo": "1982",
       "description": "Clever, high-tech mice and a courageous mother mouse showcase wondrous, mystical bravery.",
       "background": "https://image.tmdb.org/t/p/original/zhw2gjDMedftoaoPeQYertgTAo2.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.5,
+        "metacritic": 76,
+        "metacriticuser": 8.2,
+        "trakt": 75,
+        "tomatoes": 93,
+        "popcorn": 86,
+        "tmdb": 74,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 79
       }
     },
     {
@@ -1534,10 +2454,19 @@
       "releaseInfo": "1992",
       "description": "Magical fairies and a funny rapping bat explore a glowing, enchanted rainforest.",
       "background": "https://image.tmdb.org/t/p/original/yEWh2uS2hYEMxfMKasrf0ysw874.jpg",
-      "imdbRating": "6.4",
-      "rating": 6.4,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.4
+        "imdb": 6.6,
+        "metacritic": 67,
+        "metacriticuser": 6.5,
+        "trakt": 69,
+        "tomatoes": 67,
+        "popcorn": 64,
+        "tmdb": 64,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 67
       }
     },
     {
@@ -1548,10 +2477,19 @@
       "releaseInfo": "1994",
       "description": "Talking animal sidekicks like Jean-Bob the frog make this musical fairy tale hilarious.",
       "background": "https://image.tmdb.org/t/p/original/gxZnVE7hKqT0VB06hOiLKl583X4.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.5,
+        "metacritic": 70,
+        "metacriticuser": 7.3,
+        "trakt": 71,
+        "tomatoes": 46,
+        "popcorn": 66,
+        "tmdb": 66,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -1562,10 +2500,19 @@
       "releaseInfo": "1998",
       "description": "A two-headed singing dragon brings goofy, upbeat humor to a brave knight's quest.",
       "background": "https://image.tmdb.org/t/p/original/m58yUAi6CuHJ61eYGtSOaV996qn.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.3,
+        "metacritic": 50,
+        "metacriticuser": 7.0,
+        "trakt": 71,
+        "tomatoes": 43,
+        "popcorn": 60,
+        "tmdb": 68,
+        "letterboxd": 6.4,
+        "rogerebert": 2.0,
+        "mdblist": 58
       }
     },
     {
@@ -1576,10 +2523,19 @@
       "releaseInfo": "2000",
       "description": "Two funny best friends stumbling into a city of gold provides nonstop laughs.",
       "background": "https://image.tmdb.org/t/p/original/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 6.9,
+        "metacritic": 51,
+        "metacriticuser": 7.2,
+        "trakt": 75,
+        "tomatoes": 49,
+        "popcorn": 67,
+        "tmdb": 73,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 66
       }
     },
     {
@@ -1590,10 +2546,19 @@
       "releaseInfo": "2003",
       "description": "Battling giant snow birds and sirens on magical oceans offers fast-paced pirate fun.",
       "background": "https://image.tmdb.org/t/p/original/j8isWEPL3PmmVh8ap3jm75qVF4p.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 6.8,
+        "metacritic": 48,
+        "metacriticuser": 6.7,
+        "trakt": 74,
+        "tomatoes": 44,
+        "popcorn": 57,
+        "tmdb": 70,
+        "letterboxd": 7.2,
+        "rogerebert": 3.5,
+        "mdblist": 63
       }
     },
     {
@@ -1604,10 +2569,19 @@
       "releaseInfo": "2002",
       "description": "A wild mustang racing across breathtaking open landscapes inspires a love for horses.",
       "background": "https://image.tmdb.org/t/p/original/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 7.2,
+        "metacritic": 52,
+        "metacriticuser": 7.9,
+        "trakt": 80,
+        "tomatoes": 69,
+        "popcorn": 78,
+        "tmdb": 77,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -1621,7 +2595,16 @@
       "imdbRating": "8.0",
       "rating": 8.0,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.0,
+        "metacritic": 85,
+        "metacriticuser": 8.3,
+        "trakt": 81,
+        "tomatoes": 99,
+        "popcorn": 92,
+        "tmdb": 79,
+        "letterboxd": 8.6,
+        "rogerebert": 2.5,
+        "mdblist": 83
       }
     },
     {
@@ -1632,10 +2615,19 @@
       "releaseInfo": "2020",
       "description": "Kids love running wild through enchanted Irish woods with friendly, magical wolves.",
       "background": "https://image.tmdb.org/t/p/original/3zTbERSBLh7waK9811RTKGAcG86.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.0,
+        "metacritic": 87,
+        "metacriticuser": 8.5,
+        "trakt": 83,
+        "tomatoes": 99,
+        "popcorn": 98,
+        "tmdb": 81,
+        "letterboxd": 8.4,
+        "rogerebert": 3.5,
+        "mdblist": 87
       }
     },
     {
@@ -1646,10 +2638,19 @@
       "releaseInfo": "2009",
       "description": "Intricate, kaleidoscopic animation turns a medieval forest into an enchanting visual wonderland.",
       "background": "https://image.tmdb.org/t/p/original/740KCabjLKjsrxvEakmmJtDtAGY.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.5,
+        "metacritic": 81,
+        "metacriticuser": 7.9,
+        "trakt": 76,
+        "tomatoes": 90,
+        "popcorn": 85,
+        "tmdb": 73,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "mdblist": 79
       }
     },
     {
@@ -1663,7 +2664,15 @@
       "imdbRating": "7.8",
       "rating": 7.8,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.8,
+        "metacritic": 86,
+        "trakt": 79,
+        "tomatoes": 98,
+        "popcorn": 89,
+        "tmdb": 77,
+        "letterboxd": 8.4,
+        "rogerebert": 3.5,
+        "mdblist": 84
       }
     },
     {
@@ -1674,10 +2683,19 @@
       "releaseInfo": "2016",
       "description": "A peaceful desert island tale full of gentle, mesmerizing nature wonders for kids.",
       "background": "https://image.tmdb.org/t/p/original/dotEMpAXmAp6lAYulMVK4lqKFiX.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.5,
+        "metacritic": 86,
+        "metacriticuser": 7.6,
+        "trakt": 75,
+        "tomatoes": 93,
+        "popcorn": 81,
+        "tmdb": 74,
+        "letterboxd": 7.8,
+        "rogerebert": 3.5,
+        "mdblist": 81
       }
     },
     {
@@ -1688,10 +2706,20 @@
       "releaseInfo": "2013",
       "description": "Magical bamboo shoots and brush-stroke art produce a stunningly gentle Japanese folk story.",
       "background": "https://image.tmdb.org/t/p/original/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.0,
+        "metacritic": 89,
+        "metacriticuser": 8.5,
+        "trakt": 81,
+        "tomatoes": 100,
+        "popcorn": 90,
+        "tmdb": 80,
+        "letterboxd": 8.6,
+        "rogerebert": 4.0,
+        "myanimelist": 8.2,
+        "mdblist": 87
       }
     },
     {
@@ -1702,10 +2730,20 @@
       "releaseInfo": "2014",
       "description": "A mysterious seaside mansion and a gentle friendship provide cozy, emotional mystery.",
       "background": "https://image.tmdb.org/t/p/original/rVDOeOccg0K9tXuw6b9uOG6q4mf.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 7.6,
+        "metacritic": 72,
+        "metacriticuser": 7.9,
+        "trakt": 81,
+        "tomatoes": 92,
+        "popcorn": 88,
+        "tmdb": 79,
+        "letterboxd": 7.8,
+        "rogerebert": 3.0,
+        "myanimelist": 8.0,
+        "mdblist": 80
       }
     },
     {
@@ -1719,7 +2757,13 @@
       "imdbRating": "7.1",
       "rating": 7.1,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.1,
+        "metacritic": 70,
+        "trakt": 77,
+        "tmdb": 71,
+        "letterboxd": 7.4,
+        "myanimelist": 7.7,
+        "mdblist": 73
       }
     },
     {
@@ -1730,10 +2774,17 @@
       "releaseInfo": "1995",
       "description": "Chasing a curious cat on a train inspires creative imagination and storytelling.",
       "background": "https://image.tmdb.org/t/p/original/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 7.8,
+        "metacritic": 75,
+        "metacriticuser": 8.1,
+        "trakt": 82,
+        "tmdb": 79,
+        "letterboxd": 8.4,
+        "myanimelist": 8.2,
+        "mdblist": 80
       }
     },
     {
@@ -1744,10 +2795,20 @@
       "releaseInfo": "2018",
       "description": "A magical garden lets a toddler travel in time through funny family encounters.",
       "background": "https://image.tmdb.org/t/p/original/r2FXILO1vUKXGS9xnPva4kkjdHo.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.0,
+        "metacritic": 81,
+        "metacriticuser": 7.5,
+        "trakt": 73,
+        "tomatoes": 90,
+        "popcorn": 80,
+        "tmdb": 72,
+        "letterboxd": 7.2,
+        "rogerebert": 2.0,
+        "myanimelist": 7.2,
+        "mdblist": 73
       }
     },
     {
@@ -1758,10 +2819,18 @@
       "releaseInfo": "2020",
       "description": "Transforming into an adorable white kitten brings playful, sweet magical adventures.",
       "background": "https://image.tmdb.org/t/p/original/eHTZoXmB4vnDqANZXPZcdAiYQo5.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 6.7,
+        "trakt": 77,
+        "tomatoes": 93,
+        "popcorn": 77,
+        "tmdb": 78,
+        "letterboxd": 6.6,
+        "rogerebert": 2.5,
+        "myanimelist": 7.3,
+        "mdblist": 74
       }
     },
     {
@@ -1772,10 +2841,20 @@
       "releaseInfo": "2017",
       "description": "Flying broomsticks and a dazzling school of magic offer vibrant fantasy excitement.",
       "background": "https://image.tmdb.org/t/p/original/yPRnoFEhj09i824pqmE2cwfedsN.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 6.8,
+        "metacritic": 74,
+        "metacriticuser": 6.8,
+        "trakt": 74,
+        "tomatoes": 89,
+        "popcorn": 70,
+        "tmdb": 71,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "myanimelist": 7.2,
+        "mdblist": 73
       }
     },
     {
@@ -1786,10 +2865,20 @@
       "releaseInfo": "2018",
       "description": "Friendly spirits helping a cheerful girl run a hot-spring inn is very sweet.",
       "background": "https://image.tmdb.org/t/p/original/gkhnCTG6IvmUVTUMfR1XXFh5fae.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.1,
+        "metacritic": 70,
+        "metacriticuser": 6.3,
+        "trakt": 75,
+        "tomatoes": 100,
+        "popcorn": 83,
+        "tmdb": 72,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "myanimelist": 7.5,
+        "mdblist": 77
       }
     },
     {
@@ -1800,10 +2889,18 @@
       "releaseInfo": "2011",
       "description": "Santa's clumsy youngest son delivering one last present is funny and heartwarming.",
       "background": "https://image.tmdb.org/t/p/original/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.1,
+        "metacritic": 69,
+        "metacriticuser": 7.5,
+        "trakt": 74,
+        "tomatoes": 93,
+        "popcorn": 77,
+        "tmdb": 67,
+        "letterboxd": 7.0,
+        "mdblist": 74
       }
     },
     {
@@ -1814,10 +2911,19 @@
       "releaseInfo": "2004",
       "description": "A rollercoaster train ride to the North Pole brings thrilling holiday magic.",
       "background": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.6,
+        "metacritic": 61,
+        "metacriticuser": 6.9,
+        "trakt": 71,
+        "tomatoes": 55,
+        "popcorn": 64,
+        "tmdb": 67,
+        "letterboxd": 6.6,
+        "rogerebert": 4.0,
+        "mdblist": 68
       }
     },
     {
@@ -1828,10 +2934,19 @@
       "releaseInfo": "2012",
       "description": "Santa, the Easter Bunny, and Jack Frost team up as magical childhood superheroes.",
       "background": "https://image.tmdb.org/t/p/original/46IGtYNjpIvQYRIQlb2X493Wh8x.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.2,
+        "metacritic": 58,
+        "metacriticuser": 7.4,
+        "trakt": 78,
+        "tomatoes": 75,
+        "popcorn": 80,
+        "tmdb": 73,
+        "letterboxd": 7.4,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -1842,10 +2957,16 @@
       "releaseInfo": "2022",
       "description": "A courageous, adventurous mouse sailing ancient Greek seas offers bright, cheerful fun.",
       "background": "https://image.tmdb.org/t/p/original/qZOuoBoKCDLSm1EvYz2eBub8Cto.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "5.8",
+      "rating": 5.8,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 5.8,
+        "trakt": 65,
+        "tomatoes": 43,
+        "popcorn": 44,
+        "tmdb": 68,
+        "letterboxd": 5.2,
+        "mdblist": 46
       }
     },
     {
@@ -1856,10 +2977,18 @@
       "releaseInfo": "2013",
       "description": "A cute stray ginger cat exploring an eccentric magician's gadget-filled mansion delights kids.",
       "background": "https://image.tmdb.org/t/p/original/sPU9KWoPYt9z8ZbI6iLlF6Xvsje.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.2,
+        "metacritic": 47,
+        "metacriticuser": 5.5,
+        "trakt": 66,
+        "tomatoes": 76,
+        "popcorn": 55,
+        "tmdb": 63,
+        "letterboxd": 6.0,
+        "mdblist": 61
       }
     },
     {
@@ -1870,10 +2999,16 @@
       "releaseInfo": "2010",
       "description": "A sea turtle's journey across colorful ocean reefs sparks curiosity about marine life.",
       "background": "https://image.tmdb.org/t/p/original/rhJJ1ws02oRcwQzxoM8c6pP6U3M.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "6.0",
+      "rating": 6.0,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.0,
+        "trakt": 68,
+        "tomatoes": 44,
+        "popcorn": 48,
+        "tmdb": 60,
+        "letterboxd": 5.6,
+        "mdblist": 56
       }
     },
     {
@@ -1884,10 +3019,18 @@
       "releaseInfo": "2016",
       "description": "An orphan chasing her dream to dance in Paris inspires every young dreamer.",
       "background": "https://image.tmdb.org/t/p/original/wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 6.8,
+        "metacritic": 48,
+        "trakt": 75,
+        "tomatoes": 53,
+        "popcorn": 63,
+        "tmdb": 72,
+        "letterboxd": 6.6,
+        "rogerebert": 1.5,
+        "mdblist": 60
       }
     },
     {
@@ -1901,7 +3044,16 @@
       "imdbRating": "7.6",
       "rating": 7.6,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.6,
+        "metacritic": 70,
+        "metacriticuser": 7.6,
+        "trakt": 79,
+        "tomatoes": 92,
+        "popcorn": 84,
+        "tmdb": 76,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 79
       }
     },
     {
@@ -1912,10 +3064,19 @@
       "releaseInfo": "2017",
       "description": "Prankster best friends turning their principal into a goofy hero creates gut-busting laughter.",
       "background": "https://image.tmdb.org/t/p/original/5ceIqlRzWH4x1IPU9OfjXHO2Kz6.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.2,
+        "metacritic": 69,
+        "metacriticuser": 7.0,
+        "trakt": 68,
+        "tomatoes": 87,
+        "popcorn": 63,
+        "tmdb": 63,
+        "letterboxd": 6.2,
+        "rogerebert": 3.5,
+        "mdblist": 70
       }
     },
     {
@@ -1926,10 +3087,19 @@
       "releaseInfo": "2016",
       "description": "Explosions of glitter, crazy hair tricks, and ultra-catchy pop music make kids dance.",
       "background": "https://image.tmdb.org/t/p/original/gXyYOWAkk4FdQU3adK8WFj8nN9J.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.4,
+        "metacritic": 55,
+        "metacriticuser": 6.4,
+        "trakt": 71,
+        "tomatoes": 76,
+        "popcorn": 67,
+        "tmdb": 66,
+        "letterboxd": 5.8,
+        "rogerebert": 2.5,
+        "mdblist": 64
       }
     },
     {
@@ -1940,10 +3110,19 @@
       "releaseInfo": "2020",
       "description": "Fun musical worlds spanning funk, country, and techno keep kids bouncing with joy.",
       "background": "https://image.tmdb.org/t/p/original/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "6.1",
+      "rating": 6.1,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 6.1,
+        "metacritic": 51,
+        "metacriticuser": 5.8,
+        "trakt": 71,
+        "tomatoes": 72,
+        "popcorn": 57,
+        "tmdb": 72,
+        "letterboxd": 5.6,
+        "rogerebert": 2.5,
+        "mdblist": 62
       }
     },
     {
@@ -1954,10 +3133,19 @@
       "releaseInfo": "2023",
       "description": "Boyband family reunions and vibrant psychedelic visuals provide cheerful, upbeat entertainment.",
       "background": "https://image.tmdb.org/t/p/original/mDW6z7I6de6JbUgPOkAEZwKbg7G.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "6.0",
+      "rating": 6.0,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 6.0,
+        "metacritic": 53,
+        "metacriticuser": 6.3,
+        "trakt": 71,
+        "tomatoes": 64,
+        "popcorn": 92,
+        "tmdb": 72,
+        "letterboxd": 6.2,
+        "rogerebert": 3.5,
+        "mdblist": 70
       }
     },
     {
@@ -1968,10 +3156,19 @@
       "releaseInfo": "2014",
       "description": "Stunning wooden puppet artistry and lively songs celebrate Mexican folklore wonderfully.",
       "background": "https://image.tmdb.org/t/p/original/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.2,
+        "metacritic": 67,
+        "metacriticuser": 7.2,
+        "trakt": 76,
+        "tomatoes": 82,
+        "popcorn": 77,
+        "tmdb": 75,
+        "letterboxd": 7.6,
+        "rogerebert": 3.5,
+        "mdblist": 76
       }
     },
     {
@@ -1982,10 +3179,19 @@
       "releaseInfo": "2020",
       "description": "A girl builds a rocket to meet a radiant moon goddess with music.",
       "background": "https://image.tmdb.org/t/p/original/htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 6.3,
+        "metacritic": 60,
+        "metacriticuser": 6.6,
+        "trakt": 74,
+        "tomatoes": 81,
+        "popcorn": 69,
+        "tmdb": 71,
+        "letterboxd": 6.4,
+        "rogerebert": 2.0,
+        "mdblist": 66
       }
     },
     {
@@ -1996,10 +3202,19 @@
       "releaseInfo": "2019",
       "description": "A cuddly baby yeti with nature magic goes on a breathtaking mountain trek.",
       "background": "https://image.tmdb.org/t/p/original/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.0,
+        "metacritic": 61,
+        "metacriticuser": 6.2,
+        "trakt": 77,
+        "tomatoes": 83,
+        "popcorn": 95,
+        "tmdb": 74,
+        "letterboxd": 6.4,
+        "rogerebert": 2.0,
+        "mdblist": 71
       }
     },
     {
@@ -2010,10 +3225,19 @@
       "releaseInfo": "2023",
       "description": "A magical wishing star who sprinkles star dust creates sweet, bouncy Disney magic.",
       "background": "https://image.tmdb.org/t/p/original/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "5.5",
+      "rating": 5.5,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 5.5,
+        "metacritic": 47,
+        "metacriticuser": 4.0,
+        "trakt": 65,
+        "tomatoes": 48,
+        "popcorn": 80,
+        "tmdb": 62,
+        "letterboxd": 4.6,
+        "rogerebert": 2.0,
+        "mdblist": 56
       }
     },
     {
@@ -2024,10 +3248,17 @@
       "releaseInfo": "2022",
       "description": "A squishy blue blob named Splat guides explorers through a bizarre hidden ecosystem.",
       "background": "https://image.tmdb.org/t/p/original/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 5.7,
+        "metacritic": 65,
+        "metacriticuser": 3.5,
+        "trakt": 68,
+        "tmdb": 62,
+        "letterboxd": 5.6,
+        "rogerebert": 3.0,
+        "mdblist": 63
       }
     },
     {
@@ -2038,10 +3269,19 @@
       "releaseInfo": "2001",
       "description": "An awkward teenager discovering she is royalty makes for funny, relatable wish-fulfillment.",
       "background": "https://image.tmdb.org/t/p/original/ktPixrzD9Rbet7Co4uUWxyR9191.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 6.4,
+        "metacritic": 52,
+        "metacriticuser": 6.7,
+        "trakt": 74,
+        "tomatoes": 50,
+        "popcorn": 68,
+        "tmdb": 69,
+        "letterboxd": 7.4,
+        "rogerebert": 1.5,
+        "mdblist": 61
       }
     },
     {
@@ -2052,10 +3292,17 @@
       "releaseInfo": "2004",
       "description": "Mattress surfing and royal tea-party mishaps keep the princess humor rolling smoothly.",
       "background": "https://image.tmdb.org/t/p/original/pmOXaAK8hteMlCiMZyyDJENHCZI.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "5.9",
+      "rating": 5.9,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 5.9,
+        "metacritic": 43,
+        "metacriticuser": 5.8,
+        "trakt": 72,
+        "tmdb": 67,
+        "letterboxd": 7.0,
+        "rogerebert": 1.5,
+        "mdblist": 58
       }
     },
     {
@@ -2066,10 +3313,18 @@
       "releaseInfo": "2006",
       "description": "Dinosaur skeletons and miniature historical figures coming alive at night is pure fun.",
       "background": "https://image.tmdb.org/t/p/original/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.5,
+        "metacritic": 48,
+        "metacriticuser": 6.6,
+        "trakt": 70,
+        "tomatoes": 42,
+        "popcorn": 67,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "mdblist": 60
       }
     },
     {
@@ -2080,10 +3335,19 @@
       "releaseInfo": "2009",
       "description": "Even bigger historical exhibits awaken to chase each other through giant national museums.",
       "background": "https://image.tmdb.org/t/p/original/zdhICEDUlBTQ43fQMa2KJt8fDFX.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.0",
+      "rating": 6.0,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.0,
+        "metacritic": 42,
+        "metacriticuser": 5.8,
+        "trakt": 66,
+        "tomatoes": 42,
+        "popcorn": 47,
+        "tmdb": 61,
+        "letterboxd": 6.0,
+        "rogerebert": 1.5,
+        "mdblist": 51
       }
     },
     {
@@ -2097,7 +3361,16 @@
       "imdbRating": "6.2",
       "rating": 6.2,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.2,
+        "metacritic": 47,
+        "metacriticuser": 6.0,
+        "trakt": 67,
+        "tomatoes": 49,
+        "popcorn": 57,
+        "tmdb": 62,
+        "letterboxd": 5.8,
+        "rogerebert": 2.0,
+        "mdblist": 55
       }
     },
     {
@@ -2108,10 +3381,19 @@
       "releaseInfo": "2007",
       "description": "An animated fairytale princess singing in bustling modern New York is delightfully comical.",
       "background": "https://image.tmdb.org/t/p/original/u4UpRDi0w84aNrigr9p049rMHiy.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.1,
+        "metacritic": 75,
+        "metacriticuser": 7.4,
+        "trakt": 74,
+        "tomatoes": 93,
+        "popcorn": 80,
+        "tmdb": 68,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -2122,10 +3404,19 @@
       "releaseInfo": "2022",
       "description": "Wicked stepmother spells and musical suburbia create funny, enchanting fairytale chaos.",
       "background": "https://image.tmdb.org/t/p/original/mchDEPh1fkID8nq8IONAGQeiPJg.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "5.6",
+      "rating": 5.6,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 5.6,
+        "metacritic": 50,
+        "metacriticuser": 5.7,
+        "trakt": 65,
+        "tomatoes": 38,
+        "popcorn": 49,
+        "tmdb": 66,
+        "letterboxd": 4.6,
+        "rogerebert": 2.0,
+        "mdblist": 52
       }
     },
     {
@@ -2136,10 +3427,19 @@
       "releaseInfo": "1998",
       "description": "Identical twin sisters swapping places at summer camp pull off classic, funny tricks.",
       "background": "https://image.tmdb.org/t/p/original/hz6NQHZG9vAdSpwG1qeTCKHupO3.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 6.7,
+        "metacritic": 63,
+        "metacriticuser": 7.3,
+        "trakt": 76,
+        "tomatoes": 90,
+        "popcorn": 71,
+        "tmdb": 72,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 73
       }
     },
     {
@@ -2150,10 +3450,19 @@
       "releaseInfo": "2011",
       "description": "Living alongside lions, bears, and monkeys creates an inspiring, joyful family adventure.",
       "background": "https://image.tmdb.org/t/p/original/3epmRoQFyUpLATk1JKgnKKQp0kM.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 58,
+        "metacriticuser": 6.8,
+        "trakt": 72,
+        "tomatoes": 64,
+        "popcorn": 71,
+        "tmdb": 68,
+        "letterboxd": 6.6,
+        "rogerebert": 2.5,
+        "mdblist": 66
       }
     },
     {
@@ -2164,10 +3473,19 @@
       "releaseInfo": "2011",
       "description": "A courageous injured dolphin receiving a prosthetic tail brings true-life emotional cheers.",
       "background": "https://image.tmdb.org/t/p/original/y0GUZoM63hT4HTKyUbQbsaP8yIT.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "6.8",
+      "rating": 6.8,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 6.8,
+        "metacritic": 64,
+        "metacriticuser": 6.8,
+        "trakt": 74,
+        "tomatoes": 81,
+        "popcorn": 80,
+        "tmdb": 69,
+        "letterboxd": 6.4,
+        "rogerebert": 3.0,
+        "mdblist": 71
       }
     },
     {
@@ -2178,10 +3496,19 @@
       "releaseInfo": "1993",
       "description": "An orphan boy forming a deep bond with an energetic killer whale inspires.",
       "background": "https://image.tmdb.org/t/p/original/mXkUfzJfdWx9y4Zlm7wsvQ0uvYo.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
+      "imdbRating": "6.1",
+      "rating": 6.1,
       "ratings": {
-        "imdb": 6.2
+        "imdb": 6.1,
+        "metacritic": 79,
+        "metacriticuser": 6.8,
+        "trakt": 66,
+        "tomatoes": 71,
+        "popcorn": 50,
+        "tmdb": 62,
+        "letterboxd": 6.2,
+        "rogerebert": 3.5,
+        "mdblist": 67
       }
     },
     {
@@ -2192,10 +3519,19 @@
       "releaseInfo": "1995",
       "description": "A polite little pig who learns to herd sheep charms everyone completely.",
       "background": "https://image.tmdb.org/t/p/original/agkZziO4ZPAsVfKUrJD68lys08P.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.9,
+        "metacritic": 83,
+        "metacriticuser": 7.5,
+        "trakt": 68,
+        "tomatoes": 98,
+        "popcorn": 68,
+        "tmdb": 62,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 74
       }
     },
     {
@@ -2206,10 +3542,19 @@
       "releaseInfo": "1998",
       "description": "Babe's kindness wins over a quirky hotel full of talking, singing animals.",
       "background": "https://image.tmdb.org/t/p/original/73Zd7StP4Ln0hSCwmqhCaZomYWB.jpg",
-      "imdbRating": "5.7",
-      "rating": 5.7,
+      "imdbRating": "5.9",
+      "rating": 5.9,
       "ratings": {
-        "imdb": 5.7
+        "imdb": 5.9,
+        "metacritic": 68,
+        "metacriticuser": 6.0,
+        "trakt": 61,
+        "tomatoes": 67,
+        "popcorn": 41,
+        "tmdb": 57,
+        "letterboxd": 6.4,
+        "rogerebert": 4.0,
+        "mdblist": 64
       }
     },
     {
@@ -2220,10 +3565,19 @@
       "releaseInfo": "1999",
       "description": "A tiny talking mouse adopted by humans races model sailboats and outsmarts cats.",
       "background": "https://image.tmdb.org/t/p/original/dECKGAenue36W50HYhd3Jh1OJs.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
+      "imdbRating": "6.0",
+      "rating": 6.0,
       "ratings": {
-        "imdb": 6.1
+        "imdb": 6.0,
+        "metacritic": 61,
+        "metacriticuser": 6.4,
+        "trakt": 65,
+        "tomatoes": 67,
+        "popcorn": 41,
+        "tmdb": 60,
+        "letterboxd": 5.8,
+        "rogerebert": 2.0,
+        "mdblist": 57
       }
     },
     {
@@ -2234,10 +3588,19 @@
       "releaseInfo": "2002",
       "description": "Stuart flies a model airplane to rescue a bird friend in high-flying style.",
       "background": "https://image.tmdb.org/t/p/original/iEvlXeDvLW5IjmWa5jwO0Tieu1g.jpg",
-      "imdbRating": "5.8",
-      "rating": 5.8,
+      "imdbRating": "5.5",
+      "rating": 5.5,
       "ratings": {
-        "imdb": 5.8
+        "imdb": 5.5,
+        "metacritic": 66,
+        "metacriticuser": 6.5,
+        "trakt": 63,
+        "tomatoes": 82,
+        "popcorn": 42,
+        "tmdb": 58,
+        "letterboxd": 5.2,
+        "rogerebert": 3.0,
+        "mdblist": 61
       }
     },
     {
@@ -2248,10 +3611,19 @@
       "releaseInfo": "2018",
       "description": "Mischievous bunnies staging energetic garden battles create funny, slapstick farmyard chaos.",
       "background": "https://image.tmdb.org/t/p/original/1wj8H9gdtkb98Tl3zu0hrHfW0qw.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.6,
+        "metacritic": 51,
+        "metacriticuser": 6.4,
+        "trakt": 71,
+        "tomatoes": 63,
+        "popcorn": 56,
+        "tmdb": 67,
+        "letterboxd": 5.6,
+        "rogerebert": 2.0,
+        "mdblist": 59
       }
     },
     {
@@ -2262,10 +3634,19 @@
       "releaseInfo": "2021",
       "description": "Peter Rabbit pulls off a comical dried-fruit heist at a busy farmers market.",
       "background": "https://image.tmdb.org/t/p/original/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "6.2",
+      "rating": 6.2,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 6.2,
+        "metacritic": 43,
+        "metacriticuser": 5.0,
+        "trakt": 69,
+        "tomatoes": 68,
+        "popcorn": 89,
+        "tmdb": 70,
+        "letterboxd": 5.2,
+        "rogerebert": 2.0,
+        "mdblist": 62
       }
     },
     {
@@ -2279,7 +3660,16 @@
       "imdbRating": "6.0",
       "rating": 6.0,
       "ratings": {
-        "imdb": 6.0
+        "imdb": 6.0,
+        "metacritic": 53,
+        "metacriticuser": 6.1,
+        "trakt": 64,
+        "tomatoes": 47,
+        "popcorn": 53,
+        "tmdb": 59,
+        "letterboxd": 5.6,
+        "rogerebert": 1.5,
+        "mdblist": 53
       }
     },
     {
@@ -2290,10 +3680,19 @@
       "releaseInfo": "2011",
       "description": "Kermit and Miss Piggy putting on a giant reunion variety show brings joy.",
       "background": "https://image.tmdb.org/t/p/original/60PR4UC3D20dycVAoWadUzFio5R.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.1,
+        "metacritic": 75,
+        "metacriticuser": 7.7,
+        "trakt": 70,
+        "tomatoes": 95,
+        "popcorn": 80,
+        "tmdb": 66,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 75
       }
     },
     {
@@ -2304,10 +3703,19 @@
       "releaseInfo": "2014",
       "description": "A sneaky frog criminal mastermind identity-swap creates hilarious European jewel-heist fun.",
       "background": "https://image.tmdb.org/t/p/original/afH2HkgBAumobWx47ujESuRtLCr.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.4,
+        "metacritic": 61,
+        "metacriticuser": 6.3,
+        "trakt": 66,
+        "tomatoes": 80,
+        "popcorn": 59,
+        "tmdb": 63,
+        "letterboxd": 6.6,
+        "rogerebert": 2.0,
+        "mdblist": 63
       }
     },
     {
@@ -2318,10 +3726,19 @@
       "releaseInfo": "1979",
       "description": "A cross-country musical road trip full of puns, banjos, and lovable felt friends.",
       "background": "https://image.tmdb.org/t/p/original/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.6,
+        "metacritic": 74,
+        "metacriticuser": 8.2,
+        "trakt": 76,
+        "tomatoes": 89,
+        "popcorn": 88,
+        "tmdb": 72,
+        "letterboxd": 8.0,
+        "rogerebert": 3.5,
+        "mdblist": 80
       }
     },
     {
@@ -2332,10 +3749,19 @@
       "releaseInfo": "1981",
       "description": "Muppet reporters investigating London jewel thieves offer synchronized swimming and silly antics.",
       "background": "https://image.tmdb.org/t/p/original/p5qPj9klS3IKXBbnWurZYlmSpHx.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.1,
+        "metacritic": 70,
+        "metacriticuser": 7.8,
+        "trakt": 72,
+        "tomatoes": 77,
+        "popcorn": 78,
+        "tmdb": 69,
+        "letterboxd": 7.6,
+        "rogerebert": 2.0,
+        "mdblist": 70
       }
     },
     {
@@ -2346,10 +3772,19 @@
       "releaseInfo": "1996",
       "description": "Pirate ships, musical treasure hunts, and Kermit as captain make this outrageously entertaining.",
       "background": "https://image.tmdb.org/t/p/original/seOhwRXVDGJilTipevwsMNGbXTh.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 7.0,
+        "metacritic": 64,
+        "metacriticuser": 7.3,
+        "trakt": 71,
+        "tomatoes": 80,
+        "popcorn": 77,
+        "tmdb": 67,
+        "letterboxd": 7.2,
+        "rogerebert": 2.5,
+        "mdblist": 70
       }
     },
     {
@@ -2360,10 +3795,19 @@
       "releaseInfo": "1992",
       "description": "Singing vegetables and heartwarming ghosts make this the coziest holiday musical ever.",
       "background": "https://image.tmdb.org/t/p/original/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.8,
+        "metacritic": 64,
+        "metacriticuser": 8.4,
+        "trakt": 78,
+        "tomatoes": 78,
+        "popcorn": 86,
+        "tmdb": 74,
+        "letterboxd": 8.0,
+        "rogerebert": 3.0,
+        "mdblist": 76
       }
     },
     {
@@ -2374,10 +3818,17 @@
       "releaseInfo": "2001",
       "description": "Kids becoming secret agents with cool jetpacks and gadgets to save their parents.",
       "background": "https://image.tmdb.org/t/p/original/aFHAnOI1sjHktgEX5lykeSiUZ1C.jpg",
-      "imdbRating": "5.8",
-      "rating": 5.8,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 5.8
+        "imdb": 5.7,
+        "metacritic": 71,
+        "metacriticuser": 6.8,
+        "trakt": 63,
+        "tmdb": 58,
+        "letterboxd": 6.2,
+        "rogerebert": 3.5,
+        "mdblist": 66
       }
     },
     {
@@ -2388,10 +3839,19 @@
       "releaseInfo": "2002",
       "description": "Magical mutant animal islands and rival kid agents make for double the fun.",
       "background": "https://image.tmdb.org/t/p/original/5rKa5UKXnTdLsgY0mJbjAEQX3gB.jpg",
-      "imdbRating": "5.7",
-      "rating": 5.7,
+      "imdbRating": "5.3",
+      "rating": 5.3,
       "ratings": {
-        "imdb": 5.7
+        "imdb": 5.3,
+        "metacritic": 66,
+        "metacriticuser": 6.5,
+        "trakt": 62,
+        "tomatoes": 75,
+        "popcorn": 40,
+        "tmdb": 56,
+        "letterboxd": 5.8,
+        "rogerebert": 3.0,
+        "mdblist": 60
       }
     },
     {
@@ -2402,10 +3862,19 @@
       "releaseInfo": "2003",
       "description": "Entering a virtual-reality video game with power-up suits excites young gamers.",
       "background": "https://image.tmdb.org/t/p/original/bmuTrxbPcr1nKCsV5YWWJi73PGR.jpg",
-      "imdbRating": "5.1",
-      "rating": 5.1,
+      "imdbRating": "4.4",
+      "rating": 4.4,
       "ratings": {
-        "imdb": 5.1
+        "imdb": 4.4,
+        "metacritic": 57,
+        "metacriticuser": 5.6,
+        "trakt": 56,
+        "tomatoes": 44,
+        "popcorn": 25,
+        "tmdb": 51,
+        "letterboxd": 5.2,
+        "rogerebert": 1.5,
+        "mdblist": 45
       }
     },
     {
@@ -2416,10 +3885,19 @@
       "releaseInfo": "2005",
       "description": "A dream planet made of milk and cookies lets kid imaginations run wild.",
       "background": "https://image.tmdb.org/t/p/original/tKfn6p76ZAzgn7KfmqE7sXBoGiq.jpg",
-      "imdbRating": "5.2",
-      "rating": 5.2,
+      "imdbRating": "3.9",
+      "rating": 3.9,
       "ratings": {
-        "imdb": 5.2
+        "imdb": 3.9,
+        "metacritic": 38,
+        "metacriticuser": 4.2,
+        "trakt": 58,
+        "tomatoes": 20,
+        "popcorn": 34,
+        "tmdb": 52,
+        "letterboxd": 5.4,
+        "rogerebert": 2.0,
+        "mdblist": 43
       }
     },
     {
@@ -2430,10 +3908,19 @@
       "releaseInfo": "2020",
       "description": "Superheroes' kids uniting their unique powers to save the planet is hugely empowering.",
       "background": "https://image.tmdb.org/t/p/original/y6FYAhaeFMj9Lsk8OdF2NeWQkbd.jpg",
-      "imdbRating": "5.9",
-      "rating": 5.9,
+      "imdbRating": "4.7",
+      "rating": 4.7,
       "ratings": {
-        "imdb": 5.9
+        "imdb": 4.7,
+        "metacritic": 51,
+        "metacriticuser": 4.7,
+        "trakt": 58,
+        "tomatoes": 76,
+        "popcorn": 41,
+        "tmdb": 59,
+        "letterboxd": 3.6,
+        "rogerebert": 3.0,
+        "mdblist": 55
       }
     },
     {
@@ -2447,7 +3934,15 @@
       "imdbRating": "6.3",
       "rating": 6.3,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.3,
+        "metacritic": 62,
+        "metacriticuser": 6.6,
+        "trakt": 67,
+        "tomatoes": 73,
+        "popcorn": 57,
+        "tmdb": 62,
+        "letterboxd": 6.4,
+        "mdblist": 64
       }
     },
     {
@@ -2458,10 +3953,19 @@
       "releaseInfo": "2005",
       "description": "A board game blasting a whole house into outer space provides thrilling adventures.",
       "background": "https://image.tmdb.org/t/p/original/s9Bn7Mx4U9cWOR1WdFZjU1DTAkh.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.3",
+      "rating": 6.3,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.3,
+        "metacritic": 67,
+        "metacriticuser": 6.5,
+        "trakt": 69,
+        "tomatoes": 77,
+        "popcorn": 52,
+        "tmdb": 64,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 67
       }
     },
     {
@@ -2475,7 +3979,16 @@
       "imdbRating": "6.8",
       "rating": 6.8,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.8,
+        "metacritic": 62,
+        "metacriticuser": 7.0,
+        "trakt": 70,
+        "tomatoes": 72,
+        "popcorn": 63,
+        "tmdb": 68,
+        "letterboxd": 6.8,
+        "rogerebert": 2.5,
+        "mdblist": 66
       }
     },
     {
@@ -2486,10 +3999,19 @@
       "releaseInfo": "2007",
       "description": "Raising a baby Loch Ness monster in a Scottish bathtub is magical fun.",
       "background": "https://image.tmdb.org/t/p/original/pz38t7dTtW6iNTGtiyL53M7cCw0.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.4",
+      "rating": 6.4,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.4,
+        "metacritic": 71,
+        "metacriticuser": 7.4,
+        "trakt": 67,
+        "tomatoes": 74,
+        "popcorn": 62,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "rogerebert": 3.5,
+        "mdblist": 69
       }
     },
     {
@@ -2500,10 +4022,18 @@
       "releaseInfo": "2007",
       "description": "Imagining a magical fantasy kingdom in the woods celebrates childhood creativity and friendship.",
       "background": "https://image.tmdb.org/t/p/original/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.2,
+        "metacritic": 74,
+        "metacriticuser": 7.5,
+        "trakt": 78,
+        "tomatoes": 84,
+        "popcorn": 70,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "mdblist": 75
       }
     },
     {
@@ -2517,7 +4047,16 @@
       "imdbRating": "6.3",
       "rating": 6.3,
       "ratings": {
-        "imdb": 6.3
+        "imdb": 6.3,
+        "metacritic": 66,
+        "metacriticuser": 6.0,
+        "trakt": 69,
+        "tomatoes": 73,
+        "popcorn": 57,
+        "tmdb": 62,
+        "letterboxd": 5.6,
+        "rogerebert": 3.5,
+        "mdblist": 66
       }
     },
     {
@@ -2528,10 +4067,19 @@
       "releaseInfo": "2005",
       "description": "Chocolate rivers, chewing-gum machines, and singing Oompa Loompas create wild confectionery spectacle.",
       "background": "https://image.tmdb.org/t/p/original/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 6.7,
+        "metacritic": 72,
+        "metacriticuser": 6.8,
+        "trakt": 72,
+        "tomatoes": 83,
+        "popcorn": 51,
+        "tmdb": 70,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -2542,10 +4090,19 @@
       "releaseInfo": "1971",
       "description": "Pure imagination, candy gardens, and fizzy lifting drinks offer timeless family delight.",
       "background": "https://image.tmdb.org/t/p/original/ko7hMSCtXoJFfpYAIbrowwgH0eq.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.8,
+        "metacritic": 67,
+        "metacriticuser": 7.9,
+        "trakt": 78,
+        "tomatoes": 84,
+        "popcorn": 87,
+        "tmdb": 74,
+        "letterboxd": 7.6,
+        "rogerebert": 4.0,
+        "mdblist": 80
       }
     },
     {
@@ -2556,10 +4113,17 @@
       "releaseInfo": "1996",
       "description": "Sailing across the sea inside giant fruit with friendly bugs sparks imaginations.",
       "background": "https://image.tmdb.org/t/p/original/6kTLm7zfwKAgAcGnaVU0uT4QYug.jpg",
-      "imdbRating": "6.6",
-      "rating": 6.6,
+      "imdbRating": "6.7",
+      "rating": 6.7,
       "ratings": {
-        "imdb": 6.6
+        "imdb": 6.7,
+        "metacritic": 78,
+        "metacriticuser": 6.6,
+        "trakt": 68,
+        "tmdb": 66,
+        "letterboxd": 6.8,
+        "rogerebert": 3.0,
+        "mdblist": 70
       }
     },
     {
@@ -2570,10 +4134,19 @@
       "releaseInfo": "1984",
       "description": "Riding a flying luckdragon through magical skies creates legendary, unforgettable childhood awe.",
       "background": "https://image.tmdb.org/t/p/original/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.3,
+        "metacritic": 49,
+        "metacriticuser": 7.8,
+        "trakt": 76,
+        "tomatoes": 83,
+        "popcorn": 81,
+        "tmdb": 72,
+        "letterboxd": 7.2,
+        "rogerebert": 3.0,
+        "mdblist": 72
       }
     },
     {
@@ -2587,7 +4160,16 @@
       "imdbRating": "7.3",
       "rating": 7.3,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.3,
+        "metacritic": 50,
+        "metacriticuser": 7.9,
+        "trakt": 75,
+        "tomatoes": 63,
+        "popcorn": 86,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "rogerebert": 2.0,
+        "mdblist": 68
       }
     },
     {
@@ -2598,10 +4180,16 @@
       "releaseInfo": "1982",
       "description": "A wonder-filled puppet fairy tale on a strange world sparks deep fantasy curiosity.",
       "background": "https://image.tmdb.org/t/p/original/dlIkuHYT977POygUBGZyOszFUB.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.1,
+        "metacritic": 66,
+        "metacriticuser": 7.4,
+        "trakt": 74,
+        "tmdb": 71,
+        "letterboxd": 7.4,
+        "mdblist": 71
       }
     },
     {
@@ -2612,10 +4200,18 @@
       "releaseInfo": "1986",
       "description": "A boy piloting a shiny talking alien spaceship with playful alien zoo creatures.",
       "background": "https://image.tmdb.org/t/p/original/i4f3rnvwY70SMsajTt3LIlmYdBf.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "6.9",
+      "rating": 6.9,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 6.9,
+        "metacritic": 64,
+        "metacriticuser": 7.7,
+        "trakt": 73,
+        "tomatoes": 85,
+        "popcorn": 76,
+        "tmdb": 70,
+        "letterboxd": 6.6,
+        "mdblist": 71
       }
     },
     {
@@ -2626,10 +4222,17 @@
       "releaseInfo": "1982",
       "description": "Bicycles flying across the moon and a glowing-fingered alien friend inspire magic.",
       "background": "https://image.tmdb.org/t/p/original/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.9,
+        "metacritic": 92,
+        "metacriticuser": 8.2,
+        "trakt": 78,
+        "tmdb": 75,
+        "letterboxd": 7.8,
+        "rogerebert": 4.0,
+        "mdblist": 83
       }
     },
     {
@@ -2640,10 +4243,19 @@
       "releaseInfo": "1986",
       "description": "Johnny 5 is a curious robot who loves reading books and making jokes.",
       "background": "https://image.tmdb.org/t/p/original/2IrP2UUSvpDye46Vqr7yXaQncA4.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.6,
+        "metacritic": 50,
+        "metacriticuser": 6.9,
+        "trakt": 73,
+        "tomatoes": 63,
+        "popcorn": 67,
+        "tmdb": 66,
+        "letterboxd": 6.4,
+        "rogerebert": 1.5,
+        "mdblist": 60
       }
     },
     {
@@ -2654,10 +4266,19 @@
       "releaseInfo": "1987",
       "description": "Tiny flying mechanical saucer aliens fixing broken things bring sweet, gentle happiness.",
       "background": "https://image.tmdb.org/t/p/original/b7HsWYjyrVkDPkAFFAGZ76iainK.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.7
+        "imdb": 6.6,
+        "metacritic": 54,
+        "metacriticuser": 6.1,
+        "trakt": 71,
+        "tomatoes": 57,
+        "popcorn": 64,
+        "tmdb": 67,
+        "letterboxd": 6.6,
+        "rogerebert": 3.0,
+        "mdblist": 65
       }
     },
     {
@@ -2668,10 +4289,19 @@
       "releaseInfo": "1939",
       "description": "Skipping down the Yellow Brick Road with talking scarecrows is timeless childhood joy.",
       "background": "https://image.tmdb.org/t/p/original/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.1,
+        "metacritic": 92,
+        "metacriticuser": 8.3,
+        "trakt": 78,
+        "tomatoes": 98,
+        "popcorn": 89,
+        "tmdb": 75,
+        "letterboxd": 7.8,
+        "rogerebert": 4.0,
+        "mdblist": 86
       }
     },
     {
@@ -2682,10 +4312,18 @@
       "releaseInfo": "1964",
       "description": "Jumping into sidewalk chalk drawings and singing with animated penguins never gets old.",
       "background": "https://image.tmdb.org/t/p/original/nMXLizoHhVTeh3GjFyUOfNx3b7i.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.8,
+        "metacritic": 88,
+        "metacriticuser": 8.1,
+        "trakt": 79,
+        "tomatoes": 95,
+        "popcorn": 86,
+        "tmdb": 76,
+        "letterboxd": 7.8,
+        "mdblist": 82
       }
     },
     {
@@ -2696,10 +4334,18 @@
       "releaseInfo": "2018",
       "description": "Ceramic bowl adventures and upside-down rooms offer splendid, bouncy musical numbers.",
       "background": "https://image.tmdb.org/t/p/original/oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 6.5
+        "imdb": 6.6,
+        "metacritic": 66,
+        "metacriticuser": 6.6,
+        "trakt": 69,
+        "tomatoes": 80,
+        "popcorn": 65,
+        "tmdb": 65,
+        "letterboxd": 6.2,
+        "mdblist": 67
       }
     },
     {
@@ -2710,10 +4356,19 @@
       "releaseInfo": "1971",
       "description": "A flying brass bed traveling under the sea features funny animated soccer matches.",
       "background": "https://image.tmdb.org/t/p/original/zylJOaiIp0M4xeE6ox3giDjBTFx.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.1,
+        "metacritic": 59,
+        "metacriticuser": 6.9,
+        "trakt": 73,
+        "tomatoes": 67,
+        "popcorn": 74,
+        "tmdb": 70,
+        "letterboxd": 7.0,
+        "rogerebert": 2.5,
+        "mdblist": 68
       }
     },
     {
@@ -2724,10 +4379,17 @@
       "releaseInfo": "1968",
       "description": "A flying, floating car taking a family on musical adventures is pure wonder.",
       "background": "https://image.tmdb.org/t/p/original/vOl8p3u3MKjACtpTn6CV3BB7HY.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.0,
+        "metacritic": 64,
+        "metacriticuser": 6.1,
+        "trakt": 71,
+        "tmdb": 68,
+        "letterboxd": 7.0,
+        "rogerebert": 3.0,
+        "mdblist": 69
       }
     },
     {
@@ -2738,10 +4400,19 @@
       "releaseInfo": "1998",
       "description": "A doctor discovering he can actually hear animals talk leads to hilarious chaos.",
       "background": "https://image.tmdb.org/t/p/original/kqUjxYB209bPN0DpfXZuR9E4ERW.jpg",
-      "imdbRating": "5.7",
-      "rating": 5.7,
+      "imdbRating": "5.5",
+      "rating": 5.5,
       "ratings": {
-        "imdb": 5.7
+        "imdb": 5.5,
+        "metacritic": 46,
+        "metacriticuser": 6.7,
+        "trakt": 61,
+        "tomatoes": 44,
+        "popcorn": 35,
+        "tmdb": 57,
+        "letterboxd": 5.4,
+        "rogerebert": 3.0,
+        "mdblist": 53
       }
     },
     {
@@ -2752,10 +4423,19 @@
       "releaseInfo": "2004",
       "description": "The lazy, lasagna-loving orange cat getting up to silly mischief amuses young viewers.",
       "background": "https://image.tmdb.org/t/p/original/r8Vk1PJ7eDwRKDZJOS4AKC7puK3.jpg",
-      "imdbRating": "5.7",
-      "rating": 5.7,
+      "imdbRating": "5.1",
+      "rating": 5.1,
       "ratings": {
-        "imdb": 5.7
+        "imdb": 5.1,
+        "metacritic": 27,
+        "metacriticuser": 5.2,
+        "trakt": 61,
+        "tomatoes": 14,
+        "popcorn": 38,
+        "tmdb": 57,
+        "letterboxd": 5.2,
+        "rogerebert": 3.0,
+        "mdblist": 46
       }
     },
     {
@@ -2766,10 +4446,19 @@
       "releaseInfo": "2024",
       "description": "Baby Garfield eating pizza and funny cheese-heist adventures keep kids thoroughly entertained.",
       "background": "https://image.tmdb.org/t/p/original/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "5.7",
+      "rating": 5.7,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 5.7,
+        "metacritic": 31,
+        "metacriticuser": 5.2,
+        "trakt": 66,
+        "tomatoes": 36,
+        "popcorn": 79,
+        "tmdb": 69,
+        "letterboxd": 5.2,
+        "rogerebert": 1.5,
+        "mdblist": 53
       }
     }
   ]

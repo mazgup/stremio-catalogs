@@ -8,10 +8,17 @@
       "releaseInfo": "2022",
       "description": "A chilling psychological corporate mystery with the precision and paranoia of Mr. Robot.",
       "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.6,
+        "metacritic": 85,
+        "metacriticuser": 8.3,
+        "trakt": 86,
+        "tomatoes": 95,
+        "popcorn": 80,
+        "tmdb": 84,
+        "mdblist": 85
       }
     },
     {
@@ -22,10 +29,17 @@
       "releaseInfo": "2014",
       "description": "Bleak, atmospheric Southern gothic crime drama that echoes Mindhunter and The Outsider.",
       "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.8",
+      "rating": 8.8,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.8,
+        "metacritic": 75,
+        "metacriticuser": 7.7,
+        "trakt": 84,
+        "tomatoes": 78,
+        "popcorn": 60,
+        "tmdb": 82,
+        "mdblist": 77
       }
     },
     {
@@ -36,10 +50,17 @@
       "releaseInfo": "2018",
       "description": "Ruthless family power dynamics offering razor-sharp prestige drama like The Sopranos.",
       "background": "https://image.tmdb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.8",
+      "rating": 8.8,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.8,
+        "metacritic": 86,
+        "metacriticuser": 8.6,
+        "trakt": 87,
+        "tomatoes": 95,
+        "popcorn": 88,
+        "tmdb": 83,
+        "mdblist": 87
       }
     },
     {
@@ -50,10 +71,17 @@
       "releaseInfo": "2008",
       "description": "Masterful character descent into criminality that appeals to fans of Snowfall and Sopranos.",
       "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "imdbRating": "9.0",
-      "rating": 9.0,
+      "imdbRating": "9.5",
+      "rating": 9.5,
       "ratings": {
-        "imdb": 9.0
+        "imdb": 9.5,
+        "metacritic": 87,
+        "metacriticuser": 9.4,
+        "trakt": 93,
+        "tomatoes": 96,
+        "popcorn": 97,
+        "tmdb": 89,
+        "mdblist": 92
       }
     },
     {
@@ -64,10 +92,17 @@
       "releaseInfo": "2015",
       "description": "Meticulously paced prestige crime tragedy with incredible psychological depth.",
       "background": "https://image.tmdb.org/t/p/original/rfxryDIv8huejujg4JueDJx8zCz.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7,
+      "imdbRating": "9.0",
+      "rating": 9.0,
       "ratings": {
-        "imdb": 8.7
+        "imdb": 9.0,
+        "metacritic": 86,
+        "metacriticuser": 9.0,
+        "trakt": 89,
+        "tomatoes": 98,
+        "popcorn": 96,
+        "tmdb": 87,
+        "mdblist": 91
       }
     },
     {
@@ -78,10 +113,15 @@
       "releaseInfo": "2002",
       "description": "The quintessential gritty, complex urban crime saga exploring systemic institutional corruption.",
       "background": "https://image.tmdb.org/t/p/original/aQTtua5pG490fMfeKgtYg5B853e.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6,
+      "imdbRating": "9.3",
+      "rating": 9.3,
       "ratings": {
-        "imdb": 8.6
+        "imdb": 9.3,
+        "metacritic": 91,
+        "metacriticuser": 9.2,
+        "trakt": 92,
+        "tmdb": 86,
+        "mdblist": 90
       }
     },
     {
@@ -92,10 +132,17 @@
       "releaseInfo": "2014",
       "description": "Darkly comic, violent midwestern crime tales matching the tone of Inside No. 9.",
       "background": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.8",
+      "rating": 8.8,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.8,
+        "metacritic": 84,
+        "metacriticuser": 8.6,
+        "trakt": 85,
+        "tomatoes": 93,
+        "popcorn": 85,
+        "tmdb": 83,
+        "mdblist": 86
       }
     },
     {
@@ -106,10 +153,17 @@
       "releaseInfo": "2018",
       "description": "Incredible tonal balance of intense psychological darkness and dark satire like Beef.",
       "background": "https://image.tmdb.org/t/p/original/nfjqhuGFUWqJD14B4fxlSiZWfeR.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.3,
+        "metacritic": 88,
+        "metacriticuser": 8.4,
+        "trakt": 81,
+        "tomatoes": 98,
+        "popcorn": 89,
+        "tmdb": 79,
+        "mdblist": 86
       }
     },
     {
@@ -120,10 +174,17 @@
       "releaseInfo": "2017",
       "description": "Grim, high-stakes money laundering thriller filled with relentless tension and danger.",
       "background": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.4,
+        "metacritic": 69,
+        "metacriticuser": 8.1,
+        "trakt": 83,
+        "tomatoes": 82,
+        "popcorn": 86,
+        "tmdb": 81,
+        "mdblist": 80
       }
     },
     {
@@ -134,10 +195,19 @@
       "releaseInfo": "2019",
       "description": "Relentless, harrowing dramatization of bureaucratic catastrophe and institutional failure.",
       "background": "https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7,
+      "imdbRating": "9.3",
+      "rating": 9.3,
       "ratings": {
-        "imdb": 8.7
+        "imdb": 9.3,
+        "metacritic": 82,
+        "metacriticuser": 9.1,
+        "trakt": 91,
+        "tomatoes": 95,
+        "popcorn": 97,
+        "tmdb": 87,
+        "letterboxd": 9.2,
+        "rogerebert": 3.5,
+        "mdblist": 90
       }
     },
     {
@@ -148,10 +218,15 @@
       "releaseInfo": "2013",
       "description": "Stylized historical crime family saga sharing Boardwalk Empire's ruthless ambition.",
       "background": "https://image.tmdb.org/t/p/original/dzq83RHwQcnP6WGJ6YkenIqeaa5.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.7,
+        "metacritic": 77,
+        "metacriticuser": 8.6,
+        "trakt": 86,
+        "tmdb": 85,
+        "mdblist": 83
       }
     },
     {
@@ -162,10 +237,17 @@
       "releaseInfo": "2017",
       "description": "Intricate, somber time-travel puzzle box mystery akin to Dark Matter and The X-Files.",
       "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.7,
+        "metacritic": 72,
+        "metacriticuser": 8.8,
+        "trakt": 86,
+        "tomatoes": 95,
+        "popcorn": 94,
+        "tmdb": 84,
+        "mdblist": 86
       }
     },
     {
@@ -176,10 +258,17 @@
       "releaseInfo": "2013",
       "description": "Deeply emotional Cold War espionage thriller focusing on identity and marital complexity.",
       "background": "https://image.tmdb.org/t/p/original/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.4,
+        "metacritic": 89,
+        "metacriticuser": 8.6,
+        "trakt": 84,
+        "tomatoes": 96,
+        "popcorn": 94,
+        "tmdb": 79,
+        "mdblist": 87
       }
     },
     {
@@ -190,10 +279,17 @@
       "releaseInfo": "2021",
       "description": "Brutal survival horror and psychological trauma mystery similar to Sharp Objects.",
       "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.7,
+        "metacritic": 74,
+        "metacriticuser": 6.8,
+        "trakt": 76,
+        "tomatoes": 92,
+        "popcorn": 65,
+        "tmdb": 74,
+        "mdblist": 76
       }
     },
     {
@@ -204,10 +300,17 @@
       "releaseInfo": "2011",
       "description": "Provocative, unsettling speculative anthology echoing The Twilight Zone and Inside No. 9.",
       "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.7,
+        "metacritic": 74,
+        "metacriticuser": 8.0,
+        "trakt": 84,
+        "tomatoes": 83,
+        "popcorn": 80,
+        "tmdb": 83,
+        "mdblist": 81
       }
     },
     {
@@ -218,10 +321,17 @@
       "releaseInfo": "2022",
       "description": "Gritty, witty British espionage drama balancing dark humor with lethal stakes.",
       "background": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.4,
+        "metacritic": 82,
+        "metacriticuser": 7.7,
+        "trakt": 86,
+        "tomatoes": 97,
+        "popcorn": 87,
+        "tmdb": 80,
+        "mdblist": 86
       }
     },
     {
@@ -232,10 +342,15 @@
       "releaseInfo": "2023",
       "description": "Claustrophobic dystopian mystery that will enthrall fans of Fallout and Foundation.",
       "background": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.1,
+        "metacritic": 77,
+        "metacriticuser": 6.9,
+        "trakt": 84,
+        "tmdb": 82,
+        "mdblist": 81
       }
     },
     {
@@ -246,10 +361,17 @@
       "releaseInfo": "2011",
       "description": "Raw, emotionally gripping London gangland drama matching the realism of Snowfall.",
       "background": "https://image.tmdb.org/t/p/original/e0Xx0uaVBjvT07WgY6ukNonUlZs.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.4,
+        "metacritic": 86,
+        "metacriticuser": 7.5,
+        "trakt": 80,
+        "tomatoes": 97,
+        "popcorn": 84,
+        "tmdb": 75,
+        "mdblist": 84
       }
     },
     {
@@ -260,10 +382,15 @@
       "releaseInfo": "2014",
       "description": "Uncompromising, bleak Italian mob masterpiece devoid of romanticism, rivaling The Sopranos.",
       "background": "https://image.tmdb.org/t/p/original/qVyqPzx6wD3Wm3HD4iy3PrJYxGX.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.6,
+        "trakt": 83,
+        "tomatoes": 85,
+        "popcorn": 93,
+        "tmdb": 80,
+        "mdblist": 85
       }
     },
     {
@@ -274,10 +401,17 @@
       "releaseInfo": "2014",
       "description": "Profound, emotionally intense exploration of grief, existentialism, and bizarre mystery.",
       "background": "https://image.tmdb.org/t/p/original/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 8.3,
+        "metacritic": 76,
+        "metacriticuser": 8.4,
+        "trakt": 82,
+        "tomatoes": 91,
+        "popcorn": 90,
+        "tmdb": 76,
+        "mdblist": 83
       }
     },
     {
@@ -288,10 +422,17 @@
       "releaseInfo": "2013",
       "description": "Heartbreaking small-town murder mystery matching the grief-stricken tone of Mare of Easttown.",
       "background": "https://image.tmdb.org/t/p/original/9CkwC4rou9468XMLTXaB6bZ0frx.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.3,
+        "metacritic": 84,
+        "metacriticuser": 8.0,
+        "trakt": 81,
+        "tomatoes": 92,
+        "popcorn": 91,
+        "tmdb": 79,
+        "mdblist": 85
       }
     },
     {
@@ -302,10 +443,17 @@
       "releaseInfo": "2006",
       "description": "Fascinating psychological study of a calculating serial killer, perfect for Hannibal fans.",
       "background": "https://image.tmdb.org/t/p/original/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.6,
+        "metacritic": 76,
+        "metacriticuser": 8.1,
+        "trakt": 84,
+        "tomatoes": 71,
+        "popcorn": 81,
+        "tmdb": 82,
+        "mdblist": 80
       }
     },
     {
@@ -316,10 +464,17 @@
       "releaseInfo": "2022",
       "description": "Tense, politically astute spy thriller exploring systemic oppression and revolution.",
       "background": "https://image.tmdb.org/t/p/original/quCeAmVQHfsdcYkicbxZWVauCVb.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.6,
+        "metacritic": 84,
+        "metacriticuser": 8.4,
+        "trakt": 85,
+        "tomatoes": 96,
+        "popcorn": 89,
+        "tmdb": 83,
+        "mdblist": 87
       }
     },
     {
@@ -330,10 +485,18 @@
       "releaseInfo": "2024",
       "description": "Gritty mob power struggle that mirrors the crime dynamics of The Sopranos.",
       "background": "https://image.tmdb.org/t/p/original/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.6,
+        "metacritic": 72,
+        "metacriticuser": 8.2,
+        "trakt": 85,
+        "tomatoes": 95,
+        "popcorn": 85,
+        "tmdb": 83,
+        "letterboxd": 9.0,
+        "mdblist": 84
       }
     },
     {
@@ -344,10 +507,18 @@
       "releaseInfo": "2024",
       "description": "Grand political machinations, ruthless strategy, and prestige drama like House of the Dragon.",
       "background": "https://image.tmdb.org/t/p/original/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.6,
+        "metacritic": 85,
+        "trakt": 85,
+        "tomatoes": 99,
+        "popcorn": 85,
+        "tmdb": 84,
+        "letterboxd": 9.0,
+        "rogerebert": 3.5,
+        "mdblist": 87
       }
     },
     {
@@ -358,10 +529,18 @@
       "releaseInfo": "2018",
       "description": "Masterclass in family trauma disguised as terrifying horror, appealing to Them fans.",
       "background": "https://image.tmdb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.5,
+        "metacritic": 79,
+        "metacriticuser": 8.2,
+        "trakt": 84,
+        "tomatoes": 93,
+        "popcorn": 91,
+        "tmdb": 81,
+        "letterboxd": 8.8,
+        "mdblist": 85
       }
     },
     {
@@ -372,10 +551,19 @@
       "releaseInfo": "2021",
       "description": "Atmospheric, philosophical horror series dealing with faith, zealotry, and isolation.",
       "background": "https://image.tmdb.org/t/p/original/YauN3gyvgqktYhze4gXPWuoZBY.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.7,
+        "metacritic": 75,
+        "metacriticuser": 7.8,
+        "trakt": 77,
+        "tomatoes": 87,
+        "popcorn": 79,
+        "tmdb": 75,
+        "letterboxd": 8.2,
+        "rogerebert": 2.5,
+        "mdblist": 76
       }
     },
     {
@@ -386,10 +574,17 @@
       "releaseInfo": "2014",
       "description": "Lush, visceral gothic horror featuring sensational performances, tailored for Hannibal enthusiasts.",
       "background": "https://image.tmdb.org/t/p/original/32iacqVElB91YZKl9Ky3QEEkXtH.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.2,
+        "metacritic": 74,
+        "metacriticuser": 8.2,
+        "trakt": 80,
+        "tomatoes": 91,
+        "popcorn": 90,
+        "tmdb": 78,
+        "mdblist": 82
       }
     },
     {
@@ -400,10 +595,16 @@
       "releaseInfo": "2017",
       "description": "Lavish, politically volatile noir mystery set in Weimar Germany like Boardwalk Empire.",
       "background": "https://image.tmdb.org/t/p/original/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.4,
+        "metacriticuser": 8.4,
+        "trakt": 81,
+        "tomatoes": 100,
+        "popcorn": 90,
+        "tmdb": 77,
+        "mdblist": 86
       }
     },
     {
@@ -414,10 +615,17 @@
       "releaseInfo": "2010",
       "description": "Sharp, charismatic modern Western crime drama with Reacher-like gritty charm.",
       "background": "https://image.tmdb.org/t/p/original/cyieN1P9Xo5SvLasSUT7SaAAzfy.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.6,
+        "metacritic": 86,
+        "metacriticuser": 8.9,
+        "trakt": 83,
+        "tomatoes": 97,
+        "popcorn": 95,
+        "tmdb": 80,
+        "mdblist": 87
       }
     },
     {
@@ -428,10 +636,15 @@
       "releaseInfo": "2012",
       "description": "High-voltage British police corruption thriller driven by intense interrogation set pieces.",
       "background": "https://image.tmdb.org/t/p/original/5ZLEFPayOJr3KhXPoAnLWdVQJem.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.7,
+        "metacritic": 86,
+        "metacriticuser": 8.0,
+        "trakt": 84,
+        "tmdb": 82,
+        "mdblist": 88
       }
     },
     {
@@ -442,10 +655,17 @@
       "releaseInfo": "2010",
       "description": "Dark, psychological cat-and-mouse crime thriller confronting grotesque criminal minds.",
       "background": "https://image.tmdb.org/t/p/original/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.4,
+        "metacritic": 75,
+        "metacriticuser": 7.4,
+        "trakt": 82,
+        "tomatoes": 88,
+        "popcorn": 88,
+        "tmdb": 78,
+        "mdblist": 82
       }
     },
     {
@@ -456,10 +676,17 @@
       "releaseInfo": "2013",
       "description": "Chilling, analytical duel between a meticulous detective and a cold serial killer.",
       "background": "https://image.tmdb.org/t/p/original/vunaJ5k1cG8T4ROUGDZ05IhNXkP.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 8.1,
+        "metacritic": 79,
+        "metacriticuser": 7.3,
+        "trakt": 79,
+        "tomatoes": 85,
+        "popcorn": 85,
+        "tmdb": 76,
+        "mdblist": 80
       }
     },
     {
@@ -470,10 +697,17 @@
       "releaseInfo": "2014",
       "description": "Authentic, methodical detective procedural capturing the grit that fans of Reacher enjoy.",
       "background": "https://image.tmdb.org/t/p/original/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.5,
+        "metacritic": 73,
+        "metacriticuser": 7.9,
+        "trakt": 82,
+        "tomatoes": 97,
+        "popcorn": 94,
+        "tmdb": 79,
+        "mdblist": 85
       }
     },
     {
@@ -484,10 +718,14 @@
       "releaseInfo": "2021",
       "description": "Intense, tragic Dublin crime family turf war echoing Boardwalk Empire and Sopranos.",
       "background": "https://image.tmdb.org/t/p/original/ggAS074NNNiYMc83Ms25pB87iy0.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.0,
+        "metacriticuser": 5.0,
+        "trakt": 78,
+        "tmdb": 76,
+        "mdblist": 78
       }
     },
     {
@@ -498,10 +736,17 @@
       "releaseInfo": "2020",
       "description": "Visceral, kinetic mob violence and brutal power struggles across global syndicates.",
       "background": "https://image.tmdb.org/t/p/original/9aJ6KwLASA38WzdMRVjk7ILpuTv.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.0,
+        "metacritic": 67,
+        "metacriticuser": 6.2,
+        "trakt": 79,
+        "tomatoes": 84,
+        "popcorn": 66,
+        "tmdb": 77,
+        "mdblist": 75
       }
     },
     {
@@ -512,10 +757,15 @@
       "releaseInfo": "2017",
       "description": "Dark Italian political-mob conspiracy blending corruption, church, and crime.",
       "background": "https://image.tmdb.org/t/p/original/wHdFKpwd98z3M8GVBB09iiKjlxK.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.9,
+        "metacriticuser": 7.6,
+        "trakt": 76,
+        "popcorn": 88,
+        "tmdb": 74,
+        "mdblist": 79
       }
     },
     {
@@ -526,10 +776,19 @@
       "releaseInfo": "2016",
       "description": "Gripping, agonizing examination of the American criminal justice system under pressure.",
       "background": "https://image.tmdb.org/t/p/original/pXxaORRHxvdfdpZ5kux619UsBL4.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.4,
+        "metacritic": 90,
+        "metacriticuser": 8.7,
+        "trakt": 81,
+        "tomatoes": 94,
+        "popcorn": 93,
+        "tmdb": 80,
+        "letterboxd": 8.6,
+        "rogerebert": 4.0,
+        "mdblist": 88
       }
     },
     {
@@ -540,10 +799,19 @@
       "releaseInfo": "2019",
       "description": "Taut, emotionally wrenching true-crime investigative drama grounded in brilliant acting.",
       "background": "https://image.tmdb.org/t/p/original/AhFEqj8PFvvNDQ3Ouv39kNfTraI.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.3,
+        "metacritic": 83,
+        "metacriticuser": 8.0,
+        "trakt": 80,
+        "tomatoes": 98,
+        "popcorn": 89,
+        "tmdb": 79,
+        "letterboxd": 8.4,
+        "rogerebert": 3.5,
+        "mdblist": 85
       }
     },
     {
@@ -554,10 +822,15 @@
       "releaseInfo": "2014",
       "description": "Relentlessly gritty Yorkshire crime drama anchored by an incredible lead performance.",
       "background": "https://image.tmdb.org/t/p/original/zG1K7njAaHcLElUKqNRqmVEbXdh.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.5,
+        "metacritic": 87,
+        "metacriticuser": 8.2,
+        "trakt": 83,
+        "tmdb": 79,
+        "mdblist": 83
       }
     },
     {
@@ -568,10 +841,17 @@
       "releaseInfo": "2002",
       "description": "Adrenaline-fueled, morally bankrupt exploration of rogue cops and urban survival.",
       "background": "https://image.tmdb.org/t/p/original/AuQGIa3ZarPdS0bhWjQWJR0mhJj.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.7,
+        "metacritic": 89,
+        "metacriticuser": 9.0,
+        "trakt": 85,
+        "tomatoes": 90,
+        "popcorn": 96,
+        "tmdb": 82,
+        "mdblist": 88
       }
     },
     {
@@ -582,10 +862,17 @@
       "releaseInfo": "2004",
       "description": "Shakespearean dialogue paired with brutal, lawless historical frontier power dynamics.",
       "background": "https://image.tmdb.org/t/p/original/31oYoyp69L8Bo6Vuz2ogB5JoipV.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.6,
+        "metacritic": 85,
+        "metacriticuser": 9.0,
+        "trakt": 84,
+        "tomatoes": 92,
+        "popcorn": 95,
+        "tmdb": 81,
+        "mdblist": 87
       }
     },
     {
@@ -596,10 +883,17 @@
       "releaseInfo": "2005",
       "description": "Epic prestige political maneuvering and bloody betrayal that set the stage for dragons.",
       "background": "https://image.tmdb.org/t/p/original/b2fhZk0xB2TgMsDXT6goR28PoHX.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.7,
+        "metacritic": 70,
+        "metacriticuser": 8.8,
+        "trakt": 84,
+        "tomatoes": 86,
+        "popcorn": 96,
+        "tmdb": 82,
+        "mdblist": 84
       }
     },
     {
@@ -610,10 +904,17 @@
       "releaseInfo": "2015",
       "description": "Tense, relentless historical crime chronicle echoing the sprawling drug trade of Snowfall.",
       "background": "https://image.tmdb.org/t/p/original/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.7,
+        "metacritic": 77,
+        "metacriticuser": 8.7,
+        "trakt": 84,
+        "tomatoes": 89,
+        "popcorn": 94,
+        "tmdb": 80,
+        "mdblist": 85
       }
     },
     {
@@ -624,10 +925,17 @@
       "releaseInfo": "2018",
       "description": "Complex, tragic saga detailing the rise of modern cartels with intense realism.",
       "background": "https://image.tmdb.org/t/p/original/64jEzC7YeKEpnn1YwjCGRo9ZvOX.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.3,
+        "metacritic": 80,
+        "metacriticuser": 6.7,
+        "trakt": 80,
+        "tomatoes": 90,
+        "popcorn": 66,
+        "tmdb": 79,
+        "mdblist": 79
       }
     },
     {
@@ -638,10 +946,18 @@
       "releaseInfo": "2020",
       "description": "Global, ruthlessly realistic thriller exploring the international cocaine supply chain.",
       "background": "https://image.tmdb.org/t/p/original/rU6AKtd2wZf0Y3t5cCBr3khGlNN.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.1,
+        "metacritic": 74,
+        "metacriticuser": 7.8,
+        "trakt": 78,
+        "tomatoes": 94,
+        "popcorn": 91,
+        "tmdb": 77,
+        "letterboxd": 8.2,
+        "mdblist": 82
       }
     },
     {
@@ -652,10 +968,17 @@
       "releaseInfo": "2022",
       "description": "Stylish, neon-drenched deep dive into the 1990s Japanese underworld and journalism.",
       "background": "https://image.tmdb.org/t/p/original/fGhZTONMDkwSaE5V4FDxf26uenl.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.1,
+        "metacritic": 76,
+        "metacriticuser": 8.0,
+        "trakt": 79,
+        "tomatoes": 89,
+        "popcorn": 91,
+        "tmdb": 78,
+        "mdblist": 82
       }
     },
     {
@@ -666,10 +989,17 @@
       "releaseInfo": "2019",
       "description": "Brutal martial arts and gritty historical gang warfare in 19th-century San Francisco.",
       "background": "https://image.tmdb.org/t/p/original/akshc6F3VmhJpvniRRlgqDt1ndT.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.4,
+        "metacritic": 72,
+        "metacriticuser": 8.1,
+        "trakt": 82,
+        "tomatoes": 93,
+        "popcorn": 95,
+        "tmdb": 80,
+        "mdblist": 84
       }
     },
     {
@@ -680,10 +1010,17 @@
       "releaseInfo": "2013",
       "description": "Pulp, hyper-violent crime thriller full of bone-crunching action like Reacher.",
       "background": "https://image.tmdb.org/t/p/original/cwosIp9M9B6TcLnv0bBg86s0WUx.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.4,
+        "metacritic": 66,
+        "metacriticuser": 8.2,
+        "trakt": 83,
+        "tomatoes": 90,
+        "popcorn": 92,
+        "tmdb": 79,
+        "mdblist": 82
       }
     },
     {
@@ -694,10 +1031,17 @@
       "releaseInfo": "2017",
       "description": "Grim, atmospheric period revenge thriller driven by a ferocious lead performance.",
       "background": "https://image.tmdb.org/t/p/original/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.3,
+        "metacritic": 67,
+        "metacriticuser": 8.3,
+        "trakt": 79,
+        "tomatoes": 76,
+        "popcorn": 91,
+        "tmdb": 78,
+        "mdblist": 79
       }
     },
     {
@@ -708,10 +1052,17 @@
       "releaseInfo": "2014",
       "description": "Intelligent, ruthless political maneuvering mixed with gritty high-seas pirate warfare.",
       "background": "https://image.tmdb.org/t/p/original/A7lo83g09i3cDmLRKtDiiYN8w0z.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.2,
+        "metacritic": 59,
+        "metacriticuser": 7.8,
+        "trakt": 81,
+        "tomatoes": 81,
+        "popcorn": 84,
+        "tmdb": 76,
+        "mdblist": 77
       }
     },
     {
@@ -722,10 +1073,17 @@
       "releaseInfo": "2013",
       "description": "Brutal historical epic exploring raid politics, ambition, and spiritual warfare.",
       "background": "https://image.tmdb.org/t/p/original/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.5,
+        "metacritic": 75,
+        "metacriticuser": 8.0,
+        "trakt": 84,
+        "tomatoes": 93,
+        "popcorn": 88,
+        "tmdb": 81,
+        "mdblist": 84
       }
     },
     {
@@ -739,7 +1097,14 @@
       "imdbRating": "8.4",
       "rating": 8.4,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.4,
+        "metacritic": 83,
+        "metacriticuser": 5.9,
+        "trakt": 82,
+        "tomatoes": 94,
+        "popcorn": 62,
+        "tmdb": 83,
+        "mdblist": 81
       }
     },
     {
@@ -750,10 +1115,19 @@
       "releaseInfo": "2021",
       "description": "Poetic, hopeful yet intense post-apocalyptic narrative highlighting the survival of art.",
       "background": "https://image.tmdb.org/t/p/original/wJLDeUl7QT6Gs3YnIGQQ5K380r3.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.5,
+        "metacritic": 81,
+        "metacriticuser": 7.4,
+        "trakt": 75,
+        "tomatoes": 98,
+        "popcorn": 75,
+        "tmdb": 70,
+        "letterboxd": 8.4,
+        "rogerebert": 4.0,
+        "mdblist": 82
       }
     },
     {
@@ -764,10 +1138,17 @@
       "releaseInfo": "2015",
       "description": "Intricate, high-stakes temporal mystery series that fans of Dark Matter will love.",
       "background": "https://image.tmdb.org/t/p/original/oReDAVfMTBi1J543aKg7LpeecPv.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.7,
+        "metacritic": 57,
+        "metacriticuser": 8.5,
+        "trakt": 77,
+        "tomatoes": 88,
+        "popcorn": 78,
+        "tmdb": 74,
+        "mdblist": 75
       }
     },
     {
@@ -778,10 +1159,17 @@
       "releaseInfo": "2017",
       "description": "Cold War espionage meets parallel dimensions in this sophisticated sci-fi mystery.",
       "background": "https://image.tmdb.org/t/p/original/z2Q4lX7E76BuZMOOZrq4trz91j8.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.0,
+        "metacritic": 76,
+        "metacriticuser": 7.6,
+        "trakt": 78,
+        "tomatoes": 100,
+        "popcorn": 85,
+        "tmdb": 74,
+        "mdblist": 82
       }
     },
     {
@@ -792,10 +1180,15 @@
       "releaseInfo": "2008",
       "description": "The quintessential successor to The X-Files with mind-bending parallel worlds.",
       "background": "https://image.tmdb.org/t/p/original/rYlIRj9NA945UuYohw9jUbDEbts.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.4,
+        "metacritic": 72,
+        "metacriticuser": 8.6,
+        "trakt": 85,
+        "tmdb": 81,
+        "mdblist": 80
       }
     },
     {
@@ -806,10 +1199,17 @@
       "releaseInfo": "2011",
       "description": "Smart techno-thriller that evolves into a high-stakes AI war like Mr. Robot.",
       "background": "https://image.tmdb.org/t/p/original/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.4,
+        "metacritic": 66,
+        "metacriticuser": 8.8,
+        "trakt": 84,
+        "tomatoes": 92,
+        "popcorn": 81,
+        "tmdb": 81,
+        "mdblist": 81
       }
     },
     {
@@ -820,10 +1220,18 @@
       "releaseInfo": "2020",
       "description": "Cerebral, haunting techno-thriller exploring free will and deterministic quantum computing.",
       "background": "https://image.tmdb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 71,
+        "metacriticuser": 7.2,
+        "trakt": 75,
+        "tomatoes": 82,
+        "popcorn": 78,
+        "tmdb": 73,
+        "letterboxd": 7.8,
+        "mdblist": 75
       }
     },
     {
@@ -834,10 +1242,17 @@
       "releaseInfo": "2017",
       "description": "Mind-bending, visually dazzling psychological journey that reinvents superhero storytelling.",
       "background": "https://image.tmdb.org/t/p/original/2t9ROV4QPkJF7iBAW8z0ReqDUoB.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.1,
+        "metacritic": 82,
+        "metacriticuser": 8.1,
+        "trakt": 77,
+        "tomatoes": 91,
+        "popcorn": 85,
+        "tmdb": 75,
+        "mdblist": 81
       }
     },
     {
@@ -848,10 +1263,18 @@
       "releaseInfo": "2019",
       "description": "Provocative, politically layered superhero mystery that tackles institutional racism and trauma.",
       "background": "https://image.tmdb.org/t/p/original/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.2,
+        "metacritic": 85,
+        "metacriticuser": 5.8,
+        "trakt": 80,
+        "tomatoes": 96,
+        "popcorn": 57,
+        "tmdb": 76,
+        "letterboxd": 8.4,
+        "mdblist": 79
       }
     },
     {
@@ -862,10 +1285,17 @@
       "releaseInfo": "2019",
       "description": "Viciously cynical, violent deconstruction of superheroes matching the gore of Invincible.",
       "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.5,
+        "metacritic": 76,
+        "metacriticuser": 2.4,
+        "trakt": 82,
+        "tomatoes": 92,
+        "popcorn": 69,
+        "tmdb": 84,
+        "mdblist": 81
       }
     },
     {
@@ -879,7 +1309,14 @@
       "imdbRating": "8.3",
       "rating": 8.3,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.3,
+        "metacritic": 71,
+        "metacriticuser": 7.7,
+        "trakt": 81,
+        "tomatoes": 94,
+        "popcorn": 89,
+        "tmdb": 83,
+        "mdblist": 83
       }
     },
     {
@@ -890,10 +1327,17 @@
       "releaseInfo": "2021",
       "description": "Masterpiece of animation featuring tragic class warfare and emotional family strife.",
       "background": "https://image.tmdb.org/t/p/original/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7,
+      "imdbRating": "9.0",
+      "rating": 9.0,
       "ratings": {
-        "imdb": 8.7
+        "imdb": 9.0,
+        "metacritic": 86,
+        "metacriticuser": 8.9,
+        "trakt": 90,
+        "tomatoes": 100,
+        "popcorn": 87,
+        "tmdb": 87,
+        "mdblist": 90
       }
     },
     {
@@ -904,10 +1348,18 @@
       "releaseInfo": "2023",
       "description": "Gorgeous, bloody animated revenge tale filled with mature storytelling and nuance.",
       "background": "https://image.tmdb.org/t/p/original/oCMZpwLBcb3dnRuzEKWNWrw1tHz.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.7,
+        "metacritic": 88,
+        "metacriticuser": 8.1,
+        "trakt": 86,
+        "tomatoes": 97,
+        "popcorn": 93,
+        "tmdb": 84,
+        "letterboxd": 9.0,
+        "mdblist": 89
       }
     },
     {
@@ -918,10 +1370,18 @@
       "releaseInfo": "2022",
       "description": "Hyper-kinetic, tragic anime descent into dystopian crime and cyber-psychosis.",
       "background": "https://image.tmdb.org/t/p/original/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.3,
+        "metacriticuser": 8.6,
+        "trakt": 85,
+        "tomatoes": 87,
+        "popcorn": 80,
+        "tmdb": 85,
+        "letterboxd": 8.8,
+        "myanimelist": 8.6,
+        "mdblist": 84
       }
     },
     {
@@ -932,10 +1392,16 @@
       "releaseInfo": "2013",
       "description": "High-stakes, morally ambiguous apocalyptic epic with incredible plot twists like Death Note.",
       "background": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7,
+      "imdbRating": "9.1",
+      "rating": 9.1,
       "ratings": {
-        "imdb": 8.7
+        "imdb": 9.1,
+        "trakt": 89,
+        "tomatoes": 96,
+        "popcorn": 95,
+        "tmdb": 87,
+        "myanimelist": 8.5,
+        "mdblist": 90
       }
     },
     {
@@ -946,10 +1412,15 @@
       "releaseInfo": "2004",
       "description": "Masterful psychological cat-and-mouse anime thriller exploring pure sociopathy like Hannibal.",
       "background": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.8",
+      "rating": 8.8,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.8,
+        "trakt": 86,
+        "tmdb": 85,
+        "letterboxd": 9.4,
+        "myanimelist": 8.9,
+        "mdblist": 87
       }
     },
     {
@@ -960,10 +1431,15 @@
       "releaseInfo": "2012",
       "description": "Grim cyberpunk crime mystery examining authoritarian surveillance and criminal intent.",
       "background": "https://image.tmdb.org/t/p/original/4z8u57awz954GRuK7W86HlhyeeM.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.1,
+        "trakt": 79,
+        "popcorn": 80,
+        "tmdb": 77,
+        "myanimelist": 8.3,
+        "mdblist": 80
       }
     },
     {
@@ -974,10 +1450,17 @@
       "releaseInfo": "2016",
       "description": "Tense time-slip murder mystery with high stakes and deep emotional urgency.",
       "background": "https://image.tmdb.org/t/p/original/rRGnjRCHdDl3m3oCVSvo5z2E5c5.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.4,
+        "trakt": 84,
+        "tomatoes": 100,
+        "popcorn": 95,
+        "tmdb": 84,
+        "letterboxd": 8.4,
+        "myanimelist": 8.3,
+        "mdblist": 88
       }
     },
     {
@@ -988,10 +1471,17 @@
       "releaseInfo": "2011",
       "description": "Brilliant, psychologically devastating time-travel thriller with massive narrative payoff.",
       "background": "https://image.tmdb.org/t/p/original/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.8",
+      "rating": 8.8,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.8,
+        "trakt": 87,
+        "tomatoes": 100,
+        "popcorn": 96,
+        "tmdb": 84,
+        "letterboxd": 9.0,
+        "myanimelist": 9.0,
+        "mdblist": 90
       }
     },
     {
@@ -1002,10 +1492,17 @@
       "releaseInfo": "2022",
       "description": "High-concept sci-fi animated thriller delving into consciousness and cyberwarfare.",
       "background": "https://image.tmdb.org/t/p/original/6MVugklRWUCZGijAaqc6um1Rgff.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.5,
+        "metacritic": 77,
+        "metacriticuser": 8.4,
+        "trakt": 86,
+        "tomatoes": 100,
+        "popcorn": 94,
+        "tmdb": 82,
+        "mdblist": 87
       }
     },
     {
@@ -1019,7 +1516,15 @@
       "imdbRating": "8.6",
       "rating": 8.6,
       "ratings": {
-        "imdb": 8.6
+        "imdb": 8.6,
+        "metacritic": 90,
+        "metacriticuser": 8.3,
+        "trakt": 85,
+        "tomatoes": 100,
+        "popcorn": 90,
+        "tmdb": 86,
+        "letterboxd": 8.8,
+        "mdblist": 89
       }
     },
     {
@@ -1030,10 +1535,19 @@
       "releaseInfo": "2023",
       "description": "Melancholic sci-fi noir mystery pondering artificial life, war, and humanity.",
       "background": "https://image.tmdb.org/t/p/original/oz3LT9glLNWpSQACnWlIYoSZA5M.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.1,
+        "metacritic": 86,
+        "metacriticuser": 8.3,
+        "trakt": 80,
+        "tomatoes": 100,
+        "popcorn": 94,
+        "tmdb": 79,
+        "letterboxd": 8.8,
+        "myanimelist": 8.4,
+        "mdblist": 86
       }
     },
     {
@@ -1044,10 +1558,15 @@
       "releaseInfo": "2022",
       "description": "Terrifying, relentless mystery-box horror about a town you cannot escape.",
       "background": "https://image.tmdb.org/t/p/original/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 7.7,
+        "metacritic": 63,
+        "metacriticuser": 6.8,
+        "trakt": 81,
+        "tmdb": 84,
+        "mdblist": 76
       }
     },
     {
@@ -1058,10 +1577,17 @@
       "releaseInfo": "2019",
       "description": "Witty, delightfully creepy investigation of supernatural events reminiscent of The X-Files.",
       "background": "https://image.tmdb.org/t/p/original/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.7,
+        "metacritic": 83,
+        "metacriticuser": 6.9,
+        "trakt": 77,
+        "tomatoes": 96,
+        "popcorn": 85,
+        "tmdb": 78,
+        "mdblist": 82
       }
     },
     {
@@ -1072,10 +1598,17 @@
       "releaseInfo": "2018",
       "description": "Bone-chilling historical survival horror capturing madness amidst Arctic isolation.",
       "background": "https://image.tmdb.org/t/p/original/4W7yDLoI0qliQXBWBwR5PImI2VL.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.8,
+        "metacritic": 74,
+        "metacriticuser": 7.3,
+        "trakt": 75,
+        "tomatoes": 87,
+        "popcorn": 77,
+        "tmdb": 74,
+        "mdblist": 77
       }
     },
     {
@@ -1086,10 +1619,17 @@
       "releaseInfo": "2018",
       "description": "Creepy psychological anthology steeped in Stephen King lore, perfect for Salem's Lot fans.",
       "background": "https://image.tmdb.org/t/p/original/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.5,
+        "metacritic": 67,
+        "metacriticuser": 6.8,
+        "trakt": 72,
+        "tomatoes": 88,
+        "popcorn": 77,
+        "tmdb": 72,
+        "mdblist": 75
       }
     },
     {
@@ -1100,10 +1640,15 @@
       "releaseInfo": "2013",
       "description": "Disturbing psychological unraveling of a serial killer akin to Hannibal and Sharp Objects.",
       "background": "https://image.tmdb.org/t/p/original/qt3NbzjWRconY6KRGaczte6DmAF.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.1,
+        "metacritic": 69,
+        "metacriticuser": 8.2,
+        "trakt": 80,
+        "tmdb": 80,
+        "mdblist": 77
       }
     },
     {
@@ -1114,10 +1659,18 @@
       "releaseInfo": "2018",
       "description": "Heart-pounding political assassination thriller featuring agonizingly high suspense.",
       "background": "https://image.tmdb.org/t/p/original/tvYf5SOIgAumuVoYn2eYKlotAbf.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.0,
+        "metacritic": 79,
+        "metacriticuser": 7.4,
+        "trakt": 77,
+        "tomatoes": 93,
+        "popcorn": 84,
+        "tmdb": 77,
+        "letterboxd": 7.8,
+        "mdblist": 81
       }
     },
     {
@@ -1128,10 +1681,17 @@
       "releaseInfo": "2011",
       "description": "Taut, paranoia-driven espionage drama dealing with psychological instability and terror.",
       "background": "https://image.tmdb.org/t/p/original/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.3,
+        "metacritic": 81,
+        "metacriticuser": 8.0,
+        "trakt": 81,
+        "tomatoes": 85,
+        "popcorn": 85,
+        "tmdb": 75,
+        "mdblist": 81
       }
     },
     {
@@ -1142,10 +1702,13 @@
       "releaseInfo": "2015",
       "description": "Realistic, deeply engrossing French undercover intelligence thriller of the highest caliber.",
       "background": "https://image.tmdb.org/t/p/original/3ZIWMs9vRjuss8RJWn2ijGRuwtE.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.7,
+        "trakt": 85,
+        "tmdb": 82,
+        "mdblist": 84
       }
     },
     {
@@ -1156,10 +1719,15 @@
       "releaseInfo": "2019",
       "description": "Stylish, cross-cultural crime noir balancing London detectives and Yakuza family feuds.",
       "background": "https://image.tmdb.org/t/p/original/h8ngSjGpbtfc1LCyz9hkBMQPvN0.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.8,
+        "metacritic": 76,
+        "trakt": 75,
+        "tmdb": 74,
+        "letterboxd": 8.0,
+        "mdblist": 75
       }
     },
     {
@@ -1170,10 +1738,17 @@
       "releaseInfo": "2015",
       "description": "Deeply moving, haunted psychological detective procedural dealing with murder and grief.",
       "background": "https://image.tmdb.org/t/p/original/sryK4G2U27mWAiuKk7v63uSbmto.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.9,
+        "metacriticuser": 8.3,
+        "trakt": 76,
+        "tomatoes": 100,
+        "popcorn": 94,
+        "tmdb": 74,
+        "letterboxd": 7.8,
+        "mdblist": 84
       }
     },
     {
@@ -1184,10 +1759,17 @@
       "releaseInfo": "2011",
       "description": "Gloomy, immersive rainy-noir investigation with immense emotional and political weight.",
       "background": "https://image.tmdb.org/t/p/original/LjXBJaNaBGgAsNHDYfFTwGOUWb.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.3,
+        "metacritic": 72,
+        "metacriticuser": 8.1,
+        "trakt": 81,
+        "tomatoes": 68,
+        "popcorn": 87,
+        "tmdb": 78,
+        "mdblist": 78
       }
     },
     {
@@ -1198,10 +1780,15 @@
       "releaseInfo": "2011",
       "description": "Chilling Nordic noir masterpiece kicked off by a body on a borderline.",
       "background": "https://image.tmdb.org/t/p/original/7nX2uLLaVnFUR6azLDXQsjQBQvI.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.6,
+        "metacritic": 64,
+        "metacriticuser": 6.5,
+        "trakt": 84,
+        "tmdb": 80,
+        "mdblist": 78
       }
     },
     {
@@ -1212,10 +1799,14 @@
       "releaseInfo": "2015",
       "description": "Claustrophobic Icelandic blizzard mystery trapping a town with an active killer.",
       "background": "https://image.tmdb.org/t/p/original/A6AuIxCNXdl8cbNhjAu5oLnAlgU.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 8.0,
+        "trakt": 77,
+        "popcorn": 86,
+        "tmdb": 73,
+        "mdblist": 79
       }
     },
     {
@@ -1226,10 +1817,17 @@
       "releaseInfo": "2015",
       "description": "Compassionate yet grim cold-case British crime drama uncovering decades of hidden secrets.",
       "background": "https://image.tmdb.org/t/p/original/ywEk2WXTXELEAL4LcE6QhduJj09.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.4,
+        "metacritic": 78,
+        "metacriticuser": 6.9,
+        "trakt": 80,
+        "tomatoes": 91,
+        "popcorn": 76,
+        "tmdb": 75,
+        "mdblist": 80
       }
     },
     {
@@ -1240,10 +1838,18 @@
       "releaseInfo": "2013",
       "description": "Haunting, feminist-tinted crime mystery set in the wild landscapes of New Zealand.",
       "background": "https://image.tmdb.org/t/p/original/2byYEDTx5J8BiHpCJMU6Cd1fdkC.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.4,
+        "metacritic": 81,
+        "metacriticuser": 7.2,
+        "trakt": 72,
+        "tomatoes": 83,
+        "popcorn": 63,
+        "tmdb": 70,
+        "letterboxd": 7.8,
+        "mdblist": 73
       }
     },
     {
@@ -1254,10 +1860,17 @@
       "releaseInfo": "2021",
       "description": "Gruesome, fast-paced Danish serial killer procedural matching the tone of Mindhunter.",
       "background": "https://image.tmdb.org/t/p/original/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.6,
+        "metacriticuser": 7.5,
+        "trakt": 76,
+        "tomatoes": 100,
+        "popcorn": 77,
+        "tmdb": 74,
+        "letterboxd": 7.6,
+        "mdblist": 80
       }
     },
     {
@@ -1268,10 +1881,17 @@
       "releaseInfo": "2016",
       "description": "Dark, psychological British noir about a detective suffering from violent blackouts.",
       "background": "https://image.tmdb.org/t/p/original/n5ELbp4GXH4nnNkCvQTPH5fetUJ.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.3,
+        "metacritic": 65,
+        "metacriticuser": 6.2,
+        "trakt": 73,
+        "tomatoes": 70,
+        "popcorn": 52,
+        "tmdb": 68,
+        "mdblist": 66
       }
     },
     {
@@ -1282,10 +1902,19 @@
       "releaseInfo": "2020",
       "description": "Gripping parental legal drama exploring the psychological ambiguity of a teenager's guilt.",
       "background": "https://image.tmdb.org/t/p/original/wGPbGjNmFhkT9uTWDX4b06FMd45.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 7.7,
+        "metacritic": 61,
+        "metacriticuser": 7.6,
+        "trakt": 76,
+        "tomatoes": 70,
+        "popcorn": 86,
+        "tmdb": 82,
+        "letterboxd": 7.6,
+        "rogerebert": 2.0,
+        "mdblist": 71
       }
     },
     {
@@ -1296,10 +1925,17 @@
       "releaseInfo": "2024",
       "description": "Obsessive, twisty courtroom crime thriller dissecting sexual obsession and brutal murder.",
       "background": "https://image.tmdb.org/t/p/original/qzi8rTS2KpkrYNWxC1tt7xkRlTY.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 7.7,
+        "metacritic": 64,
+        "metacriticuser": 6.8,
+        "trakt": 77,
+        "tomatoes": 79,
+        "popcorn": 78,
+        "tmdb": 78,
+        "mdblist": 75
       }
     },
     {
@@ -1313,7 +1949,14 @@
       "imdbRating": "8.1",
       "rating": 8.1,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.1,
+        "metacritic": 80,
+        "metacriticuser": 8.0,
+        "trakt": 80,
+        "tmdb": 80,
+        "letterboxd": 8.2,
+        "rogerebert": 3.5,
+        "mdblist": 81
       }
     },
     {
@@ -1327,7 +1970,15 @@
       "imdbRating": "7.5",
       "rating": 7.5,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.5,
+        "metacritic": 71,
+        "metacriticuser": 7.4,
+        "trakt": 73,
+        "tomatoes": 86,
+        "popcorn": 81,
+        "tmdb": 75,
+        "letterboxd": 7.8,
+        "mdblist": 76
       }
     },
     {
@@ -1338,10 +1989,19 @@
       "releaseInfo": "2019",
       "description": "Devastating, intensely acted true account of a profound miscarriage of justice.",
       "background": "https://image.tmdb.org/t/p/original/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.8",
+      "rating": 8.8,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.8,
+        "metacritic": 86,
+        "metacriticuser": 7.8,
+        "trakt": 85,
+        "tomatoes": 96,
+        "popcorn": 89,
+        "tmdb": 82,
+        "letterboxd": 9.2,
+        "rogerebert": 3.5,
+        "mdblist": 87
       }
     },
     {
@@ -1352,10 +2012,18 @@
       "releaseInfo": "2021",
       "description": "Engrossing, infuriating chronicle of corporate greed driving the devastating opioid crisis.",
       "background": "https://image.tmdb.org/t/p/original/uJxG5mIb6gUuFt9OGUUCVikserY.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.6,
+        "metacritic": 68,
+        "metacriticuser": 8.2,
+        "trakt": 81,
+        "tomatoes": 89,
+        "popcorn": 94,
+        "tmdb": 80,
+        "letterboxd": 8.4,
+        "mdblist": 83
       }
     },
     {
@@ -1366,10 +2034,18 @@
       "releaseInfo": "2018",
       "description": "Tense inter-agency rivalry between FBI and CIA leading up to historical tragedy.",
       "background": "https://image.tmdb.org/t/p/original/fajk9hp8iLF3PiFBtHr4hjLhL1y.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 8.0,
+        "metacritic": 74,
+        "metacriticuser": 6.1,
+        "trakt": 76,
+        "tomatoes": 88,
+        "popcorn": 69,
+        "tmdb": 74,
+        "letterboxd": 7.6,
+        "mdblist": 76
       }
     },
     {
@@ -1380,10 +2056,19 @@
       "releaseInfo": "2019",
       "description": "Anxious, nail-biting real-life undercover espionage mission into hostile Syrian territory.",
       "background": "https://image.tmdb.org/t/p/original/d1JhyWMGdIFM5GNvtCKNnMX1qzA.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.9,
+        "metacritic": 68,
+        "metacriticuser": 7.0,
+        "trakt": 78,
+        "tomatoes": 86,
+        "popcorn": 85,
+        "tmdb": 73,
+        "letterboxd": 7.6,
+        "rogerebert": 3.0,
+        "mdblist": 77
       }
     },
     {
@@ -1394,10 +2079,16 @@
       "releaseInfo": "2015",
       "description": "Relentless, pulse-pounding look at the complex realities of Middle Eastern counterterrorism.",
       "background": "https://image.tmdb.org/t/p/original/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 8.3,
+        "metacriticuser": 7.3,
+        "trakt": 82,
+        "tomatoes": 100,
+        "popcorn": 83,
+        "tmdb": 74,
+        "mdblist": 84
       }
     },
     {
@@ -1408,10 +2099,15 @@
       "releaseInfo": "2020",
       "description": "High-tension Mossad undercover operation trapped behind enemy lines in Iran.",
       "background": "https://image.tmdb.org/t/p/original/2hpvEPS5ckA00g0H55gsxLWynNt.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.6,
+        "metacritic": 72,
+        "metacriticuser": 6.7,
+        "trakt": 77,
+        "tmdb": 75,
+        "mdblist": 75
       }
     },
     {
@@ -1422,10 +2118,15 @@
       "releaseInfo": "2020",
       "description": "Intensely suspenseful Swedish thriller tracking an imminent extremist terrorist plot.",
       "background": "https://image.tmdb.org/t/p/original/dsKDTOORBBZO8YdEiBBxeS64nQO.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.2,
+        "trakt": 78,
+        "popcorn": 87,
+        "tmdb": 74,
+        "letterboxd": 8.2,
+        "mdblist": 80
       }
     },
     {
@@ -1439,7 +2140,15 @@
       "imdbRating": "7.9",
       "rating": 7.9,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 7.9,
+        "metacritic": 65,
+        "metacriticuser": 6.8,
+        "trakt": 77,
+        "tomatoes": 85,
+        "popcorn": 67,
+        "tmdb": 78,
+        "letterboxd": 7.4,
+        "mdblist": 75
       }
     },
     {
@@ -1450,10 +2159,16 @@
       "releaseInfo": "2020",
       "description": "Lethal, mind-bending survival games pushing human limits in an abandoned Tokyo.",
       "background": "https://image.tmdb.org/t/p/original/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 7.8,
+        "metacriticuser": 7.9,
+        "trakt": 80,
+        "tomatoes": 78,
+        "popcorn": 79,
+        "tmdb": 80,
+        "mdblist": 79
       }
     },
     {
@@ -1464,10 +2179,17 @@
       "releaseInfo": "2022",
       "description": "Methodical, deeply satisfying psychological revenge thriller tackling cruel school bullying.",
       "background": "https://image.tmdb.org/t/p/original/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.2,
+        "metacriticuser": 6.8,
+        "trakt": 85,
+        "tomatoes": 82,
+        "popcorn": 93,
+        "tmdb": 84,
+        "letterboxd": 8.6,
+        "mdblist": 85
       }
     },
     {
@@ -1478,10 +2200,14 @@
       "releaseInfo": "2021",
       "description": "Intricate Korean psychological mystery questioning who the real monster is.",
       "background": "https://image.tmdb.org/t/p/original/qCKFi1v109vOEHlc02AJFpBcS79.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 8.5
+        "imdb": 8.1,
+        "trakt": 84,
+        "tmdb": 85,
+        "letterboxd": 8.4,
+        "mdblist": 83
       }
     },
     {
@@ -1492,10 +2218,14 @@
       "releaseInfo": "2022",
       "description": "The South Korean counterpart to Mindhunter, tracing the origin of criminal profilers.",
       "background": "https://image.tmdb.org/t/p/original/5R7xT8NCl8XkUqmQWaQP2OAKpy.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.0,
+        "trakt": 80,
+        "tmdb": 78,
+        "letterboxd": 8.2,
+        "mdblist": 67
       }
     },
     {
@@ -1506,10 +2236,14 @@
       "releaseInfo": "2020",
       "description": "Suspenseful melodrama where a detective suspects her loving husband is a killer.",
       "background": "https://image.tmdb.org/t/p/original/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.5,
+        "trakt": 86,
+        "tmdb": 83,
+        "letterboxd": 8.4,
+        "mdblist": 84
       }
     },
     {
@@ -1520,10 +2254,15 @@
       "releaseInfo": "2016",
       "description": "Gripping supernatural time-communication crime mystery solving decades-old cold cases.",
       "background": "https://image.tmdb.org/t/p/original/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.4,
+        "trakt": 85,
+        "popcorn": 96,
+        "tmdb": 82,
+        "letterboxd": 8.4,
+        "mdblist": 86
       }
     },
     {
@@ -1534,10 +2273,17 @@
       "releaseInfo": "2019",
       "description": "Terrifying period political thriller set against a fast-moving, ravenous zombie plague.",
       "background": "https://image.tmdb.org/t/p/original/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.3,
+        "metacritic": 72,
+        "metacriticuser": 8.2,
+        "trakt": 81,
+        "tomatoes": 98,
+        "popcorn": 91,
+        "tmdb": 82,
+        "mdblist": 84
       }
     },
     {
@@ -1548,10 +2294,18 @@
       "releaseInfo": "2022",
       "description": "High-octane, emotionally intense high school outbreak survival series.",
       "background": "https://image.tmdb.org/t/p/original/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 7.6,
+        "metacritic": 67,
+        "metacriticuser": 6.8,
+        "trakt": 78,
+        "tomatoes": 89,
+        "popcorn": 82,
+        "tmdb": 82,
+        "letterboxd": 7.8,
+        "mdblist": 79
       }
     },
     {
@@ -1562,10 +2316,14 @@
       "releaseInfo": "2020",
       "description": "Apocalyptic survival horror exploring human desires manifested as terrifying grotesque monsters.",
       "background": "https://image.tmdb.org/t/p/original/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 7.2,
+        "trakt": 74,
+        "tmdb": 81,
+        "letterboxd": 7.6,
+        "mdblist": 75
       }
     },
     {
@@ -1576,10 +2334,18 @@
       "releaseInfo": "2021",
       "description": "Bleak, thought-provoking supernatural horror examining mass hysteria and religious fanaticism.",
       "background": "https://image.tmdb.org/t/p/original/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "6.6",
+      "rating": 6.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 6.6,
+        "metacritic": 66,
+        "metacriticuser": 5.5,
+        "trakt": 68,
+        "tomatoes": 97,
+        "popcorn": 69,
+        "tmdb": 73,
+        "letterboxd": 6.6,
+        "mdblist": 73
       }
     },
     {
@@ -1590,10 +2356,16 @@
       "releaseInfo": "2024",
       "description": "Fast-paced sci-fi horror thriller pitting humans against insidious body-snatching aliens.",
       "background": "https://image.tmdb.org/t/p/original/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.1",
+      "rating": 7.1,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.1,
+        "trakt": 74,
+        "tomatoes": 100,
+        "popcorn": 80,
+        "tmdb": 74,
+        "letterboxd": 7.4,
+        "mdblist": 79
       }
     },
     {
@@ -1604,10 +2376,15 @@
       "releaseInfo": "2013",
       "description": "Hyper-stylized, paranoid British conspiracy thriller with shocking violence and striking visuals.",
       "background": "https://image.tmdb.org/t/p/original/tynEoLA2cYONcUSz2OrCU0wSp6K.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.4,
+        "trakt": 83,
+        "tomatoes": 100,
+        "popcorn": 93,
+        "tmdb": 79,
+        "mdblist": 87
       }
     },
     {
@@ -1618,10 +2395,17 @@
       "releaseInfo": "2015",
       "description": "Thoughtful, intense exploration of artificial consciousness and the ethics of synthetic life.",
       "background": "https://image.tmdb.org/t/p/original/fS2AKTDK0VwZo7dq9sG38D9cuu.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.9,
+        "metacritic": 76,
+        "metacriticuser": 7.7,
+        "trakt": 76,
+        "tomatoes": 94,
+        "popcorn": 84,
+        "tmdb": 74,
+        "mdblist": 80
       }
     },
     {
@@ -1632,10 +2416,17 @@
       "releaseInfo": "2013",
       "description": "Taut, fast-paced clone conspiracy thriller driven by a tour-de-force acting performance.",
       "background": "https://image.tmdb.org/t/p/original/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.3,
+        "metacritic": 76,
+        "metacriticuser": 8.4,
+        "trakt": 82,
+        "tomatoes": 93,
+        "popcorn": 92,
+        "tmdb": 78,
+        "mdblist": 84
       }
     },
     {
@@ -1646,10 +2437,17 @@
       "releaseInfo": "2015",
       "description": "Visually stunning, emotionally expansive sci-fi mystery about telepathically linked strangers.",
       "background": "https://image.tmdb.org/t/p/original/d6JYL53xISzfqz6HhvaKWTDcOUZ.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 8.2,
+        "metacritic": 66,
+        "metacriticuser": 8.2,
+        "trakt": 81,
+        "tomatoes": 86,
+        "popcorn": 85,
+        "tmdb": 77,
+        "mdblist": 79
       }
     },
     {
@@ -1660,10 +2458,15 @@
       "releaseInfo": "2016",
       "description": "Complex philosophical puzzle box examining android consciousness and human depravity.",
       "background": "https://image.tmdb.org/t/p/original/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.4,
+        "metacritic": 71,
+        "metacriticuser": 8.0,
+        "trakt": 81,
+        "tmdb": 80,
+        "mdblist": 79
       }
     },
     {
@@ -1674,10 +2477,17 @@
       "releaseInfo": "2020",
       "description": "Wild, surreal sci-fi examining faith and humanity via android caretakers.",
       "background": "https://image.tmdb.org/t/p/original/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.4",
+      "rating": 7.4,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.4,
+        "metacritic": 68,
+        "metacriticuser": 7.3,
+        "trakt": 72,
+        "tomatoes": 81,
+        "popcorn": 82,
+        "tmdb": 74,
+        "mdblist": 75
       }
     },
     {
@@ -1688,10 +2498,17 @@
       "releaseInfo": "2019",
       "description": "Alternate history space race packed with immense political drama and high stakes.",
       "background": "https://image.tmdb.org/t/p/original/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.1,
+        "metacritic": 76,
+        "metacriticuser": 6.4,
+        "trakt": 82,
+        "tomatoes": 91,
+        "popcorn": 75,
+        "tmdb": 77,
+        "mdblist": 80
       }
     },
     {
@@ -1702,10 +2519,14 @@
       "releaseInfo": "2004",
       "description": "Gritty, tense survival sci-fi masterpiece with profound political and ethical dilemmas.",
       "background": "https://image.tmdb.org/t/p/original/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.7,
+        "trakt": 87,
+        "popcorn": 94,
+        "tmdb": 82,
+        "mdblist": 87
       }
     },
     {
@@ -1716,10 +2537,15 @@
       "releaseInfo": "2009",
       "description": "Darker, character-driven survival exploration aboard an ancient, decaying alien starship.",
       "background": "https://image.tmdb.org/t/p/original/tK8eRUWVY8AVdDUPUxSzrmlLb0R.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.6,
+        "metacritic": 58,
+        "metacriticuser": 7.2,
+        "trakt": 79,
+        "tmdb": 74,
+        "mdblist": 71
       }
     },
     {
@@ -1730,10 +2556,17 @@
       "releaseInfo": "2018",
       "description": "Visceral cyberpunk detective noir dealing with digital immortality and corporate decadence.",
       "background": "https://image.tmdb.org/t/p/original/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 7.9,
+        "metacritic": 64,
+        "metacriticuser": 7.2,
+        "trakt": 77,
+        "tomatoes": 75,
+        "popcorn": 64,
+        "tmdb": 76,
+        "mdblist": 72
       }
     },
     {
@@ -1744,10 +2577,18 @@
       "releaseInfo": "2018",
       "description": "Mind-bending psychological journey through grief and connection via surreal dream simulations.",
       "background": "https://image.tmdb.org/t/p/original/f9z6gCtDlr88l2VBQOY6luaSfPi.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.6,
+        "metacritic": 76,
+        "metacriticuser": 7.3,
+        "trakt": 73,
+        "tomatoes": 84,
+        "popcorn": 84,
+        "tmdb": 73,
+        "letterboxd": 7.8,
+        "mdblist": 77
       }
     },
     {
@@ -1758,10 +2599,17 @@
       "releaseInfo": "2019",
       "description": "Existential dark comedy mystery exploring mortality and psychological trauma via time loops.",
       "background": "https://image.tmdb.org/t/p/original/5TgMzFqbOEcEo99uhIo8DmiENOx.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 7.7,
+        "metacritic": 84,
+        "metacriticuser": 7.6,
+        "trakt": 75,
+        "tomatoes": 97,
+        "popcorn": 76,
+        "tmdb": 73,
+        "mdblist": 80
       }
     },
     {
@@ -1775,7 +2623,11 @@
       "imdbRating": "8.0",
       "rating": 8.0,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.0,
+        "metacritic": 77,
+        "trakt": 76,
+        "tmdb": 80,
+        "mdblist": 78
       }
     },
     {
@@ -1786,10 +2638,17 @@
       "releaseInfo": "2019",
       "description": "Brutal, heartfelt, and bloody road trip of vigilante justice with dark humor.",
       "background": "https://image.tmdb.org/t/p/original/5LTKU79rIPu8ivXJhR6rSyj6t8w.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.3,
+        "metacriticuser": 8.4,
+        "trakt": 80,
+        "tomatoes": 100,
+        "popcorn": 95,
+        "tmdb": 82,
+        "letterboxd": 8.4,
+        "mdblist": 88
       }
     },
     {
@@ -1800,10 +2659,17 @@
       "releaseInfo": "2019",
       "description": "Twisty, darkly comic thriller driven by grief, deadly secrets, and unlikely friendship.",
       "background": "https://image.tmdb.org/t/p/original/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 7.9,
+        "metacritic": 68,
+        "metacriticuser": 7.7,
+        "trakt": 77,
+        "tomatoes": 89,
+        "popcorn": 85,
+        "tmdb": 73,
+        "mdblist": 78
       }
     },
     {
@@ -1814,10 +2680,17 @@
       "releaseInfo": "2016",
       "description": "Satirical millennial mystery that spirals into an insane, dark psychological rabbit hole.",
       "background": "https://image.tmdb.org/t/p/original/kK2bP2ZWF2up3Y2uzBJupHCaMos.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.6,
+        "metacritic": 78,
+        "metacriticuser": 7.4,
+        "trakt": 73,
+        "tomatoes": 96,
+        "popcorn": 74,
+        "tmdb": 69,
+        "mdblist": 77
       }
     },
     {
@@ -1828,10 +2701,17 @@
       "releaseInfo": "2020",
       "description": "Frantic, stylish murder mystery wrapped in trauma, addiction, and dark comedic beats.",
       "background": "https://image.tmdb.org/t/p/original/yfolrexaapJ1LIxGaNmGqJdo7LT.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.0",
+      "rating": 7.0,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.0,
+        "metacritic": 77,
+        "metacriticuser": 7.0,
+        "trakt": 70,
+        "tomatoes": 91,
+        "popcorn": 62,
+        "tmdb": 70,
+        "mdblist": 73
       }
     },
     {
@@ -1842,10 +2722,17 @@
       "releaseInfo": "2022",
       "description": "Sharply written, darkly funny murder mystery about sisters conspiring against an abuser.",
       "background": "https://image.tmdb.org/t/p/original/aAVRi7XqkJZE6uUEn2Enbhj8rPx.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.2,
+        "metacritic": 76,
+        "metacriticuser": 7.1,
+        "trakt": 79,
+        "tomatoes": 88,
+        "popcorn": 72,
+        "tmdb": 74,
+        "mdblist": 78
       }
     },
     {
@@ -1856,10 +2743,17 @@
       "releaseInfo": "2023",
       "description": "Charming, gritty inverted mystery series with a knack for unmasking deceptive killers.",
       "background": "https://image.tmdb.org/t/p/original/ccOzCmrglAjRGtqv5ClTaBEsWt8.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.7,
+        "metacritic": 83,
+        "metacriticuser": 6.8,
+        "trakt": 75,
+        "tomatoes": 97,
+        "popcorn": 76,
+        "tmdb": 74,
+        "mdblist": 80
       }
     },
     {
@@ -1870,10 +2764,16 @@
       "releaseInfo": "2017",
       "description": "Darkly funny, violent crime drama balancing cartel business with Hollywood filmmaking.",
       "background": "https://image.tmdb.org/t/p/original/whKuIfYI6iESs3ogaZYbeZVkxRb.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 8.2,
+        "metacritic": 71,
+        "metacriticuser": 7.7,
+        "trakt": 77,
+        "popcorn": 93,
+        "tmdb": 71,
+        "mdblist": 78
       }
     },
     {
@@ -1884,10 +2784,17 @@
       "releaseInfo": "2015",
       "description": "Melancholic, absurdly dark espionage drama about an emotionally exhausted covert operative.",
       "background": "https://image.tmdb.org/t/p/original/og6d19sz8UNlXCnkG0f32ClZv5F.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.2,
+        "metacritic": 71,
+        "metacriticuser": 8.0,
+        "trakt": 79,
+        "tomatoes": 91,
+        "popcorn": 89,
+        "tmdb": 76,
+        "mdblist": 81
       }
     },
     {
@@ -1898,10 +2805,17 @@
       "releaseInfo": "2018",
       "description": "Incredible balance of brutal hitman violence and tender, funny family life.",
       "background": "https://image.tmdb.org/t/p/original/2INMEKxee4z0mVYpHCS4AdPxgOb.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.7,
+        "metacritic": 75,
+        "metacriticuser": 8.5,
+        "trakt": 83,
+        "tomatoes": 95,
+        "popcorn": 98,
+        "tmdb": 83,
+        "mdblist": 86
       }
     },
     {
@@ -1912,10 +2826,17 @@
       "releaseInfo": "2016",
       "description": "Grim, atmospheric 1970s Southern noir following a disillusioned Vietnam vet turned hitman.",
       "background": "https://image.tmdb.org/t/p/original/iqWy5vtos77hgs7poBjb6GMKM0v.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.3
+        "imdb": 8.0,
+        "metacritic": 72,
+        "metacriticuser": 8.2,
+        "trakt": 74,
+        "tomatoes": 78,
+        "popcorn": 93,
+        "tmdb": 73,
+        "mdblist": 78
       }
     },
     {
@@ -1926,10 +2847,15 @@
       "releaseInfo": "2013",
       "description": "Gritty family dysfunction and ruthless celebrity problem-solving in sunny Los Angeles.",
       "background": "https://image.tmdb.org/t/p/original/k1UpU2cfa4PbDUBnJtr43TpdNBg.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.3,
+        "metacritic": 74,
+        "metacriticuser": 7.6,
+        "trakt": 80,
+        "tmdb": 75,
+        "mdblist": 78
       }
     },
     {
@@ -1940,10 +2866,16 @@
       "releaseInfo": "2016",
       "description": "Adrenaline-fueled, toxic southern California crime family navigating ruthless matriarchal control.",
       "background": "https://image.tmdb.org/t/p/original/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.2,
+        "metacritic": 65,
+        "metacriticuser": 7.1,
+        "trakt": 81,
+        "popcorn": 89,
+        "tmdb": 77,
+        "mdblist": 78
       }
     },
     {
@@ -1954,10 +2886,17 @@
       "releaseInfo": "2008",
       "description": "Shakespearean tragedy on wheels featuring brutal outlaw motorcycle club gang warfare.",
       "background": "https://image.tmdb.org/t/p/original/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "imdbRating": "8.5",
+      "rating": 8.5,
       "ratings": {
-        "imdb": 8.4
+        "imdb": 8.5,
+        "metacritic": 75,
+        "metacriticuser": 8.2,
+        "trakt": 85,
+        "tomatoes": 87,
+        "popcorn": 91,
+        "tmdb": 84,
+        "mdblist": 84
       }
     },
     {
@@ -1968,10 +2907,15 @@
       "releaseInfo": "2018",
       "description": "Dark, unforgiving border-town biker drama steeped in cartel violence and betrayal.",
       "background": "https://image.tmdb.org/t/p/original/bPt7NTQQvrEIBIqwfgWOkjDTIZn.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 7.5,
+        "metacritic": 57,
+        "trakt": 74,
+        "popcorn": 69,
+        "tmdb": 80,
+        "mdblist": 71
       }
     },
     {
@@ -1982,10 +2926,17 @@
       "releaseInfo": "2014",
       "description": "High-stakes drug empire drama balancing legitimate business ambitions with ruthless street warfare.",
       "background": "https://image.tmdb.org/t/p/original/gG1UDKgnATgTPwoZzqIDlGvnBe1.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 8.1,
+        "metacritic": 61,
+        "metacriticuser": 7.7,
+        "trakt": 81,
+        "tomatoes": 81,
+        "popcorn": 81,
+        "tmdb": 77,
+        "mdblist": 77
       }
     },
     {
@@ -1996,10 +2947,16 @@
       "releaseInfo": "2019",
       "description": "Compelling 1960s intersection of mob warfare, civil rights, and political corruption.",
       "background": "https://image.tmdb.org/t/p/original/tgH5BaWIrPGbDNnFyA4aHtamjWF.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.1,
+        "metacritic": 72,
+        "metacriticuser": 7.4,
+        "trakt": 80,
+        "popcorn": 85,
+        "tmdb": 82,
+        "mdblist": 79
       }
     },
     {
@@ -2010,10 +2967,17 @@
       "releaseInfo": "2012",
       "description": "Glamorous yet dangerous 1950s Miami crime drama with Boardwalk Empire vibes.",
       "background": "https://image.tmdb.org/t/p/original/7vu5uDJEHwJmfavMoBXIB7lnXKC.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 7.6,
+        "metacritic": 57,
+        "metacriticuser": 7.7,
+        "trakt": 72,
+        "tomatoes": 65,
+        "popcorn": 74,
+        "tmdb": 68,
+        "mdblist": 68
       }
     },
     {
@@ -2024,10 +2988,15 @@
       "releaseInfo": "2017",
       "description": "Rich, gritty historical exploration of 1970s Times Square street life and commerce.",
       "background": "https://image.tmdb.org/t/p/original/3QC20eBsoObbG2iMOZvlavTmLMh.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.0,
+        "metacritic": 85,
+        "metacriticuser": 7.9,
+        "trakt": 77,
+        "tmdb": 76,
+        "mdblist": 79
       }
     },
     {
@@ -2038,10 +3007,15 @@
       "releaseInfo": "2010",
       "description": "Deeply emotional, authentic post-Katrina character study celebrating culture and resilience.",
       "background": "https://image.tmdb.org/t/p/original/f1Zj0KJpaead6cUoOkpWZblMyET.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.7
+        "imdb": 8.3,
+        "metacritic": 85,
+        "metacriticuser": 7.7,
+        "trakt": 81,
+        "tmdb": 77,
+        "mdblist": 81
       }
     },
     {
@@ -2052,10 +3026,17 @@
       "releaseInfo": "2015",
       "description": "Intense, tragic political miniseries about public housing desegregation and racial division.",
       "background": "https://image.tmdb.org/t/p/original/en3Hfg9r1JS5KDb9HY2BaMT3FRo.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.0
+        "imdb": 7.9,
+        "metacritic": 85,
+        "metacriticuser": 7.3,
+        "trakt": 75,
+        "tomatoes": 96,
+        "tmdb": 70,
+        "letterboxd": 8.0,
+        "mdblist": 81
       }
     },
     {
@@ -2066,10 +3047,18 @@
       "releaseInfo": "2018",
       "description": "Grim, deeply authentic prison break miniseries driven by raw character study.",
       "background": "https://image.tmdb.org/t/p/original/chu6bVjN5viCdfmzBcx5R3xYfTj.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.9,
+        "metacritic": 78,
+        "metacriticuser": 7.8,
+        "trakt": 76,
+        "tomatoes": 89,
+        "popcorn": 94,
+        "tmdb": 74,
+        "letterboxd": 8.0,
+        "mdblist": 81
       }
     },
     {
@@ -2080,10 +3069,16 @@
       "releaseInfo": "2018",
       "description": "Harrowing, darkly funny portrait of generational trauma, aristocratic cruelty, and addiction.",
       "background": "https://image.tmdb.org/t/p/original/u2D2NlCGWi5HwNOJqDMdsvxT2ud.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.0,
+        "metacritic": 80,
+        "metacriticuser": 6.3,
+        "trakt": 75,
+        "tmdb": 74,
+        "letterboxd": 8.2,
+        "mdblist": 77
       }
     },
     {
@@ -2094,10 +3089,17 @@
       "releaseInfo": "2014",
       "description": "Visceral, electrifying period medical drama tracking early surgery and cocaine addiction.",
       "background": "https://image.tmdb.org/t/p/original/mw9EcIFuWUjkOTF60aYpbpM02Qu.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.4,
+        "metacritic": 78,
+        "metacriticuser": 8.5,
+        "trakt": 81,
+        "tomatoes": 92,
+        "popcorn": 96,
+        "tmdb": 78,
+        "mdblist": 84
       }
     },
     {
@@ -2108,10 +3110,17 @@
       "releaseInfo": "2013",
       "description": "Compelling, mature drama detailing the complex human science of sexual research.",
       "background": "https://image.tmdb.org/t/p/original/5evkOLJ3HlYrwpy6Q5DlubiHzCJ.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.9,
+        "metacritic": 83,
+        "metacriticuser": 7.6,
+        "trakt": 75,
+        "tomatoes": 84,
+        "popcorn": 85,
+        "tmdb": 71,
+        "mdblist": 79
       }
     },
     {
@@ -2122,10 +3131,17 @@
       "releaseInfo": "2014",
       "description": "Prestige, emotionally resonant character study set against the dawn of personal computing.",
       "background": "https://image.tmdb.org/t/p/original/o35U5p9J3eDsqrgfCpYUOO2lsuG.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.4,
+        "metacritic": 75,
+        "metacriticuser": 8.5,
+        "trakt": 83,
+        "tomatoes": 90,
+        "popcorn": 91,
+        "tmdb": 79,
+        "mdblist": 83
       }
     },
     {
@@ -2136,10 +3152,15 @@
       "releaseInfo": "2007",
       "description": "Pinnacle of prestige drama exploring identity, alienation, and ambition in 1960s advertising.",
       "background": "https://image.tmdb.org/t/p/original/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.7,
+        "metacritic": 86,
+        "metacriticuser": 8.8,
+        "trakt": 84,
+        "tmdb": 81,
+        "mdblist": 84
       }
     },
     {
@@ -2150,10 +3171,17 @@
       "releaseInfo": "2016",
       "description": "High-voltage intellectual warfare between a hedge-fund titan and an aggressive prosecutor.",
       "background": "https://image.tmdb.org/t/p/original/51Hw58fMwJQKYJ6XYJIRQBP9EPA.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.3,
+        "metacritic": 71,
+        "metacriticuser": 7.0,
+        "trakt": 81,
+        "tomatoes": 87,
+        "popcorn": 68,
+        "tmdb": 78,
+        "mdblist": 77
       }
     },
     {
@@ -2164,10 +3192,17 @@
       "releaseInfo": "2020",
       "description": "High-stress, hedonistic, and razor-sharp London investment banking psychological battlefield.",
       "background": "https://image.tmdb.org/t/p/original/qcV7ebwtZcoRxBufUmXQl0KKdht.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.5,
+        "metacritic": 81,
+        "metacriticuser": 7.3,
+        "trakt": 75,
+        "tomatoes": 91,
+        "popcorn": 73,
+        "tmdb": 68,
+        "mdblist": 77
       }
     },
     {
@@ -2178,10 +3213,16 @@
       "releaseInfo": "2012",
       "description": "Fast-paced, idealistic newsroom drama featuring high journalistic and political stakes.",
       "background": "https://image.tmdb.org/t/p/original/oNNdRpSQSdRIaWnSFejhw1qk51K.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.1
+        "imdb": 8.6,
+        "metacritic": 61,
+        "metacriticuser": 8.1,
+        "trakt": 84,
+        "popcorn": 90,
+        "tmdb": 80,
+        "mdblist": 80
       }
     },
     {
@@ -2192,10 +3233,17 @@
       "releaseInfo": "2013",
       "description": "Ruthless, Machiavellian political ambition carving a path to power in Washington.",
       "background": "https://image.tmdb.org/t/p/original/zoAxfThy7ntyCutBeNgdaKhRoSX.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 8.6,
+        "metacritic": 73,
+        "metacriticuser": 8.0,
+        "trakt": 83,
+        "tomatoes": 77,
+        "popcorn": 76,
+        "tmdb": 80,
+        "mdblist": 79
       }
     },
     {
@@ -2206,10 +3254,17 @@
       "releaseInfo": "2012",
       "description": "Twisty, high-intensity political crisis management packed with dark government conspiracies.",
       "background": "https://image.tmdb.org/t/p/original/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.7,
+        "metacritic": 66,
+        "metacriticuser": 7.3,
+        "trakt": 78,
+        "tomatoes": 94,
+        "popcorn": 71,
+        "tmdb": 72,
+        "mdblist": 76
       }
     },
     {
@@ -2220,10 +3275,15 @@
       "releaseInfo": "2007",
       "description": "Ruthless legal thriller centered on psychological mind games between powerhouse attorneys.",
       "background": "https://image.tmdb.org/t/p/original/lAsz5DYQpXcOONSVuZdZIrtZoIv.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.1,
+        "metacritic": 78,
+        "metacriticuser": 8.3,
+        "trakt": 78,
+        "tmdb": 75,
+        "mdblist": 78
       }
     },
     {
@@ -2234,10 +3294,15 @@
       "releaseInfo": "2017",
       "description": "Surreal, razor-sharp political legal satire that tackles modern sociopolitical madness head-on.",
       "background": "https://image.tmdb.org/t/p/original/nz6vpYyN1pEwBYeoAVIu2316d0z.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 8.3,
+        "metacritic": 80,
+        "metacriticuser": 6.7,
+        "trakt": 80,
+        "tmdb": 75,
+        "mdblist": 79
       }
     },
     {
@@ -2248,10 +3313,17 @@
       "releaseInfo": "2016",
       "description": "Gritty David-versus-Goliath legal procedural starring a washed-up, brilliant trial lawyer.",
       "background": "https://image.tmdb.org/t/p/original/ypWZ3iWt16kOoXfaD7KzgPqa8Bl.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.1,
+        "metacritic": 65,
+        "metacriticuser": 6.7,
+        "trakt": 77,
+        "tomatoes": 86,
+        "popcorn": 70,
+        "tmdb": 76,
+        "mdblist": 75
       }
     },
     {
@@ -2262,10 +3334,18 @@
       "releaseInfo": "2020",
       "description": "Agonizing moral compromises of a judge trying to protect his son.",
       "background": "https://image.tmdb.org/t/p/original/t73x5Pb81mIGZR417aeGwbkR520.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 8.0
+        "imdb": 7.6,
+        "metacritic": 59,
+        "metacriticuser": 6.6,
+        "trakt": 77,
+        "tomatoes": 49,
+        "popcorn": 66,
+        "tmdb": 80,
+        "letterboxd": 7.2,
+        "mdblist": 67
       }
     },
     {
@@ -2276,10 +3356,17 @@
       "releaseInfo": "2015",
       "description": "Atmospheric, sweaty Florida noir about family secrets boiling over into homicide.",
       "background": "https://image.tmdb.org/t/p/original/78s4wDyITtvjMRHHn2Rk7IPCtcg.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 7.1
+        "imdb": 7.8,
+        "metacritic": 71,
+        "metacriticuser": 7.7,
+        "trakt": 75,
+        "tomatoes": 62,
+        "popcorn": 74,
+        "tmdb": 71,
+        "mdblist": 71
       }
     },
     {
@@ -2290,10 +3377,17 @@
       "releaseInfo": "2013",
       "description": "Lyrical, deeply contemplative exploration of trauma and re-entering life after death row.",
       "background": "https://image.tmdb.org/t/p/original/qiUnDMMH3D8thZ4QR3NzBEvTFKN.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 7.6
+        "imdb": 8.3,
+        "metacritic": 88,
+        "metacriticuser": 8.7,
+        "trakt": 80,
+        "tomatoes": 96,
+        "popcorn": 92,
+        "tmdb": 76,
+        "mdblist": 85
       }
     },
     {
@@ -2304,10 +3398,15 @@
       "releaseInfo": "2020",
       "description": "Brutally grim, atmospheric 1930s noir reboot investigating child kidnapping and institutional rot.",
       "background": "https://image.tmdb.org/t/p/original/2KzRW0vaaO91zTeWuCHPMaJjesu.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 7.2
+        "imdb": 7.6,
+        "metacritic": 69,
+        "metacriticuser": 6.3,
+        "trakt": 73,
+        "tmdb": 72,
+        "mdblist": 72
       }
     },
     {
@@ -2318,10 +3417,17 @@
       "releaseInfo": "2017",
       "description": "Meticulous psychological profiling unraveling the disturbed psyches of notorious serial murderers.",
       "background": "https://image.tmdb.org/t/p/original/lpDVJuIro21gtMj9iXMFKHuroZN.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "imdbRating": "8.6",
+      "rating": 8.6,
       "ratings": {
-        "imdb": 8.2
+        "imdb": 8.6,
+        "metacritic": 80,
+        "metacriticuser": 8.4,
+        "trakt": 84,
+        "tomatoes": 97,
+        "popcorn": 95,
+        "tmdb": 81,
+        "mdblist": 87
       }
     },
     {
@@ -2332,10 +3438,19 @@
       "releaseInfo": "2018",
       "description": "Claustrophobic Southern gothic psychological mystery drenched in trauma and family abuse.",
       "background": "https://image.tmdb.org/t/p/original/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "imdbRating": "8.0",
+      "rating": 8.0,
       "ratings": {
-        "imdb": 7.8
+        "imdb": 8.0,
+        "metacritic": 78,
+        "metacriticuser": 7.3,
+        "trakt": 79,
+        "tomatoes": 92,
+        "popcorn": 83,
+        "tmdb": 77,
+        "letterboxd": 8.6,
+        "rogerebert": 3.5,
+        "mdblist": 82
       }
     },
     {
@@ -2346,10 +3461,17 @@
       "releaseInfo": "2018",
       "description": "Dark, gruesome Gilded Age procedural tracking a ritualistic serial killer in Manhattan.",
       "background": "https://image.tmdb.org/t/p/original/oDTBlmFiHAslFwj4JU8jkBB6E6V.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "imdbRating": "7.7",
+      "rating": 7.7,
       "ratings": {
-        "imdb": 7.5
+        "imdb": 7.7,
+        "metacritic": 60,
+        "metacriticuser": 6.4,
+        "trakt": 75,
+        "tomatoes": 77,
+        "popcorn": 80,
+        "tmdb": 75,
+        "mdblist": 74
       }
     },
     {
@@ -2360,10 +3482,17 @@
       "releaseInfo": "2012",
       "description": "Gritty Victorian crime drama following police dealing with Whitechapel's aftermath.",
       "background": "https://image.tmdb.org/t/p/original/snSylVifJ29t7mxiIi5dxi6x2q2.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 7.4
+        "imdb": 8.1,
+        "metacritic": 72,
+        "metacriticuser": 8.1,
+        "trakt": 76,
+        "tomatoes": 94,
+        "popcorn": 90,
+        "tmdb": 74,
+        "mdblist": 81
       }
     },
     {
@@ -2374,10 +3503,17 @@
       "releaseInfo": "2020",
       "description": "1930s Los Angeles noir intersecting with Mexican-American folklore and impending fascism.",
       "background": "https://image.tmdb.org/t/p/original/43z4F6CFzzn99yYESg7O9lI3TEi.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
+      "imdbRating": "6.1",
+      "rating": 6.1,
       "ratings": {
-        "imdb": 6.8
+        "imdb": 6.1,
+        "metacritic": 60,
+        "metacriticuser": 4.5,
+        "trakt": 63,
+        "tomatoes": 74,
+        "popcorn": 47,
+        "tmdb": 68,
+        "mdblist": 62
       }
     },
     {
@@ -2388,10 +3524,14 @@
       "releaseInfo": "2003",
       "description": "Mystical, dust-bowl gothic drama staging the ultimate confrontation between good and evil.",
       "background": "https://image.tmdb.org/t/p/original/gPXlZQr7PR3Ay2pP6XBdvVKmM25.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
+      "imdbRating": "8.4",
+      "rating": 8.4,
       "ratings": {
-        "imdb": 7.9
+        "imdb": 8.4,
+        "metacritic": 63,
+        "trakt": 81,
+        "tmdb": 79,
+        "mdblist": 76
       }
     },
     {
@@ -2402,10 +3542,17 @@
       "releaseInfo": "1990",
       "description": "Surreal, deeply unsettling small-town murder mystery that pioneered the psychological television genre.",
       "background": "https://image.tmdb.org/t/p/original/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "imdbRating": "8.7",
+      "rating": 8.7,
       "ratings": {
-        "imdb": 8.3
+        "imdb": 8.7,
+        "metacritic": 83,
+        "metacriticuser": 9.0,
+        "trakt": 84,
+        "tomatoes": 77,
+        "popcorn": 92,
+        "tmdb": 83,
+        "mdblist": 84
       }
     },
     {
@@ -2416,10 +3563,15 @@
       "releaseInfo": "2015",
       "description": "Eerie, twist-filled mystery thriller about an idyllic town trapped by dangerous secrets.",
       "background": "https://image.tmdb.org/t/p/original/5n3dwYOqekTyANEyRs0GNhZPfOs.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "imdbRating": "7.3",
+      "rating": 7.3,
       "ratings": {
-        "imdb": 6.9
+        "imdb": 7.3,
+        "metacritic": 62,
+        "metacriticuser": 6.8,
+        "trakt": 71,
+        "tmdb": 68,
+        "mdblist": 68
       }
     }
   ]
