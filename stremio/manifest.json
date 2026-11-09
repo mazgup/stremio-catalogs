@@ -1,6 +1,6 @@
 {
   "id": "org.mazgup.ai_recommender",
-  "name": "AI Recommendations",
+  "name": "MazRecs",
   "description": "Personalized recommendations for Movies and TV Shows (6 Streams)",
   "version": "1.2.0",
   "resources": [

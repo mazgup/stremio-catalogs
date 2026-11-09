@@ -8,8 +8,11 @@
       "releaseInfo": "2020",
       "description": "This clever rom-com offers a fun, time-bending twist on romance.",
       "background": "https://image.tmdb.org/t/p/original/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
-      "imdbRating": "7.338",
-      "rating": 7.338
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt8946378",
@@ -19,8 +22,11 @@
       "releaseInfo": "2019",
       "description": "A witty and stylish murder mystery with a great ensemble cast.",
       "background": "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
-      "imdbRating": "7.844",
-      "rating": 7.844
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt1489887",
@@ -30,8 +36,11 @@
       "releaseInfo": "2019",
       "description": "A hilarious and heartwarming coming-of-age comedy about friendship.",
       "background": "https://image.tmdb.org/t/p/original/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg",
-      "imdbRating": "6.987",
-      "rating": 6.987
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt4468740",
@@ -41,8 +50,11 @@
       "releaseInfo": "2017",
       "description": "An utterly charming and feel-good adventure for all ages.",
       "background": "https://image.tmdb.org/t/p/original/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
-      "imdbRating": "7.489",
-      "rating": 7.489
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0093779",
@@ -52,8 +64,11 @@
       "releaseInfo": "1987",
       "description": "A beloved fairytale adventure with humor, romance, and action.",
       "background": "https://image.tmdb.org/t/p/original/onACwa3TjpeaY7EVHSZZbeNkd2q.jpg",
-      "imdbRating": "7.713",
-      "rating": 7.713
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0098635",
@@ -63,8 +78,11 @@
       "releaseInfo": "1989",
       "description": "A classic, witty rom-com exploring the complexities of male-female friendships.",
       "background": "https://image.tmdb.org/t/p/original/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg",
-      "imdbRating": "7.411",
-      "rating": 7.411
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt0365748",
@@ -74,8 +92,11 @@
       "releaseInfo": "2004",
       "description": "A brilliant blend of horror, comedy, and zombie action.",
       "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
-      "imdbRating": "7.546",
-      "rating": 7.546
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt4633694",
@@ -85,8 +106,11 @@
       "releaseInfo": "2018",
       "description": "Visually stunning animated superhero film with humor and heart.",
       "background": "https://image.tmdb.org/t/p/original/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
-      "imdbRating": "8.403",
-      "rating": 8.403
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt0942385",
@@ -96,8 +120,11 @@
       "releaseInfo": "2008",
       "description": "An outrageous and hilarious satire of Hollywood filmmaking.",
       "background": "https://image.tmdb.org/t/p/original/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
-      "imdbRating": "6.732",
-      "rating": 6.732
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt0332379",
@@ -107,8 +134,11 @@
       "releaseInfo": "2003",
       "description": "A feel-good comedy about music, friendship, and finding your passion.",
       "background": "https://image.tmdb.org/t/p/original/k5MTAtE9CCi5TWA84qaFMYv3ajB.jpg",
-      "imdbRating": "7.092",
-      "rating": 7.092
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0461770",
@@ -118,8 +148,11 @@
       "releaseInfo": "2007",
       "description": "A delightful blend of animation and live-action, mixing fairy tales with reality.",
       "background": "https://image.tmdb.org/t/p/original/u4UpRDi0w84aNrigr9p049rMHiy.jpg",
-      "imdbRating": "6.854",
-      "rating": 6.854
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt3104988",
@@ -129,8 +162,11 @@
       "releaseInfo": "2018",
       "description": "A glamorous and funny rom-com filled with romance and lavish settings.",
       "background": "https://image.tmdb.org/t/p/original/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
-      "imdbRating": "7.038",
-      "rating": 7.038
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt3890160",
@@ -140,8 +176,11 @@
       "releaseInfo": "2017",
       "description": "A stylish action film with a killer soundtrack and thrilling car chases.",
       "background": "https://image.tmdb.org/t/p/original/yir5430WblZSZuIMd9C6pIZerfA.jpg",
-      "imdbRating": "7.444",
-      "rating": 7.444
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt3501632",
@@ -151,8 +190,11 @@
       "releaseInfo": "2017",
       "description": "A hilarious and visually vibrant addition to the Marvel Cinematic Universe.",
       "background": "https://image.tmdb.org/t/p/original/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
-      "imdbRating": "7.578",
-      "rating": 7.578
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt1981677",
@@ -162,8 +204,11 @@
       "releaseInfo": "2012",
       "description": "An energetic and funny musical comedy centered around an a cappella group.",
       "background": "https://image.tmdb.org/t/p/original/2sE6hrwfn9IV7eDlMvpIb9q1EWy.jpg",
-      "imdbRating": "7.261",
-      "rating": 7.261
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt2015381",
@@ -173,8 +218,11 @@
       "releaseInfo": "2014",
       "description": "A fun, quirky space adventure with a fantastic soundtrack and humor.",
       "background": "https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
-      "imdbRating": "7.908",
-      "rating": 7.908
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt1250777",
@@ -184,8 +232,11 @@
       "releaseInfo": "2010",
       "description": "A hyper-violent, darkly comedic superhero action-comedy.",
       "background": "https://image.tmdb.org/t/p/original/P4bGyJQF0shAcRku3I2perNUQR.jpg",
-      "imdbRating": "7.126",
-      "rating": 7.126
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0829482",
@@ -195,8 +246,11 @@
       "releaseInfo": "2007",
       "description": "A raunchy and hilarious coming-of-age comedy about friendship.",
       "background": "https://image.tmdb.org/t/p/original/coru98UcFBzJIU7bxZguxaePgu0.jpg",
-      "imdbRating": "7.276",
-      "rating": 7.276
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt0377092",
@@ -206,8 +260,11 @@
       "releaseInfo": "2004",
       "description": "A sharp, witty, and iconic teen comedy with memorable quotes.",
       "background": "https://image.tmdb.org/t/p/original/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
-      "imdbRating": "7.231",
-      "rating": 7.231
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0374900",
@@ -218,7 +275,10 @@
       "description": "An quirky, offbeat comedy with a unique sense of humor.",
       "background": "https://image.tmdb.org/t/p/original/jrXKwUYxNLa7Dv7TPHToQ4mVmlF.jpg",
       "imdbRating": "6.8",
-      "rating": 6.8
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0250687",
@@ -228,8 +288,11 @@
       "releaseInfo": "2001",
       "description": "A fast-paced, ensemble comedy about a wild scavenger hunt.",
       "background": "https://image.tmdb.org/t/p/original/vian6RN3bC4QdBQzY1wTmBkhxVQ.jpg",
-      "imdbRating": "6.295",
-      "rating": 6.295
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt0250494",
@@ -239,8 +302,11 @@
       "releaseInfo": "2001",
       "description": "An empowering and humorous story about overcoming stereotypes.",
       "background": "https://image.tmdb.org/t/p/original/viU23X3BIycUFf6TOlm9c7TxLgM.jpg",
-      "imdbRating": "6.816",
-      "rating": 6.816
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0204946",
@@ -251,7 +317,10 @@
       "description": "A fun and energetic teen comedy about competitive cheerleading.",
       "background": "https://image.tmdb.org/t/p/original/3XpxR3cSQJou79KBQpPCcpZzmhj.jpg",
       "imdbRating": "6.3",
-      "rating": 6.3
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt0177789",
@@ -261,8 +330,11 @@
       "releaseInfo": "1999",
       "description": "A loving parody of sci-fi tropes with genuine humor and heart.",
       "background": "https://image.tmdb.org/t/p/original/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
-      "imdbRating": "7.099",
-      "rating": 7.099
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0118655",
@@ -272,8 +344,11 @@
       "releaseInfo": "1997",
       "description": "A wildly funny spy spoof filled with catchphrases and absurdity.",
       "background": "https://image.tmdb.org/t/p/original/wSm5McaHSAyOx4gGRYdlDHzj00y.jpg",
-      "imdbRating": "6.606",
-      "rating": 6.606
+      "imdbRating": "6.6",
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6
+      }
     },
     {
       "id": "tt0259446",
@@ -284,7 +359,10 @@
       "description": "A charming and humorous look at family, love, and cultural differences.",
       "background": "https://image.tmdb.org/t/p/original/3d8Y4q172YFp2obUdfMjyErB7eU.jpg",
       "imdbRating": "6.5",
-      "rating": 6.5
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt1156398",
@@ -294,8 +372,11 @@
       "releaseInfo": "2009",
       "description": "A post-apocalyptic comedy with survival rules and undead action.",
       "background": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
-      "imdbRating": "7.26",
-      "rating": 7.26
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt1232829",
@@ -305,8 +386,11 @@
       "releaseInfo": "2012",
       "description": "A hilarious action-comedy reboot with great chemistry between leads.",
       "background": "https://image.tmdb.org/t/p/original/rXrpYOveFl76ivMmyb2612T7Q8w.jpg",
-      "imdbRating": "6.884",
-      "rating": 6.884
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt1431045",
@@ -316,8 +400,11 @@
       "releaseInfo": "2016",
       "description": "A R-rated, meta-comedy superhero film with a unique sense of humor.",
       "background": "https://image.tmdb.org/t/p/original/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
-      "imdbRating": "7.626",
-      "rating": 7.626
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2802144",
@@ -327,8 +414,11 @@
       "releaseInfo": "2014",
       "description": "A stylish, over-the-top spy action-comedy with inventive set pieces.",
       "background": "https://image.tmdb.org/t/p/original/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
-      "imdbRating": "7.616",
-      "rating": 7.616
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2250912",
@@ -338,8 +428,11 @@
       "releaseInfo": "2017",
       "description": "A fresh and fun take on the friendly neighborhood superhero.",
       "background": "https://image.tmdb.org/t/p/original/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
-      "imdbRating": "7.332",
-      "rating": 7.332
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt6320628",
@@ -349,8 +442,11 @@
       "releaseInfo": "2019",
       "description": "Another exciting and humorous adventure for the web-slinging hero.",
       "background": "https://image.tmdb.org/t/p/original/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
-      "imdbRating": "7.386",
-      "rating": 7.386
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt5463162",
@@ -360,8 +456,11 @@
       "releaseInfo": "2018",
       "description": "Continues the R-rated superhero action and meta-humor of its predecessor.",
       "background": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
-      "imdbRating": "7.488",
-      "rating": 7.488
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt1386588",
@@ -371,8 +470,11 @@
       "releaseInfo": "2010",
       "description": "An action-comedy duo provides plenty of laughs and exciting stunts.",
       "background": "https://image.tmdb.org/t/p/original/nHyri67CN6juBR6hmOefCn9oGf8.jpg",
-      "imdbRating": "6.345",
-      "rating": 6.345
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt0425112",
@@ -382,8 +484,11 @@
       "releaseInfo": "2007",
       "description": "A brilliant buddy cop comedy with sharp wit and action.",
       "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
-      "imdbRating": "7.571",
-      "rating": 7.571
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt3079380",
@@ -393,8 +498,11 @@
       "releaseInfo": "2015",
       "description": "A hilarious and surprisingly action-packed spy comedy with a great lead.",
       "background": "https://image.tmdb.org/t/p/original/eHEGPHKHTVhWdXzBQcrTATz9M0I.jpg",
-      "imdbRating": "6.827",
-      "rating": 6.827
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0357413",
@@ -404,8 +512,11 @@
       "releaseInfo": "2004",
       "description": "An absurd and quotable comedy that defined a generation.",
       "background": "https://image.tmdb.org/t/p/original/qWSI9Lpq8K4o1n9ZD9zUVD4Gds1.jpg",
-      "imdbRating": "6.704",
-      "rating": 6.704
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt0838283",
@@ -415,8 +526,11 @@
       "releaseInfo": "2008",
       "description": "A ridiculous and laugh-out-loud comedy about arrested development.",
       "background": "https://image.tmdb.org/t/p/original/247H2jS9Te9TTmKDcAMg3LN5gmI.jpg",
-      "imdbRating": "6.559",
-      "rating": 6.559
+      "imdbRating": "6.6",
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6
+      }
     },
     {
       "id": "tt1478338",
@@ -426,8 +540,11 @@
       "releaseInfo": "2011",
       "description": "A hilarious and relatable comedy about female friendships and wedding chaos.",
       "background": "https://image.tmdb.org/t/p/original/1pkpV7a02phSfAPeGVmpHaQd99J.jpg",
-      "imdbRating": "6.508",
-      "rating": 6.508
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt1245492",
@@ -437,8 +554,11 @@
       "releaseInfo": "2013",
       "description": "A star-studded apocalyptic comedy where actors play themselves.",
       "background": "https://image.tmdb.org/t/p/original/sXfN4ir91SfTeoWidIukQWane43.jpg",
-      "imdbRating": "6.251",
-      "rating": 6.251
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt1119646",
@@ -449,7 +569,10 @@
       "description": "A wildly popular comedy about a chaotic bachelor party gone wrong.",
       "background": "https://image.tmdb.org/t/p/original/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
       "imdbRating": "7.3",
-      "rating": 7.3
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt6718170",
@@ -459,8 +582,11 @@
       "releaseInfo": "2023",
       "description": "A vibrant and fun animated adventure based on the beloved video game.",
       "background": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
-      "imdbRating": "7.585",
-      "rating": 7.585
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0126029",
@@ -470,8 +596,11 @@
       "releaseInfo": "2001",
       "description": "A fairy tale parody that's hilarious, charming, and surprisingly heartfelt.",
       "background": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
-      "imdbRating": "7.781",
-      "rating": 7.781
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0312004",
@@ -481,8 +610,11 @@
       "releaseInfo": "2005",
       "description": "A delightful stop-motion animated comedy mystery with whimsical charm.",
       "background": "https://image.tmdb.org/t/p/original/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg",
-      "imdbRating": "7.148",
-      "rating": 7.148
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt1748122",
@@ -492,8 +624,11 @@
       "releaseInfo": "2012",
       "description": "A whimsical and charming Wes Anderson film about young love and adventure.",
       "background": "https://image.tmdb.org/t/p/original/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
-      "imdbRating": "7.679",
-      "rating": 7.679
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt2278388",
@@ -503,8 +638,11 @@
       "releaseInfo": "2014",
       "description": "A visually stunning and hilariously eccentric caper film.",
       "background": "https://image.tmdb.org/t/p/original/jK65srQczOKTpW62wPxwwKztGgE.jpg",
-      "imdbRating": "8.026",
-      "rating": 8.026
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0045152",
@@ -514,8 +652,11 @@
       "releaseInfo": "1952",
       "description": "A joyful and iconic musical comedy celebrating Hollywood's transition to sound.",
       "background": "https://image.tmdb.org/t/p/original/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
-      "imdbRating": "8.128",
-      "rating": 8.128
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0053291",
@@ -525,8 +666,11 @@
       "releaseInfo": "1959",
       "description": "A classic screwball comedy with brilliant performances and witty dialogue.",
       "background": "https://image.tmdb.org/t/p/original/sv2VnbZmgy2rkrtkA2nz7rzH0VK.jpg",
-      "imdbRating": "8.076",
-      "rating": 8.076
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0084805",
@@ -536,8 +680,11 @@
       "releaseInfo": "1982",
       "description": "A smart and funny comedy about an actor disguising himself as a woman.",
       "background": "https://image.tmdb.org/t/p/original/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
-      "imdbRating": "7.205",
-      "rating": 7.205
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0091042",
@@ -547,8 +694,11 @@
       "releaseInfo": "1986",
       "description": "An iconic and effortlessly cool teen comedy about skipping school.",
       "background": "https://image.tmdb.org/t/p/original/jehzP4JKiFzgTWIaASLFOJocJke.jpg",
-      "imdbRating": "7.558",
-      "rating": 7.558
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0096928",
@@ -558,8 +708,11 @@
       "releaseInfo": "1989",
       "description": "A lighthearted and silly sci-fi comedy with time-traveling fun.",
       "background": "https://image.tmdb.org/t/p/original/aMASmAmkn7NT0nEq8PBZEgwBfGN.jpg",
-      "imdbRating": "6.845",
-      "rating": 6.845
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0105793",
@@ -569,8 +722,11 @@
       "releaseInfo": "1992",
       "description": "A classic '90s comedy filled with catchphrases and rock 'n' roll spirit.",
       "background": "https://image.tmdb.org/t/p/original/lAvf5zzyOgTZmpRBRJFa7IVVqCK.jpg",
-      "imdbRating": "6.683",
-      "rating": 6.683
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt0109686",
@@ -580,8 +736,11 @@
       "releaseInfo": "1994",
       "description": "A slapstick comedy featuring two well-meaning but incredibly dim-witted friends.",
       "background": "https://image.tmdb.org/t/p/original/8uBTDGRcNHhYChcoazP5rleRME7.jpg",
-      "imdbRating": "6.665",
-      "rating": 6.665
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt0132347",
@@ -591,8 +750,11 @@
       "releaseInfo": "1999",
       "description": "A goofy and fun superhero parody with an eccentric cast.",
       "background": "https://image.tmdb.org/t/p/original/nrLnodkGvswfPiuKfbdPZN8P5eI.jpg",
-      "imdbRating": "5.894",
-      "rating": 5.894
+      "imdbRating": "5.9",
+      "rating": 5.9,
+      "ratings": {
+        "imdb": 5.9
+      }
     },
     {
       "id": "tt0298148",
@@ -602,8 +764,11 @@
       "releaseInfo": "2004",
       "description": "A hilarious and clever sequel that builds on the original's charm.",
       "background": "https://image.tmdb.org/t/p/original/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
-      "imdbRating": "7.333",
-      "rating": 7.333
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt0317705",
@@ -613,8 +778,11 @@
       "releaseInfo": "2004",
       "description": "A fantastic animated superhero adventure with humor and family dynamics.",
       "background": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
-      "imdbRating": "7.73",
-      "rating": 7.73
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0389860",
@@ -624,8 +792,11 @@
       "releaseInfo": "2006",
       "description": "A comedic fantasy about a man who gains a universal remote for life.",
       "background": "https://image.tmdb.org/t/p/original/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
-      "imdbRating": "6.319",
-      "rating": 6.319
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt0398286",
@@ -635,8 +806,11 @@
       "releaseInfo": "2010",
       "description": "A vibrant and funny animated retelling of the Rapunzel fairy tale.",
       "background": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
-      "imdbRating": "7.617",
-      "rating": 7.617
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt1490017",
@@ -646,8 +820,11 @@
       "releaseInfo": "2014",
       "description": "An inventive and hilarious animated adventure with fantastic humor.",
       "background": "https://image.tmdb.org/t/p/original/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
-      "imdbRating": "7.434",
-      "rating": 7.434
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt3896198",
@@ -657,8 +834,11 @@
       "releaseInfo": "2017",
       "description": "More of the same awesome humor, action, and soundtrack you love.",
       "background": "https://image.tmdb.org/t/p/original/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
-      "imdbRating": "7.608",
-      "rating": 7.608
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2283362",
@@ -668,8 +848,11 @@
       "releaseInfo": "2017",
       "description": "A fun, action-packed adventure updating the classic premise with humor.",
       "background": "https://image.tmdb.org/t/p/original/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
-      "imdbRating": "6.823",
-      "rating": 6.823
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt2704998",
@@ -679,8 +862,11 @@
       "releaseInfo": "2018",
       "description": "A clever and suspenseful comedy that turns a simple game night chaotic.",
       "background": "https://image.tmdb.org/t/p/original/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
-      "imdbRating": "6.851",
-      "rating": 6.851
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt10872600",
@@ -690,8 +876,11 @@
       "releaseInfo": "2021",
       "description": "An epic conclusion to the trilogy filled with action and fan service.",
       "background": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
-      "imdbRating": "7.946",
-      "rating": 7.946
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt6710474",
@@ -702,7 +891,10 @@
       "description": "A wildly imaginative, action-packed, and surprisingly emotional adventure.",
       "background": "https://image.tmdb.org/t/p/original/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt7979580",
@@ -712,8 +904,11 @@
       "releaseInfo": "2021",
       "description": "A hilarious and visually creative animated film about a quirky family road trip.",
       "background": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
-      "imdbRating": "7.82",
-      "rating": 7.82
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt6467266",
@@ -723,8 +918,11 @@
       "releaseInfo": "2021",
       "description": "A fun and energetic musical animated sequel with a great soundtrack.",
       "background": "https://image.tmdb.org/t/p/original/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
-      "imdbRating": "7.831",
-      "rating": 7.831
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt3794354",
@@ -734,8 +932,11 @@
       "releaseInfo": "2020",
       "description": "A fast-paced and fun action-comedy based on the classic video game.",
       "background": "https://image.tmdb.org/t/p/original/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
-      "imdbRating": "7.263",
-      "rating": 7.263
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt12412888",
@@ -745,8 +946,11 @@
       "releaseInfo": "2022",
       "description": "Continues the speedy adventure and humor with beloved characters.",
       "background": "https://image.tmdb.org/t/p/original/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
-      "imdbRating": "7.408",
-      "rating": 7.408
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt6264654",
@@ -756,8 +960,11 @@
       "releaseInfo": "2021",
       "description": "A fun action-comedy about an NPC who becomes self-aware in a video game.",
       "background": "https://image.tmdb.org/t/p/original/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
-      "imdbRating": "7.424",
-      "rating": 7.424
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt2463208",
@@ -767,8 +974,11 @@
       "releaseInfo": "2022",
       "description": "A sci-fi adventure blending action, humor, and heartfelt moments.",
       "background": "https://image.tmdb.org/t/p/original/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
-      "imdbRating": "6.982",
-      "rating": 6.982
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt7975244",
@@ -778,8 +988,11 @@
       "releaseInfo": "2019",
       "description": "More hilarious jungle adventure with a new twist on the game.",
       "background": "https://image.tmdb.org/t/p/original/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
-      "imdbRating": "6.864",
-      "rating": 6.864
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt5884052",
@@ -789,8 +1002,11 @@
       "releaseInfo": "2019",
       "description": "A charming live-action Pok\u00e9mon adventure with humor and mystery.",
       "background": "https://image.tmdb.org/t/p/original/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
-      "imdbRating": "6.89",
-      "rating": 6.89
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt1270797",
@@ -800,8 +1016,11 @@
       "releaseInfo": "2018",
       "description": "A darkly humorous and action-packed anti-hero origin story.",
       "background": "https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
-      "imdbRating": "6.82",
-      "rating": 6.82
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt7097896",
@@ -811,8 +1030,11 @@
       "releaseInfo": "2021",
       "description": "More of the odd-couple dynamic and chaotic action you enjoyed.",
       "background": "https://image.tmdb.org/t/p/original/eENEf62tMXbhyVvdcXlnQz2wcuT.jpg",
-      "imdbRating": "6.718",
-      "rating": 6.718
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt7713068",
@@ -822,8 +1044,11 @@
       "releaseInfo": "2020",
       "description": "A vibrant, action-packed, and fun ensemble superhero film.",
       "background": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
-      "imdbRating": "6.856",
-      "rating": 6.856
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt6334354",
@@ -833,8 +1058,11 @@
       "releaseInfo": "2021",
       "description": "A wild, R-rated, and darkly comedic take on a team of anti-heroes.",
       "background": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
-      "imdbRating": "7.435",
-      "rating": 7.435
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt14230388",
@@ -844,8 +1072,11 @@
       "releaseInfo": "2023",
       "description": "A charmingly quirky and visually unique Wes Anderson ensemble comedy.",
       "background": "https://image.tmdb.org/t/p/original/dExUxMWt0UjS93waeCGYeDr1D7m.jpg",
-      "imdbRating": "6.452",
-      "rating": 6.452
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt1517268",
@@ -855,8 +1086,11 @@
       "releaseInfo": "2023",
       "description": "A vibrant, hilarious, and surprisingly profound fantasy comedy.",
       "background": "https://image.tmdb.org/t/p/original/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
-      "imdbRating": "6.905",
-      "rating": 6.905
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt9362930",
@@ -866,8 +1100,11 @@
       "releaseInfo": "2023",
       "description": "A fun, family-oriented superhero origin story with heart and action.",
       "background": "https://image.tmdb.org/t/p/original/bVyFGnX8kt0XtJXdx2F1HyOkIic.jpg",
-      "imdbRating": "6.604",
-      "rating": 6.604
+      "imdbRating": "6.6",
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6
+      }
     },
     {
       "id": "tt2906216",
@@ -877,8 +1114,11 @@
       "releaseInfo": "2023",
       "description": "A rollicking fantasy adventure filled with humor and charm.",
       "background": "https://image.tmdb.org/t/p/original/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
-      "imdbRating": "7.353",
-      "rating": 7.353
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt21235248",
@@ -888,8 +1128,11 @@
       "releaseInfo": "2024",
       "description": "Combines supernatural comedy with exciting action for fans of the franchise.",
       "background": "https://image.tmdb.org/t/p/original/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
-      "imdbRating": "6.41",
-      "rating": 6.41
+      "imdbRating": "6.4",
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4
+      }
     },
     {
       "id": "tt21692408",
@@ -899,8 +1142,11 @@
       "releaseInfo": "2024",
       "description": "An animated martial arts comedy sequel with humor and action.",
       "background": "https://image.tmdb.org/t/p/original/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
-      "imdbRating": "6.98",
-      "rating": 6.98
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt1684562",
@@ -910,8 +1156,11 @@
       "releaseInfo": "2024",
       "description": "A high-octane action-comedy with thrilling stunts and a fun plot.",
       "background": "https://image.tmdb.org/t/p/original/2rjI2uXmjitMAaXVO21r9ao7v2j.jpg",
-      "imdbRating": "6.949",
-      "rating": 6.949
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt17527468",
@@ -921,8 +1170,11 @@
       "releaseInfo": "2023",
       "description": "An outrageous and hilarious high school comedy with a unique premise.",
       "background": "https://image.tmdb.org/t/p/original/1yhQqbi1rZg9EJiOI22i8Xg7vW.jpg",
-      "imdbRating": "6.751",
-      "rating": 6.751
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt18257464",
@@ -932,8 +1184,11 @@
       "releaseInfo": "2023",
       "description": "A stylish and energetic action-comedy blend of martial arts and family.",
       "background": "https://image.tmdb.org/t/p/original/aPvIX46VtxZDwu5bB2UcJ7xdpxs.jpg",
-      "imdbRating": "6.267",
-      "rating": 6.267
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt2183014",
@@ -943,8 +1198,11 @@
       "releaseInfo": "2023",
       "description": "A sweet and charming rom-com with a touch of fate.",
       "background": "https://image.tmdb.org/t/p/original/gz1Lr0WcKJ1eg7mfN0AfAPXbI7h.jpg",
-      "imdbRating": "7.218",
-      "rating": 7.218
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt26047818",
@@ -954,8 +1212,11 @@
       "releaseInfo": "2023",
       "description": "A fun and breezy enemies-to-lovers romantic comedy.",
       "background": "https://image.tmdb.org/t/p/original/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
-      "imdbRating": "6.737",
-      "rating": 6.737
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt0064603",
@@ -965,8 +1226,11 @@
       "releaseInfo": "1968",
       "description": "A classic, lighthearted Disney comedy featuring a sentient car.",
       "background": "https://image.tmdb.org/t/p/original/w6PpUETms1qZc4WJUqR7PuHpbTT.jpg",
-      "imdbRating": "6.571",
-      "rating": 6.571
+      "imdbRating": "6.6",
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6
+      }
     },
     {
       "id": "tt0400497",
@@ -977,7 +1241,10 @@
       "description": "A modern, fun-filled adventure continuing the story of Herbie.",
       "background": "https://image.tmdb.org/t/p/original/u6qrMY2PIzXwmydmKNHmVDFbjaV.jpg",
       "imdbRating": "5.9",
-      "rating": 5.9
+      "rating": 5.9,
+      "ratings": {
+        "imdb": 5.9
+      }
     },
     {
       "id": "tt0088763",
@@ -987,8 +1254,11 @@
       "releaseInfo": "1985",
       "description": "A beloved sci-fi comedy adventure with time travel and humor.",
       "background": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
-      "imdbRating": "8.332",
-      "rating": 8.332
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt0096874",
@@ -998,8 +1268,11 @@
       "releaseInfo": "1989",
       "description": "Continues the time-traveling fun and futuristic adventures.",
       "background": "https://image.tmdb.org/t/p/original/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
-      "imdbRating": "7.785",
-      "rating": 7.785
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0099088",
@@ -1009,8 +1282,11 @@
       "releaseInfo": "1990",
       "description": "The Wild West provides a fun backdrop for this concluding adventure.",
       "background": "https://image.tmdb.org/t/p/original/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
-      "imdbRating": "7.495",
-      "rating": 7.495
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0083866",
@@ -1020,8 +1296,11 @@
       "releaseInfo": "1982",
       "description": "A heartwarming and magical tale of friendship between a boy and an alien.",
       "background": "https://image.tmdb.org/t/p/original/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-      "imdbRating": "7.519",
-      "rating": 7.519
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0102057",
@@ -1031,8 +1310,11 @@
       "releaseInfo": "1991",
       "description": "A charming and adventurous Peter Pan retelling with humor and heart.",
       "background": "https://image.tmdb.org/t/p/original/39OxcFZjX4uc6vYzexUh5qXghxE.jpg",
-      "imdbRating": "6.845",
-      "rating": 6.845
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0104694",
@@ -1042,8 +1324,67 @@
       "releaseInfo": "1992",
       "description": "A spirited and funny sports comedy about an all-female baseball league.",
       "background": "https://image.tmdb.org/t/p/original/kb2FuXGruaPA6ErjOpcifpCyPyY.jpg",
-      "imdbRating": "7.21",
-      "rating": 7.21
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
+    },
+    {
+      "id": "tt3416742",
+      "type": "movie",
+      "name": "What We Do in the Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+      "releaseInfo": "2014",
+      "description": "The hilarious mockumentary film that inspired the TV series, offering similar humor.",
+      "background": "https://image.tmdb.org/t/p/original/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
+    },
+    {
+      "id": "tt4073696",
+      "type": "movie",
+      "name": "The Go-Between",
+      "poster": "https://image.tmdb.org/t/p/w500/p3A7B8HEVruKqffvKvJovb8mcVT.jpg",
+      "releaseInfo": "2015",
+      "description": "A heartwarming story about childhood, memory, and a fateful summer.",
+      "background": "https://image.tmdb.org/t/p/original/bhXTEJ8Oed7Ye7ig09qcilaaQr3.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
+    },
+    {
+      "id": "tt3390600",
+      "type": "movie",
+      "name": "Poirot",
+      "poster": "https://image.tmdb.org/t/p/w500/1glk6EgBqRwgZvmL9bCfIhkmqm6.jpg",
+      "releaseInfo": "1989",
+      "description": "Classic Agatha Christie adaptations with meticulous plotting and style.",
+      "background": "https://image.tmdb.org/t/p/original/hf60FZXkHt6eUy5PN3tZEJ0zDpQ.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
+    },
+    {
+      "id": "tt10324166",
+      "type": "movie",
+      "name": "The Unbreakable Kimmy Schmidt",
+      "poster": "https://image.tmdb.org/t/p/w500/3lOYicrgvA6982iVUpD9860qf7X.jpg",
+      "releaseInfo": "2015",
+      "description": "An optimistic and hilarious comedy about a woman rebuilding her life.",
+      "background": "https://image.tmdb.org/t/p/original/4Q9Ifxv58LePmYLfjWSVyzaf8p9.jpg",
+      "imdbRating": "6.4",
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4
+      }
     }
   ]
 }

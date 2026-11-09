@@ -8,8 +8,11 @@
       "releaseInfo": "2009",
       "description": "This show offers similar quirky humor and optimistic workplace dynamics as Brooklyn Nine-Nine.",
       "background": "https://image.tmdb.org/t/p/original/v7FPlZuuwJZ6YwJggf3Jx5pZNAz.jpg",
-      "imdbRating": "8.045",
-      "rating": 8.045
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0386676",
@@ -19,8 +22,11 @@
       "releaseInfo": "2005",
       "description": "Fans of The Office (UK) and Curb Your Enthusiasm will enjoy its mockumentary style and awkward comedy.",
       "background": "https://image.tmdb.org/t/p/original/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-      "imdbRating": "8.584",
-      "rating": 8.584
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt1759761",
@@ -30,8 +36,11 @@
       "releaseInfo": "2012",
       "description": "For fans of sharp, rapid-fire political satire similar to The Thick of It.",
       "background": "https://image.tmdb.org/t/p/original/vKaDMLbdLrThldFj9Vavo6suTS2.jpg",
-      "imdbRating": "7.511",
-      "rating": 7.511
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt7908628",
@@ -41,8 +50,11 @@
       "releaseInfo": "2019",
       "description": "This mockumentary delivers hilarious supernatural comedy akin to 'It's Always Sunny'.",
       "background": "https://image.tmdb.org/t/p/original/mKikck71CvVISUSTLk29fwRbH4y.jpg",
-      "imdbRating": "8.012",
-      "rating": 8.012
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt1561755",
@@ -53,7 +65,10 @@
       "description": "Offers lighthearted animated family humor reminiscent of The Simpsons and King of the Hill.",
       "background": "https://image.tmdb.org/t/p/original/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt1486217",
@@ -63,8 +78,11 @@
       "releaseInfo": "2009",
       "description": "Its witty dialogue and absurd situations will appeal to fans of Rick and Morty.",
       "background": "https://image.tmdb.org/t/p/original/c4dymvMQT45P1j9RnscRyeyyqSg.jpg",
-      "imdbRating": "7.925",
-      "rating": 7.925
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt3526078",
@@ -74,8 +92,11 @@
       "releaseInfo": "2015",
       "description": "A heartwarming and hilarious fish-out-of-water story with great character development.",
       "background": "https://image.tmdb.org/t/p/original/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
-      "imdbRating": "7.808",
-      "rating": 7.808
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0487831",
@@ -85,8 +106,11 @@
       "releaseInfo": "2006",
       "description": "A classic British sitcom with quirky characters and clever jokes, like PhoneShop.",
       "background": "https://image.tmdb.org/t/p/original/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
-      "imdbRating": "8.171",
-      "rating": 8.171
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt5788792",
@@ -97,7 +121,10 @@
       "description": "Visually stunning and witty dialogue make this a delightful period comedy.",
       "background": "https://image.tmdb.org/t/p/original/vQ77kC1amsZECKIxkUIsMJCtBVp.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt14218830",
@@ -107,8 +134,11 @@
       "releaseInfo": "2021",
       "description": "A charming and funny workplace comedy with a heartwarming feel.",
       "background": "https://image.tmdb.org/t/p/original/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
-      "imdbRating": "7.517",
-      "rating": 7.517
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt1073507",
@@ -118,8 +148,11 @@
       "releaseInfo": "2009",
       "description": "Features a fantastic ensemble cast and dry, observational humor similar to Silicon Valley.",
       "background": "https://image.tmdb.org/t/p/original/AmmgWFPclweF5fdjdy9ITksMAVC.jpg",
-      "imdbRating": "7.467",
-      "rating": 7.467
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt5912064",
@@ -129,8 +162,11 @@
       "releaseInfo": "2016",
       "description": "A gentle, funny, and feel-good show about a Korean-Canadian family.",
       "background": "https://image.tmdb.org/t/p/original/oh5ZkLhrrt1EmGfRZ4qqm743X6b.jpg",
-      "imdbRating": "7.69",
-      "rating": 7.69
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt7120662",
@@ -140,8 +176,11 @@
       "releaseInfo": "2018",
       "description": "A hilarious and nostalgic look at growing up in Northern Ireland during the Troubles.",
       "background": "https://image.tmdb.org/t/p/original/nQyQ4c8DUvXra1LDWnNfV9QJluD.jpg",
-      "imdbRating": "8.135",
-      "rating": 8.135
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt7826376",
@@ -151,8 +190,11 @@
       "releaseInfo": "2020",
       "description": "Offers a unique sci-fi premise with humor and heart, similar to The Good Place.",
       "background": "https://image.tmdb.org/t/p/original/moH3PdysmUl8vrsYVM4l2ZZiRAd.jpg",
-      "imdbRating": "7.757",
-      "rating": 7.757
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt3398228",
@@ -162,8 +204,11 @@
       "releaseInfo": "2014",
       "description": "While darker at times, its sharp wit and animated format echo Rick and Morty.",
       "background": "https://image.tmdb.org/t/p/original/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
-      "imdbRating": "8.532",
-      "rating": 8.532
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt4477976",
@@ -173,8 +218,11 @@
       "releaseInfo": "2015",
       "description": "A relatable and funny workplace sitcom with a diverse cast.",
       "background": "https://image.tmdb.org/t/p/original/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
-      "imdbRating": "7.526",
-      "rating": 7.526
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0397138",
@@ -185,7 +233,10 @@
       "description": "Gentle, character-driven humor set in a small Canadian town, akin to King of the Hill.",
       "background": "https://image.tmdb.org/t/p/original/sCmhbNkt6YTaPsPEI1lG9jRUz6R.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt10234362",
@@ -195,8 +246,11 @@
       "releaseInfo": "2020",
       "description": "A sci-fi comedy from the creator of Veep, offering satirical space adventures.",
       "background": "https://image.tmdb.org/t/p/original/sVCgWyRnuTpC4RcfZWls2Q8fEk5.jpg",
-      "imdbRating": "6.545",
-      "rating": 6.545
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt3230454",
@@ -206,8 +260,11 @@
       "releaseInfo": "2015",
       "description": "A quirky and humorous take on a post-apocalyptic world.",
       "background": "https://image.tmdb.org/t/p/original/6g6NdCgFxO8qVp0cosVOm4xdjQG.jpg",
-      "imdbRating": "6.918",
-      "rating": 6.918
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt2100976",
@@ -217,8 +274,11 @@
       "releaseInfo": "2011",
       "description": "Pure silliness and pranks that are easy to laugh along with, like Jersey Shore's lighthearted moments.",
       "background": "https://image.tmdb.org/t/p/original/9I7aHbHlXwsQais5wBcccWnboTx.jpg",
-      "imdbRating": "7.958",
-      "rating": 7.958
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt4647692",
@@ -228,8 +288,11 @@
       "releaseInfo": "2016",
       "description": "Fast-paced, quotable humor about small-town Canadian life, similar to Clarkson's Farm's observational comedy.",
       "background": "https://image.tmdb.org/t/p/original/wdHK7RZNIGfskbGCIusSKN3vto6.jpg",
-      "imdbRating": "7.948",
-      "rating": 7.948
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt4094300",
@@ -239,8 +302,11 @@
       "releaseInfo": "2015",
       "description": "A unique blend of comedy, romance, and musical numbers with a heartfelt core.",
       "background": "https://image.tmdb.org/t/p/original/5rNvv9UCAjDHi69OXvKD7bDxkf7.jpg",
-      "imdbRating": "6.863",
-      "rating": 6.863
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt6226232",
@@ -250,8 +316,11 @@
       "releaseInfo": "2017",
       "description": "A charming prequel that offers lighthearted humor and character focus.",
       "background": "https://image.tmdb.org/t/p/original/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
-      "imdbRating": "8.02",
-      "rating": 8.02
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt5511512",
@@ -261,8 +330,11 @@
       "releaseInfo": "2017",
       "description": "A hilarious mockumentary-style legal comedy, similar in tone to American Vandal.",
       "background": "https://image.tmdb.org/t/p/original/y1NtXk3YzmXOIqEBtwjojONPjqT.jpg",
-      "imdbRating": "7.017",
-      "rating": 7.017
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt2432604",
@@ -273,7 +345,10 @@
       "description": "Absurdist and hilarious adventures of a fading actor, appealing to fans of British comedy.",
       "background": "https://image.tmdb.org/t/p/original/uDLF6xioMLt3IF4yBDXZ5gpqcbx.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt4374208",
@@ -283,8 +358,11 @@
       "releaseInfo": "2015",
       "description": "Sharp, witty, and surprisingly heartfelt comedy about an unexpected pregnancy.",
       "background": "https://image.tmdb.org/t/p/original/dUO9Ufm9hX0H5q6uBnP4WAGSU1s.jpg",
-      "imdbRating": "7.549",
-      "rating": 7.549
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt11691774",
@@ -294,8 +372,11 @@
       "releaseInfo": "2021",
       "description": "A charming and witty mystery comedy with great chemistry between its leads.",
       "background": "https://image.tmdb.org/t/p/original/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
-      "imdbRating": "8.397",
-      "rating": 8.397
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt6441720",
@@ -306,7 +387,10 @@
       "description": "A feel-good medical drama with charming characters and beautiful scenery.",
       "background": "https://image.tmdb.org/t/p/original/fyWVY88MeTZmB4hmUSZ8X6hsVMY.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt7678620",
@@ -316,8 +400,11 @@
       "releaseInfo": "2018",
       "description": "Incredibly creative and heartwarming animated series that appeals to all ages.",
       "background": "https://image.tmdb.org/t/p/original/tWdNZ3xuFBhJ2ZoQ9vShNGHTb85.jpg",
-      "imdbRating": "8.579",
-      "rating": 8.579
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt0187664",
@@ -327,8 +414,11 @@
       "releaseInfo": "1999",
       "description": "Early Edgar Wright work with a unique blend of surreal humor and pop culture references.",
       "background": "https://image.tmdb.org/t/p/original/q187vcRKB9WCOQyjo9Cl4No9cea.jpg",
-      "imdbRating": "7.899",
-      "rating": 7.899
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt1710308",
@@ -338,8 +428,11 @@
       "releaseInfo": "2010",
       "description": "Surreal animated adventures with a surprisingly mature and witty undertone.",
       "background": "https://image.tmdb.org/t/p/original/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
-      "imdbRating": "8.636",
-      "rating": 8.636
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt1305826",
@@ -349,8 +442,11 @@
       "releaseInfo": "2010",
       "description": "Whimsical and imaginative animated series with surprising depth and humor.",
       "background": "https://image.tmdb.org/t/p/original/d8rse1RgMzXwmZvBpDvcG1VUO2Y.jpg",
-      "imdbRating": "8.507",
-      "rating": 8.507
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt0262150",
@@ -361,7 +457,10 @@
       "description": "Darkly comedic and witty series about a dysfunctional bookshop owner.",
       "background": "https://image.tmdb.org/t/p/original/wlQDUQF7LjCD3WA2OjGNoMnIx7M.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt4082744",
@@ -371,8 +470,11 @@
       "releaseInfo": "2014",
       "description": "A gentle, understated comedy about two friends and their metal-detecting hobby.",
       "background": "https://image.tmdb.org/t/p/original/AcwI0dQaPEiU4a4l3kQqUI1070.jpg",
-      "imdbRating": "8.172",
-      "rating": 8.172
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt1220617",
@@ -382,8 +484,11 @@
       "releaseInfo": "2008",
       "description": "Relatable and raucous British comedy about teenage awkwardness.",
       "background": "https://image.tmdb.org/t/p/original/4NIZwLomPqU01RR24T0fWp3Rr6n.jpg",
-      "imdbRating": "7.672",
-      "rating": 7.672
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0290988",
@@ -393,8 +498,11 @@
       "releaseInfo": "2001",
       "description": "Mockumentary style with eccentric characters and low-brow humor.",
       "background": "https://image.tmdb.org/t/p/original/4RttvRiea7C5BaD1YJXpny6nGSx.jpg",
-      "imdbRating": "7.775",
-      "rating": 7.775
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt2058303",
@@ -404,8 +512,11 @@
       "releaseInfo": "2011",
       "description": "Hilarious and honest portrayal of university student life.",
       "background": "https://image.tmdb.org/t/p/original/w2bbEGrMVGYkCFCy4gSDRCa5hxG.jpg",
-      "imdbRating": "7.221",
-      "rating": 7.221
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt6128254",
@@ -416,7 +527,10 @@
       "description": "A quirky, optimistic, and character-driven series with a unique vibe.",
       "background": "https://image.tmdb.org/t/p/original/9qGjXKangnL5Q8g7fIAstOuopGi.jpg",
       "imdbRating": "6.7",
-      "rating": 6.7
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt0094535",
@@ -426,8 +540,11 @@
       "releaseInfo": "1988",
       "description": "Classic British sci-fi sitcom with enduring humor and memorable characters.",
       "background": "https://image.tmdb.org/t/p/original/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
-      "imdbRating": "8.072",
-      "rating": 8.072
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt3762198",
@@ -438,7 +555,10 @@
       "description": "A brilliant mockumentary following an incompetent pirate radio station.",
       "background": "https://image.tmdb.org/t/p/original/ar7HhZ2McVR2ORwQIuJrlobibCX.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt8594324",
@@ -448,8 +568,11 @@
       "releaseInfo": "2019",
       "description": "Charming and funny supernatural sitcom with a heartwarming ensemble.",
       "background": "https://image.tmdb.org/t/p/original/2FXDdIGjDhEoBkuFk5NhHWLd3VX.jpg",
-      "imdbRating": "7.943",
-      "rating": 7.943
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt6109562",
@@ -459,8 +582,11 @@
       "releaseInfo": "2018",
       "description": "A hilarious supernatural comedy spin-off from 'What We Do in the Shadows'.",
       "background": "https://image.tmdb.org/t/p/original/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
-      "imdbRating": "6.961",
-      "rating": 6.961
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt9184820",
@@ -470,8 +596,11 @@
       "releaseInfo": "2020",
       "description": "Animated Star Trek comedy that captures the spirit of the franchise with humor.",
       "background": "https://image.tmdb.org/t/p/original/kG7GwGBHpCI6lA6SaEydKHHOxkU.jpg",
-      "imdbRating": "7.634",
-      "rating": 7.634
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt10168312",
@@ -482,7 +611,10 @@
       "description": "Animated anthology exploring alternate MCU timelines with fun scenarios.",
       "background": "https://image.tmdb.org/t/p/original/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt7658402",
@@ -492,8 +624,11 @@
       "releaseInfo": "2019",
       "description": "A violent yet hilarious animated take on DC villains, with plenty of action.",
       "background": "https://image.tmdb.org/t/p/original/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
-      "imdbRating": "8.276",
-      "rating": 8.276
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt6741278",
@@ -503,8 +638,11 @@
       "releaseInfo": "2021",
       "description": "Animated superhero series with surprising depth, action, and humor.",
       "background": "https://image.tmdb.org/t/p/original/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-      "imdbRating": "8.627",
-      "rating": 8.627
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt1312171",
@@ -514,8 +652,11 @@
       "releaseInfo": "2019",
       "description": "Quirky superhero family dynamics with humor and action.",
       "background": "https://image.tmdb.org/t/p/original/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
-      "imdbRating": "8.446",
-      "rating": 8.446
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt8416494",
@@ -525,8 +666,11 @@
       "releaseInfo": "2019",
       "description": "A bizarre and heartfelt superhero show with unique characters and humor.",
       "background": "https://image.tmdb.org/t/p/original/sSJZVwCS0tFzcLSaQOjLpv5mFau.jpg",
-      "imdbRating": "7.47",
-      "rating": 7.47
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt5580146",
@@ -537,7 +681,10 @@
       "description": "Visually stunning and emotionally resonant sci-fi drama with dark humor.",
       "background": "https://image.tmdb.org/t/p/original/f9z6gCtDlr88l2VBQOY6luaSfPi.jpg",
       "imdbRating": "7.3",
-      "rating": 7.3
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt7520794",
@@ -547,8 +694,11 @@
       "releaseInfo": "2019",
       "description": "A clever and funny existential comedy with a unique premise.",
       "background": "https://image.tmdb.org/t/p/original/5TgMzFqbOEcEo99uhIo8DmiENOx.jpg",
-      "imdbRating": "7.351",
-      "rating": 7.351
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt4288182",
@@ -558,8 +708,11 @@
       "releaseInfo": "2016",
       "description": "Surreal, funny, and insightful exploration of music and life in Atlanta.",
       "background": "https://image.tmdb.org/t/p/original/vN84JlTvOZvZzxi0D2SJQNFvtjS.jpg",
-      "imdbRating": "8.048",
-      "rating": 8.048
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt5348176",
@@ -569,8 +722,11 @@
       "releaseInfo": "2018",
       "description": "Darkly comedic and surprisingly poignant story of a hitman trying to become an actor.",
       "background": "https://image.tmdb.org/t/p/original/nfjqhuGFUWqJD14B4fxlSiZWfeR.jpg",
-      "imdbRating": "7.917",
-      "rating": 7.917
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt5687612",
@@ -580,8 +736,11 @@
       "releaseInfo": "2016",
       "description": "Hilarious and heartbreakingly honest one-woman show with sharp wit.",
       "background": "https://image.tmdb.org/t/p/original/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
-      "imdbRating": "8.28",
-      "rating": 8.28
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt0459159",
@@ -592,7 +751,10 @@
       "description": "Brilliantly profane and hilarious satire of British politics.",
       "background": "https://image.tmdb.org/t/p/original/rReAn187hBmmk5YoWA7I3amfaUK.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0770794",
@@ -603,7 +765,10 @@
       "description": "An American remake of the British classic, offering similar internal monologues.",
       "background": null,
       "imdbRating": "0.0",
-      "rating": 0.0
+      "rating": 0.0,
+      "ratings": {
+        "imdb": 0.0
+      }
     },
     {
       "id": "tt0445114",
@@ -614,7 +779,10 @@
       "description": "Ricky Gervais's follow-up to The Office, focusing on background actors with star cameos.",
       "background": "https://image.tmdb.org/t/p/original/bWShstEC6UN1EuHpqGUGOnLmjqH.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt2616280",
@@ -624,8 +792,11 @@
       "releaseInfo": "2012",
       "description": "A gentle and heartwarming comedy-drama created by Ricky Gervais.",
       "background": "https://image.tmdb.org/t/p/original/kb66i9MPg7dBw7FGofzqX8lRgJp.jpg",
-      "imdbRating": "7.447",
-      "rating": 7.447
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt1641247",
@@ -636,7 +807,10 @@
       "description": "Another mockumentary from Ricky Gervais and Stephen Merchant, featuring Warwick Davis.",
       "background": "https://image.tmdb.org/t/p/original/h0wDHkkGFXzv3ajVL3XsjLW7hXy.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt1610527",
@@ -646,8 +820,11 @@
       "releaseInfo": "2011",
       "description": "A raucous and hilarious take on post-college life and slacker roommates.",
       "background": "https://image.tmdb.org/t/p/original/22g0oADZYfcYrfS9KdzU6yypb3w.jpg",
-      "imdbRating": "7.412",
-      "rating": 7.412
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt1780441",
@@ -658,7 +835,10 @@
       "description": "Surreal and witty sketches satirizing Portland's quirky culture.",
       "background": "https://image.tmdb.org/t/p/original/kCOLltSpNznhpdHhxCsky3eU1jI.jpg",
       "imdbRating": "6.9",
-      "rating": 6.9
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt2297757",
@@ -669,7 +849,10 @@
       "description": "Hilariously awkward and creative entrepreneurial advice in a reality format.",
       "background": "https://image.tmdb.org/t/p/original/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
       "imdbRating": "8.2",
-      "rating": 8.2
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt2244495",
@@ -679,8 +862,11 @@
       "releaseInfo": "2012",
       "description": "Absurdist, chaotic, and often shocking late-night talk show parody.",
       "background": "https://image.tmdb.org/t/p/original/bYx97fcrrAQOJldXdKW4iXCsHsl.jpg",
-      "imdbRating": "7.855",
-      "rating": 7.855
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt0912343",
@@ -691,7 +877,10 @@
       "description": "Surreal and often bizarre sketch comedy with a cult following.",
       "background": "https://image.tmdb.org/t/p/original/hqzle7QIKvk8PvIMcK1gh9waOH4.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt2141913",
@@ -701,8 +890,11 @@
       "releaseInfo": "2014",
       "description": "A darkly comedic show where a critic reviews life experiences.",
       "background": "https://image.tmdb.org/t/p/original/dr8oooQY5BJuHihzk6JihNiOrdW.jpg",
-      "imdbRating": "7.469",
-      "rating": 7.469
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt14129378",
@@ -713,7 +905,10 @@
       "description": "A dark comedy about two brothers trying to make it in the competitive world of snake catching.",
       "background": "https://image.tmdb.org/t/p/original/dcrPjQh3ABrQk5yxxKs2kDLnkgG.jpg",
       "imdbRating": "6.0",
-      "rating": 6.0
+      "rating": 6.0,
+      "ratings": {
+        "imdb": 6.0
+      }
     },
     {
       "id": "tt13623580",
@@ -723,8 +918,11 @@
       "releaseInfo": "2021",
       "description": "A charming and funny coming-of-age story about Indigenous teenagers.",
       "background": "https://image.tmdb.org/t/p/original/4vC3CijGu8g2Z1UobwkJpRQHOVO.jpg",
-      "imdbRating": "7.915",
-      "rating": 7.915
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt0063929",
@@ -734,8 +932,11 @@
       "releaseInfo": "1969",
       "description": "Foundational British sketch comedy known for its surreal and absurd humor.",
       "background": "https://image.tmdb.org/t/p/original/9GybuKLYceOhgV09BQ60MKTT5nN.jpg",
-      "imdbRating": "8.282",
-      "rating": 8.282
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt0072500",
@@ -745,8 +946,11 @@
       "releaseInfo": "1975",
       "description": "A classic British sitcom renowned for its brilliant physical comedy and farce.",
       "background": "https://image.tmdb.org/t/p/original/3G1uNDOGJWLNTOzjkdVphVlRmli.jpg",
-      "imdbRating": "8.296",
-      "rating": 8.296
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt0080306",
@@ -756,8 +960,11 @@
       "releaseInfo": "1980",
       "description": "Witty and intelligent political satire with sharp dialogue.",
       "background": "https://image.tmdb.org/t/p/original/erND13jVv79DZqDNIbaysTcGxq.jpg",
-      "imdbRating": "8.342",
-      "rating": 8.342
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt0071036",
@@ -768,7 +975,10 @@
       "description": "Classic British sitcom set in a prison, known for its humor and characterizations.",
       "background": "https://image.tmdb.org/t/p/original/mE2U8VWud8wUWda2hIHXcQkwagv.jpg",
       "imdbRating": "8.2",
-      "rating": 8.2
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt0057785",
@@ -779,7 +989,10 @@
       "description": "A beloved British sitcom about a father and son rag-and-bone business.",
       "background": "https://image.tmdb.org/t/p/original/4fGIL8dpuaXUmAlwnpVXyNjM2bx.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0098945",
@@ -790,7 +1003,10 @@
       "description": "A gentle British sitcom about two residents in a retirement home.",
       "background": "https://image.tmdb.org/t/p/original/cxSV7UQcQI5JJ2P01yt3pWaz8m9.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt0257315",
@@ -800,8 +1016,11 @@
       "releaseInfo": "1999",
       "description": "A long-running British sitcom focusing on the everyday lives of a London family.",
       "background": "https://image.tmdb.org/t/p/original/sE6X54SP0jsfgWToF43xcxtQD8d.jpg",
-      "imdbRating": "7.127",
-      "rating": 7.127
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0081912",
@@ -812,7 +1031,10 @@
       "description": "Iconic British sitcom about two brothers trying to get rich through dodgy schemes.",
       "background": "https://image.tmdb.org/t/p/original/K8oVAMcE19IvzJsPlRVfDnB4Zq.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0074036",
@@ -823,7 +1045,10 @@
       "description": "A charming British sitcom about a frugal corner shop owner.",
       "background": "https://image.tmdb.org/t/p/original/rgHUZpOcq1LgukYQ7EAxgkJfxVX.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt0075472",
@@ -834,7 +1059,10 @@
       "description": "Heartwarming stories about a country veterinarian in the Yorkshire Dales.",
       "background": "https://image.tmdb.org/t/p/original/kqpOg91jYda1G3RU7MpjdHllAGy.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0115105",
@@ -845,7 +1073,10 @@
       "description": "A feel-good drama about an English priest in a rural Irish village.",
       "background": "https://image.tmdb.org/t/p/original/k7XqZSr9CAWNClsVWlfDyC3KoKE.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0408381",
@@ -856,7 +1087,10 @@
       "description": "A grumpy doctor navigates life in a quirky Cornish village, offering gentle humor.",
       "background": "https://image.tmdb.org/t/p/original/g0LCSXvweUAMW8jB3O2ECMwDAua.jpg",
       "imdbRating": "8.3",
-      "rating": 8.3
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt5014882",
@@ -866,8 +1100,11 @@
       "releaseInfo": "2016",
       "description": "A charming and sun-drenched series about a family's move to Corfu.",
       "background": "https://image.tmdb.org/t/p/original/xhNtmyX53yNVpqMtOV2BJd9JuDR.jpg",
-      "imdbRating": "7.453",
-      "rating": 7.453
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt2258904",
@@ -878,7 +1115,10 @@
       "description": "A sweeping romantic drama with beautiful scenery and heartfelt storylines.",
       "background": "https://image.tmdb.org/t/p/original/iqsEVKhFfOLnD4WGB19sg39bb21.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt2874692",
@@ -889,7 +1129,10 @@
       "description": "A heartwarming period drama about a teacher in a frontier town.",
       "background": "https://image.tmdb.org/t/p/original/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
       "imdbRating": "8.3",
-      "rating": 8.3
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt5421602",
@@ -899,8 +1142,11 @@
       "releaseInfo": "2017",
       "description": "A charming and uplifting adaptation of the classic novel.",
       "background": "https://image.tmdb.org/t/p/original/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
-      "imdbRating": "8.653",
-      "rating": 8.653
+      "imdbRating": "8.7",
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt10329042",
@@ -910,8 +1156,11 @@
       "releaseInfo": "2019",
       "description": "Follows the lives of judges, prosecutors, and public defenders in Los Angeles.",
       "background": "https://image.tmdb.org/t/p/original/cjpOEE5PhoEZb7hyupj0MV3eJtD.jpg",
-      "imdbRating": "7.408",
-      "rating": 7.408
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt4236770",
@@ -921,8 +1170,11 @@
       "releaseInfo": "2018",
       "description": "A modern Western drama with compelling family dynamics and stunning scenery.",
       "background": "https://image.tmdb.org/t/p/original/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "imdbRating": "8.279",
-      "rating": 8.279
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt10638036",
@@ -933,7 +1185,10 @@
       "description": "A sweet and heartwarming coming-of-age story about young love.",
       "background": "https://image.tmdb.org/t/p/original/8cpXau1LjYMBjiaHUS75JmlgGsU.jpg",
       "imdbRating": "8.6",
-      "rating": 8.6
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt1877368",
@@ -943,8 +1198,11 @@
       "releaseInfo": "2010",
       "description": "A comforting and low-stakes competition show with delightful contestants.",
       "background": "https://image.tmdb.org/t/p/original/7rB1VhVXtLFTnOCY1Hz7ZEIz7CO.jpg",
-      "imdbRating": "7.509",
-      "rating": 7.509
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt14626352",
@@ -954,8 +1212,11 @@
       "releaseInfo": "2021",
       "description": "A charming anime about a girl with social anxiety trying to make friends.",
       "background": "https://image.tmdb.org/t/p/original/2bHGk7j4OD21qeXRRDYrKVhxzRc.jpg",
-      "imdbRating": "8.258",
-      "rating": 8.258
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt13706018",
@@ -965,8 +1226,11 @@
       "releaseInfo": "2022",
       "description": "A delightful and action-packed anime with a hilarious found family premise.",
       "background": "https://image.tmdb.org/t/p/original/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
-      "imdbRating": "8.492",
-      "rating": 8.492
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt5897304",
@@ -977,7 +1241,10 @@
       "description": "Visually stunning anime with a heartwarming story and great character development.",
       "background": "https://image.tmdb.org/t/p/original/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
       "imdbRating": "8.5",
-      "rating": 8.5
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt8019444",
@@ -987,8 +1254,11 @@
       "releaseInfo": "2018",
       "description": "Relatable and hilarious animated series about a red panda dealing with workplace stress.",
       "background": "https://image.tmdb.org/t/p/original/uPaX3KczjZiXxLJiG91F8pZh88s.jpg",
-      "imdbRating": "7.466",
-      "rating": 7.466
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt6385540",
@@ -998,8 +1268,11 @@
       "releaseInfo": "2018",
       "description": "Whimsical and beautifully animated series about a brave girl and magical creatures.",
       "background": "https://image.tmdb.org/t/p/original/x5YFTfPDug6eF76vVuDnbaoNVQK.jpg",
-      "imdbRating": "8.395",
-      "rating": 8.395
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt7745956",
@@ -1010,7 +1283,10 @@
       "description": "A vibrant and empowering animated series with strong character arcs.",
       "background": "https://image.tmdb.org/t/p/original/uKG6BOipnZM9XRtrRzDjoq52jab.jpg",
       "imdbRating": "8.5",
-      "rating": 8.5
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt3061046",
@@ -1021,7 +1297,10 @@
       "description": "A unique and heartwarming animated series exploring themes of love and acceptance.",
       "background": "https://image.tmdb.org/t/p/original/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
       "imdbRating": "8.4",
-      "rating": 8.4
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt1865718",
@@ -1032,7 +1311,10 @@
       "description": "A witty and mysterious animated series with a blend of humor and supernatural elements.",
       "background": "https://image.tmdb.org/t/p/original/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
       "imdbRating": "8.6",
-      "rating": 8.6
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt8050756",
@@ -1043,7 +1325,10 @@
       "description": "An enchanting animated fantasy series with great characters and world-building.",
       "background": "https://image.tmdb.org/t/p/original/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
       "imdbRating": "8.7",
-      "rating": 8.7
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt0458290",
@@ -1053,8 +1338,11 @@
       "releaseInfo": "2008",
       "description": "Excellent animated Star Wars stories with compelling characters and action.",
       "background": "https://image.tmdb.org/t/p/original/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
-      "imdbRating": "8.461",
-      "rating": 8.461
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt2930604",
@@ -1064,8 +1352,11 @@
       "releaseInfo": "2014",
       "description": "Another fantastic animated Star Wars series with strong themes and characters.",
       "background": "https://image.tmdb.org/t/p/original/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg",
-      "imdbRating": "7.723",
-      "rating": 7.723
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt4532368",
@@ -1075,8 +1366,11 @@
       "releaseInfo": "2016",
       "description": "A fun and lighthearted superhero adventure across time.",
       "background": "https://image.tmdb.org/t/p/original/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
-      "imdbRating": "7.231",
-      "rating": 7.231
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt3107288",
@@ -1086,8 +1380,11 @@
       "releaseInfo": "2014",
       "description": "A classic superhero show with action, heart, and a hopeful tone.",
       "background": "https://image.tmdb.org/t/p/original/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-      "imdbRating": "7.739",
-      "rating": 7.739
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt4016454",
@@ -1098,7 +1395,10 @@
       "description": "An uplifting superhero series focusing on hope, kindness, and empowerment.",
       "background": "https://image.tmdb.org/t/p/original/mmprryb2r0X8u9JkZCnaJIzyYX4.jpg",
       "imdbRating": "7.3",
-      "rating": 7.3
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt13669128",
@@ -1109,7 +1409,10 @@
       "description": "A whimsical and romantic fantasy K-drama with a unique premise.",
       "background": "https://image.tmdb.org/t/p/original/uMLihaxfbeCvraDmER37t2jTNKi.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt14518756",
@@ -1119,8 +1422,11 @@
       "releaseInfo": "2021",
       "description": "A heartwarming and charming romantic comedy set in a seaside village.",
       "background": "https://image.tmdb.org/t/p/original/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-      "imdbRating": "8.205",
-      "rating": 8.205
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt11769304",
@@ -1131,7 +1437,10 @@
       "description": "A comforting and feel-good K-drama about the lives of five doctor friends.",
       "background": "https://image.tmdb.org/t/p/original/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg",
       "imdbRating": "8.6",
-      "rating": 8.6
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt5182866",
@@ -1141,8 +1450,11 @@
       "releaseInfo": "2015",
       "description": "A nostalgic and heartwarming slice-of-life drama about friendship and family.",
       "background": "https://image.tmdb.org/t/p/original/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-      "imdbRating": "8.721",
-      "rating": 8.721
+      "imdbRating": "8.7",
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt7923710",
@@ -1152,8 +1464,11 @@
       "releaseInfo": "2018",
       "description": "While dramatic, it's a deeply human and ultimately hopeful story about connection.",
       "background": "https://image.tmdb.org/t/p/original/i7prwa7UwOAUcpTmWnUd75J2PWe.jpg",
-      "imdbRating": "8.53",
-      "rating": 8.53
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt10850932",
@@ -1163,8 +1478,11 @@
       "releaseInfo": "2019",
       "description": "A charming romantic comedy with a unique premise and engaging characters.",
       "background": "https://image.tmdb.org/t/p/original/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-      "imdbRating": "8.537",
-      "rating": 8.537
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt4786824",
@@ -1175,7 +1493,10 @@
       "description": "A lavish historical drama offering a glimpse into royal life with compelling performances.",
       "background": "https://image.tmdb.org/t/p/original/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
       "imdbRating": "8.2",
-      "rating": 8.2
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt8740790",
@@ -1185,8 +1506,11 @@
       "releaseInfo": "2020",
       "description": "A glamorous and romantic period drama with witty dialogue and escapism.",
       "background": "https://image.tmdb.org/t/p/original/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
-      "imdbRating": "8.039",
-      "rating": 8.039
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt11000902",
@@ -1197,7 +1521,10 @@
       "description": "A hilarious and surprisingly heartfelt pirate comedy with a unique premise.",
       "background": "https://image.tmdb.org/t/p/original/uDM0qsZ1q1C82Se2RzVj8I8ufhC.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt14452776",
@@ -1207,8 +1534,11 @@
       "releaseInfo": "2022",
       "description": "While intense, it's a masterclass in character development and culinary drama.",
       "background": "https://image.tmdb.org/t/p/original/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
-      "imdbRating": "8.154",
-      "rating": 8.154
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt14404618",
@@ -1219,7 +1549,10 @@
       "description": "A darkly comedic spy thriller with a unique narrative voice.",
       "background": "https://image.tmdb.org/t/p/original/yBYkOSSNwd5Vrh0rF18RlJbyooF.jpg",
       "imdbRating": "6.9",
-      "rating": 6.9
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt0496424",
@@ -1229,8 +1562,11 @@
       "releaseInfo": "2006",
       "description": "Fast-paced, meta-comedy about running a sketch show, similar to SNL.",
       "background": "https://image.tmdb.org/t/p/original/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
-      "imdbRating": "7.498",
-      "rating": 7.498
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0290978",
@@ -1240,8 +1576,11 @@
       "releaseInfo": "2001",
       "description": "The original mockumentary that inspired many, with painfully relatable awkward humor.",
       "background": "https://image.tmdb.org/t/p/original/9GWU1AyNqUYIUl1tU7CvXEHUVs9.jpg",
-      "imdbRating": "7.835",
-      "rating": 7.835
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0086807",
@@ -1252,7 +1591,10 @@
       "description": "Iconic British satirical sketch show using puppets for comedic effect.",
       "background": "https://image.tmdb.org/t/p/original/22BTwoc0JGcOdQdbHCRkk9axRZU.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0118273",
@@ -1263,7 +1605,10 @@
       "description": "Infamous and boundary-pushing satirical current affairs show.",
       "background": "https://image.tmdb.org/t/p/original/29R7IcPgdsw3j1zSBAb4zkJNySs.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt2575988",
@@ -1273,8 +1618,11 @@
       "releaseInfo": "2014",
       "description": "A hilarious and insightful look at the tech startup world.",
       "background": "https://image.tmdb.org/t/p/original/4pfXAnWxOfEJsUgDPW0zqzs5UWv.jpg",
-      "imdbRating": "8.151",
-      "rating": 8.151
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt0383126",
@@ -1284,8 +1632,11 @@
       "releaseInfo": "2003",
       "description": "Engaging and educational show that tests common myths with experiments.",
       "background": "https://image.tmdb.org/t/p/original/edhROlXRob3TopjWJ5898GSvQpI.jpg",
-      "imdbRating": "7.824",
-      "rating": 7.824
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt5712554",
@@ -1296,7 +1647,10 @@
       "description": "Car enthusiasts with witty banter and adventurous road trips.",
       "background": "https://image.tmdb.org/t/p/original/AvH03Lj5lMYxmlPc7prNQLWw6JY.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt10541088",
@@ -1307,7 +1661,10 @@
       "description": "Jeremy Clarkson's attempt at farming offers humor and insight.",
       "background": "https://image.tmdb.org/t/p/original/i50h4Gz6e9BMGak5l6gg5qfIjcv.jpg",
       "imdbRating": "8.5",
-      "rating": 8.5
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt4934214",
@@ -1318,7 +1675,10 @@
       "description": "Comedians complete bizarre tasks, leading to hilarious outcomes.",
       "background": "https://image.tmdb.org/t/p/original/4HK7iRrroCh71cbNFBF4HEJakGG.jpg",
       "imdbRating": "8.3",
-      "rating": 8.3
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt1055238",
@@ -1329,7 +1689,10 @@
       "description": "Panel show where comedians try to fool others with unbelievable stories.",
       "background": "https://image.tmdb.org/t/p/original/4YNm4rg9Fu9WHBLhSYyjHLUqAQK.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0380136",
@@ -1340,7 +1703,10 @@
       "description": "An 'inquisitive intelligence' quiz show that's both educational and funny.",
       "background": "https://image.tmdb.org/t/p/original/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt0463827",
@@ -1351,7 +1717,10 @@
       "description": "Topical British panel show with sharp wit and stand-up comedy.",
       "background": "https://image.tmdb.org/t/p/original/2szaiTJ12GiVGeNsBIW0u5wkWLr.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0098820",
@@ -1362,7 +1731,10 @@
       "description": "Long-running satirical current affairs quiz show with political humor.",
       "background": "https://image.tmdb.org/t/p/original/jdwwdMhPJKarEiNojEau5YV1drN.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0465315",
@@ -1373,7 +1745,10 @@
       "description": "Comedy panel show based on statistics and surveys, with witty hosts.",
       "background": "https://image.tmdb.org/t/p/original/s6ed2W9N7a3zz216ZbHtWSWxWG5.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0115286",
@@ -1384,7 +1759,10 @@
       "description": "A humorous music-themed panel show known for its irreverent style.",
       "background": "https://image.tmdb.org/t/p/original/8oUqw0UIW5xdswNBsyhQrJx2ORm.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt8430272",
@@ -1395,7 +1773,10 @@
       "description": "Energetic and hilarious chat show with a unique British urban perspective.",
       "background": "https://image.tmdb.org/t/p/original/xMPP9fRePmNrr5QTRrDlM60tNI2.jpg",
       "imdbRating": "4.3",
-      "rating": 4.3
+      "rating": 4.3,
+      "ratings": {
+        "imdb": 4.3
+      }
     },
     {
       "id": "tt4719744",
@@ -1405,8 +1786,11 @@
       "releaseInfo": "2015",
       "description": "Comedic travelogue where comedians explore cities on a budget.",
       "background": "https://image.tmdb.org/t/p/original/albGE49OTbEbmszOzjsxZPGkOUv.jpg",
-      "imdbRating": "6.429",
-      "rating": 6.429
+      "imdbRating": "6.4",
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4
+      }
     },
     {
       "id": "tt1702042",
@@ -1417,7 +1801,10 @@
       "description": "Karl Pilkington is sent on bizarre global adventures, with hilarious results.",
       "background": "https://image.tmdb.org/t/p/original/2llJTbZx3LOnZLZZPq52w5oZsSb.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt7453996",
@@ -1428,7 +1815,10 @@
       "description": "Father and son's comedic journeys exploring new cultures together.",
       "background": "https://image.tmdb.org/t/p/original/hVIZRToS7bYZCWsoLbo9S3AhKwJ.jpg",
       "imdbRating": "6.9",
-      "rating": 6.9
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt0403778",
@@ -1438,8 +1828,11 @@
       "releaseInfo": "2004",
       "description": "Ewan McGregor and Charley Boorman's epic motorcycle journey across continents.",
       "background": "https://image.tmdb.org/t/p/original/wbgHTeHSVV23OIla1GiV9DS60SQ.jpg",
-      "imdbRating": "8.174",
-      "rating": 8.174
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt0108967",
@@ -1450,7 +1843,10 @@
       "description": "A classic British detective drama with a grumpy but effective protagonist.",
       "background": "https://image.tmdb.org/t/p/original/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0118401",
@@ -1461,7 +1857,10 @@
       "description": "A cozy mystery series with often eccentric murders in picturesque villages.",
       "background": "https://image.tmdb.org/t/p/original/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt9907044",
@@ -1472,7 +1871,10 @@
       "description": "Another beloved Agatha Christie adaptation featuring the shrewd elderly detective.",
       "background": "https://image.tmdb.org/t/p/original/znHyymTCKP1W2SYYRvmj3mSprHr.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt1888075",
@@ -1482,8 +1884,11 @@
       "releaseInfo": "2011",
       "description": "A lighthearted British detective series set on a tropical island.",
       "background": "https://image.tmdb.org/t/p/original/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
-      "imdbRating": "7.436",
-      "rating": 7.436
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt2215842",
@@ -1494,7 +1899,10 @@
       "description": "A gentle mystery series featuring a crime-solving Catholic priest in the 1950s.",
       "background": "https://image.tmdb.org/t/p/original/96v57BttdxvquxnVozkQUsGvawQ.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt7526498",
@@ -1505,7 +1913,10 @@
       "description": "A light and comedic detective series set in Stratford-upon-Avon.",
       "background": "https://image.tmdb.org/t/p/original/anx7BeEtPjH38EoNKTXyx0B67WX.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt5015548",
@@ -1516,7 +1927,10 @@
       "description": "A humorous British mystery series about a PR guru turned amateur detective.",
       "background": "https://image.tmdb.org/t/p/original/26OhV3Ha7kRBi6t0Z6F0bcInbsw.jpg",
       "imdbRating": "6.2",
-      "rating": 6.2
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2
+      }
     },
     {
       "id": "tt15499118",
@@ -1527,7 +1941,10 @@
       "description": "A charming mystery series set in the South of France with a stylish protagonist.",
       "background": "https://image.tmdb.org/t/p/original/t61baGC7qYl7OYa0YkccaZ7KU7t.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt8974594",
@@ -1538,7 +1955,10 @@
       "description": "A quirky British mystery series with a young detective assisted by her aunts.",
       "background": "https://image.tmdb.org/t/p/original/pK4Q0KRLQjOJjmrXz6ysIpWK0s9.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt11725900",
@@ -1548,8 +1968,11 @@
       "releaseInfo": "2022",
       "description": "A compelling crime drama based on Val McDermid's novels.",
       "background": "https://image.tmdb.org/t/p/original/wsTfTQY3fkUHRm9Pv0yZvxeM6bA.jpg",
-      "imdbRating": "6.915",
-      "rating": 6.915
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt2396135",
@@ -1560,7 +1983,10 @@
       "description": "Atmospheric crime drama set in the beautiful Shetland Islands.",
       "background": "https://image.tmdb.org/t/p/original/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt1693592",
@@ -1570,8 +1996,11 @@
       "releaseInfo": "2011",
       "description": "A critically acclaimed crime drama featuring a brilliant and unconventional detective.",
       "background": "https://image.tmdb.org/t/p/original/wR5x19DbeD2FiwU2fbYvXVtx1we.jpg",
-      "imdbRating": "7.404",
-      "rating": 7.404
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt2303687",
@@ -1582,7 +2011,10 @@
       "description": "Gripping police procedural focused on anti-corruption investigations.",
       "background": "https://image.tmdb.org/t/p/original/5ZLEFPayOJr3KhXPoAnLWdVQJem.jpg",
       "imdbRating": "8.2",
-      "rating": 8.2
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt3428912",
@@ -1592,8 +2024,11 @@
       "releaseInfo": "2014",
       "description": "A powerful and critically lauded crime drama with a strong female lead.",
       "background": "https://image.tmdb.org/t/p/original/zG1K7njAaHcLElUKqNRqmVEbXdh.jpg",
-      "imdbRating": "7.958",
-      "rating": 7.958
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt3877200",
@@ -1603,8 +2038,11 @@
       "releaseInfo": "2014",
       "description": "An emotional and suspenseful anthology series about missing persons.",
       "background": "https://image.tmdb.org/t/p/original/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
-      "imdbRating": "7.225",
-      "rating": 7.225
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt4192812",
@@ -1614,8 +2052,11 @@
       "releaseInfo": "2015",
       "description": "A poignant and intelligent crime drama that solves cold cases.",
       "background": "https://image.tmdb.org/t/p/original/ywEk2WXTXELEAL4LcE6QhduJj09.jpg",
-      "imdbRating": "7.529",
-      "rating": 7.529
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt2275990",
@@ -1625,8 +2066,11 @@
       "releaseInfo": "2012",
       "description": "A stylish crime drama about female codebreakers solving crimes after WWII.",
       "background": "https://image.tmdb.org/t/p/original/sA75aetDQryaJej3I8Vw44E3dxG.jpg",
-      "imdbRating": "7.621",
-      "rating": 7.621
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt3747572",
@@ -1636,8 +2080,11 @@
       "releaseInfo": "2014",
       "description": "A charming period drama featuring a vicar and a detective solving crimes.",
       "background": "https://image.tmdb.org/t/p/original/gBdiLRV3OZLfpsLHTsYKzPMFe5q.jpg",
-      "imdbRating": "7.271",
-      "rating": 7.271
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt2701582",
@@ -1648,7 +2095,10 @@
       "description": "A prequel to Inspector Morse, showcasing a young detective's early career.",
       "background": "https://image.tmdb.org/t/p/original/2qhLtfvE4wlBxTVECT90xxYCX8d.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0092379",
@@ -1659,7 +2109,10 @@
       "description": "A classic British detective series known for its literary references and atmosphere.",
       "background": "https://image.tmdb.org/t/p/original/xcvzQvQv6wsMPRyctek4jhDS8Yi.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt0874608",
@@ -1669,8 +2122,11 @@
       "releaseInfo": "2006",
       "description": "A spin-off from Inspector Morse, continuing the tradition of Cambridge-based mysteries.",
       "background": "https://image.tmdb.org/t/p/original/hpEz9LVpzXTV6o1ZVi120WyTQSJ.jpg",
-      "imdbRating": "7.606",
-      "rating": 7.606
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2240991",
@@ -1681,7 +2137,10 @@
       "description": "A parody of police procedural dramas with over-the-top plots and humor.",
       "background": "https://image.tmdb.org/t/p/original/jEI3XjOleGBtnyWwFlXZxzGdp9t.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt2337840",
@@ -1692,7 +2151,10 @@
       "description": "A chaotic and funny British sitcom about a useless teacher and his students.",
       "background": "https://image.tmdb.org/t/p/original/xz66bdvpCs7JQhmgKnQMmq04TzB.jpg",
       "imdbRating": "6.9",
-      "rating": 6.9
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt2731624",
@@ -1702,8 +2164,11 @@
       "releaseInfo": "2013",
       "description": "A hilarious sitcom set in ancient Rome, focusing on the lives of ordinary people.",
       "background": "https://image.tmdb.org/t/p/original/pbAArhIDFlZZhUq8xNFaOJWe5hU.jpg",
-      "imdbRating": "7.307",
-      "rating": 7.307
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt6583806",
@@ -1714,7 +2179,10 @@
       "description": "A mockumentary capturing the mundane and hilarious lives of young people in rural England.",
       "background": "https://image.tmdb.org/t/p/original/kNgvL4met2JoLAZDVoGaWXXti16.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt2603596",
@@ -1724,8 +2192,11 @@
       "releaseInfo": "2013",
       "description": "A brilliant comedy thriller about two low-level office workers mistaken for spies.",
       "background": "https://image.tmdb.org/t/p/original/en8eFA6LVBBraI8bO4wzdqktrys.jpg",
-      "imdbRating": "7.335",
-      "rating": 7.335
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt0908454",
@@ -1736,7 +2207,10 @@
       "description": "A heartwarming and funny sitcom about an unlikely long-distance relationship.",
       "background": "https://image.tmdb.org/t/p/original/u0TtCgIEHdZAX0Ta5V3YbyvDK5D.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0281491",
@@ -1747,7 +2221,10 @@
       "description": "A beloved Scottish sitcom about two elderly friends navigating modern life.",
       "background": "https://image.tmdb.org/t/p/original/eeNX1xshEAZ663DZgiHdh4xSNhF.jpg",
       "imdbRating": "8.4",
-      "rating": 8.4
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt1086191",
@@ -1757,8 +2234,11 @@
       "releaseInfo": "2007",
       "description": "A naturalistic and hilarious comedy about raising three children.",
       "background": "https://image.tmdb.org/t/p/original/d9OoIg7Ekz8Uwab9ByEAsiuI7DH.jpg",
-      "imdbRating": "7.756",
-      "rating": 7.756
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0460091",
@@ -1768,8 +2248,11 @@
       "releaseInfo": "2005",
       "description": "A quirky comedy about a man trying to redeem himself by doing good deeds.",
       "background": "https://image.tmdb.org/t/p/original/9dTbuwQy6WoVNy9hqBAuwR1MoUU.jpg",
-      "imdbRating": "7.644",
-      "rating": 7.644
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt1615919",
@@ -1780,7 +2263,10 @@
       "description": "A funny and heartfelt sitcom about a young man raising his daughter.",
       "background": "https://image.tmdb.org/t/p/original/45hDcAQdlNxHLPX07ZMC33ISfXq.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt1442464",
@@ -1791,7 +2277,10 @@
       "description": "A relatable and funny sitcom about a quirky Midwestern family.",
       "background": "https://image.tmdb.org/t/p/original/82D01BlixH1JD0BCQoERabDjp7h.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt1442437",
@@ -1801,8 +2290,11 @@
       "releaseInfo": "2009",
       "description": "A mockumentary-style sitcom showcasing the hilarious dynamics of a diverse family.",
       "background": "https://image.tmdb.org/t/p/original/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-      "imdbRating": "7.911",
-      "rating": 7.911
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt3487356",
@@ -1813,7 +2305,10 @@
       "description": "A witty and warm sitcom exploring race, family, and culture.",
       "background": "https://image.tmdb.org/t/p/original/czpfLUoJt7uPQf2i7S2Mo2cwRGl.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt3551096",
@@ -1824,7 +2319,10 @@
       "description": "A nostalgic and funny sitcom about a Taiwanese-American family in the 90s.",
       "background": "https://image.tmdb.org/t/p/original/xcSH4KdTxvVmLARyrEeZOYrHjGR.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt2770276",
@@ -1835,7 +2333,10 @@
       "description": "A surreal sketch comedy show with a unique and often dark sense of humor.",
       "background": "https://image.tmdb.org/t/p/original/5W4kAtBBRo3vAhcv3lUyeEtOJiU.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt3609352",
@@ -1845,8 +2346,11 @@
       "releaseInfo": "2015",
       "description": "A witty and heartwarming comedy about two older women starting over.",
       "background": "https://image.tmdb.org/t/p/original/jco0oPYZN7bUDZ0xAmstotXI1gB.jpg",
-      "imdbRating": "7.728",
-      "rating": 7.728
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt8064302",
@@ -1856,8 +2360,11 @@
       "releaseInfo": "2019",
       "description": "A dark comedy with unexpected twists and great chemistry between the leads.",
       "background": "https://image.tmdb.org/t/p/original/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
-      "imdbRating": "7.31",
-      "rating": 7.31
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt8962130",
@@ -1868,7 +2375,10 @@
       "description": "A funny and empowering series about a woman finding her voice.",
       "background": "https://image.tmdb.org/t/p/original/i0XUWGYj38vLmQ30UhvSxFu2ded.jpg",
       "imdbRating": "6.3",
-      "rating": 6.3
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt11815682",
@@ -1878,8 +2388,11 @@
       "releaseInfo": "2021",
       "description": "A sharp and funny comedy about the mentor-mentee relationship between two comedians.",
       "background": "https://image.tmdb.org/t/p/original/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
-      "imdbRating": "7.529",
-      "rating": 7.529
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt10986410",
@@ -1889,8 +2402,11 @@
       "releaseInfo": "2020",
       "description": "An incredibly heartwarming and optimistic comedy about an American football coach.",
       "background": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
-      "imdbRating": "8.363",
-      "rating": 8.363
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt4955642",
@@ -1900,8 +2416,11 @@
       "releaseInfo": "2016",
       "description": "A clever and philosophical comedy exploring ethics with humor and heart.",
       "background": "https://image.tmdb.org/t/p/original/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
-      "imdbRating": "7.963",
-      "rating": 7.963
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt4635276",
@@ -1911,8 +2430,11 @@
       "releaseInfo": "2015",
       "description": "An insightful and witty exploration of modern life and relationships.",
       "background": "https://image.tmdb.org/t/p/original/yYnxld9hgTLCOFORequmOK6paj2.jpg",
-      "imdbRating": "7.371",
-      "rating": 7.371
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     }
   ]
 }

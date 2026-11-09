@@ -8,8 +8,11 @@
       "releaseInfo": "2008",
       "description": "Intense crime drama with complex moral ambiguity and high stakes.",
       "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "imdbRating": "8.958",
-      "rating": 8.958
+      "imdbRating": "9.0",
+      "rating": 9.0,
+      "ratings": {
+        "imdb": 9.0
+      }
     },
     {
       "id": "tt2699128",
@@ -19,8 +22,11 @@
       "releaseInfo": "2014",
       "description": "Deeply emotional and mysterious exploration of loss and faith.",
       "background": "https://image.tmdb.org/t/p/original/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
-      "imdbRating": "7.675",
-      "rating": 7.675
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt2085059",
@@ -30,8 +36,11 @@
       "releaseInfo": "2011",
       "description": "Dystopian anthology exploring dark themes of technology and society.",
       "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-      "imdbRating": "8.295",
-      "rating": 8.295
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt5071412",
@@ -41,8 +50,11 @@
       "releaseInfo": "2017",
       "description": "Gritty crime drama with escalating stakes and moral decay.",
       "background": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
-      "imdbRating": "8.193",
-      "rating": 8.193
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt2442560",
@@ -52,8 +64,11 @@
       "releaseInfo": "2013",
       "description": "Stylish period crime drama with dark themes and ambition.",
       "background": "https://image.tmdb.org/t/p/original/dzq83RHwQcnP6WGJ6YkenIqeaa5.jpg",
-      "imdbRating": "8.523",
-      "rating": 8.523
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt0475784",
@@ -63,8 +78,11 @@
       "releaseInfo": "2016",
       "description": "Philosophical sci-fi exploring consciousness with thrilling twists.",
       "background": "https://image.tmdb.org/t/p/original/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
-      "imdbRating": "8.011",
-      "rating": 8.011
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt3032476",
@@ -74,8 +92,11 @@
       "releaseInfo": "2015",
       "description": "Masterful prequel character study with moral compromises and tension.",
       "background": "https://image.tmdb.org/t/p/original/rfxryDIv8huejujg4JueDJx8zCz.jpg",
-      "imdbRating": "8.716",
-      "rating": 8.716
+      "imdbRating": "8.7",
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt2356777",
@@ -85,8 +106,11 @@
       "releaseInfo": "2014",
       "description": "Atmospheric crime anthology with psychological depth and dark mysteries.",
       "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
-      "imdbRating": "8.294",
-      "rating": 8.294
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt11280740",
@@ -96,8 +120,11 @@
       "releaseInfo": "2022",
       "description": "Unique sci-fi thriller with a compelling mystery and dark undertones.",
       "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-      "imdbRating": "8.39",
-      "rating": 8.39
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt5348176",
@@ -107,8 +134,11 @@
       "releaseInfo": "2018",
       "description": "Darkly comedic crime drama exploring a hitman's existential crisis.",
       "background": "https://image.tmdb.org/t/p/original/nfjqhuGFUWqJD14B4fxlSiZWfeR.jpg",
-      "imdbRating": "7.917",
-      "rating": 7.917
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt4158110",
@@ -118,8 +148,11 @@
       "releaseInfo": "2015",
       "description": "Psychological thriller about hacking, mental health, and revolution.",
       "background": "https://image.tmdb.org/t/p/original/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
-      "imdbRating": "8.268",
-      "rating": 8.268
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt5834204",
@@ -129,8 +162,11 @@
       "releaseInfo": "2017",
       "description": "Disturbing dystopian drama about oppression and survival.",
       "background": "https://image.tmdb.org/t/p/original/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
-      "imdbRating": "8.142",
-      "rating": 8.142
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0804503",
@@ -140,8 +176,11 @@
       "releaseInfo": "2007",
       "description": "Character-driven drama exploring complex personalities and societal change.",
       "background": "https://image.tmdb.org/t/p/original/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg",
-      "imdbRating": "8.132",
-      "rating": 8.132
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0248654",
@@ -152,7 +191,10 @@
       "description": "Profound drama exploring life, death, and family dynamics.",
       "background": "https://image.tmdb.org/t/p/original/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0306414",
@@ -162,8 +204,11 @@
       "releaseInfo": "2002",
       "description": "Gritty, realistic crime drama examining urban life and institutions.",
       "background": "https://image.tmdb.org/t/p/original/aQTtua5pG490fMfeKgtYg5B853e.jpg",
-      "imdbRating": "8.633",
-      "rating": 8.633
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt2707408",
@@ -173,8 +218,11 @@
       "releaseInfo": "2015",
       "description": "Intense crime drama detailing the war on drugs with high stakes.",
       "background": "https://image.tmdb.org/t/p/original/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
-      "imdbRating": "8.092",
-      "rating": 8.092
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt11041332",
@@ -184,8 +232,11 @@
       "releaseInfo": "2021",
       "description": "Survival thriller blending mystery, horror, and psychological drama.",
       "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-      "imdbRating": "7.434",
-      "rating": 7.434
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt10048342",
@@ -195,8 +246,11 @@
       "releaseInfo": "2020",
       "description": "Compelling drama about genius, addiction, and ambition.",
       "background": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
-      "imdbRating": "8.423",
-      "rating": 8.423
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt5290382",
@@ -206,8 +260,11 @@
       "releaseInfo": "2017",
       "description": "Psychological crime drama delving into the minds of serial killers.",
       "background": "https://image.tmdb.org/t/p/original/lpDVJuIro21gtMj9iXMFKHuroZN.jpg",
-      "imdbRating": "8.15",
-      "rating": 8.15
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt2543312",
@@ -218,7 +275,10 @@
       "description": "Character-driven drama about innovation, ambition, and relationships.",
       "background": "https://image.tmdb.org/t/p/original/o35U5p9J3eDsqrgfCpYUOO2lsuG.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt5753856",
@@ -228,8 +288,11 @@
       "releaseInfo": "2017",
       "description": "Complex German sci-fi thriller with intricate plot and dark themes.",
       "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
-      "imdbRating": "8.429",
-      "rating": 8.429
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt2183404",
@@ -239,8 +302,11 @@
       "releaseInfo": "2013",
       "description": "Poignant drama exploring redemption and the consequences of injustice.",
       "background": "https://image.tmdb.org/t/p/original/qiUnDMMH3D8thZ4QR3NzBEvTFKN.jpg",
-      "imdbRating": "7.632",
-      "rating": 7.632
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt6611916",
@@ -250,8 +316,11 @@
       "releaseInfo": "2019",
       "description": "Intense Korean historical zombie thriller with political intrigue.",
       "background": "https://image.tmdb.org/t/p/original/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
-      "imdbRating": "8.198",
-      "rating": 8.198
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt3520702",
@@ -262,7 +331,10 @@
       "description": "Atmospheric drama about family secrets and dark consequences.",
       "background": "https://image.tmdb.org/t/p/original/78s4wDyITtvjMRHHn2Rk7IPCtcg.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt2294189",
@@ -272,8 +344,11 @@
       "releaseInfo": "2013",
       "description": "Psychological crime drama exploring the minds of hunter and hunted.",
       "background": "https://image.tmdb.org/t/p/original/vunaJ5k1cG8T4ROUGDZ05IhNXkP.jpg",
-      "imdbRating": "7.682",
-      "rating": 7.682
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt9170108",
@@ -284,7 +359,10 @@
       "description": "Visually stunning sci-fi exploring faith, humanity, and survival.",
       "background": "https://image.tmdb.org/t/p/original/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt8068860",
@@ -294,8 +372,11 @@
       "releaseInfo": "2019",
       "description": "Psychological horror with an unsettling atmosphere and mystery.",
       "background": "https://image.tmdb.org/t/p/original/7nsRpSCYcDGLcDmFAISHC8zMQ0D.jpg",
-      "imdbRating": "7.503",
-      "rating": 7.503
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt7016936",
@@ -305,8 +386,11 @@
       "releaseInfo": "2018",
       "description": "Stylish thriller about a cat-and-mouse game between two women.",
       "background": "https://image.tmdb.org/t/p/original/2eR0H27Us1tvbjd95oW7WhiKioC.jpg",
-      "imdbRating": "7.887",
-      "rating": 7.887
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt2788432",
@@ -316,8 +400,11 @@
       "releaseInfo": "2016",
       "description": "Compelling anthology exploring infamous true crime events.",
       "background": "https://image.tmdb.org/t/p/original/j8NSaQJqnSOx8vsxwEukY3oATNj.jpg",
-      "imdbRating": "7.585",
-      "rating": 7.585
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2149175",
@@ -327,8 +414,11 @@
       "releaseInfo": "2013",
       "description": "Intense spy drama about identity, loyalty, and sacrifice.",
       "background": "https://image.tmdb.org/t/p/original/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
-      "imdbRating": "7.893",
-      "rating": 7.893
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt2802850",
@@ -338,8 +428,11 @@
       "releaseInfo": "2014",
       "description": "Darkly comedic crime anthology with quirky characters and violence.",
       "background": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "imdbRating": "8.288",
-      "rating": 8.288
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt4378376",
@@ -349,8 +442,11 @@
       "releaseInfo": "2017",
       "description": "Epic German crime drama set in the Weimar Republic's turmoil.",
       "background": "https://image.tmdb.org/t/p/original/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
-      "imdbRating": "7.752",
-      "rating": 7.752
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt4643084",
@@ -360,8 +456,11 @@
       "releaseInfo": "2017",
       "description": "Sophisticated espionage thriller with parallel worlds and intrigue.",
       "background": "https://image.tmdb.org/t/p/original/z2Q4lX7E76BuZMOOZrq4trz91j8.jpg",
-      "imdbRating": "7.453",
-      "rating": 7.453
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt4687882",
@@ -371,8 +470,11 @@
       "releaseInfo": "2015",
       "description": "Surreal spy dramedy with dark humor and high emotional stakes.",
       "background": "https://image.tmdb.org/t/p/original/og6d19sz8UNlXCnkG0f32ClZv5F.jpg",
-      "imdbRating": "7.626",
-      "rating": 7.626
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2708480",
@@ -383,7 +485,10 @@
       "description": "Historical horror anthology exploring survival and supernatural dread.",
       "background": "https://image.tmdb.org/t/p/original/4W7yDLoI0qliQXBWBwR5PImI2VL.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt7520794",
@@ -393,8 +498,11 @@
       "releaseInfo": "2019",
       "description": "Existential comedy-drama with a mystery and dark humor.",
       "background": "https://image.tmdb.org/t/p/original/5TgMzFqbOEcEo99uhIo8DmiENOx.jpg",
-      "imdbRating": "7.351",
-      "rating": 7.351
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt4354880",
@@ -404,8 +512,11 @@
       "releaseInfo": "2017",
       "description": "Psychological crime thriller based on Stephen King's novel.",
       "background": "https://image.tmdb.org/t/p/original/diYVGzRSAJpOCE5Avd5ZKBFUepi.jpg",
-      "imdbRating": "7.165",
-      "rating": 7.165
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt1637727",
@@ -416,7 +527,10 @@
       "description": "Intense crime procedural with a dark, brooding atmosphere.",
       "background": "https://image.tmdb.org/t/p/original/LjXBJaNaBGgAsNHDYfFTwGOUWb.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0319969",
@@ -427,7 +541,10 @@
       "description": "Mysterious supernatural drama set during the Great Depression.",
       "background": "https://image.tmdb.org/t/p/original/gPXlZQr7PR3Ay2pP6XBdvVKmM25.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt2649356",
@@ -438,7 +555,10 @@
       "description": "Psychological thriller exploring trauma and dark family secrets.",
       "background": "https://image.tmdb.org/t/p/original/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt2077823",
@@ -448,8 +568,11 @@
       "releaseInfo": "2020",
       "description": "Gritty period crime drama with compelling mystery and character.",
       "background": "https://image.tmdb.org/t/p/original/2KzRW0vaaO91zTeWuCHPMaJjesu.jpg",
-      "imdbRating": "7.206",
-      "rating": 7.206
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt5618256",
@@ -459,8 +582,11 @@
       "releaseInfo": "2017",
       "description": "Intense biographical crime drama about hunting a serial bomber.",
       "background": "https://image.tmdb.org/t/p/original/z2ZmYbhk0McewduBFtCqkmcZoqT.jpg",
-      "imdbRating": "7.627",
-      "rating": 7.627
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2384811",
@@ -470,8 +596,11 @@
       "releaseInfo": "2013",
       "description": "Stylish and violent British conspiracy thriller with dark humor.",
       "background": "https://image.tmdb.org/t/p/original/tynEoLA2cYONcUSz2OrCU0wSp6K.jpg",
-      "imdbRating": "7.918",
-      "rating": 7.918
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt6048596",
@@ -481,8 +610,11 @@
       "releaseInfo": "2017",
       "description": "Mystery anthology exploring the psychological motivations behind crimes.",
       "background": "https://image.tmdb.org/t/p/original/lVWku9LX2qdJTtAbRzaCDhhWeTK.jpg",
-      "imdbRating": "7.463",
-      "rating": 7.463
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt1844624",
@@ -492,8 +624,11 @@
       "releaseInfo": "2011",
       "description": "Anthology horror series with diverse dark themes and scares.",
       "background": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "imdbRating": "8.078",
-      "rating": 8.078
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt2234222",
@@ -504,7 +639,10 @@
       "description": "Sci-fi thriller with compelling mysteries and identity themes.",
       "background": "https://image.tmdb.org/t/p/original/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt1034007",
@@ -514,8 +652,11 @@
       "releaseInfo": "2017",
       "description": "Historical drama mystery based on a true crime.",
       "background": "https://image.tmdb.org/t/p/original/870FbfjWlt98dcSarTbYH0X0tje.jpg",
-      "imdbRating": "7.215",
-      "rating": 7.215
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0979432",
@@ -526,7 +667,10 @@
       "description": "Epic crime drama exploring power, corruption, and ambition.",
       "background": "https://image.tmdb.org/t/p/original/q5S5k0iI2yq6Q2qShFSwwRTFMtH.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt6474236",
@@ -537,7 +681,10 @@
       "description": "Intense historical drama about the road to 9/11.",
       "background": "https://image.tmdb.org/t/p/original/fajk9hp8iLF3PiFBtHr4hjLhL1y.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt4236770",
@@ -547,8 +694,11 @@
       "releaseInfo": "2018",
       "description": "Gritty modern Western drama with intense family conflict.",
       "background": "https://image.tmdb.org/t/p/original/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "imdbRating": "8.279",
-      "rating": 8.279
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt8134470",
@@ -559,7 +709,10 @@
       "description": "Psychological thriller about secrets, lies, and murder.",
       "background": "https://image.tmdb.org/t/p/original/tJjwEzTglpxoWJXwEbZlKLppMhr.jpg",
       "imdbRating": "7.3",
-      "rating": 7.3
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt7660850",
@@ -569,8 +722,11 @@
       "releaseInfo": "2018",
       "description": "Acclaimed dark comedy-drama about a powerful, dysfunctional family.",
       "background": "https://image.tmdb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
-      "imdbRating": "8.306",
-      "rating": 8.306
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt3655448",
@@ -580,8 +736,11 @@
       "releaseInfo": "2016",
       "description": "Visually striking drama exploring power and faith in the church.",
       "background": "https://image.tmdb.org/t/p/original/v4aq45tW8LNxfLc5fm2j9kNswp4.jpg",
-      "imdbRating": "7.693",
-      "rating": 7.693
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt7157248",
@@ -591,8 +750,11 @@
       "releaseInfo": "2020",
       "description": "Surreal and provocative continuation of papal power struggles.",
       "background": "https://image.tmdb.org/t/p/original/lvL9V4RClomamHo1wHGQXfK7Jad.jpg",
-      "imdbRating": "7.614",
-      "rating": 7.614
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2243973",
@@ -602,8 +764,11 @@
       "releaseInfo": "2013",
       "description": "Visually stunning and psychological thriller with dark themes.",
       "background": "https://image.tmdb.org/t/p/original/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
-      "imdbRating": "8.263",
-      "rating": 8.263
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt5114356",
@@ -613,8 +778,11 @@
       "releaseInfo": "2017",
       "description": "Mind-bending psychological sci-fi drama with stunning visuals.",
       "background": "https://image.tmdb.org/t/p/original/2t9ROV4QPkJF7iBAW8z0ReqDUoB.jpg",
-      "imdbRating": "7.506",
-      "rating": 7.506
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt3230854",
@@ -624,8 +792,11 @@
       "releaseInfo": "2015",
       "description": "Epic space opera with political intrigue and high stakes.",
       "background": "https://image.tmdb.org/t/p/original/eVwD4s4dBOK5Jn7CzOLBTo0vXNH.jpg",
-      "imdbRating": "8.075",
-      "rating": 8.075
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0804484",
@@ -636,7 +807,10 @@
       "description": "Grand sci-fi saga exploring the fall and rebirth of empires.",
       "background": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt2261227",
@@ -646,8 +820,11 @@
       "releaseInfo": "2018",
       "description": "Cyberpunk sci-fi noir with complex world-building and action.",
       "background": "https://image.tmdb.org/t/p/original/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
-      "imdbRating": "7.628",
-      "rating": 7.628
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt18224594",
@@ -658,7 +835,10 @@
       "description": "Dystopian sci-fi noir continuation with philosophical depth.",
       "background": "https://image.tmdb.org/t/p/original/nuLUxzJ4bVVxafru5lgWfmcPOm7.jpg",
       "imdbRating": "0.0",
-      "rating": 0.0
+      "rating": 0.0,
+      "ratings": {
+        "imdb": 0.0
+      }
     },
     {
       "id": "tt7049682",
@@ -668,8 +848,11 @@
       "releaseInfo": "2019",
       "description": "Acclaimed superhero drama exploring complex moral questions.",
       "background": "https://image.tmdb.org/t/p/original/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
-      "imdbRating": "7.621",
-      "rating": 7.621
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt1190634",
@@ -679,8 +862,11 @@
       "releaseInfo": "2019",
       "description": "Gritty, satirical superhero deconstruction with dark humor.",
       "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-      "imdbRating": "8.424",
-      "rating": 8.424
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt6741278",
@@ -690,8 +876,11 @@
       "releaseInfo": "2021",
       "description": "Violent animated superhero drama with shocking twists.",
       "background": "https://image.tmdb.org/t/p/original/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-      "imdbRating": "8.627",
-      "rating": 8.627
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt9561862",
@@ -701,8 +890,11 @@
       "releaseInfo": "2019",
       "description": "Animated anthology exploring diverse sci-fi and fantasy themes.",
       "background": "https://image.tmdb.org/t/p/original/3L8oAMr4B72XNoKAs3FY9EfKcVY.jpg",
-      "imdbRating": "8.201",
-      "rating": 8.201
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt21056886",
@@ -712,8 +904,11 @@
       "releaseInfo": "2023",
       "description": "Visually stunning and surreal sci-fi about survival on alien worlds.",
       "background": "https://image.tmdb.org/t/p/original/rTViEeltl4rO974PmkUAdhQqW2R.jpg",
-      "imdbRating": "8.473",
-      "rating": 8.473
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt2861424",
@@ -723,8 +918,11 @@
       "releaseInfo": "2013",
       "description": "Darkly comedic sci-fi exploring existentialism and nihilism.",
       "background": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-      "imdbRating": "8.678",
-      "rating": 8.678
+      "imdbRating": "8.7",
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt3398228",
@@ -734,8 +932,11 @@
       "releaseInfo": "2014",
       "description": "Darkly comedic animation exploring depression and fame.",
       "background": "https://image.tmdb.org/t/p/original/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
-      "imdbRating": "8.532",
-      "rating": 8.532
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt5363918",
@@ -745,8 +946,11 @@
       "releaseInfo": "2018",
       "description": "Fantasy animated series with mature humor and darker themes.",
       "background": "https://image.tmdb.org/t/p/original/hHEqDPbO6z4Xje5tOf3Wm1mdMtI.jpg",
-      "imdbRating": "7.398",
-      "rating": 7.398
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt11126994",
@@ -756,8 +960,11 @@
       "releaseInfo": "2021",
       "description": "Visually stunning animated drama with complex characters and themes.",
       "background": "https://image.tmdb.org/t/p/original/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
-      "imdbRating": "8.747",
-      "rating": 8.747
+      "imdbRating": "8.7",
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt12590266",
@@ -767,8 +974,11 @@
       "releaseInfo": "2022",
       "description": "Visually explosive anime set in a dark, futuristic world.",
       "background": "https://image.tmdb.org/t/p/original/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
-      "imdbRating": "8.505",
-      "rating": 8.505
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt6660498",
@@ -778,8 +988,11 @@
       "releaseInfo": "2018",
       "description": "Visceral and violent anime exploring themes of love and betrayal.",
       "background": "https://image.tmdb.org/t/p/original/wuUZxHcyQdx3EurPX0CjD8FgbHG.jpg",
-      "imdbRating": "7.736",
-      "rating": 7.736
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt2560140",
@@ -789,8 +1002,11 @@
       "releaseInfo": "2013",
       "description": "Intense anime with high stakes, dark themes, and mystery.",
       "background": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "imdbRating": "8.689",
-      "rating": 8.689
+      "imdbRating": "8.7",
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt0877057",
@@ -800,8 +1016,11 @@
       "releaseInfo": "2006",
       "description": "Psychological thriller anime about justice and morality.",
       "background": "https://image.tmdb.org/t/p/original/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
-      "imdbRating": "8.616",
-      "rating": 8.616
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt0434706",
@@ -812,7 +1031,10 @@
       "description": "Complex psychological thriller anime with a gripping mystery.",
       "background": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
       "imdbRating": "8.5",
-      "rating": 8.5
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt2379308",
@@ -822,8 +1044,11 @@
       "releaseInfo": "2012",
       "description": "Dystopian sci-fi anime exploring justice and society.",
       "background": "https://image.tmdb.org/t/p/original/4z8u57awz954GRuK7W86HlhyeeM.jpg",
-      "imdbRating": "7.756",
-      "rating": 7.756
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0346314",
@@ -833,8 +1058,11 @@
       "releaseInfo": "2002",
       "description": "Philosophical cyberpunk anime with intricate plots.",
       "background": "https://image.tmdb.org/t/p/original/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
-      "imdbRating": "8.226",
-      "rating": 8.226
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt1355642",
@@ -844,8 +1072,11 @@
       "releaseInfo": "2009",
       "description": "Epic anime with complex themes of morality and sacrifice.",
       "background": "https://image.tmdb.org/t/p/original/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
-      "imdbRating": "8.718",
-      "rating": 8.718
+      "imdbRating": "8.7",
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt10233448",
@@ -855,8 +1086,11 @@
       "releaseInfo": "2019",
       "description": "Historical anime exploring violence, revenge, and redemption.",
       "background": "https://image.tmdb.org/t/p/original/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
-      "imdbRating": "8.509",
-      "rating": 8.509
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt5249462",
@@ -866,8 +1100,11 @@
       "releaseInfo": "2016",
       "description": "Mystery thriller anime with time travel and suspense.",
       "background": "https://image.tmdb.org/t/p/original/rRGnjRCHdDl3m3oCVSvo5z2E5c5.jpg",
-      "imdbRating": "8.463",
-      "rating": 8.463
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt0052520",
@@ -878,7 +1115,10 @@
       "description": "Classic anthology exploring sci-fi, fantasy, and horror.",
       "background": "https://image.tmdb.org/t/p/original/zAgcM7zwWAVOIT9dMMzQx7e4vdX.jpg",
       "imdbRating": "8.5",
-      "rating": 8.5
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt2674806",
@@ -888,8 +1128,11 @@
       "releaseInfo": "2014",
       "description": "Darkly comedic anthology with clever twists and chilling tales.",
       "background": "https://image.tmdb.org/t/p/original/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
-      "imdbRating": "8.075",
-      "rating": 8.075
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt5711280",
@@ -899,8 +1142,11 @@
       "releaseInfo": "2017",
       "description": "Sci-fi anthology based on Philip K. Dick's stories.",
       "background": "https://image.tmdb.org/t/p/original/22IYgPD2AUAZWkaaVOiJu1tXdGA.jpg",
-      "imdbRating": "7.011",
-      "rating": 7.011
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt0112111",
@@ -910,8 +1156,11 @@
       "releaseInfo": "1995",
       "description": "Sci-fi anthology exploring unsettling and thought-provoking concepts.",
       "background": "https://image.tmdb.org/t/p/original/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",
-      "imdbRating": "7.711",
-      "rating": 7.711
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt6064882",
@@ -922,7 +1171,10 @@
       "description": "Anthology series exploring diverse genres within a single room.",
       "background": "https://image.tmdb.org/t/p/original/mDRnbzGiOtjUHqIXbNMp0aZrfjq.jpg",
       "imdbRating": "5.7",
-      "rating": 5.7
+      "rating": 5.7,
+      "ratings": {
+        "imdb": 5.7
+      }
     },
     {
       "id": "tt8415836",
@@ -933,7 +1185,10 @@
       "description": "Gothic horror anthology with dark, unsettling stories.",
       "background": "https://image.tmdb.org/t/p/original/gM1diqqPFu5oRpEVsx84SPBYvV3.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt0106179",
@@ -943,8 +1198,11 @@
       "releaseInfo": "1993",
       "description": "Iconic sci-fi mystery series exploring the paranormal.",
       "background": "https://image.tmdb.org/t/p/original/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
-      "imdbRating": "8.365",
-      "rating": 8.365
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt0098936",
@@ -955,7 +1213,10 @@
       "description": "Surreal mystery drama with unique characters and dark themes.",
       "background": "https://image.tmdb.org/t/p/original/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
       "imdbRating": "8.3",
-      "rating": 8.3
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3
+      }
     },
     {
       "id": "tt8550800",
@@ -966,7 +1227,10 @@
       "description": "Supernatural crime mystery with a chilling atmosphere.",
       "background": "https://image.tmdb.org/t/p/original/lmlsqpAfDZnZumcFhbsTrOy9uNZ.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt10155688",
@@ -976,8 +1240,11 @@
       "releaseInfo": "2021",
       "description": "Gritty crime mystery exploring a small town's dark secrets.",
       "background": "https://image.tmdb.org/t/p/original/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
-      "imdbRating": "8.158",
-      "rating": 8.158
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt2401256",
@@ -987,8 +1254,11 @@
       "releaseInfo": "2016",
       "description": "Tense legal drama and crime mystery with character depth.",
       "background": "https://image.tmdb.org/t/p/original/pXxaORRHxvdfdpZ5kux619UsBL4.jpg",
-      "imdbRating": "7.985",
-      "rating": 7.985
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt1399664",
@@ -998,8 +1268,11 @@
       "releaseInfo": "2016",
       "description": "Stylish espionage thriller with high stakes and intrigue.",
       "background": "https://image.tmdb.org/t/p/original/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
-      "imdbRating": "7.733",
-      "rating": 7.733
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt1898069",
@@ -1009,8 +1282,11 @@
       "releaseInfo": "2017",
       "description": "Fantastical drama exploring mythology and belief in modern America.",
       "background": "https://image.tmdb.org/t/p/original/uY3MJohUpY7UMMTK90BIhX5txEs.jpg",
-      "imdbRating": "7.079",
-      "rating": 7.079
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt5016504",
@@ -1020,8 +1296,11 @@
       "releaseInfo": "2016",
       "description": "Wildly imaginative supernatural drama with dark humor.",
       "background": "https://image.tmdb.org/t/p/original/bENaaAmX4d0zUYYrZyFCT1U0V86.jpg",
-      "imdbRating": "7.43",
-      "rating": 7.43
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt8416494",
@@ -1031,8 +1310,11 @@
       "releaseInfo": "2019",
       "description": "Quirky and dark superhero series with complex emotional depth.",
       "background": "https://image.tmdb.org/t/p/original/sSJZVwCS0tFzcLSaQOjLpv5mFau.jpg",
-      "imdbRating": "7.47",
-      "rating": 7.47
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt4254242",
@@ -1043,7 +1325,10 @@
       "description": "Dark fantasy series exploring magic, trauma, and relationships.",
       "background": "https://image.tmdb.org/t/p/original/qb9vehNFxTpPrazhD7JJ6QtEtCv.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2628232",
@@ -1054,7 +1339,10 @@
       "description": "Gothic horror drama with literary monsters and dark atmosphere.",
       "background": "https://image.tmdb.org/t/p/original/32iacqVElB91YZKl9Ky3QEEkXtH.jpg",
       "imdbRating": "7.8",
-      "rating": 7.8
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt6763664",
@@ -1064,8 +1352,11 @@
       "releaseInfo": "2018",
       "description": "Supernatural horror drama exploring family trauma and ghosts.",
       "background": "https://image.tmdb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg",
-      "imdbRating": "8.104",
-      "rating": 8.104
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt10970552",
@@ -1075,8 +1366,11 @@
       "releaseInfo": "2020",
       "description": "Gothic romance horror with emotional depth and scares.",
       "background": "https://image.tmdb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg",
-      "imdbRating": "7.527",
-      "rating": 7.527
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt10574558",
@@ -1086,8 +1380,11 @@
       "releaseInfo": "2021",
       "description": "Atmospheric horror drama exploring faith, addiction, and isolation.",
       "background": "https://image.tmdb.org/t/p/original/YauN3gyvgqktYhze4gXPWuoZBY.jpg",
-      "imdbRating": "7.579",
-      "rating": 7.579
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt3906732",
@@ -1097,8 +1394,11 @@
       "releaseInfo": "2015",
       "description": "Atmospheric period horror exploring paranoia and religious fervor.",
       "background": "https://image.tmdb.org/t/p/original/eLNcBfr3212D09aYx0VChy1EpDY.jpg",
-      "imdbRating": "7.699",
-      "rating": 7.699
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0398474",
@@ -1109,7 +1409,10 @@
       "description": "Social thriller masterfully blends horror, satire, and suspense.",
       "background": null,
       "imdbRating": "4.7",
-      "rating": 4.7
+      "rating": 4.7,
+      "ratings": {
+        "imdb": 4.7
+      }
     },
     {
       "id": "tt10669608",
@@ -1120,7 +1423,10 @@
       "description": "Mind-bending horror exploring duality and societal issues.",
       "background": "https://image.tmdb.org/t/p/original/px1MUiMYjIyHy0Uxwakln9erVWA.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt3960394",
@@ -1131,7 +1437,10 @@
       "description": "Gothic horror exploring immortality, morality, and eternal longing.",
       "background": "https://image.tmdb.org/t/p/original/1tADVruLbywl7P3TOVQmNza3aAO.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0229916",
@@ -1142,7 +1451,10 @@
       "description": "Atmospheric supernatural horror with a chilling twist.",
       "background": "https://image.tmdb.org/t/p/original/opQoCV6RG7yYthlsYtFLFG5pGEL.jpg",
       "imdbRating": "6.4",
-      "rating": 6.4
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4
+      }
     },
     {
       "id": "tt27349153",
@@ -1153,7 +1465,10 @@
       "description": "Psychological thriller with a gripping mystery and moral dilemma.",
       "background": "https://image.tmdb.org/t/p/original/lMlSTaD73MiT4R2G4FmL08qeTLS.jpg",
       "imdbRating": "6.2",
-      "rating": 6.2
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2
+      }
     },
     {
       "id": "tt22169620",
@@ -1164,7 +1479,10 @@
       "description": "Non-linear psychological thriller with a compelling mystery.",
       "background": "https://image.tmdb.org/t/p/original/evdNyKIaz7VQNMaoooLrwzUb5aJ.jpg",
       "imdbRating": "6.5",
-      "rating": 6.5
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt1619856",
@@ -1175,7 +1493,10 @@
       "description": "Surreal and mysterious neo-noir psychological thriller.",
       "background": "https://image.tmdb.org/t/p/original/ppxLMHG8MWemTzQ15HhHFIoiQMO.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt5881406",
@@ -1186,7 +1507,10 @@
       "description": "Intense thriller exploring morality and obsession.",
       "background": "https://image.tmdb.org/t/p/original/w7MmuDJDttVVxCHjreOPZTyQ1Lw.jpg",
       "imdbRating": "3.4",
-      "rating": 3.4
+      "rating": 3.4,
+      "ratings": {
+        "imdb": 3.4
+      }
     },
     {
       "id": "tt2563158",
@@ -1197,7 +1521,10 @@
       "description": "Action-packed crime thriller with complex characters.",
       "background": "https://image.tmdb.org/t/p/original/cV2Ck2iN287VHrINak50ht0mW6Z.jpg",
       "imdbRating": "6.2",
-      "rating": 6.2
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2
+      }
     },
     {
       "id": "tt7099552",
@@ -1208,7 +1535,10 @@
       "description": "Intense crime thriller with double-crosses and high stakes.",
       "background": "https://image.tmdb.org/t/p/original/3RnKrhjKx4TFJFuh3PIsi820jEW.jpg",
       "imdbRating": "6.0",
-      "rating": 6.0
+      "rating": 6.0,
+      "ratings": {
+        "imdb": 6.0
+      }
     },
     {
       "id": "tt27384659",
@@ -1219,7 +1549,10 @@
       "description": "Tense Hong Kong crime thriller about undercover moles.",
       "background": "https://image.tmdb.org/t/p/original/612IH3jkzxlzqMJAWzhMHk1KSHI.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt10934748",
@@ -1230,7 +1563,10 @@
       "description": "Brilliant dark comedy thriller with social commentary.",
       "background": "https://image.tmdb.org/t/p/original/qnRjmXsBlWs01gza41sxgSxtxpQ.jpg",
       "imdbRating": "0.0",
-      "rating": 0.0
+      "rating": 0.0,
+      "ratings": {
+        "imdb": 0.0
+      }
     },
     {
       "id": "tt13057984",
@@ -1241,7 +1577,10 @@
       "description": "Dystopian thriller with a stark concept and social commentary.",
       "background": "https://image.tmdb.org/t/p/original/kBNDo0vnX4s40Rptmi569c4ooas.jpg",
       "imdbRating": "5.0",
-      "rating": 5.0
+      "rating": 5.0,
+      "ratings": {
+        "imdb": 5.0
+      }
     },
     {
       "id": "tt1555887",
@@ -1252,7 +1591,10 @@
       "description": "Sci-fi horror with a mysterious, deadly puzzle.",
       "background": "https://image.tmdb.org/t/p/original/wV8dn2cxt54lnmlKv0f4CICzGQ3.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt9581768",
@@ -1263,7 +1605,10 @@
       "description": "Minimalist sci-fi thriller with intense psychological tension.",
       "background": "https://image.tmdb.org/t/p/original/9RvOSdK6oHbTZmGswApOziC0zc8.jpg",
       "imdbRating": "6.8",
-      "rating": 6.8
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0224951",
@@ -1274,7 +1619,10 @@
       "description": "Complex and intricate time travel sci-fi thriller.",
       "background": null,
       "imdbRating": "9.0",
-      "rating": 9.0
+      "rating": 9.0,
+      "ratings": {
+        "imdb": 9.0
+      }
     },
     {
       "id": "tt1360689",
@@ -1285,7 +1633,10 @@
       "description": "Mind-bending psychological thriller with a time loop.",
       "background": "https://image.tmdb.org/t/p/original/2ncbgqTxSXwoZdyhjoi1mjy856l.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0220238",
@@ -1296,7 +1647,10 @@
       "description": "Modern psychological thriller with a terrifying premise.",
       "background": "https://image.tmdb.org/t/p/original/cdGS9KyuJcT141SHgXRSMTVyZYN.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt18774086",
@@ -1306,8 +1660,11 @@
       "releaseInfo": "2013",
       "description": "Eerie and atmospheric sci-fi horror with a unique perspective.",
       "background": "https://image.tmdb.org/t/p/original/5C4WP5p1EKMhq1xeuzRl8tnN120.jpg",
-      "imdbRating": "7.195",
-      "rating": 7.195
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt4336672",
@@ -1318,7 +1675,10 @@
       "description": "Visually stunning sci-fi horror with existential themes.",
       "background": "https://image.tmdb.org/t/p/original/juLJoct85oUyTbvXDX013TrnvCG.jpg",
       "imdbRating": "5.7",
-      "rating": 5.7
+      "rating": 5.7,
+      "ratings": {
+        "imdb": 5.7
+      }
     },
     {
       "id": "tt39957390",
@@ -1329,7 +1689,10 @@
       "description": "Thought-provoking sci-fi thriller exploring AI and consciousness.",
       "background": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt14525688",
@@ -1340,7 +1703,10 @@
       "description": "Intelligent sci-fi drama exploring communication and time.",
       "background": "https://image.tmdb.org/t/p/original/w1LwYpXIleIWthSxtnd6TMgCvSE.jpg",
       "imdbRating": "8.2",
-      "rating": 8.2
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt26699362",
@@ -1351,7 +1717,10 @@
       "description": "Epic sci-fi exploring space, time, and human connection.",
       "background": "https://image.tmdb.org/t/p/original/rtbfEuctRg4VOhg0viQhtytnrHd.jpg",
       "imdbRating": "5.0",
-      "rating": 5.0
+      "rating": 5.0,
+      "ratings": {
+        "imdb": 5.0
+      }
     },
     {
       "id": "tt1538439",
@@ -1362,7 +1731,10 @@
       "description": "Thought-provoking sci-fi drama with a compelling mystery.",
       "background": "https://image.tmdb.org/t/p/original/qXNI3TSkAAUUF7loBvShAdzWRMH.jpg",
       "imdbRating": "4.9",
-      "rating": 4.9
+      "rating": 4.9,
+      "ratings": {
+        "imdb": 4.9
+      }
     },
     {
       "id": "tt6156584",
@@ -1372,8 +1744,11 @@
       "releaseInfo": "2013",
       "description": "Action-packed dystopian sci-fi with social commentary.",
       "background": "https://image.tmdb.org/t/p/original/h8dzXytAPFkAHv1kZAN1SshXI68.jpg",
-      "imdbRating": "7.332",
-      "rating": 7.332
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt3148266",
@@ -1384,7 +1759,10 @@
       "description": "Mind-bending sci-fi thriller with a complex time travel plot.",
       "background": "https://image.tmdb.org/t/p/original/oReDAVfMTBi1J543aKg7LpeecPv.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt3615538",
@@ -1395,7 +1773,10 @@
       "description": "Dystopian black comedy with surreal visuals and themes.",
       "background": "https://image.tmdb.org/t/p/original/3xmapiZERXkGhyMjYNTXsfX5u99.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt36517689",
@@ -1406,7 +1787,10 @@
       "description": "Philosophical cyberpunk anime exploring identity and consciousness.",
       "background": "https://image.tmdb.org/t/p/original/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt1043813",
@@ -1416,8 +1800,11 @@
       "releaseInfo": "2021",
       "description": "Visceral and boundary-pushing body horror with dark themes.",
       "background": "https://image.tmdb.org/t/p/original/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
-      "imdbRating": "7.836",
-      "rating": 7.836
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt6347500",
@@ -1428,7 +1815,10 @@
       "description": "Visceral coming-of-age horror with a cannibalistic twist.",
       "background": "https://image.tmdb.org/t/p/original/Ap8YYP6FfDYqDZKokGp3FmWPrh6.jpg",
       "imdbRating": "4.5",
-      "rating": 4.5
+      "rating": 4.5,
+      "ratings": {
+        "imdb": 4.5
+      }
     },
     {
       "id": "tt0380869",
@@ -1439,7 +1829,10 @@
       "description": "Intense home invasion horror with suspenseful traps.",
       "background": "https://image.tmdb.org/t/p/original/2bV1Domi9QdTQwKyS4fnar1pbgF.jpg",
       "imdbRating": "5.8",
-      "rating": 5.8
+      "rating": 5.8,
+      "ratings": {
+        "imdb": 5.8
+      }
     },
     {
       "id": "tt0173558",
@@ -1450,7 +1843,10 @@
       "description": "Darkly dramatic film exploring faith and morality.",
       "background": "https://image.tmdb.org/t/p/original/xTcxN9pmkLaNbqiQsIojFxYaCHd.jpg",
       "imdbRating": "4.6",
-      "rating": 4.6
+      "rating": 4.6,
+      "ratings": {
+        "imdb": 4.6
+      }
     },
     {
       "id": "tt0086756",
@@ -1461,7 +1857,10 @@
       "description": "Intense character study with complex psychological themes.",
       "background": "https://image.tmdb.org/t/p/original/w1IH6UbFJaulpOuJNBNpbmHg2oi.jpg",
       "imdbRating": "5.4",
-      "rating": 5.4
+      "rating": 5.4,
+      "ratings": {
+        "imdb": 5.4
+      }
     },
     {
       "id": "tt0075527",
@@ -1472,7 +1871,10 @@
       "description": "Gritty and emotional superhero film with dark themes.",
       "background": "https://image.tmdb.org/t/p/original/mN5oVoshctaNzhp8zIOyN6FkifS.jpg",
       "imdbRating": "6.8",
-      "rating": 6.8
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0398417",
@@ -1483,7 +1885,10 @@
       "description": "Gritty and atmospheric detective noir superhero film.",
       "background": "https://image.tmdb.org/t/p/original/k5r2N22yTSIlLZBraf9792MK1gN.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt3084150",
@@ -1494,7 +1899,10 @@
       "description": "Intense French crime drama about a young man's rise.",
       "background": "https://image.tmdb.org/t/p/original/u4yhC4Q8bS1w7FWIPpKsmY4nv9E.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2049116",
@@ -1504,8 +1912,11 @@
       "releaseInfo": "2008",
       "description": "Realistic and brutal Italian crime drama.",
       "background": "https://image.tmdb.org/t/p/original/qVyqPzx6wD3Wm3HD4iy3PrJYxGX.jpg",
-      "imdbRating": "8.035",
-      "rating": 8.035
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt26629467",
@@ -1516,7 +1927,10 @@
       "description": "Iconic crime drama exploring family, power, and morality.",
       "background": "https://image.tmdb.org/t/p/original/o0fjYrNLgDfs4kAeLxFvFPqDUhg.jpg",
       "imdbRating": "0.0",
-      "rating": 0.0
+      "rating": 0.0,
+      "ratings": {
+        "imdb": 0.0
+      }
     },
     {
       "id": "tt0056449",
@@ -1527,7 +1941,10 @@
       "description": "Epic crime drama about ambition, power, and downfall.",
       "background": null,
       "imdbRating": "3.0",
-      "rating": 3.0
+      "rating": 3.0,
+      "ratings": {
+        "imdb": 3.0
+      }
     },
     {
       "id": "tt0796671",
@@ -1538,7 +1955,10 @@
       "description": "Gritty crime drama exploring the Vegas underworld.",
       "background": "https://image.tmdb.org/t/p/w500/yuldnKzlQ73T8xwVmQCRFjKDBIs.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0960157",
@@ -1549,7 +1969,10 @@
       "description": "Gritty crime drama based on a true story.",
       "background": "https://image.tmdb.org/t/p/original/xuIghwwmuaGoFlsqYcwsDYtdTUO.jpg",
       "imdbRating": "5.5",
-      "rating": 5.5
+      "rating": 5.5,
+      "ratings": {
+        "imdb": 5.5
+      }
     },
     {
       "id": "tt0074054",
@@ -1560,7 +1983,10 @@
       "description": "Intense crime drama based on a true story of corruption.",
       "background": "https://image.tmdb.org/t/p/original/6HB5GVRBwnKIP7yd5Yz98AuTCJn.jpg",
       "imdbRating": "6.5",
-      "rating": 6.5
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt0052522",
@@ -1570,8 +1996,11 @@
       "releaseInfo": "1987",
       "description": "Stylish crime drama about taking down Al Capone.",
       "background": "https://image.tmdb.org/t/p/original/j4F3iDMZp9QFOKmuVoLX0ivfLhz.jpg",
-      "imdbRating": "8.066",
-      "rating": 8.066
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt30425533",
@@ -1582,7 +2011,10 @@
       "description": "Tense and dialogue-heavy Western thriller with mystery.",
       "background": "https://image.tmdb.org/t/p/original/eNYYBCE46ItDkbU8zN3K7YaPTS6.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt13717946",
@@ -1593,7 +2025,10 @@
       "description": "Twisty crime thriller with a legendary plot twist.",
       "background": "https://image.tmdb.org/t/p/original/eo0DfSwJiiKEmSD3IeUo0f4RtbF.jpg",
       "imdbRating": "1.0",
-      "rating": 1.0
+      "rating": 1.0,
+      "ratings": {
+        "imdb": 1.0
+      }
     },
     {
       "id": "tt12453494",
@@ -1604,7 +2039,10 @@
       "description": "Unique monster film blending horror, drama, and dark humor.",
       "background": "https://image.tmdb.org/t/p/original/cm9xWApViC3Ywu41arZAr5S36wH.jpg",
       "imdbRating": "0.0",
-      "rating": 0.0
+      "rating": 0.0,
+      "ratings": {
+        "imdb": 0.0
+      }
     }
   ]
 }

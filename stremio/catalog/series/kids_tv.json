@@ -9,7 +9,10 @@
       "description": "Young explorers embark on underwater missions, learning about marine life.",
       "background": "https://image.tmdb.org/t/p/original/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt1807859",
@@ -20,7 +23,10 @@
       "description": "Brothers travel the globe to learn about animals and their abilities.",
       "background": "https://image.tmdb.org/t/p/original/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt3600266",
@@ -31,7 +37,10 @@
       "description": "A team of planes delivers packages and solves problems around the world.",
       "background": "https://image.tmdb.org/t/p/original/vwgC68MFTgrLaTBaXFnsVAb6y1W.jpg",
       "imdbRating": "6.3",
-      "rating": 6.3
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3
+      }
     },
     {
       "id": "tt1710310",
@@ -41,8 +50,11 @@
       "releaseInfo": "2010",
       "description": "A dog's secret mission involves fighting crime with his animal teammates.",
       "background": "https://image.tmdb.org/t/p/original/d0uzkTgU8YHrz1vw9MN5bYKhiYx.jpg",
-      "imdbRating": "7.201",
-      "rating": 7.201
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt2771780",
@@ -53,7 +65,10 @@
       "description": "Superhero friends have hilarious adventures and learn teamwork through silly situations.",
       "background": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
       "imdbRating": "6.4",
-      "rating": 6.4
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4
+      }
     },
     {
       "id": "tt4859164",
@@ -63,8 +78,11 @@
       "releaseInfo": "2016",
       "description": "A boy navigates life with his ten sisters, leading to funny family chaos.",
       "background": "https://image.tmdb.org/t/p/original/jQmYRTt29hTNFGdNdwFVazOrDpO.jpg",
-      "imdbRating": "7.78",
-      "rating": 7.78
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt3121722",
@@ -74,8 +92,11 @@
       "releaseInfo": "2013",
       "description": "A team of rescue pups saves the day with their unique skills and vehicles.",
       "background": "https://image.tmdb.org/t/p/original/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
-      "imdbRating": "6.978",
-      "rating": 6.978
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt4458594",
@@ -86,7 +107,10 @@
       "description": "Monster trucks teach STEM concepts through exciting racing adventures.",
       "background": "https://image.tmdb.org/t/p/original/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt1236429",
@@ -97,7 +121,10 @@
       "description": "A curious kid explores the world through scientific inquiry and discovery.",
       "background": "https://image.tmdb.org/t/p/original/8bqTCdrWUw9jfnyaIEtQ0STGNB0.jpg",
       "imdbRating": "6.0",
-      "rating": 6.0
+      "rating": 6.0,
+      "ratings": {
+        "imdb": 6.0
+      }
     },
     {
       "id": "tt1691407",
@@ -108,7 +135,10 @@
       "description": "African folktales explain how animals got their features through vibrant animation.",
       "background": "https://image.tmdb.org/t/p/original/Xl19GbPHO4oRiBuu1O6HS5SVOz.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0784896",
@@ -118,8 +148,11 @@
       "releaseInfo": "2006",
       "description": "Classic characters solve problems using interactive puzzles and educational activities.",
       "background": "https://image.tmdb.org/t/p/original/89BPrKS6BoktBPTfWcHMQrFNo8s.jpg",
-      "imdbRating": "6.753",
-      "rating": 6.753
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt1833403",
@@ -130,7 +163,10 @@
       "description": "Pirate adventures teach problem-solving and teamwork in a magical world.",
       "background": "https://image.tmdb.org/t/p/original/vV1EQ1zLuZ5yPL7LaBqPayVsggC.jpg",
       "imdbRating": "6.2",
-      "rating": 6.2
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2
+      }
     },
     {
       "id": "tt1699440",
@@ -141,7 +177,10 @@
       "description": "Fun adventures with the Cat in the Hat explore various scientific topics.",
       "background": "https://image.tmdb.org/t/p/original/4r8X7zUr06mrEZ6V0ajbKgHXco6.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0167552",
@@ -152,7 +191,10 @@
       "description": "Mario and friends embark on a quest to save Princess Peach from Bowser.",
       "background": "https://image.tmdb.org/t/p/original/mNhOTxhmr5JjvULZgt3Yh2FUjxH.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0169414",
@@ -163,7 +205,10 @@
       "description": "A wise aardvark navigates childhood challenges and learns valuable life lessons.",
       "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt0804425",
@@ -174,7 +219,10 @@
       "description": "A girl tells silly stories that teach vocabulary and encourage creativity.",
       "background": "https://image.tmdb.org/t/p/original/xxBB3y7Q9h9qRN5bggjb0ZZ4ZWc.jpg",
       "imdbRating": "6.1",
-      "rating": 6.1
+      "rating": 6.1,
+      "ratings": {
+        "imdb": 6.1
+      }
     },
     {
       "id": "tt0426769",
@@ -185,7 +233,10 @@
       "description": "A cheerful piglet and her family experience everyday adventures and learn social skills.",
       "background": "https://image.tmdb.org/t/p/original/r9QAxAW2KGQaVnEOxXKJuZ6RSJe.jpg",
       "imdbRating": "6.5",
-      "rating": 6.5
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt0233033",
@@ -196,7 +247,10 @@
       "description": "A family of bears learns important lessons about life and problem-solving.",
       "background": "https://image.tmdb.org/t/p/original/1u88pIpm3JmwVI3p4KYt9NyiKVf.jpg",
       "imdbRating": "7.5",
-      "rating": 7.5
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0203254",
@@ -206,8 +260,11 @@
       "releaseInfo": "1997",
       "description": "A young turtle learns about friendship, responsibility, and overcoming fears.",
       "background": "https://image.tmdb.org/t/p/original/yWHVK0Gswv2mH8V7fsJ2wshBJRO.jpg",
-      "imdbRating": "6.692",
-      "rating": 6.692
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt0243061",
@@ -218,7 +275,10 @@
       "description": "Children visit a magical land where dragons teach them about emotions and friendship.",
       "background": "https://image.tmdb.org/t/p/original/szj45NQNl4wnrjzxKmvjQLvH32d.jpg",
       "imdbRating": "7.3",
-      "rating": 7.3
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt0086815",
@@ -229,7 +289,10 @@
       "description": "Friendly trains learn about working together and overcoming challenges on Sodor.",
       "background": "https://image.tmdb.org/t/p/original/wIe1HL7oMNwyltsqqx2sCPwNl4w.jpg",
       "imdbRating": "6.8",
-      "rating": 6.8
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0156200",
@@ -240,7 +303,10 @@
       "description": "A young elephant becomes king and learns about leadership and his kingdom.",
       "background": "https://image.tmdb.org/t/p/original/sViSOrdZLAr5L1DKdCJ3bFb026s.jpg",
       "imdbRating": "6.4",
-      "rating": 6.4
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4
+      }
     },
     {
       "id": "tt0063951",
@@ -251,7 +317,10 @@
       "description": "Beloved characters teach children letters, numbers, and social-emotional skills.",
       "background": "https://image.tmdb.org/t/p/original/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0242192",
@@ -262,7 +331,10 @@
       "description": "A family of lions runs a library, making reading and literacy fun.",
       "background": "https://image.tmdb.org/t/p/original/oAqPZZ4I2NPwZDRnwd2zZSAWmcr.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0309141",
@@ -273,7 +345,10 @@
       "description": "Three kids travel through cyberspace solving math problems to stop hackers.",
       "background": "https://image.tmdb.org/t/p/original/eKQbV04jCq5GUrDmTyUfgY44oea.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0496195",
@@ -284,7 +359,10 @@
       "description": "A cartoon dog hosts challenges that teach kids about science and engineering.",
       "background": "https://image.tmdb.org/t/p/original/ppmVYdBjx8PzX52s9uwW0zM1rF9.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0454656",
@@ -295,7 +373,10 @@
       "description": "Energetic performers sing and dance, teaching children music and movement.",
       "background": "https://image.tmdb.org/t/p/original/nnH6rWF1osVe245jy9hKYAiz96o.jpg",
       "imdbRating": "6.5",
-      "rating": 6.5
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt0877512",
@@ -306,7 +387,10 @@
       "description": "Colorful characters explore themes like friendship, dancing, and healthy eating.",
       "background": "https://image.tmdb.org/t/p/original/5heUHCpib5gGY8WvWatJvQ1Ba0t.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt5846856",
@@ -317,7 +401,10 @@
       "description": "Robots answer curious kids' questions about how things work in the world.",
       "background": "https://image.tmdb.org/t/p/original/947dkEryFtsyO0pNlVRJV53ZbEb.jpg",
       "imdbRating": "7.0",
-      "rating": 7.0
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0
+      }
     },
     {
       "id": "tt5292052",
@@ -328,7 +415,10 @@
       "description": "Kids explore space, science, and technology with a neighbor from outer space.",
       "background": "https://image.tmdb.org/t/p/original/5pFhN92C10TlIqkzNZy17uyzGcE.jpg",
       "imdbRating": "2.0",
-      "rating": 2.0
+      "rating": 2.0,
+      "ratings": {
+        "imdb": 2.0
+      }
     },
     {
       "id": "tt3900614",
@@ -339,7 +429,10 @@
       "description": "A team of kid agents uses math and science to solve strange mysteries.",
       "background": "https://image.tmdb.org/t/p/original/4PehC4usZ8PoChlUP3Y5TI4KaQF.jpg",
       "imdbRating": "6.8",
-      "rating": 6.8
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt8050740",
@@ -350,7 +443,10 @@
       "description": "A girl is transported to a world of talking frogs and embarks on adventures.",
       "background": "https://image.tmdb.org/t/p/original/jSTglzkXYPMOI6sNdXGqGM02AP2.jpg",
       "imdbRating": "8.6",
-      "rating": 8.6
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt10684374",
@@ -360,8 +456,11 @@
       "releaseInfo": "2021",
       "description": "A girl befriends a ghost, leading to humorous and heartwarming situations.",
       "background": "https://image.tmdb.org/t/p/original/p2NeKlgduO58dORS0Fim1BXVaZu.jpg",
-      "imdbRating": "8.083",
-      "rating": 8.083
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt8050756",
@@ -372,7 +471,10 @@
       "description": "A brave girl enters a magical world and learns to harness her powers.",
       "background": "https://image.tmdb.org/t/p/original/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
       "imdbRating": "8.7",
-      "rating": 8.7
+      "rating": 8.7,
+      "ratings": {
+        "imdb": 8.7
+      }
     },
     {
       "id": "tt6385540",
@@ -382,8 +484,11 @@
       "releaseInfo": "2018",
       "description": "A fearless girl has magical adventures with her friends in a world of spirits.",
       "background": "https://image.tmdb.org/t/p/original/x5YFTfPDug6eF76vVuDnbaoNVQK.jpg",
-      "imdbRating": "8.395",
-      "rating": 8.395
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt7713450",
@@ -394,7 +499,10 @@
       "description": "Kids explore their neighborhood creek, discovering wild adventures and friendships.",
       "background": "https://image.tmdb.org/t/p/original/c1CBVe8UzltKScrjnM3aBFd8SA1.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt7741824",
@@ -404,8 +512,11 @@
       "releaseInfo": "2018",
       "description": "A baby in a suit leads his brother on adventures to save babies.",
       "background": "https://image.tmdb.org/t/p/original/ry3j5NEF72tMezdEomGrVXb6pFB.jpg",
-      "imdbRating": "7.063",
-      "rating": 7.063
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt28761430",
@@ -416,7 +527,10 @@
       "description": "Magical girls live in harmony with their animal friends in a wondrous world.",
       "background": null,
       "imdbRating": "5.0",
-      "rating": 5.0
+      "rating": 5.0,
+      "ratings": {
+        "imdb": 5.0
+      }
     },
     {
       "id": "tt5828144",
@@ -427,7 +541,10 @@
       "description": "A girl travels to a magical island to help her toys solve problems.",
       "background": "https://image.tmdb.org/t/p/original/ktWVTnYLe96fJ22VkSUStkFIQ4k.jpg",
       "imdbRating": "6.6",
-      "rating": 6.6
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6
+      }
     },
     {
       "id": "tt7539608",
@@ -438,7 +555,10 @@
       "description": "Poppy and her friends spread joy and music throughout the troll kingdom.",
       "background": "https://image.tmdb.org/t/p/original/ydjoZ7a9OIHfEYPbOA2JoORqYk.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt4549142",
@@ -449,7 +569,10 @@
       "description": "A brave princess rules her kingdom, learning leadership and courage.",
       "background": "https://image.tmdb.org/t/p/original/7xO1zDXvTZAqccijxA77gMNkR87.jpg",
       "imdbRating": "6.4",
-      "rating": 6.4
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4
+      }
     },
     {
       "id": "tt6415656",
@@ -460,7 +583,10 @@
       "description": "A princess is also a knight, bravely fighting for what is right.",
       "background": "https://image.tmdb.org/t/p/original/2YJM9UdSL1LMJQgFsZycTRmaac7.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt3793630",
@@ -471,7 +597,10 @@
       "description": "Simba's cubs protect the Pride Lands, learning about responsibility and teamwork.",
       "background": "https://image.tmdb.org/t/p/original/4Hpw6RzaIjEotwc7vLv3cgZ9GST.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt2136138",
@@ -481,8 +610,11 @@
       "releaseInfo": "2012",
       "description": "A young girl becomes a princess and learns about kindness and bravery.",
       "background": "https://image.tmdb.org/t/p/original/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
-      "imdbRating": "7.217",
-      "rating": 7.217
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt4475060",
@@ -493,7 +625,10 @@
       "description": "A bear and a girl share adventures and learn life lessons together.",
       "background": "https://image.tmdb.org/t/p/original/6A9SJRErrbJh8IC25dT8gXrHRPH.jpg",
       "imdbRating": "6.1",
-      "rating": 6.1
+      "rating": 6.1,
+      "ratings": {
+        "imdb": 6.1
+      }
     },
     {
       "id": "tt2769458",
@@ -504,7 +639,10 @@
       "description": "A friendly cat sheriff brings justice and teaches good manners to her town.",
       "background": "https://image.tmdb.org/t/p/original/bOZnotuzyE3EQbTV1UF4ptuHkhJ.jpg",
       "imdbRating": "5.5",
-      "rating": 5.5
+      "rating": 5.5,
+      "ratings": {
+        "imdb": 5.5
+      }
     },
     {
       "id": "tt1307510",
@@ -515,7 +653,10 @@
       "description": "Young trainees learn valuable lessons about teamwork and responsibility on the railway.",
       "background": "https://image.tmdb.org/t/p/original/5jZagQcJqhr28VFd1zSI7cYaYyq.jpg",
       "imdbRating": "6.7",
-      "rating": 6.7
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7
+      }
     },
     {
       "id": "tt2320669",
@@ -525,8 +666,11 @@
       "releaseInfo": "2011",
       "description": "A young knight learns about chivalry, teamwork, and helping others.",
       "background": "https://image.tmdb.org/t/p/original/rY5EsTPAsJmwxDkxbR0UgrIT18r.jpg",
-      "imdbRating": "5.778",
-      "rating": 5.778
+      "imdbRating": "5.8",
+      "rating": 5.8,
+      "ratings": {
+        "imdb": 5.8
+      }
     },
     {
       "id": "tt0423657",
@@ -536,8 +680,11 @@
       "releaseInfo": "2005",
       "description": "Diego helps endangered animals and teaches kids about nature and conservation.",
       "background": "https://image.tmdb.org/t/p/original/9zCZvrbl9dSZOyiiUr0bCCgtHl3.jpg",
-      "imdbRating": "6.179",
-      "rating": 6.179
+      "imdbRating": "6.2",
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2
+      }
     },
     {
       "id": "tt0235917",
@@ -547,8 +694,11 @@
       "releaseInfo": "2000",
       "description": "A curious explorer girl goes on adventures and teaches viewers Spanish.",
       "background": "https://image.tmdb.org/t/p/original/4EvgShbukpyeLBu0BKYNCyQi27y.jpg",
-      "imdbRating": "6.234",
-      "rating": 6.234
+      "imdbRating": "6.2",
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2
+      }
     },
     {
       "id": "tt0439349",
@@ -558,8 +708,11 @@
       "releaseInfo": "2004",
       "description": "Four animal friends transform their backyard into imaginative musical adventures.",
       "background": "https://image.tmdb.org/t/p/original/fLI3GFGDjYXIXO5ehdQkeE0zeS0.jpg",
-      "imdbRating": "8.056",
-      "rating": 8.056
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt0352085",
@@ -570,7 +723,10 @@
       "description": "Two finger puppets learn about life, emotions, and problem-solving.",
       "background": "https://image.tmdb.org/t/p/original/5RWxXz59AVXgZQ3uvK6pBtmOhgP.jpg",
       "imdbRating": "6.8",
-      "rating": 6.8
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8
+      }
     },
     {
       "id": "tt0100366",
@@ -581,7 +737,10 @@
       "description": "A young penguin has humorous adventures and learns about family and friendship.",
       "background": "https://image.tmdb.org/t/p/original/10UOUxOjmLCwGOvNXNaiIdWXav.jpg",
       "imdbRating": "6.9",
-      "rating": 6.9
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt0260628",
@@ -592,7 +751,10 @@
       "description": "A friendly dog and his friends explore the world and learn life lessons.",
       "background": "https://image.tmdb.org/t/p/original/28ydoTvksl00rZUP7LheUVS8OHK.jpg",
       "imdbRating": "7.2",
-      "rating": 7.2
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2
+      }
     },
     {
       "id": "tt0149509",
@@ -603,7 +765,10 @@
       "description": "A kind postman delivers mail and helps his village with various tasks.",
       "background": "https://image.tmdb.org/t/p/original/ini5OKs2Y5pwfyarKgkDBgB3sW9.jpg",
       "imdbRating": "6.5",
-      "rating": 6.5
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5
+      }
     },
     {
       "id": "tt0329829",
@@ -614,7 +779,10 @@
       "description": "A brave firefighter and his team save the day in their Welsh village.",
       "background": "https://image.tmdb.org/t/p/original/dEPV4QKCdo8pqLN4g4h8pn6Jga7.jpg",
       "imdbRating": "6.1",
-      "rating": 6.1
+      "rating": 6.1,
+      "ratings": {
+        "imdb": 6.1
+      }
     },
     {
       "id": "tt0262151",
@@ -625,7 +793,10 @@
       "description": "A construction worker and his team build and fix things with teamwork.",
       "background": "https://image.tmdb.org/t/p/original/5tf3hx7RbUovAYGMZ6slmoROWI1.jpg",
       "imdbRating": "5.9",
-      "rating": 5.9
+      "rating": 5.9,
+      "ratings": {
+        "imdb": 5.9
+      }
     },
     {
       "id": "tt1027544",
@@ -636,7 +807,10 @@
       "description": "Fast-paced adventures teach teamwork and problem-solving on the racetrack.",
       "background": "https://image.tmdb.org/t/p/original/bv0J22ETnsTlvXDbpgIKLIPc2xR.jpg",
       "imdbRating": "7.4",
-      "rating": 7.4
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt15338206",
@@ -647,7 +821,10 @@
       "description": "An adventurer explores the wild and safely interacts with amazing animals.",
       "background": "https://image.tmdb.org/t/p/original/ntOdalR92p8HBvHBjjUjEzkcuVd.jpg",
       "imdbRating": "5.8",
-      "rating": 5.8
+      "rating": 5.8,
+      "ratings": {
+        "imdb": 5.8
+      }
     },
     {
       "id": "tt0074028",
@@ -658,7 +835,10 @@
       "description": "Classic variety show featuring beloved Muppets and guest stars in musical comedy.",
       "background": "https://image.tmdb.org/t/p/original/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0062588",
@@ -669,7 +849,10 @@
       "description": "A gentle host explores social-emotional topics and encourages imagination.",
       "background": "https://image.tmdb.org/t/p/original/bvbOrvK0hQveMB6SmQoAwIuRToh.jpg",
       "imdbRating": "6.1",
-      "rating": 6.1
+      "rating": 6.1,
+      "ratings": {
+        "imdb": 6.1
+      }
     },
     {
       "id": "tt0085075",
@@ -680,7 +863,10 @@
       "description": "Encourages a love of reading through books and educational segments.",
       "background": "https://image.tmdb.org/t/p/original/9kNBDpilniJFSOM0ciq12XUduRF.jpg",
       "imdbRating": "8.4",
-      "rating": 8.4
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt0173528",
@@ -690,8 +876,11 @@
       "releaseInfo": "1993",
       "description": "An engaging host makes science fun and accessible with experiments.",
       "background": "https://image.tmdb.org/t/p/original/7BG0EAfPn037Sj9h1cAB2srqQSX.jpg",
-      "imdbRating": "7.402",
-      "rating": 7.402
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4
+      }
     },
     {
       "id": "tt3869122",
@@ -702,7 +891,10 @@
       "description": "Ms. Frizzle's niece takes students on wild scientific explorations.",
       "background": "https://image.tmdb.org/t/p/original/dfvbteFQiK6e7PPajb6khojI2ko.jpg",
       "imdbRating": "6.9",
-      "rating": 6.9
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9
+      }
     },
     {
       "id": "tt0136634",
@@ -713,7 +905,10 @@
       "description": "A cheerful clown named Loonette entertains and teaches with songs and games.",
       "background": "https://image.tmdb.org/t/p/original/ugV963w9Gw6fIcnbqN85PBQD3JV.jpg",
       "imdbRating": "7.6",
-      "rating": 7.6
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0144701",
@@ -723,8 +918,11 @@
       "releaseInfo": "1992",
       "description": "A friendly purple dinosaur teaches children about sharing, caring, and imagination.",
       "background": "https://image.tmdb.org/t/p/original/ea2Bw6064VpAE7FsLFBlSIb6Qcr.jpg",
-      "imdbRating": "6.202",
-      "rating": 6.202
+      "imdbRating": "6.2",
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2
+      }
     },
     {
       "id": "tt0142055",
@@ -735,7 +933,10 @@
       "description": "Four colorful characters explore their world with simple language and play.",
       "background": "https://image.tmdb.org/t/p/original/2Ne8sYfnnRVl9BaghudN8bSkMnW.jpg",
       "imdbRating": "4.4",
-      "rating": 4.4
+      "rating": 4.4,
+      "ratings": {
+        "imdb": 4.4
+      }
     },
     {
       "id": "tt0442722",
@@ -746,7 +947,10 @@
       "description": "A musical trio performs songs and dances, teaching about rhythm and fun.",
       "background": "https://image.tmdb.org/t/p/original/7M9cwmxNUgCUUt1RUgFjQy3zDr1.jpg",
       "imdbRating": "6.0",
-      "rating": 6.0
+      "rating": 6.0,
+      "ratings": {
+        "imdb": 6.0
+      }
     },
     {
       "id": "tt0111987",
@@ -756,8 +960,11 @@
       "releaseInfo": "1995",
       "description": "Spooky but not too scary stories about kids facing mysterious adventures.",
       "background": "https://image.tmdb.org/t/p/original/gN3gG8m1QfdKiQ5crRO5a0J7ObL.jpg",
-      "imdbRating": "7.968",
-      "rating": 7.968
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0105941",
@@ -767,8 +974,11 @@
       "releaseInfo": "1993",
       "description": "Three siblings cause cartoon chaos with slapstick comedy and educational gags.",
       "background": "https://image.tmdb.org/t/p/original/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
-      "imdbRating": "8.008",
-      "rating": 8.008
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0112123",
@@ -778,8 +988,11 @@
       "releaseInfo": "1995",
       "description": "Two lab mice attempt to take over the world with comical failures.",
       "background": "https://image.tmdb.org/t/p/original/ifwnVxLzrvMSuTKUxvinpjDNov1.jpg",
-      "imdbRating": "7.696",
-      "rating": 7.696
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0292800",
@@ -789,8 +1002,11 @@
       "releaseInfo": "2001",
       "description": "Two boys befriend the Grim Reaper, leading to absurd and funny scenarios.",
       "background": "https://image.tmdb.org/t/p/original/7aWytAE9Gcf6UZXcS6ejJEdEhEb.jpg",
-      "imdbRating": "8.057",
-      "rating": 8.057
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     },
     {
       "id": "tt1140100",
@@ -801,7 +1017,10 @@
       "description": "A young apprentice chef has bizarre and hilarious culinary adventures.",
       "background": "https://image.tmdb.org/t/p/original/zzaV28kJHg87Gw0aWHmYy5qjnXC.jpg",
       "imdbRating": "8.2",
-      "rating": 8.2
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt1178180",
@@ -812,7 +1031,10 @@
       "description": "A boy and his pirate mentor have bizarre adventures seeking Candied Island.",
       "background": "https://image.tmdb.org/t/p/original/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
       "imdbRating": "8.0",
-      "rating": 8.0
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt1305826",
@@ -822,8 +1044,11 @@
       "releaseInfo": "2010",
       "description": "A boy and his dog embark on epic quests in a magical post-apocalyptic land.",
       "background": "https://image.tmdb.org/t/p/original/d8rse1RgMzXwmZvBpDvcG1VUO2Y.jpg",
-      "imdbRating": "8.507",
-      "rating": 8.507
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5
+      }
     },
     {
       "id": "tt1710308",
@@ -833,8 +1058,11 @@
       "releaseInfo": "2010",
       "description": "Two groundskeepers go on surreal and hilarious adventures in their everyday jobs.",
       "background": "https://image.tmdb.org/t/p/original/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
-      "imdbRating": "8.636",
-      "rating": 8.636
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6
+      }
     },
     {
       "id": "tt3061046",
@@ -845,7 +1073,10 @@
       "description": "A young boy joins a team of alien warriors to protect humanity.",
       "background": "https://image.tmdb.org/t/p/original/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
       "imdbRating": "8.4",
-      "rating": 8.4
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt2758770",
@@ -855,8 +1086,11 @@
       "releaseInfo": "2015",
       "description": "A magical princess from another dimension battles evil with her best friend.",
       "background": "https://image.tmdb.org/t/p/original/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
-      "imdbRating": "8.366",
-      "rating": 8.366
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt0206512",
@@ -867,7 +1101,10 @@
       "description": "A cheerful sea sponge has wacky underwater adventures with his friends.",
       "background": "https://image.tmdb.org/t/p/original/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0101188",
@@ -877,8 +1114,11 @@
       "releaseInfo": "1991",
       "description": "A group of toddlers explore the world from their imaginative perspective.",
       "background": "https://image.tmdb.org/t/p/original/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
-      "imdbRating": "7.619",
-      "rating": 7.619
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0115200",
@@ -888,8 +1128,11 @@
       "releaseInfo": "1996",
       "description": "A group of city kids navigate friendships, school, and growing up.",
       "background": "https://image.tmdb.org/t/p/original/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
-      "imdbRating": "8.021",
-      "rating": 8.021
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0
+      }
     },
     {
       "id": "tt0126170",
@@ -899,8 +1142,11 @@
       "releaseInfo": "1997",
       "description": "Six friends have adventures during recess, protecting their playground turf.",
       "background": "https://image.tmdb.org/t/p/original/PJSgscE4Es0TXmgIqp3X6ey8Ux.jpg",
-      "imdbRating": "7.757",
-      "rating": 7.757
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0128890",
@@ -911,7 +1157,10 @@
       "description": "A quirky middle schooler navigates life's challenges with humor and optimism.",
       "background": "https://image.tmdb.org/t/p/original/jNbVRcVwx4qSImE8rWBbKG4Oqf4.jpg",
       "imdbRating": "7.1",
-      "rating": 7.1
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1
+      }
     },
     {
       "id": "tt0275848",
@@ -922,7 +1171,10 @@
       "description": "A young boy and his alien friends have wacky adventures in space.",
       "background": "https://image.tmdb.org/t/p/original/hNt0OEzqkWBhvjLcFa0UYDbrYQU.jpg",
       "imdbRating": "7.3",
-      "rating": 7.3
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3
+      }
     },
     {
       "id": "tt0278866",
@@ -932,8 +1184,11 @@
       "releaseInfo": "2002",
       "description": "A teen girl balances high school with being a secret agent.",
       "background": "https://image.tmdb.org/t/p/original/olYeeEi5aa197P0s8ETXyriP9Ih.jpg",
-      "imdbRating": "7.511",
-      "rating": 7.511
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0293737",
@@ -944,7 +1199,10 @@
       "description": "A teenage girl navigates family life, friendships, and growing up.",
       "background": "https://image.tmdb.org/t/p/original/1HZpsTp3N8QQDSNDu5yEmBAb7s1.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0852863",
@@ -955,7 +1213,10 @@
       "description": "Two stepbrothers create inventive schemes during their summer vacation.",
       "background": "https://image.tmdb.org/t/p/original/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
       "imdbRating": "7.9",
-      "rating": 7.9
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt1751105",
@@ -965,8 +1226,11 @@
       "releaseInfo": "2010",
       "description": "Ponies learn about friendship, teamwork, and harmony in Equestria.",
       "background": "https://image.tmdb.org/t/p/original/gOyIKp7adMCzFrYjc5rxmt2PNhi.jpg",
-      "imdbRating": "8.191",
-      "rating": 8.191
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt0235918",
@@ -976,8 +1240,11 @@
       "releaseInfo": "2001",
       "description": "A boy gets magical wishes from his fairy godparents, leading to chaos.",
       "background": "https://image.tmdb.org/t/p/original/rMKFsYeK3LPJGk9xqUHhGdqA4aB.jpg",
-      "imdbRating": "7.554",
-      "rating": 7.554
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6
+      }
     },
     {
       "id": "tt0115157",
@@ -988,7 +1255,10 @@
       "description": "A boy genius operates a secret laboratory, often with hilarious results.",
       "background": "https://image.tmdb.org/t/p/original/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",
       "imdbRating": "7.7",
-      "rating": 7.7
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7
+      }
     },
     {
       "id": "tt0175058",
@@ -998,8 +1268,11 @@
       "releaseInfo": "1998",
       "description": "Three super-powered sisters fight crime and save the world from villains.",
       "background": "https://image.tmdb.org/t/p/original/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
-      "imdbRating": "7.529",
-      "rating": 7.529
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5
+      }
     },
     {
       "id": "tt0184111",
@@ -1009,8 +1282,11 @@
       "releaseInfo": "1999",
       "description": "Three friends constantly try to scam their peers for money to buy jawbreakers.",
       "background": "https://image.tmdb.org/t/p/original/iRbNLYmqlxbqkfCuAmHaFwZ9ocY.jpg",
-      "imdbRating": "7.86",
-      "rating": 7.86
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9
+      }
     },
     {
       "id": "tt0220880",
@@ -1020,8 +1296,11 @@
       "releaseInfo": "1999",
       "description": "A timid dog protects his elderly owners from supernatural and bizarre threats.",
       "background": "https://image.tmdb.org/t/p/original/dugFpakDXxjDjEUloukNqAx3cjK.jpg",
-      "imdbRating": "8.227",
-      "rating": 8.227
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2
+      }
     },
     {
       "id": "tt0278238",
@@ -1032,7 +1311,10 @@
       "description": "A samurai warrior battles an evil demon through time and space.",
       "background": "https://image.tmdb.org/t/p/original/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
       "imdbRating": "8.4",
-      "rating": 8.4
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4
+      }
     },
     {
       "id": "tt0419326",
@@ -1042,8 +1324,11 @@
       "releaseInfo": "2004",
       "description": "Kids and their imaginary friends find a home in a unique orphanage.",
       "background": "https://image.tmdb.org/t/p/original/bjwIi48y6D852jOkQp58RM52iG8.jpg",
-      "imdbRating": "7.837",
-      "rating": 7.837
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8
+      }
     },
     {
       "id": "tt0760437",
@@ -1054,7 +1339,10 @@
       "description": "A boy discovers an alien device that lets him transform into ten aliens.",
       "background": "https://image.tmdb.org/t/p/original/v5hLUEpbn3G3oLXLdF7lFikDivb.jpg",
       "imdbRating": "8.1",
-      "rating": 8.1
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1
+      }
     }
   ]
 }
