@@ -6,7 +6,7 @@
       "name": "Avatar: The Last Airbender",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "releaseInfo": "2005",
-      "description": "Kids will love the thrilling elemental bending battles and heartwarming, unforgettable hero journeys.",
+      "description": "An epic journey filled with elemental martial arts, humor, and heart.",
       "background": "https://image.tmdb.org/t/p/original/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
       "imdbRating": "9.3",
       "rating": 9.3,
@@ -21,118 +21,22 @@
       }
     },
     {
-      "id": "tt0343314",
+      "id": "tt5531466",
       "type": "series",
-      "name": "Teen Titans",
-      "poster": "https://image.tmdb.org/t/p/w500/txuXDV4tb4xEkE4C6xeYMU4McT.jpg",
-      "releaseInfo": "2003",
-      "description": "Features exciting superhero teamwork, high-stakes martial arts battles, and hilarious youthful comedy.",
-      "background": "https://image.tmdb.org/t/p/original/ilKbbbCYjerHXQr6NRuKPu9DBsJ.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
+      "name": "DuckTales",
+      "poster": "https://image.tmdb.org/t/p/w500/3klapeIKLp9IBy4uHo7szTeMTdQ.jpg",
+      "releaseInfo": "2017",
+      "description": "Exciting globetrotting adventures with clever humor and mystery for all ages.",
+      "background": "https://image.tmdb.org/t/p/original/tco0lyOHy3bjy2hyishbuCk0Yvg.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3,
       "ratings": {
-        "imdb": 8.0,
-        "metacriticuser": 8.7,
-        "trakt": 82,
-        "tomatoes": 92,
-        "popcorn": 91,
-        "tmdb": 83,
-        "mdblist": 85
-      }
-    },
-    {
-      "id": "tt1641384",
-      "type": "series",
-      "name": "Young Justice",
-      "poster": "https://image.tmdb.org/t/p/w500/fn2wMnrPWIjDMnxIf0H89ZtDehK.jpg",
-      "releaseInfo": "2010",
-      "description": "Smart, action-packed adventures following teenage sidekicks proving themselves as premier heroes.",
-      "background": "https://image.tmdb.org/t/p/original/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6,
-      "ratings": {
-        "imdb": 8.6,
-        "metacriticuser": 7.0,
-        "trakt": 82,
-        "popcorn": 73,
-        "tmdb": 83,
-        "mdblist": 81
-      }
-    },
-    {
-      "id": "tt0115378",
-      "type": "series",
-      "name": "Superman: The Animated Series",
-      "poster": "https://image.tmdb.org/t/p/w500/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg",
-      "releaseInfo": "1996",
-      "description": "Shares the beloved, dynamic Bruce Timm art style while delivering heroic Metropolis adventures.",
-      "background": "https://image.tmdb.org/t/p/original/yDsLb8WRHplh7X5EpHDFHl7TP8T.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
-      "ratings": {
-        "imdb": 8.1,
-        "trakt": 77,
-        "popcorn": 93,
-        "tmdb": 76,
-        "mdblist": 81
-      }
-    },
-    {
-      "id": "tt0147746",
-      "type": "series",
-      "name": "Batman Beyond",
-      "poster": "https://image.tmdb.org/t/p/w500/qAcF9tpWip7BGNad0NtUdt2ZWAz.jpg",
-      "releaseInfo": "1999",
-      "description": "Futuristic cyberpunk gadgetry and thrilling high-tech crime fighting keep viewers glued to screens.",
-      "background": "https://image.tmdb.org/t/p/original/A8We2BSM6hJ1VWzncssnU2fFsft.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
-      "ratings": {
-        "imdb": 8.1,
-        "metacriticuser": 8.8,
-        "trakt": 80,
-        "tomatoes": 100,
-        "popcorn": 94,
-        "tmdb": 81,
-        "mdblist": 87
-      }
-    },
-    {
-      "id": "tt0366005",
-      "type": "series",
-      "name": "Danny Phantom",
-      "poster": "https://image.tmdb.org/t/p/w500/pBUOFBmZLaIxzjDjQP7d3QZrd4w.jpg",
-      "releaseInfo": "2004",
-      "description": "Combining high school humor and ghost-hunting superpowers creates nonstop, entertaining hero fun.",
-      "background": "https://image.tmdb.org/t/p/original/lnHFty7PsAnizaNjb509Kps6qeP.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
-      "ratings": {
-        "imdb": 7.2,
-        "metacriticuser": 8.3,
-        "trakt": 73,
-        "popcorn": 85,
-        "tmdb": 83,
-        "mdblist": 78
-      }
-    },
-    {
-      "id": "tt0760437",
-      "type": "series",
-      "name": "Ben 10",
-      "poster": "https://image.tmdb.org/t/p/w500/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
-      "releaseInfo": "2005",
-      "description": "Transforming into ten different awesome alien warriors satisfies every kid's fantasy.",
-      "background": "https://image.tmdb.org/t/p/original/v5hLUEpbn3G3oLXLdF7lFikDivb.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "metacriticuser": 7.9,
-        "trakt": 79,
+        "imdb": 8.3,
+        "metacriticuser": 7.5,
+        "trakt": 81,
         "popcorn": 92,
-        "tmdb": 81,
-        "mdblist": 84
+        "tmdb": 78,
+        "mdblist": 83
       }
     },
     {
@@ -141,7 +45,7 @@
       "name": "Phineas and Ferb",
       "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
       "releaseInfo": "2007",
-      "description": "Wild daily inventions, catchy musical numbers, and secret agent Perry spark endless laughter.",
+      "description": "Hilarious inventions, catchy musical numbers, and secret agent animal antics.",
       "background": "https://image.tmdb.org/t/p/original/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
       "imdbRating": "8.1",
       "rating": 8.1,
@@ -155,50 +59,12 @@
       }
     },
     {
-      "id": "tt0175058",
-      "type": "series",
-      "name": "The Powerpuff Girls",
-      "poster": "https://image.tmdb.org/t/p/w500/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
-      "releaseInfo": "1998",
-      "description": "Sugar, spice, and superpower punchouts provide high-energy, candy-colored superhero fun.",
-      "background": "https://image.tmdb.org/t/p/original/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
-      "ratings": {
-        "imdb": 7.3,
-        "metacriticuser": 8.2,
-        "trakt": 74,
-        "popcorn": 83,
-        "tmdb": 75,
-        "mdblist": 76
-      }
-    },
-    {
-      "id": "tt5531466",
-      "type": "series",
-      "name": "DuckTales",
-      "poster": "https://image.tmdb.org/t/p/w500/3klapeIKLp9IBy4uHo7szTeMTdQ.jpg",
-      "releaseInfo": "2017",
-      "description": "Globe-trotting treasure hunts and clever humor deliver unbeatable Disney adventure for families.",
-      "background": "https://image.tmdb.org/t/p/original/tco0lyOHy3bjy2hyishbuCk0Yvg.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
-      "ratings": {
-        "imdb": 8.3,
-        "metacriticuser": 7.5,
-        "trakt": 81,
-        "popcorn": 92,
-        "tmdb": 79,
-        "mdblist": 83
-      }
-    },
-    {
       "id": "tt1865718",
       "type": "series",
       "name": "Gravity Falls",
       "poster": "https://image.tmdb.org/t/p/w500/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg",
       "releaseInfo": "2012",
-      "description": "Spooky supernatural mysteries, quirky characters, and hilarious family bonds captivate all ages.",
+      "description": "Quirky mystery solving with clever humor and spooky, fun adventures.",
       "background": "https://image.tmdb.org/t/p/original/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
       "imdbRating": "8.9",
       "rating": 8.9,
@@ -213,12 +79,89 @@
       }
     },
     {
+      "id": "tt0115378",
+      "type": "series",
+      "name": "Superman: The Animated Series",
+      "poster": "https://image.tmdb.org/t/p/w500/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg",
+      "releaseInfo": "1996",
+      "description": "Classic comic-book heroic adventures from the makers of Batman.",
+      "background": "https://image.tmdb.org/t/p/original/yDsLb8WRHplh7X5EpHDFHl7TP8T.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1,
+        "trakt": 77,
+        "popcorn": 93,
+        "tmdb": 77,
+        "mdblist": 81
+      }
+    },
+    {
+      "id": "tt0147746",
+      "type": "series",
+      "name": "Batman Beyond",
+      "poster": "https://image.tmdb.org/t/p/w500/qAcF9tpWip7BGNad0NtUdt2ZWAz.jpg",
+      "releaseInfo": "1999",
+      "description": "A futuristic teen Batman battles cool villains in Neo-Gotham.",
+      "background": "https://image.tmdb.org/t/p/original/A8We2BSM6hJ1VWzncssnU2fFsft.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1,
+        "metacriticuser": 8.8,
+        "trakt": 80,
+        "tomatoes": 100,
+        "popcorn": 94,
+        "tmdb": 81,
+        "mdblist": 87
+      }
+    },
+    {
+      "id": "tt1641384",
+      "type": "series",
+      "name": "Young Justice",
+      "poster": "https://image.tmdb.org/t/p/w500/fn2wMnrPWIjDMnxIf0H89ZtDehK.jpg",
+      "releaseInfo": "2010",
+      "description": "Teen sidekicks step up to run covert superhero missions.",
+      "background": "https://image.tmdb.org/t/p/original/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
+      "imdbRating": "8.6",
+      "rating": 8.6,
+      "ratings": {
+        "imdb": 8.6,
+        "metacriticuser": 7.0,
+        "trakt": 82,
+        "popcorn": 73,
+        "tmdb": 83,
+        "mdblist": 81
+      }
+    },
+    {
+      "id": "tt1626038",
+      "type": "series",
+      "name": "Avengers: Earth's Mightiest Heroes",
+      "poster": "https://image.tmdb.org/t/p/w500/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg",
+      "releaseInfo": "2010",
+      "description": "Top-tier team-up action featuring Marvel's greatest heroes and villains.",
+      "background": "https://image.tmdb.org/t/p/original/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3,
+        "metacriticuser": 8.2,
+        "trakt": 79,
+        "tomatoes": 100,
+        "popcorn": 97,
+        "tmdb": 82,
+        "mdblist": 88
+      }
+    },
+    {
       "id": "tt0458290",
       "type": "series",
       "name": "Star Wars: The Clone Wars",
       "poster": "https://image.tmdb.org/t/p/w500/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
       "releaseInfo": "2008",
-      "description": "Spectacular lightsaber duels and sweeping space battles expand a beloved galactic mythology.",
+      "description": "Thrilling Jedi battles, lightsaber duels, and galactic space adventures.",
       "background": "https://image.tmdb.org/t/p/original/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
       "imdbRating": "8.5",
       "rating": 8.5,
@@ -239,7 +182,7 @@
       "name": "Star Wars Rebels",
       "poster": "https://image.tmdb.org/t/p/w500/eLrScs6Bs26JMcS8hiZhf7YRROr.jpg",
       "releaseInfo": "2014",
-      "description": "A plucky rebel crew fights against evil Imperials with heart and Jedi heroism.",
+      "description": "A plucky crew stands against the Empire with great heart.",
       "background": "https://image.tmdb.org/t/p/original/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg",
       "imdbRating": "8.1",
       "rating": 8.1,
@@ -255,20 +198,138 @@
       }
     },
     {
-      "id": "tt8050740",
+      "id": "tt0760437",
       "type": "series",
-      "name": "Amphibia",
-      "poster": "https://image.tmdb.org/t/p/w500/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg",
-      "releaseInfo": "2019",
-      "description": "Witty frog adventures and epic fantasy battles create a fantastic portal-world journey.",
-      "background": "https://image.tmdb.org/t/p/original/jSTglzkXYPMOI6sNdXGqGM02AP2.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
+      "name": "Ben 10",
+      "poster": "https://image.tmdb.org/t/p/w500/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
+      "releaseInfo": "2005",
+      "description": "Transforming into awesome aliens to fight monsters delivers pure fun.",
+      "background": "https://image.tmdb.org/t/p/original/v5hLUEpbn3G3oLXLdF7lFikDivb.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
       "ratings": {
-        "imdb": 8.3,
-        "trakt": 84,
+        "imdb": 7.6,
+        "metacriticuser": 7.9,
+        "trakt": 79,
+        "popcorn": 92,
+        "tmdb": 81,
+        "mdblist": 84
+      }
+    },
+    {
+      "id": "tt1636691",
+      "type": "series",
+      "name": "Generator Rex",
+      "poster": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
+      "releaseInfo": "2010",
+      "description": "High-octane sci-fi action featuring a boy with mechanical superpowers.",
+      "background": "https://image.tmdb.org/t/p/original/jXiKtz7PPWOI4zKl5CdtrKyLUh8.jpg",
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7,
+        "metacriticuser": 7.6,
+        "trakt": 78,
+        "popcorn": 65,
+        "tmdb": 85,
+        "mdblist": 76
+      }
+    },
+    {
+      "id": "tt0366005",
+      "type": "series",
+      "name": "Danny Phantom",
+      "poster": "https://image.tmdb.org/t/p/w500/pBUOFBmZLaIxzjDjQP7d3QZrd4w.jpg",
+      "releaseInfo": "2004",
+      "description": "Fun ghost-hunting action combined with everyday high school comedy.",
+      "background": "https://image.tmdb.org/t/p/original/lnHFty7PsAnizaNjb509Kps6qeP.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2,
+        "metacriticuser": 8.3,
+        "trakt": 73,
+        "popcorn": 85,
+        "tmdb": 83,
+        "mdblist": 78
+      }
+    },
+    {
+      "id": "tt0175058",
+      "type": "series",
+      "name": "The Powerpuff Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
+      "releaseInfo": "1998",
+      "description": "Adorable kindergarten sisters save the city with super-powered punch.",
+      "background": "https://image.tmdb.org/t/p/original/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3,
+        "metacriticuser": 8.2,
+        "trakt": 74,
+        "popcorn": 83,
+        "tmdb": 75,
+        "mdblist": 76
+      }
+    },
+    {
+      "id": "tt0115157",
+      "type": "series",
+      "name": "Dexter's Laboratory",
+      "poster": "https://image.tmdb.org/t/p/w500/inJJn8lUPWdvdy2h259UnoHWVqC.jpg",
+      "releaseInfo": "1996",
+      "description": "Wacky science experiments and hilarious sibling rivalry keep kids laughing.",
+      "background": "https://image.tmdb.org/t/p/original/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8,
+        "metacriticuser": 8.2,
+        "trakt": 76,
+        "popcorn": 86,
+        "tmdb": 76,
+        "mdblist": 79
+      }
+    },
+    {
+      "id": "tt0278238",
+      "type": "series",
+      "name": "Samurai Jack",
+      "poster": "https://image.tmdb.org/t/p/w500/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
+      "releaseInfo": "2001",
+      "description": "Visually stunning action and cool time-traveling samurai adventures.",
+      "background": "https://image.tmdb.org/t/p/original/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5,
+        "metacritic": 93,
+        "metacriticuser": 8.8,
+        "trakt": 83,
+        "tomatoes": 93,
+        "popcorn": 95,
+        "tmdb": 84,
+        "mdblist": 88
+      }
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "My Hero Academia",
+      "poster": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+      "releaseInfo": "2016",
+      "description": "Inspiring superhero school training with exhilarating powers and friendships.",
+      "background": "https://image.tmdb.org/t/p/original/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2,
+        "trakt": 81,
+        "tomatoes": 100,
         "popcorn": 88,
-        "tmdb": 86,
+        "tmdb": 85,
+        "myanimelist": 7.8,
         "mdblist": 85
       }
     },
@@ -278,7 +339,7 @@
       "name": "She-Ra and the Princesses of Power",
       "poster": "https://image.tmdb.org/t/p/w500/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg",
       "releaseInfo": "2018",
-      "description": "Magical sword-wielding princesses unite with friendship and thrilling rebellion action.",
+      "description": "Empowering fantasy adventures filled with magic, friendship, and battles.",
       "background": "https://image.tmdb.org/t/p/original/uKG6BOipnZM9XRtrRzDjoq52jab.jpg",
       "imdbRating": "8.1",
       "rating": 8.1,
@@ -288,47 +349,8 @@
         "trakt": 83,
         "tomatoes": 96,
         "popcorn": 84,
-        "tmdb": 84,
+        "tmdb": 85,
         "mdblist": 85
-      }
-    },
-    {
-      "id": "tt5580664",
-      "type": "series",
-      "name": "Voltron: Legendary Defender",
-      "poster": "https://image.tmdb.org/t/p/w500/yWAGNuPuUWJT9gIQmGdZiTGJWzh.jpg",
-      "releaseInfo": "2016",
-      "description": "Five robotic lions form one giant warrior for incredible intergalactic sci-fi battles.",
-      "background": "https://image.tmdb.org/t/p/original/A7zBjRDFh1TXG3Buhi55mmS1qSr.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
-      "ratings": {
-        "imdb": 8.0,
-        "metacriticuser": 7.9,
-        "trakt": 76,
-        "tomatoes": 95,
-        "popcorn": 78,
-        "tmdb": 73,
-        "mdblist": 80
-      }
-    },
-    {
-      "id": "tt7042146",
-      "type": "series",
-      "name": "Carmen Sandiego",
-      "poster": "https://image.tmdb.org/t/p/w500/jpis9X6awQ1X5MBm9eHRUc0N0pu.jpg",
-      "releaseInfo": "2019",
-      "description": "Stylish globe-hopping heists combine high-tech martial arts action with fascinating cultural facts.",
-      "background": "https://image.tmdb.org/t/p/original/rpouileCT7DFfMbJoWQfOST1O8U.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
-      "ratings": {
-        "imdb": 7.9,
-        "metacriticuser": 8.4,
-        "trakt": 78,
-        "popcorn": 95,
-        "tmdb": 79,
-        "mdblist": 82
       }
     },
     {
@@ -337,7 +359,7 @@
       "name": "Kipo and the Age of Wonderbeasts",
       "poster": "https://image.tmdb.org/t/p/w500/4yPluNRnnaO68VOhwDTA46wDXVN.jpg",
       "releaseInfo": "2020",
-      "description": "Vibrant post-apocalyptic exploration filled with giant talking animals and upbeat musical energy.",
+      "description": "Vibrant post-apocalyptic world filled with giant friendly creatures.",
       "background": "https://image.tmdb.org/t/p/original/uaCBOSZnFSJtOLWSvxA2NVreGv1.jpg",
       "imdbRating": "8.3",
       "rating": 8.3,
@@ -352,12 +374,123 @@
       }
     },
     {
+      "id": "tt1734135",
+      "type": "series",
+      "name": "Trollhunters: Tales of Arcadia",
+      "poster": "https://image.tmdb.org/t/p/w500/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+      "releaseInfo": "2016",
+      "description": "Secret subterranean worlds, magical armor, and heroic mythical quests.",
+      "background": "https://image.tmdb.org/t/p/original/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4,
+        "metacritic": 69,
+        "trakt": 79,
+        "popcorn": 96,
+        "tmdb": 84,
+        "mdblist": 82
+      }
+    },
+    {
+      "id": "tt1695360",
+      "type": "series",
+      "name": "The Legend of Korra",
+      "poster": "https://image.tmdb.org/t/p/w500/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+      "releaseInfo": "2012",
+      "description": "Spectacular elemental action and deep storylines in a steampunk world.",
+      "background": "https://image.tmdb.org/t/p/original/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3,
+        "trakt": 81,
+        "tomatoes": 88,
+        "popcorn": 78,
+        "tmdb": 82,
+        "mdblist": 82
+      }
+    },
+    {
+      "id": "tt8050740",
+      "type": "series",
+      "name": "Amphibia",
+      "poster": "https://image.tmdb.org/t/p/w500/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg",
+      "releaseInfo": "2019",
+      "description": "Lively frog world adventures packed with wild comedy and emotion.",
+      "background": "https://image.tmdb.org/t/p/original/jSTglzkXYPMOI6sNdXGqGM02AP2.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3,
+        "trakt": 84,
+        "popcorn": 88,
+        "tmdb": 86,
+        "mdblist": 85
+      }
+    },
+    {
+      "id": "tt7042146",
+      "type": "series",
+      "name": "Carmen Sandiego",
+      "poster": "https://image.tmdb.org/t/p/w500/jpis9X6awQ1X5MBm9eHRUc0N0pu.jpg",
+      "releaseInfo": "2019",
+      "description": "Stylish globetrotting capers teaching history and geography with cool stunts.",
+      "background": "https://image.tmdb.org/t/p/original/rpouileCT7DFfMbJoWQfOST1O8U.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9,
+        "metacriticuser": 8.4,
+        "trakt": 78,
+        "popcorn": 95,
+        "tmdb": 79,
+        "mdblist": 82
+      }
+    },
+    {
+      "id": "tt5515212",
+      "type": "series",
+      "name": "Big Hero 6",
+      "poster": "https://image.tmdb.org/t/p/w500/ldG4xXImCPyv5U5gbRmlB8On842.jpg",
+      "releaseInfo": "2017",
+      "description": "Tech-powered superhero team saves their city with science and heart.",
+      "background": "https://image.tmdb.org/t/p/original/mCt3coepPkF6QlDQSO9tqI46yIV.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2,
+        "trakt": 70,
+        "popcorn": 69,
+        "tmdb": 75,
+        "mdblist": 60
+      }
+    },
+    {
+      "id": "tt12695540",
+      "type": "series",
+      "name": "Tangled",
+      "poster": "https://image.tmdb.org/t/p/w500/7LSqlgaxzKKG1bprvfxjxWKzqI2.jpg",
+      "releaseInfo": "2017",
+      "description": "Enchanting fairy-tale adventures with great songs and heroic fun.",
+      "background": "https://image.tmdb.org/t/p/w500/7LSqlgaxzKKG1bprvfxjxWKzqI2.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5,
+        "trakt": 80,
+        "popcorn": 83,
+        "tmdb": 20,
+        "mdblist": 0
+      }
+    },
+    {
       "id": "tt1545214",
       "type": "series",
       "name": "Kung Fu Panda: Legends of Awesomeness",
       "poster": "https://image.tmdb.org/t/p/w500/rkq5Jt7boR5v65bDbELHz3DW7sv.jpg",
       "releaseInfo": "2011",
-      "description": "Po brings slapstick laughs and martial arts mastery alongside the Furious Five.",
+      "description": "Po's clumsy humor and dazzling martial arts defend the Valley.",
       "background": "https://image.tmdb.org/t/p/original/abmwQvkZh6yufaodYwnOV15EST0.jpg",
       "imdbRating": "7.0",
       "rating": 7.0,
@@ -375,7 +508,7 @@
       "name": "Kung Fu Panda: The Dragon Knight",
       "poster": "https://image.tmdb.org/t/p/w500/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg",
       "releaseInfo": "2022",
-      "description": "Po teams up with an English knight bear on a hilarious quest.",
+      "description": "Po travels the world hunting ancient weapons with comedy and thrills.",
       "background": "https://image.tmdb.org/t/p/original/j7FL6KfjEjrGSXt6peQw7U3VL0R.jpg",
       "imdbRating": "6.1",
       "rating": 6.1,
@@ -388,79 +521,99 @@
       }
     },
     {
-      "id": "tt4816058",
+      "id": "tt1877889",
       "type": "series",
-      "name": "Dragons: Race to the Edge",
-      "poster": "https://image.tmdb.org/t/p/w500/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
-      "releaseInfo": "2015",
-      "description": "High-flying dragon training and ancient secrets expand the beloved fantasy Viking world.",
-      "background": "https://image.tmdb.org/t/p/original/vyhmiHVWUvmH6jrfvtPdcwYc2I8.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
+      "name": "Teenage Mutant Ninja Turtles",
+      "poster": "https://image.tmdb.org/t/p/w500/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+      "releaseInfo": "2012",
+      "description": "Fun brotherly banter and ninja martial arts in New York City.",
+      "background": "https://image.tmdb.org/t/p/original/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9,
       "ratings": {
-        "imdb": 8.2,
-        "trakt": 77,
-        "popcorn": 90,
-        "tmdb": 83,
-        "mdblist": 83
-      }
-    },
-    {
-      "id": "tt1734135",
-      "type": "series",
-      "name": "Trollhunters: Tales of Arcadia",
-      "poster": "https://image.tmdb.org/t/p/w500/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
-      "releaseInfo": "2016",
-      "description": "Guillermo del Toro's epic underground troll realm delivers cinematic swords and monster battles.",
-      "background": "https://image.tmdb.org/t/p/original/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
-      "ratings": {
-        "imdb": 8.4,
-        "metacritic": 69,
-        "trakt": 79,
-        "popcorn": 96,
-        "tmdb": 84,
-        "mdblist": 82
-      }
-    },
-    {
-      "id": "tt5626028",
-      "type": "series",
-      "name": "My Hero Academia",
-      "poster": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
-      "releaseInfo": "2016",
-      "description": "Inspiring superhero school training delivers intense battles and heartwarming lessons about courage.",
-      "background": "https://image.tmdb.org/t/p/original/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
-      "ratings": {
-        "imdb": 8.2,
-        "trakt": 81,
-        "tomatoes": 100,
-        "popcorn": 88,
-        "tmdb": 86,
-        "myanimelist": 7.8,
-        "mdblist": 85
-      }
-    },
-    {
-      "id": "tt3124992",
-      "type": "series",
-      "name": "Sailor Moon Crystal",
-      "poster": "https://image.tmdb.org/t/p/w500/mVXlsNJw4fxD2UWNzaUh2TFfI5c.jpg",
-      "releaseInfo": "2014",
-      "description": "Magical girl transformations and loyal cosmic friendships fight against wicked shadow forces.",
-      "background": "https://image.tmdb.org/t/p/original/ECOqfXXo4gfeqwOr3y2uJ5Up6g.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
-      "ratings": {
-        "imdb": 7.7,
-        "trakt": 75,
+        "imdb": 7.9,
+        "metacriticuser": 8.3,
+        "trakt": 76,
         "popcorn": 87,
+        "tmdb": 83,
+        "mdblist": 81
+      }
+    },
+    {
+      "id": "tt6601082",
+      "type": "series",
+      "name": "Rise of the Teenage Mutant Ninja Turtles",
+      "poster": "https://image.tmdb.org/t/p/w500/4LZxcn6nWG1yWBKG0RD98HY13b4.jpg",
+      "releaseInfo": "2018",
+      "description": "Fast-paced, colorful animation with mystical weapons and hilarious humor.",
+      "background": "https://image.tmdb.org/t/p/original/tyMkJH0YvK6uBydUbN1nkW4Ad3f.jpg",
+      "imdbRating": "6.0",
+      "rating": 6.0,
+      "ratings": {
+        "imdb": 6.0,
+        "trakt": 72,
+        "popcorn": 86,
+        "tmdb": 76,
+        "mdblist": 64
+      }
+    },
+    {
+      "id": "tt12708542",
+      "type": "series",
+      "name": "Star Wars: The Bad Batch",
+      "poster": "https://image.tmdb.org/t/p/w500/5mHus672nuinyaE0FtqvD0AddcY.jpg",
+      "releaseInfo": "2021",
+      "description": "Elite clone troopers navigate exciting galactic mercenary missions together.",
+      "background": "https://image.tmdb.org/t/p/original/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8,
+        "metacritic": 68,
+        "metacriticuser": 7.2,
+        "trakt": 77,
+        "tomatoes": 88,
+        "popcorn": 84,
         "tmdb": 81,
-        "myanimelist": 7.1,
-        "mdblist": 78
+        "mdblist": 79
+      }
+    },
+    {
+      "id": "tt1724587",
+      "type": "series",
+      "name": "Green Lantern: The Animated Series",
+      "poster": "https://image.tmdb.org/t/p/w500/xNrJgBSjVLFaQcxkFbkWtjIuq01.jpg",
+      "releaseInfo": "2011",
+      "description": "High-flying intergalactic space corps action with glowing energy rings.",
+      "background": "https://image.tmdb.org/t/p/original/wajrzbvqaKbAnK4MXbPh3FsrbY5.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0,
+        "trakt": 77,
+        "tomatoes": 100,
+        "popcorn": 96,
+        "tmdb": 78,
+        "mdblist": 86
+      }
+    },
+    {
+      "id": "tt0837143",
+      "type": "series",
+      "name": "Iron Man: Armored Adventures",
+      "poster": "https://image.tmdb.org/t/p/w500/kIJGgBwh37V2nfgnJFaN7zDIjdv.jpg",
+      "releaseInfo": "2009",
+      "description": "Teen Tony Stark battles villains using high-tech armored suits.",
+      "background": "https://image.tmdb.org/t/p/original/geoJ7FkV4NXAhZ7pYNCOWGYEBLV.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5,
+        "trakt": 70,
+        "tomatoes": 60,
+        "popcorn": 66,
+        "tmdb": 73,
+        "mdblist": 64
       }
     },
     {
@@ -469,7 +622,7 @@
       "name": "Wolverine and the X-Men",
       "poster": "https://image.tmdb.org/t/p/w500/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
       "releaseInfo": "2009",
-      "description": "Action-packed mutant hero missions led by Wolverine to protect humanity and save tomorrow.",
+      "description": "Wolverine leads the mutant team to save a chaotic future.",
       "background": "https://image.tmdb.org/t/p/original/ix5tWGa7m7qGmXOmEBJgqv91T6F.jpg",
       "imdbRating": "8.0",
       "rating": 8.0,
@@ -484,207 +637,39 @@
       }
     },
     {
-      "id": "tt1626038",
+      "id": "tt1722512",
       "type": "series",
-      "name": "Avengers: Earth's Mightiest Heroes",
-      "poster": "https://image.tmdb.org/t/p/w500/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg",
-      "releaseInfo": "2010",
-      "description": "Classic comic book storylines brought to life with thrilling superhero team synergy.",
-      "background": "https://image.tmdb.org/t/p/original/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
-      "imdbRating": "8.3",
-      "rating": 8.3,
-      "ratings": {
-        "imdb": 8.3,
-        "metacriticuser": 8.3,
-        "trakt": 78,
-        "tomatoes": 100,
-        "popcorn": 97,
-        "tmdb": 82,
-        "mdblist": 88
-      }
-    },
-    {
-      "id": "tt0837143",
-      "type": "series",
-      "name": "Iron Man: Armored Adventures",
-      "poster": "https://image.tmdb.org/t/p/w500/kIJGgBwh37V2nfgnJFaN7zDIjdv.jpg",
-      "releaseInfo": "2009",
-      "description": "Teen Tony Stark battles villains using awesome customizable high-tech robotic armor suits.",
-      "background": "https://image.tmdb.org/t/p/original/geoJ7FkV4NXAhZ7pYNCOWGYEBLV.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
-      "ratings": {
-        "imdb": 6.5,
-        "trakt": 70,
-        "tomatoes": 60,
-        "popcorn": 66,
-        "tmdb": 73,
-        "mdblist": 64
-      }
-    },
-    {
-      "id": "tt1724587",
-      "type": "series",
-      "name": "Green Lantern: The Animated Series",
-      "poster": "https://image.tmdb.org/t/p/w500/xNrJgBSjVLFaQcxkFbkWtjIuq01.jpg",
-      "releaseInfo": "2011",
-      "description": "Stunning space battles showcasing heroic willpower rings against fiery cosmic red lanterns.",
-      "background": "https://image.tmdb.org/t/p/original/wajrzbvqaKbAnK4MXbPh3FsrbY5.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
-      "ratings": {
-        "imdb": 8.0,
-        "trakt": 77,
-        "tomatoes": 100,
-        "popcorn": 96,
-        "tmdb": 78,
-        "mdblist": 86
-      }
-    },
-    {
-      "id": "tt0398417",
-      "type": "series",
-      "name": "The Batman",
-      "poster": "https://image.tmdb.org/t/p/w500/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
-      "releaseInfo": "2004",
-      "description": "Acrobatic martial arts action and bold villain designs revamp the Dark Knight.",
-      "background": "https://image.tmdb.org/t/p/original/k5r2N22yTSIlLZBraf9792MK1gN.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
-      "ratings": {
-        "imdb": 7.4,
-        "metacriticuser": 8.2,
-        "trakt": 76,
-        "popcorn": 92,
-        "tmdb": 80,
-        "mdblist": 80
-      }
-    },
-    {
-      "id": "tt0115157",
-      "type": "series",
-      "name": "Dexter's Laboratory",
-      "poster": "https://image.tmdb.org/t/p/w500/inJJn8lUPWdvdy2h259UnoHWVqC.jpg",
-      "releaseInfo": "1996",
-      "description": "Secret scientific inventions constantly clashing with annoying sibling antics guarantee big laughs.",
-      "background": "https://image.tmdb.org/t/p/original/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
-      "ratings": {
-        "imdb": 7.8,
-        "metacriticuser": 8.2,
-        "trakt": 76,
-        "popcorn": 86,
-        "tmdb": 77,
-        "mdblist": 79
-      }
-    },
-    {
-      "id": "tt0235918",
-      "type": "series",
-      "name": "The Fairly OddParents",
-      "poster": "https://image.tmdb.org/t/p/w500/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
-      "releaseInfo": "2001",
-      "description": "Outrageous fairy wishes going wildly wrong create nonstop slapstick comedic chaos.",
-      "background": "https://image.tmdb.org/t/p/original/jlruzecsif3tkCSoHlUaPR01O7U.jpg",
+      "name": "Ultimate Spider-Man",
+      "poster": "https://image.tmdb.org/t/p/w500/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg",
+      "releaseInfo": "2012",
+      "description": "Fourth-wall breaking jokes and S.H.I.E.L.D. superhero training for Spidey.",
+      "background": "https://image.tmdb.org/t/p/original/gXeCzYmCRBlpbbhhKrYM1ZpIDAA.jpg",
       "imdbRating": "7.2",
       "rating": 7.2,
       "ratings": {
         "imdb": 7.2,
-        "trakt": 72,
-        "popcorn": 78,
-        "tmdb": 76,
-        "mdblist": 74
-      }
-    },
-    {
-      "id": "tt0206512",
-      "type": "series",
-      "name": "SpongeBob SquarePants",
-      "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-      "releaseInfo": "1999",
-      "description": "Absurd underwater humor and infectious optimism delight kids across generations endlessly.",
-      "background": "https://image.tmdb.org/t/p/original/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
-      "ratings": {
-        "imdb": 8.2,
-        "metacriticuser": 7.6,
-        "trakt": 76,
-        "popcorn": 78,
-        "tmdb": 77,
-        "mdblist": 78
-      }
-    },
-    {
-      "id": "tt4859164",
-      "type": "series",
-      "name": "The Loud House",
-      "poster": "https://image.tmdb.org/t/p/w500/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
-      "releaseInfo": "2016",
-      "description": "Surviving life in an enormous family of sisters brings relatable, chaotic fun.",
-      "background": "https://image.tmdb.org/t/p/original/jQmYRTt29hTNFGdNdwFVazOrDpO.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
-      "ratings": {
-        "imdb": 6.9,
-        "trakt": 67,
-        "popcorn": 70,
-        "mdblist": 68
-      }
-    },
-    {
-      "id": "tt7165904",
-      "type": "series",
-      "name": "Big City Greens",
-      "poster": "https://image.tmdb.org/t/p/w500/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg",
-      "releaseInfo": "2018",
-      "description": "Country bumpkins moving to a bustling metropolis triggers hilarious, heartwarming culture clashes.",
-      "background": "https://image.tmdb.org/t/p/original/vVGmv5mle6lCrgnx8lNv5Q1vZPw.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
         "trakt": 73,
-        "popcorn": 67,
-        "tmdb": 75,
-        "mdblist": 64
+        "popcorn": 71,
+        "tmdb": 76,
+        "mdblist": 73
       }
     },
     {
-      "id": "tt7713450",
+      "id": "tt2580046",
       "type": "series",
-      "name": "Craig of the Creek",
-      "poster": "https://image.tmdb.org/t/p/w500/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
-      "releaseInfo": "2018",
-      "description": "Imaginative outdoor backyard neighborhood adventures celebrate the genuine magic of childhood play.",
-      "background": "https://image.tmdb.org/t/p/original/c1CBVe8UzltKScrjnM3aBFd8SA1.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "trakt": 74,
-        "popcorn": 66,
-        "tmdb": 81,
-        "mdblist": 67
-      }
-    },
-    {
-      "id": "tt4839610",
-      "type": "series",
-      "name": "We Bare Bears",
-      "poster": "https://image.tmdb.org/t/p/w500/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+      "name": "Miraculous: Tales of Ladybug & Cat Noir",
+      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
       "releaseInfo": "2015",
-      "description": "Three lovable brother bears trying to fit into human society produce sweet laughs.",
-      "background": "https://image.tmdb.org/t/p/original/cl5FVcBEgddaC7dUL8HDMH6m2tp.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
+      "description": "Superheroes save Paris from villains using magical charms and teamwork.",
+      "background": "https://image.tmdb.org/t/p/original/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
       "ratings": {
-        "imdb": 7.8,
-        "trakt": 76,
-        "popcorn": 86,
-        "tmdb": 77,
-        "mdblist": 79
+        "imdb": 7.5,
+        "trakt": 77,
+        "popcorn": 82,
+        "tmdb": 80,
+        "mdblist": 78
       }
     },
     {
@@ -693,7 +678,7 @@
       "name": "Adventure Time",
       "poster": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
       "releaseInfo": "2010",
-      "description": "Finn and Jake explore the bizarre Land of Ooo with whimsical fun.",
+      "description": "Wildly imaginative fantasy world filled with goofy quests and magic.",
       "background": "https://image.tmdb.org/t/p/original/d8rse1RgMzXwmZvBpDvcG1VUO2Y.jpg",
       "imdbRating": "8.7",
       "rating": 8.7,
@@ -713,7 +698,7 @@
       "name": "The Amazing World of Gumball",
       "poster": "https://image.tmdb.org/t/p/w500/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
       "releaseInfo": "2011",
-      "description": "Combines mixed-media visual styles with lightning-fast, clever satire that kids adore.",
+      "description": "Ultra-creative visual styles combined with wildly funny family chaos.",
       "background": "https://image.tmdb.org/t/p/original/gmO3aezFgDcrhcymhNSJLGZ3CT.jpg",
       "imdbRating": "8.4",
       "rating": 8.4,
@@ -726,119 +711,112 @@
       }
     },
     {
-      "id": "tt12708542",
+      "id": "tt7713450",
       "type": "series",
-      "name": "Star Wars: The Bad Batch",
-      "poster": "https://image.tmdb.org/t/p/w500/5mHus672nuinyaE0FtqvD0AddcY.jpg",
-      "releaseInfo": "2021",
-      "description": "Elite clone troopers with unique tactical skills protect an adopted child on missions.",
-      "background": "https://image.tmdb.org/t/p/original/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+      "name": "Craig of the Creek",
+      "poster": "https://image.tmdb.org/t/p/w500/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
+      "releaseInfo": "2018",
+      "description": "Imaginative outdoor neighborhood games turning a creek into pure wonder.",
+      "background": "https://image.tmdb.org/t/p/original/c1CBVe8UzltKScrjnM3aBFd8SA1.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "trakt": 74,
+        "popcorn": 66,
+        "tmdb": 81,
+        "mdblist": 67
+      }
+    },
+    {
+      "id": "tt4839610",
+      "type": "series",
+      "name": "We Bare Bears",
+      "poster": "https://image.tmdb.org/t/p/w500/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+      "releaseInfo": "2015",
+      "description": "Three adorable bear brothers try hilariously to fit into modern society.",
+      "background": "https://image.tmdb.org/t/p/original/cl5FVcBEgddaC7dUL8HDMH6m2tp.jpg",
       "imdbRating": "7.8",
       "rating": 7.8,
       "ratings": {
         "imdb": 7.8,
-        "metacritic": 68,
-        "metacriticuser": 7.2,
-        "trakt": 77,
-        "tomatoes": 88,
-        "popcorn": 84,
-        "tmdb": 81,
+        "trakt": 76,
+        "popcorn": 86,
+        "tmdb": 77,
         "mdblist": 79
       }
     },
     {
-      "id": "tt2580046",
+      "id": "tt0206512",
       "type": "series",
-      "name": "Miraculous: Tales of Ladybug & Cat Noir",
-      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-      "releaseInfo": "2015",
-      "description": "Parisian teen heroes fight akumatized villains with acrobatic yo-yos and cat-like agility.",
-      "background": "https://image.tmdb.org/t/p/original/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
+      "name": "SpongeBob SquarePants",
+      "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "releaseInfo": "1999",
+      "description": "Endlessly quotable underwater comedy that entertains kids and parents alike.",
+      "background": "https://image.tmdb.org/t/p/original/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2,
       "ratings": {
-        "imdb": 7.5,
-        "trakt": 77,
-        "popcorn": 82,
-        "tmdb": 81,
+        "imdb": 8.2,
+        "metacriticuser": 7.6,
+        "trakt": 76,
+        "popcorn": 78,
+        "tmdb": 77,
         "mdblist": 78
       }
     },
     {
-      "id": "tt28521741",
+      "id": "tt0235918",
       "type": "series",
-      "name": "Tales of the Teenage Mutant Ninja Turtles",
-      "poster": "https://image.tmdb.org/t/p/w500/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg",
-      "releaseInfo": "2024",
-      "description": "Street-skating mutant brothers use martial arts to protect New York from mutant threats.",
-      "background": "https://image.tmdb.org/t/p/original/bTiPmPW4ZVmyFJNsxVK1UK3R96H.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
-      "ratings": {
-        "imdb": 6.9,
-        "metacritic": 80,
-        "metacriticuser": 4.6,
-        "trakt": 69,
-        "tomatoes": 100,
-        "popcorn": 69,
-        "tmdb": 78,
-        "mdblist": 64
-      }
-    },
-    {
-      "id": "tt1877889",
-      "type": "series",
-      "name": "Teenage Mutant Ninja Turtles",
-      "poster": "https://image.tmdb.org/t/p/w500/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-      "releaseInfo": "2012",
-      "description": "Dynamic ninja weapon combat meets hilarious pizza-eating brotherhood against Shredder and Kraang.",
-      "background": "https://image.tmdb.org/t/p/original/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
-      "ratings": {
-        "imdb": 7.9,
-        "metacriticuser": 8.3,
-        "trakt": 76,
-        "popcorn": 87,
-        "tmdb": 83,
-        "mdblist": 81
-      }
-    },
-    {
-      "id": "tt6601082",
-      "type": "series",
-      "name": "Rise of the Teenage Mutant Ninja Turtles",
-      "poster": "https://image.tmdb.org/t/p/w500/4LZxcn6nWG1yWBKG0RD98HY13b4.jpg",
-      "releaseInfo": "2018",
-      "description": "Hyper-kinetic animation and mystical weapons give turtle brothers wildly colorful fighting abilities.",
-      "background": "https://image.tmdb.org/t/p/original/tyMkJH0YvK6uBydUbN1nkW4Ad3f.jpg",
-      "imdbRating": "6.0",
-      "rating": 6.0,
-      "ratings": {
-        "imdb": 6.0,
-        "trakt": 72,
-        "popcorn": 86,
-        "tmdb": 76,
-        "mdblist": 64
-      }
-    },
-    {
-      "id": "tt0278238",
-      "type": "series",
-      "name": "Samurai Jack",
-      "poster": "https://image.tmdb.org/t/p/w500/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
+      "name": "The Fairly OddParents",
+      "poster": "https://image.tmdb.org/t/p/w500/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
       "releaseInfo": "2001",
-      "description": "Cinematic swordplay and breathtaking visual storytelling follow a noble time-displaced warrior.",
-      "background": "https://image.tmdb.org/t/p/original/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "description": "Wacky wishes gone wrong create chaotic and hilarious slapstick fun.",
+      "background": "https://image.tmdb.org/t/p/original/pDT10nmEBz9RYCV0chJLniLfT5D.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2,
       "ratings": {
-        "imdb": 8.5,
-        "metacritic": 93,
-        "metacriticuser": 8.8,
-        "trakt": 83,
-        "tomatoes": 93,
-        "popcorn": 95,
+        "imdb": 7.2,
+        "trakt": 72,
+        "popcorn": 78,
+        "tmdb": 76,
+        "mdblist": 74
+      }
+    },
+    {
+      "id": "tt0320808",
+      "type": "series",
+      "name": "Jimmy Neutron: Boy Genius",
+      "poster": "https://image.tmdb.org/t/p/w500/iSPhSejcTf0uLNtltk7Thx8w75Z.jpg",
+      "releaseInfo": "2002",
+      "description": "Crazy scientific gizmos and humorous adventures with lovable alien friends.",
+      "background": "https://image.tmdb.org/t/p/original/yvi2WGSFbFK0PKL8WsXpTSgryc8.jpg",
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7,
+        "metacriticuser": 7.1,
+        "trakt": 70,
+        "popcorn": 93,
+        "tmdb": 74,
+        "mdblist": 75
+      }
+    },
+    {
+      "id": "tt0235923",
+      "type": "series",
+      "name": "Invader Zim",
+      "poster": "https://image.tmdb.org/t/p/w500/7ARG0kS9LD4Xp8eYJoHpbXcRiZp.jpg",
+      "releaseInfo": "2001",
+      "description": "Hilariously inept alien tries conquer Earth with dark slapstick humor.",
+      "background": "https://image.tmdb.org/t/p/original/eCefaxvMxisEJHahp8Az2eBpwud.jpg",
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4,
+        "trakt": 81,
+        "tomatoes": 100,
+        "popcorn": 92,
         "tmdb": 84,
         "mdblist": 88
       }
@@ -849,7 +827,7 @@
       "name": "Foster's Home for Imaginary Friends",
       "poster": "https://image.tmdb.org/t/p/w500/aerZJVODYwji4BnyWrHFmF3JxhX.jpg",
       "releaseInfo": "2004",
-      "description": "Creative imaginary creatures living together spark pure visual comedy and heartfelt friendship.",
+      "description": "Colorful, lovable creatures live together in a mansion of fun.",
       "background": "https://image.tmdb.org/t/p/original/r6NeRD3diZI7dWEFrRhrwYWoxyB.jpg",
       "imdbRating": "7.5",
       "rating": 7.5,
@@ -868,7 +846,7 @@
       "name": "Codename: Kids Next Door",
       "poster": "https://image.tmdb.org/t/p/w500/9oTedS82oVnrjHp3BHIpHefuBCG.jpg",
       "releaseInfo": "2002",
-      "description": "High-tech treehouses and backyard gadget espionage against tyrannical adult household rules.",
+      "description": "Secret treehouse spy network fighting against adult rules with gadgets.",
       "background": "https://image.tmdb.org/t/p/original/h7rHu5pt9Wzkb7vLGKrA5XD63ge.jpg",
       "imdbRating": "7.2",
       "rating": 7.2,
@@ -882,157 +860,77 @@
       }
     },
     {
-      "id": "tt1636691",
+      "id": "tt1140100",
       "type": "series",
-      "name": "Generator Rex",
-      "poster": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
-      "releaseInfo": "2010",
-      "description": "Transforming biomechanical limbs make stopping mutated nanite monsters wonderfully action-packed and cool.",
-      "background": "https://image.tmdb.org/t/p/original/jXiKtz7PPWOI4zKl5CdtrKyLUh8.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
-      "ratings": {
-        "imdb": 7.7,
-        "metacriticuser": 7.6,
-        "trakt": 78,
-        "popcorn": 65,
-        "tmdb": 85,
-        "mdblist": 76
-      }
-    },
-    {
-      "id": "tt14681924",
-      "type": "series",
-      "name": "My Adventures with Superman",
-      "poster": "https://image.tmdb.org/t/p/w500/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
-      "releaseInfo": "2023",
-      "description": "Charming anime-inspired art brings fresh romance, optimism, and heroic Metropolis battles.",
-      "background": "https://image.tmdb.org/t/p/original/oqjqeOsF2D0APsiHdoE2VI88fbd.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "metacritic": 80,
-        "metacriticuser": 6.0,
-        "trakt": 78,
-        "tomatoes": 100,
-        "popcorn": 80,
-        "tmdb": 81,
-        "mdblist": 82
-      }
-    },
-    {
-      "id": "tt8041658",
-      "type": "series",
-      "name": "Moon Girl and Devil Dinosaur",
-      "poster": "https://image.tmdb.org/t/p/w500/1oFkjiF9fT2asKWjRiJtlbhu3hn.jpg",
-      "releaseInfo": "2023",
-      "description": "Super-genius kid inventor and a roller-skating T-Rex protect the Lower East Side.",
-      "background": "https://image.tmdb.org/t/p/original/ieZ9AdB3yJF9jZSVO39zZ9d4D1y.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
-      "ratings": {
-        "imdb": 7.4,
-        "metacriticuser": 4.5,
-        "trakt": 73,
-        "tomatoes": 100,
-        "popcorn": 93,
-        "tmdb": 74,
-        "mdblist": 70
-      }
-    },
-    {
-      "id": "tt5459566",
-      "type": "series",
-      "name": "LEGO Star Wars: The Freemaker Adventures",
-      "poster": "https://image.tmdb.org/t/p/w500/wmY6axhpMkZJhLY4agymOlZ2xHx.jpg",
-      "releaseInfo": "2016",
-      "description": "Lighthearted scavengers build wild galactic starships while dodging silly Imperial stormtroopers.",
-      "background": "https://image.tmdb.org/t/p/original/ruia2cz93lpAZ55ri3Jk1ZPUZVS.jpg",
+      "name": "Chowder",
+      "poster": "https://image.tmdb.org/t/p/w500/4H5diUE5bKp9dxcisJ3wbZzvAg7.jpg",
+      "releaseInfo": "2007",
+      "description": "Silly culinary mishaps and fourth-wall breaking surreal cartoon humor.",
+      "background": "https://image.tmdb.org/t/p/original/zzaV28kJHg87Gw0aWHmYy5qjnXC.jpg",
       "imdbRating": "7.3",
       "rating": 7.3,
       "ratings": {
         "imdb": 7.3,
-        "trakt": 68,
-        "popcorn": 81,
-        "tmdb": 69,
-        "mdblist": 50
+        "metacriticuser": 7.7,
+        "trakt": 71,
+        "popcorn": 93,
+        "tmdb": 82,
+        "mdblist": 79
       }
     },
     {
-      "id": "tt12415378",
+      "id": "tt0292800",
       "type": "series",
-      "name": "LEGO Monkie Kid",
-      "poster": "https://image.tmdb.org/t/p/w500/mwkdJncS60B1QMjK2BdyDG4Bs8L.jpg",
-      "releaseInfo": "2020",
-      "description": "Dazzling anime-tier martial arts animation based on Chinese mythical Monkey King legends.",
-      "background": "https://image.tmdb.org/t/p/original/xN9waTugj6Kn9sTrFw2buEUyply.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
-      "ratings": {
-        "imdb": 7.5,
-        "trakt": 75,
-        "popcorn": 98,
-        "tmdb": 86,
-        "mdblist": 55
-      }
-    },
-    {
-      "id": "tt13961348",
-      "type": "series",
-      "name": "Sonic Prime",
-      "poster": "https://image.tmdb.org/t/p/w500/iEBJOgEOz0y8M7pUNGsOiRtZh5v.jpg",
-      "releaseInfo": "2022",
-      "description": "Speeding blue hedgehog races across the Shatterverse to restore his broken world.",
-      "background": "https://image.tmdb.org/t/p/original/pYiIcenKt7L2cMrhn67xAxCGgzR.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
-      "ratings": {
-        "imdb": 7.2,
-        "metacriticuser": 8.1,
-        "trakt": 72,
-        "popcorn": 81,
-        "tmdb": 83,
-        "mdblist": 77
-      }
-    },
-    {
-      "id": "tt10611608",
-      "type": "series",
-      "name": "The Cuphead Show!",
-      "poster": "https://image.tmdb.org/t/p/w500/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
-      "releaseInfo": "2022",
-      "description": "Zany 1930s-style slapstick cartooning creates wild, energetic misadventures on Inkwell Isle.",
-      "background": "https://image.tmdb.org/t/p/original/hdA9Tz16tfwfW1k7x66APoLrkdk.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
-      "ratings": {
-        "imdb": 7.4,
-        "metacritic": 69,
-        "trakt": 73,
-        "popcorn": 87,
-        "tmdb": 79,
-        "mdblist": 76
-      }
-    },
-    {
-      "id": "tt10919290",
-      "type": "series",
-      "name": "Centaurworld",
-      "poster": "https://image.tmdb.org/t/p/w500/2klp8BwNDbmV5pfBSWhNjr1MktC.jpg",
-      "releaseInfo": "2021",
-      "description": "Serious warhorse enters a bizarre, colorful musical land of magical hybrid creatures.",
-      "background": "https://image.tmdb.org/t/p/original/oDOGL42BM7bbUcroJcYp9xsw07v.jpg",
+      "name": "The Grim Adventures of Billy & Mandy",
+      "poster": "https://image.tmdb.org/t/p/w500/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
+      "releaseInfo": "2003",
+      "description": "Spooky supernatural comedy with the ultimate unlikely best friend duo.",
+      "background": "https://image.tmdb.org/t/p/original/7aWytAE9Gcf6UZXcS6ejJEdEhEb.jpg",
       "imdbRating": "7.6",
       "rating": 7.6,
       "ratings": {
         "imdb": 7.6,
-        "metacriticuser": 7.9,
-        "trakt": 74,
-        "tomatoes": 100,
-        "popcorn": 61,
-        "tmdb": 74,
-        "mdblist": 73
+        "metacriticuser": 8.4,
+        "trakt": 76,
+        "popcorn": 73,
+        "tmdb": 80,
+        "mdblist": 76
+      }
+    },
+    {
+      "id": "tt0220880",
+      "type": "series",
+      "name": "Courage the Cowardly Dog",
+      "poster": "https://image.tmdb.org/t/p/w500/uJQsBgzlrgZpjeB5fHBtJQA04nS.jpg",
+      "releaseInfo": "1999",
+      "description": "Creepy, funny mysteries where a nervous dog protects his owners.",
+      "background": "https://image.tmdb.org/t/p/original/dugFpakDXxjDjEUloukNqAx3cjK.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3,
+        "trakt": 79,
+        "popcorn": 89,
+        "tmdb": 82,
+        "mdblist": 83
+      }
+    },
+    {
+      "id": "tt1751105",
+      "type": "series",
+      "name": "My Little Pony: Friendship Is Magic",
+      "poster": "https://image.tmdb.org/t/p/w500/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+      "releaseInfo": "2010",
+      "description": "Charming magical adventures emphasizing kindness, loyalty, and problem solving.",
+      "background": "https://image.tmdb.org/t/p/original/gOyIKp7adMCzFrYjc5rxmt2PNhi.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8,
+        "trakt": 73,
+        "popcorn": 78,
+        "tmdb": 81,
+        "mdblist": 77
       }
     },
     {
@@ -1041,7 +939,7 @@
       "name": "Hilda",
       "poster": "https://image.tmdb.org/t/p/w500/giWufGBC7uxrmK9ZESdk9D1cyGm.jpg",
       "releaseInfo": "2018",
-      "description": "Cozy Nordic folklore adventures showcase brave curiosity with friendly forest creatures and giants.",
+      "description": "Cozy, imaginative Scandinavian folklore adventures filled with magical woodland spirits.",
       "background": "https://image.tmdb.org/t/p/original/x5YFTfPDug6eF76vVuDnbaoNVQK.jpg",
       "imdbRating": "8.6",
       "rating": 8.6,
@@ -1059,7 +957,7 @@
       "name": "Over the Garden Wall",
       "poster": "https://image.tmdb.org/t/p/w500/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
       "releaseInfo": "2014",
-      "description": "Enchanting autumnal fairy tale atmosphere offers gentle spooky mystery and poetic musical wonder.",
+      "description": "Enchanting fairy-tale atmosphere with catchy autumnal tunes and gentle mystery.",
       "background": "https://image.tmdb.org/t/p/original/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
       "imdbRating": "8.7",
       "rating": 8.7,
@@ -1073,41 +971,230 @@
       }
     },
     {
-      "id": "tt8146754",
+      "id": "tt2758770",
       "type": "series",
-      "name": "Infinity Train",
-      "poster": "https://image.tmdb.org/t/p/w500/wEhc48kGjoWw8qcHu2Lar7NFrgG.jpg",
-      "releaseInfo": "2019",
-      "description": "Intriguing puzzle-filled puzzle train cars help passengers solve clever, emotionally mature mysteries.",
-      "background": "https://image.tmdb.org/t/p/original/xMFRoCMrpEeS5cl7gXpJqC4PhIN.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "name": "Star vs. the Forces of Evil",
+      "poster": "https://image.tmdb.org/t/p/w500/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+      "releaseInfo": "2015",
+      "description": "Energetic magical princess fights monsters while attending Earth high school.",
+      "background": "https://image.tmdb.org/t/p/original/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
       "ratings": {
-        "imdb": 8.4,
-        "metacriticuser": 8.9,
-        "trakt": 83,
-        "tomatoes": 100,
-        "popcorn": 93,
-        "tmdb": 84,
-        "mdblist": 88
+        "imdb": 7.8,
+        "trakt": 79,
+        "popcorn": 80,
+        "tmdb": 83,
+        "mdblist": 80
       }
     },
     {
-      "id": "tt3900614",
+      "id": "tt7697062",
       "type": "series",
-      "name": "Odd Squad",
-      "poster": "https://image.tmdb.org/t/p/w500/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
-      "releaseInfo": "2014",
-      "description": "Kid secret agents use clever math equations to solve absurd, supernatural town problems.",
-      "background": "https://image.tmdb.org/t/p/original/4PehC4usZ8PoChlUP3Y5TI4KaQF.jpg",
+      "name": "Glitch Techs",
+      "poster": "https://image.tmdb.org/t/p/w500/hQMgyyCihjbzgLy7WwtQ3dAvRzm.jpg",
+      "releaseInfo": "2020",
+      "description": "Video game monsters escape into reality for action-packed gamer combat.",
+      "background": "https://image.tmdb.org/t/p/original/rnv1s6xdivTspAoACuIpCYWEwql.jpg",
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7,
+        "trakt": 74,
+        "popcorn": 92,
+        "tmdb": 82,
+        "mdblist": 66
+      }
+    },
+    {
+      "id": "tt9248538",
+      "type": "series",
+      "name": "Kid Cosmic",
+      "poster": "https://image.tmdb.org/t/p/w500/88HdcCMumGqGAt2kR3vVOr8NYiA.jpg",
+      "releaseInfo": "2021",
+      "description": "Oddball team of desert locals discover alien power rings.",
+      "background": "https://image.tmdb.org/t/p/original/3twr9PEWUxb6FHVZ8hzOaBpSh8u.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9,
+        "trakt": 75,
+        "popcorn": 90,
+        "tmdb": 78,
+        "mdblist": 65
+      }
+    },
+    {
+      "id": "tt8610082",
+      "type": "series",
+      "name": "Monsters at Work",
+      "poster": "https://image.tmdb.org/t/p/w500/2gxgwhcuSmI5xtexb0t9zGj43FS.jpg",
+      "releaseInfo": "2021",
+      "description": "Funny monster antics learning laughter pays better than screams.",
+      "background": "https://image.tmdb.org/t/p/original/2O3ZRECju00Jod6LrVB3uRgZMXK.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0,
+        "metacritic": 55,
+        "metacriticuser": 6.9,
+        "trakt": 67,
+        "tomatoes": 65,
+        "popcorn": 77,
+        "tmdb": 71,
+        "mdblist": 67
+      }
+    },
+    {
+      "id": "tt5459566",
+      "type": "series",
+      "name": "Lego Star Wars: The Freemaker Adventures",
+      "poster": "https://image.tmdb.org/t/p/w500/wmY6axhpMkZJhLY4agymOlZ2xHx.jpg",
+      "releaseInfo": "2016",
+      "description": "Lighthearted galaxy salvage missions packed with trademark Lego slapstick humor.",
+      "background": "https://image.tmdb.org/t/p/original/ruia2cz93lpAZ55ri3Jk1ZPUZVS.jpg",
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3,
+        "trakt": 68,
+        "popcorn": 81,
+        "tmdb": 69,
+        "mdblist": 50
+      }
+    },
+    {
+      "id": "tt1871731",
+      "type": "series",
+      "name": "Lego Ninjago: Masters of Spinjitzu",
+      "poster": "https://image.tmdb.org/t/p/w500/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+      "releaseInfo": "2011",
+      "description": "Elemental ninjas defend their world with awesome spinning martial arts.",
+      "background": "https://image.tmdb.org/t/p/original/ptEtIr3rVuAJpmbwaLJJqND6HVq.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9,
+        "trakt": 75,
+        "popcorn": 85,
+        "tmdb": 79,
+        "mdblist": 79
+      }
+    },
+    {
+      "id": "tt4816058",
+      "type": "series",
+      "name": "Dragons: Race to the Edge",
+      "poster": "https://image.tmdb.org/t/p/w500/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
+      "releaseInfo": "2015",
+      "description": "Thrilling dragon-riding exploration expanding the world of Berk.",
+      "background": "https://image.tmdb.org/t/p/original/vyhmiHVWUvmH6jrfvtPdcwYc2I8.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2,
+        "trakt": 77,
+        "popcorn": 90,
+        "tmdb": 83,
+        "mdblist": 83
+      }
+    },
+    {
+      "id": "tt5580664",
+      "type": "series",
+      "name": "Voltron: Legendary Defender",
+      "poster": "https://image.tmdb.org/t/p/w500/yWAGNuPuUWJT9gIQmGdZiTGJWzh.jpg",
+      "releaseInfo": "2016",
+      "description": "Giant robot lion action combining into a cosmic space guardian.",
+      "background": "https://image.tmdb.org/t/p/original/A7zBjRDFh1TXG3Buhi55mmS1qSr.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0,
+        "metacriticuser": 7.9,
+        "trakt": 76,
+        "tomatoes": 95,
+        "popcorn": 78,
+        "tmdb": 73,
+        "mdblist": 80
+      }
+    },
+    {
+      "id": "tt10436228",
+      "type": "series",
+      "name": "Jurassic World: Camp Cretaceous",
+      "poster": "https://image.tmdb.org/t/p/w500/pwte1p4ZySI1qAVSVdSTRKjuIAa.jpg",
+      "releaseInfo": "2020",
+      "description": "Exciting dinosaur chases and survival teamwork on Isla Nublar.",
+      "background": "https://image.tmdb.org/t/p/original/4WIglfr4lDFVjCEcXzCeu6cJsOh.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5,
+        "metacriticuser": 6.8,
+        "trakt": 76,
+        "tomatoes": 92,
+        "popcorn": 76,
+        "tmdb": 80,
+        "mdblist": 79
+      }
+    },
+    {
+      "id": "tt8322592",
+      "type": "series",
+      "name": "Fast & Furious Spy Racers",
+      "poster": "https://image.tmdb.org/t/p/w500/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+      "releaseInfo": "2019",
+      "description": "High-speed espionage and souped-up car racing for young adventurers.",
+      "background": "https://image.tmdb.org/t/p/original/9aWSpBqMrlrr8yaydSEgNJjIruG.jpg",
+      "imdbRating": "5.9",
+      "rating": 5.9,
+      "ratings": {
+        "imdb": 5.9,
+        "trakt": 67,
+        "popcorn": 66,
+        "tmdb": 69,
+        "mdblist": 65
+      }
+    },
+    {
+      "id": "tt9795876",
+      "type": "series",
+      "name": "Star Trek: Prodigy",
+      "poster": "https://image.tmdb.org/t/p/w500/Aqub3PSzLm2F398vitkbkxjopjO.jpg",
+      "releaseInfo": "2021",
+      "description": "Young aliens pilot a starship on thrilling galactic discovery voyages.",
+      "background": "https://image.tmdb.org/t/p/original/nmT2Tgk9TZlYDCciQdQ4HI5rytl.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "metacritic": 68,
+        "metacriticuser": 5.9,
+        "trakt": 77,
+        "tomatoes": 97,
+        "popcorn": 87,
+        "mdblist": 81
+      }
+    },
+    {
+      "id": "tt8041658",
+      "type": "series",
+      "name": "Marvel's Moon Girl and Devil Dinosaur",
+      "poster": "https://image.tmdb.org/t/p/w500/1oFkjiF9fT2asKWjRiJtlbhu3hn.jpg",
+      "releaseInfo": "2023",
+      "description": "Genius girl superhero roller skates through NYC with her giant dinosaur.",
+      "background": "https://image.tmdb.org/t/p/original/ieZ9AdB3yJF9jZSVO39zZ9d4D1y.jpg",
       "imdbRating": "7.4",
       "rating": 7.4,
       "ratings": {
         "imdb": 7.4,
-        "trakt": 68,
-        "popcorn": 78,
-        "tmdb": 67,
-        "mdblist": 49
+        "metacriticuser": 4.5,
+        "trakt": 73,
+        "tomatoes": 100,
+        "popcorn": 93,
+        "tmdb": 74,
+        "mdblist": 70
       }
     },
     {
@@ -1116,7 +1203,7 @@
       "name": "Super Why!",
       "poster": "https://image.tmdb.org/t/p/w500/lJttSVfKx56a2wN2pg2yR4IHzwy.jpg",
       "releaseInfo": "2007",
-      "description": "Literary superheroes jump directly inside classic storybooks to rewrite problems using spelling.",
+      "description": "Storybook superheroes jump into reading books to solve real problems.",
       "background": "https://image.tmdb.org/t/p/original/U9VKLLo9IeQU1aQAOA6s4Na5Pc.jpg",
       "imdbRating": "6.1",
       "rating": 6.1,
@@ -1134,7 +1221,7 @@
       "name": "Sofia the First",
       "poster": "https://image.tmdb.org/t/p/w500/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
       "releaseInfo": "2012",
-      "description": "A village girl becoming royal learns true kindness with special Disney princess cameos.",
+      "description": "Heartwarming royal kingdom lessons about kindness, honesty, and inner grace.",
       "background": "https://image.tmdb.org/t/p/original/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
       "imdbRating": "6.9",
       "rating": 6.9,
@@ -1151,8 +1238,8 @@
       "type": "series",
       "name": "The Lion Guard",
       "poster": "https://image.tmdb.org/t/p/w500/AtDL8ZrOZxW1jakT2R3LcMdLvQD.jpg",
-      "releaseInfo": "2016",
-      "description": "Simba's son leads animal protectors with roaring strength across the Pride Lands.",
+      "releaseInfo": "2015",
+      "description": "Pride Lands animal protectors defend the Circle of Life with roar.",
       "background": "https://image.tmdb.org/t/p/original/4Hpw6RzaIjEotwc7vLv3cgZ9GST.jpg",
       "imdbRating": "6.4",
       "rating": 6.4,
@@ -1165,88 +1252,12 @@
       }
     },
     {
-      "id": "tt12695540",
-      "type": "series",
-      "name": "Tangled",
-      "poster": "https://image.tmdb.org/t/p/w500/7LSqlgaxzKKG1bprvfxjxWKzqI2.jpg",
-      "releaseInfo": "2017",
-      "description": "Rapunzel's magical glowing hair returns for gorgeous kingdom adventures and Broadway-style songs.",
-      "background": "https://image.tmdb.org/t/p/w500/7LSqlgaxzKKG1bprvfxjxWKzqI2.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
-      "ratings": {
-        "imdb": 6.5,
-        "trakt": 80,
-        "popcorn": 83,
-        "tmdb": 20,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt5515212",
-      "type": "series",
-      "name": "Big Hero 6",
-      "poster": "https://image.tmdb.org/t/p/w500/ldG4xXImCPyv5U5gbRmlB8On842.jpg",
-      "releaseInfo": "2017",
-      "description": "Genius high-tech college students and hugs-first robot Baymax defend San Fransokyo together.",
-      "background": "https://image.tmdb.org/t/p/original/mCt3coepPkF6QlDQSO9tqI46yIV.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
-      "ratings": {
-        "imdb": 7.2,
-        "trakt": 70,
-        "popcorn": 69,
-        "tmdb": 75,
-        "mdblist": 60
-      }
-    },
-    {
-      "id": "tt8610082",
-      "type": "series",
-      "name": "Monsters at Work",
-      "poster": "https://image.tmdb.org/t/p/w500/2gxgwhcuSmI5xtexb0t9zGj43FS.jpg",
-      "releaseInfo": "2021",
-      "description": "Laughter replaces screams at the factory with hilarious mechanical repairs and silliness.",
-      "background": "https://image.tmdb.org/t/p/original/2O3ZRECju00Jod6LrVB3uRgZMXK.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
-      "ratings": {
-        "imdb": 7.0,
-        "metacritic": 55,
-        "metacriticuser": 6.9,
-        "trakt": 67,
-        "tomatoes": 65,
-        "popcorn": 77,
-        "tmdb": 71,
-        "mdblist": 67
-      }
-    },
-    {
-      "id": "tt10516496",
-      "type": "series",
-      "name": "Chip 'n Dale: Park Life",
-      "poster": "https://image.tmdb.org/t/p/w500/3JPFgEWoiV6RAzD5o5why4xISDw.jpg",
-      "releaseInfo": "2021",
-      "description": "Classic non-verbal acorn-chasing slapstick comedy between two hyperactive chipmunks in city park.",
-      "background": "https://image.tmdb.org/t/p/original/hERNDOSh3tTWGZK6rD7FN01SKnK.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
-      "ratings": {
-        "imdb": 6.1,
-        "trakt": 59,
-        "tomatoes": 80,
-        "popcorn": 75,
-        "tmdb": 64,
-        "mdblist": 48
-      }
-    },
-    {
       "id": "tt6688750",
       "type": "series",
       "name": "Puppy Dog Pals",
       "poster": "https://image.tmdb.org/t/p/w500/Aa6Bo1lcuFxT3D1twy7DVX7pY03.jpg",
       "releaseInfo": "2017",
-      "description": "Two adventurous pug brothers travel the world to fulfill helpful puppy missions.",
+      "description": "Energetic pug puppy brothers go on fun globe-spanning secret missions.",
       "background": "https://image.tmdb.org/t/p/original/mlNvIrBV1bEvE7s8PFGuBHULaqq.jpg",
       "imdbRating": "6.7",
       "rating": 6.7,
@@ -1259,49 +1270,12 @@
       }
     },
     {
-      "id": "tt19873092",
-      "type": "series",
-      "name": "Eureka!",
-      "poster": "https://image.tmdb.org/t/p/w500/hZdhIzWnwJ8QsBRxBigj6J57SPf.jpg",
-      "releaseInfo": "2022",
-      "description": "A prehistoric girl inventor uses out-of-the-box thinking to improve her stone age town.",
-      "background": "https://image.tmdb.org/t/p/original/9qhVJc99xsZVvJ5PnTbHZRHIEov.jpg",
-      "imdbRating": "5.5",
-      "rating": 5.5,
-      "ratings": {
-        "imdb": 5.5,
-        "metacritic": 66,
-        "metacriticuser": 7.7,
-        "trakt": 22,
-        "tmdb": 59,
-        "mdblist": 29
-      }
-    },
-    {
-      "id": "tt13351440",
-      "type": "series",
-      "name": "Ridley Jones",
-      "poster": "https://image.tmdb.org/t/p/w500/6BzkRAldoqpolMuAmNa9XnbMw83.jpg",
-      "releaseInfo": "2021",
-      "description": "Curious girl protects a natural history museum where exhibits magically awaken every night.",
-      "background": "https://image.tmdb.org/t/p/original/x62LLGKPoba5E399rhn6FY5iBlP.jpg",
-      "imdbRating": "2.0",
-      "rating": 2.0,
-      "ratings": {
-        "imdb": 2.0,
-        "trakt": 37,
-        "popcorn": 27,
-        "tmdb": 66,
-        "mdblist": 28
-      }
-    },
-    {
       "id": "tt9288860",
       "type": "series",
       "name": "Trash Truck",
       "poster": "https://image.tmdb.org/t/p/w500/5uY9N0H4m0HCHaOJTgkD4Mz5g2f.jpg",
       "releaseInfo": "2020",
-      "description": "A quiet toddler's heartwarming everyday backyard adventures with his giant best friend garbage truck.",
+      "description": "Gentle, imaginative friendship between a boy and a giant friendly garbage truck.",
       "background": "https://image.tmdb.org/t/p/original/73Y7FV2Qf7rrE022vrCzoamQJFY.jpg",
       "imdbRating": "8.6",
       "rating": 8.6,
@@ -1314,48 +1288,12 @@
       }
     },
     {
-      "id": "tt21942724",
-      "type": "series",
-      "name": "Slumberkins",
-      "poster": "https://image.tmdb.org/t/p/w500/u2IiG2DF5KGrXnpKXtZKAuRbTRA.jpg",
-      "releaseInfo": "2022",
-      "description": "Cozy Jim Henson puppetry helps children understand big feelings like gratitude and anxiety.",
-      "background": "https://image.tmdb.org/t/p/original/qVAflzDOKTLkqj340DbkX8i3TMt.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
-      "ratings": {
-        "imdb": 8.5,
-        "trakt": 52,
-        "popcorn": 88,
-        "tmdb": 50,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt18830366",
-      "type": "series",
-      "name": "Pinecone & Pony",
-      "poster": "https://image.tmdb.org/t/p/w500/98qW6e6rKVG8doUkuezYOpkd8eJ.jpg",
-      "releaseInfo": "2022",
-      "description": "A spunky warrior girl learns that bravery comes in many wonderfully unique forms.",
-      "background": "https://image.tmdb.org/t/p/original/9smisBYN8ObcdNvUOpM6CUs4Dba.jpg",
-      "imdbRating": "6.5",
-      "rating": 6.5,
-      "ratings": {
-        "imdb": 6.5,
-        "trakt": 57,
-        "popcorn": 83,
-        "tmdb": 43,
-        "mdblist": 0
-      }
-    },
-    {
       "id": "tt0063951",
       "type": "series",
       "name": "Sesame Street",
       "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
       "releaseInfo": "1969",
-      "description": "Legendary puppetry, songs, and friendly lessons on kindness have entertained generations of children.",
+      "description": "Beloved Muppets teach foundational literacy, numbers, and kindness through joyful comedy.",
       "background": "https://image.tmdb.org/t/p/original/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
       "imdbRating": "8.1",
       "rating": 8.1,
@@ -1369,354 +1307,12 @@
       }
     },
     {
-      "id": "tt1388589",
-      "type": "series",
-      "name": "Super Hero Squad Show",
-      "poster": "https://image.tmdb.org/t/p/w500/3CdaaPZdU1Xv2c6hDaSVWhsXtuO.jpg",
-      "releaseInfo": "2009",
-      "description": "Miniature Marvel heroes Hero Up for goofy, slapstick battles against Dr. Doom.",
-      "background": "https://image.tmdb.org/t/p/original/tSbZytA2RSLVXgEjTNTb27ZkvjZ.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
-      "ratings": {
-        "imdb": 6.2,
-        "metacriticuser": 7.0,
-        "trakt": 60,
-        "tomatoes": 50,
-        "popcorn": 52,
-        "tmdb": 75,
-        "mdblist": 48
-      }
-    },
-    {
-      "id": "tt0090506",
-      "type": "series",
-      "name": "The Real Ghostbusters",
-      "poster": "https://image.tmdb.org/t/p/w500/kLquadlhGPfpKHkVNRgrq0tzHkL.jpg",
-      "releaseInfo": "1986",
-      "description": "Cool proton packs and spooky supernatural creatures make catching weird ghosts great fun.",
-      "background": "https://image.tmdb.org/t/p/original/vA0rSXM1gwpiefyJamQBvMbIb4B.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "trakt": 73,
-        "popcorn": 83,
-        "tmdb": 77,
-        "mdblist": 77
-      }
-    },
-    {
-      "id": "tt0108783",
-      "type": "series",
-      "name": "Gargoyles",
-      "poster": "https://image.tmdb.org/t/p/w500/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg",
-      "releaseInfo": "1994",
-      "description": "Ancient stone warriors awakening atop Manhattan skyscrapers provide dark, epic medieval-modern fantasy action.",
-      "background": "https://image.tmdb.org/t/p/original/2HZuIQfSTcay8eoVIqeaGEwUWaB.jpg",
-      "imdbRating": "8.0",
-      "rating": 8.0,
-      "ratings": {
-        "imdb": 8.0,
-        "metacriticuser": 8.9,
-        "trakt": 80,
-        "popcorn": 84,
-        "tmdb": 81,
-        "mdblist": 81
-      }
-    },
-    {
-      "id": "tt0247827",
-      "type": "series",
-      "name": "X-Men: Evolution",
-      "poster": "https://image.tmdb.org/t/p/w500/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-      "releaseInfo": "2000",
-      "description": "Mutant teenagers balance high school struggles with secret superpower training at Xavier's institute.",
-      "background": "https://image.tmdb.org/t/p/original/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
-      "ratings": {
-        "imdb": 7.8,
-        "metacriticuser": 8.0,
-        "trakt": 78,
-        "popcorn": 92,
-        "tmdb": 79,
-        "mdblist": 81
-      }
-    },
-    {
-      "id": "tt0083481",
-      "type": "series",
-      "name": "Spider-Man and His Amazing Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/4GjLlD5u8LtkF5XJ75FlPW16fHG.jpg",
-      "releaseInfo": "1981",
-      "description": "Vintage webslinging fun teaming Spidey with Iceman and Firestar in secret lab headquarters.",
-      "background": "https://image.tmdb.org/t/p/original/hF2Dnx9g6pm87UJ6RJ58PrpdMWQ.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
-      "ratings": {
-        "imdb": 7.1,
-        "metacriticuser": 6.3,
-        "trakt": 68,
-        "popcorn": 59,
-        "tmdb": 75,
-        "mdblist": 62
-      }
-    },
-    {
-      "id": "tt2771780",
-      "type": "series",
-      "name": "Teen Titans Go!",
-      "poster": "https://image.tmdb.org/t/p/w500/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-      "releaseInfo": "2013",
-      "description": "Fast, absurd superhero parody comedy focusing on waffle parties, songs, and ridiculous lazers.",
-      "background": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-      "imdbRating": "5.8",
-      "rating": 5.8,
-      "ratings": {
-        "imdb": 5.8,
-        "trakt": 64,
-        "popcorn": 47,
-        "tmdb": 64,
-        "mdblist": 58
-      }
-    },
-    {
-      "id": "tt0203268",
-      "type": "series",
-      "name": "Silver Surfer",
-      "poster": "https://image.tmdb.org/t/p/w500/18rhdRDXAAHUTsbWtIQn2ZkjRL9.jpg",
-      "releaseInfo": "1998",
-      "description": "Cosmic space-wandering adventures featuring Jack Kirby's grand galactic universe and space philosophy.",
-      "background": "https://image.tmdb.org/t/p/original/jTupUx9wdoIKe8BFoP5Z1xzEtno.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
-      "ratings": {
-        "imdb": 7.1,
-        "trakt": 67,
-        "popcorn": 70,
-        "tmdb": 73,
-        "mdblist": 62
-      }
-    },
-    {
-      "id": "tt0775372",
-      "type": "series",
-      "name": "Legion of Super Heroes",
-      "poster": "https://image.tmdb.org/t/p/w500/bz92ox9DKUTJr1Or1CqJ8zWffi2.jpg",
-      "releaseInfo": "2006",
-      "description": "Young Superman travels to the thirty-first century to fight evil beside futuristic teens.",
-      "background": "https://image.tmdb.org/t/p/original/2CsVkDPeCs0VZ3pTE6aLFlW1lUp.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
-      "ratings": {
-        "imdb": 7.0,
-        "metacriticuser": 6.5,
-        "trakt": 67,
-        "popcorn": 78,
-        "tmdb": 78,
-        "mdblist": 54
-      }
-    },
-    {
-      "id": "tt1213218",
-      "type": "series",
-      "name": "Batman: The Brave and the Bold",
-      "poster": "https://image.tmdb.org/t/p/w500/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
-      "releaseInfo": "2008",
-      "description": "Lighthearted, campy silver-age comic adventures teaming Batman with obscure, colorful DC champions.",
-      "background": "https://image.tmdb.org/t/p/original/gPJZKiqBU5OVPhalvNDkU6NF8jQ.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
-      "ratings": {
-        "imdb": 7.4,
-        "metacriticuser": 7.5,
-        "trakt": 74,
-        "tomatoes": 96,
-        "popcorn": 90,
-        "tmdb": 76,
-        "mdblist": 82
-      }
-    },
-    {
-      "id": "tt1055136",
-      "type": "series",
-      "name": "Speed Racer: The Next Generation",
-      "poster": "https://image.tmdb.org/t/p/w500/9nV963lVukOhnJA8mb4eS2WODCi.jpg",
-      "releaseInfo": "2008",
-      "description": "Futuristic race academy students solve mysteries behind wheels of high-tech Mach Six vehicles.",
-      "background": "https://image.tmdb.org/t/p/original/4AhMJb9SZikQgfYfUOQkYFdMZFX.jpg",
-      "imdbRating": "4.2",
-      "rating": 4.2,
-      "ratings": {
-        "imdb": 4.2,
-        "trakt": 62,
-        "tomatoes": 17,
-        "popcorn": 70,
-        "tmdb": 36,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt0061300",
-      "type": "series",
-      "name": "Speed Racer",
-      "poster": "https://image.tmdb.org/t/p/w500/7o9x0cdLjNXLeKfPM7p8h7DBL9B.jpg",
-      "releaseInfo": "1967",
-      "description": "Timeless racing action featuring saw blades, jump jacks, and mysterious Racer X rivalries.",
-      "background": "https://image.tmdb.org/t/p/original/yOCxMtJ3wgQyXjP9j8zUhoixPrU.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
-      "ratings": {
-        "imdb": 7.2,
-        "metacriticuser": 8.3,
-        "trakt": 65,
-        "tomatoes": 88,
-        "popcorn": 81,
-        "tmdb": 74,
-        "letterboxd": 7.2,
-        "myanimelist": 6.7,
-        "mdblist": 74
-      }
-    },
-    {
-      "id": "tt0085033",
-      "type": "series",
-      "name": "Inspector Gadget",
-      "poster": "https://image.tmdb.org/t/p/w500/1Wcx99T1zbJzJXCqevOL4MNPdKz.jpg",
-      "releaseInfo": "1983",
-      "description": "Goofy cyborg detective's malfunctioning bionic gadgets contrast with his niece's clever crime-solving.",
-      "background": "https://image.tmdb.org/t/p/original/vWaIxifDJeKXq4igHTOE5epqcop.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
-      "ratings": {
-        "imdb": 6.8,
-        "metacriticuser": 7.4,
-        "trakt": 67,
-        "popcorn": 78,
-        "tmdb": 69,
-        "mdblist": 70
-      }
-    },
-    {
-      "id": "tt0247729",
-      "type": "series",
-      "name": "Static Shock",
-      "poster": "https://image.tmdb.org/t/p/w500/c4bMyE2SZv9B6rS0Anvlwej14R1.jpg",
-      "releaseInfo": "2000",
-      "description": "Electrifying teenage hero cleans up his city with electromagnetic powers and street smarts.",
-      "background": "https://image.tmdb.org/t/p/original/oYeWPNV0QZri8eRNmyRTeC57ijx.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
-      "ratings": {
-        "imdb": 7.4,
-        "trakt": 79,
-        "popcorn": 84,
-        "tmdb": 79,
-        "mdblist": 78
-      }
-    },
-    {
-      "id": "tt2455546",
-      "type": "series",
-      "name": "Marvel's Avengers Assemble",
-      "poster": "https://image.tmdb.org/t/p/w500/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
-      "releaseInfo": "2013",
-      "description": "Earth's mightiest heroes assemble for blockbuster battles against Thanos, Red Skull, and beyond.",
-      "background": "https://image.tmdb.org/t/p/original/hutyHRPoY0woAZCJtLmosJHuTjQ.jpg",
-      "imdbRating": "7.0",
-      "rating": 7.0,
-      "ratings": {
-        "imdb": 7.0,
-        "trakt": 71,
-        "popcorn": 69,
-        "tmdb": 75,
-        "mdblist": 71
-      }
-    },
-    {
-      "id": "tt2455514",
-      "type": "series",
-      "name": "Hulk and the Agents of S.M.A.S.H.",
-      "poster": "https://image.tmdb.org/t/p/w500/gkGIiIIkHOeVXzwjBNFTRqTCnqF.jpg",
-      "releaseInfo": "2013",
-      "description": "Gamma-powered giant heroes smash monster threats while filming a comedic reality show.",
-      "background": "https://image.tmdb.org/t/p/original/7p0QLfjFx1iJzJ6iB82mp7E9qIH.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
-      "ratings": {
-        "imdb": 6.1,
-        "trakt": 63,
-        "popcorn": 75,
-        "tmdb": 62,
-        "mdblist": 58
-      }
-    },
-    {
-      "id": "tt1722512",
-      "type": "series",
-      "name": "Ultimate Spider-Man",
-      "poster": "https://image.tmdb.org/t/p/w500/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg",
-      "releaseInfo": "2012",
-      "description": "Fourth-wall breaking teen Spidey leads a S.H.I.E.L.D. training squad with hilarious fourth-wall commentary.",
-      "background": "https://image.tmdb.org/t/p/original/gXeCzYmCRBlpbbhhKrYM1ZpIDAA.jpg",
-      "imdbRating": "7.2",
-      "rating": 7.2,
-      "ratings": {
-        "imdb": 7.2,
-        "trakt": 73,
-        "popcorn": 71,
-        "tmdb": 76,
-        "mdblist": 73
-      }
-    },
-    {
-      "id": "tt8336340",
-      "type": "series",
-      "name": "Star Wars Resistance",
-      "poster": "https://image.tmdb.org/t/p/w500/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg",
-      "releaseInfo": "2018",
-      "description": "Sky-high starfighter races on an oceanic platform double as secret spy missions.",
-      "background": "https://image.tmdb.org/t/p/original/Ad2y46YKP2u81bsR4axajbbJKwS.jpg",
-      "imdbRating": "5.3",
-      "rating": 5.3,
-      "ratings": {
-        "imdb": 5.3,
-        "metacritic": 71,
-        "metacriticuser": 4.8,
-        "trakt": 60,
-        "tomatoes": 93,
-        "popcorn": 45,
-        "tmdb": 61,
-        "mdblist": 63
-      }
-    },
-    {
-      "id": "tt4855868",
-      "type": "series",
-      "name": "Lego Star Wars: Droid Tales",
-      "poster": "https://image.tmdb.org/t/p/w500/kwEtB6toMVkmoqEoG5Hl63KP9NL.jpg",
-      "releaseInfo": "2015",
-      "description": "C-3PO retells the entire Star Wars saga with signature goofy LEGO brick slapstick.",
-      "background": "https://image.tmdb.org/t/p/original/usaquP4FFZE3XYaiHESmzz8DFkS.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
-      "ratings": {
-        "imdb": 7.4,
-        "trakt": 62,
-        "popcorn": 100,
-        "tmdb": 66,
-        "letterboxd": 6.8,
-        "mdblist": 52
-      }
-    },
-    {
       "id": "tt12397680",
       "type": "series",
       "name": "Fraggle Rock: Back to the Rock",
       "poster": "https://image.tmdb.org/t/p/w500/p8gN7DQMUTRXj9tnkhoCpOXu7vH.jpg",
       "releaseInfo": "2022",
-      "description": "Lively puppet reboot spreads infectious toe-tapping positivity, empathy, and silly Doozer construction fun.",
+      "description": "Modern musical puppetry revival spreading joy, dance, and environmental care.",
       "background": "https://image.tmdb.org/t/p/original/d4Nb1ZUI4A5cRZKvuio75pBv5Cx.jpg",
       "imdbRating": "7.9",
       "rating": 7.9,
@@ -1732,85 +1328,1032 @@
       }
     },
     {
-      "id": "tt0074028",
+      "id": "tt18830366",
       "type": "series",
-      "name": "The Muppet Show",
-      "poster": "https://image.tmdb.org/t/p/w500/6UNPGS6RCmChcZO0ehouZRFiVRs.jpg",
-      "releaseInfo": "1976",
-      "description": "Kermit the Frog wrangles chaos backstage in a timeless, joke-packed vaudeville puppet circus.",
-      "background": "https://image.tmdb.org/t/p/original/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "name": "Pinecone & Pony",
+      "poster": "https://image.tmdb.org/t/p/w500/98qW6e6rKVG8doUkuezYOpkd8eJ.jpg",
+      "releaseInfo": "2022",
+      "description": "Sweet warrior-in-training comedy demonstrating kindness makes the strongest knight.",
+      "background": "https://image.tmdb.org/t/p/original/9smisBYN8ObcdNvUOpM6CUs4Dba.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 8.4,
-        "metacriticuser": 8.6,
-        "trakt": 80,
-        "tomatoes": 100,
-        "popcorn": 90,
-        "tmdb": 80,
-        "mdblist": 86
+        "imdb": 6.5,
+        "trakt": 57,
+        "popcorn": 83,
+        "tmdb": 43,
+        "mdblist": 0
       }
     },
     {
-      "id": "tt1094229",
+      "id": "tt13206602",
       "type": "series",
-      "name": "Heartland",
-      "poster": "https://image.tmdb.org/t/p/w500/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
-      "releaseInfo": "2007",
-      "description": "Healing horses on an Alberta ranch offers soothing, heartfelt, and wholesome family drama.",
-      "background": "https://image.tmdb.org/t/p/original/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
+      "name": "The Snoopy Show",
+      "poster": "https://image.tmdb.org/t/p/w500/qgB5CZwqrnZ99f8NHUL7ogPrgi3.jpg",
+      "releaseInfo": "2021",
+      "description": "Snoopy's iconic beagle daydreams and cheerful slapstick with Woodstock and friends.",
+      "background": "https://image.tmdb.org/t/p/original/o04090TAInK18zXAkp71Duq8Qbx.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1,
       "ratings": {
-        "imdb": 8.4,
-        "metacritic": 42,
-        "trakt": 80,
-        "tomatoes": 45,
-        "popcorn": 43,
-        "tmdb": 82,
-        "mdblist": 62
+        "imdb": 8.1,
+        "metacritic": 73,
+        "trakt": 74,
+        "popcorn": 89,
+        "tmdb": 78,
+        "mdblist": 60
       }
     },
     {
-      "id": "tt8690518",
+      "id": "tt0112123",
       "type": "series",
-      "name": "The Baby-Sitters Club",
-      "poster": "https://image.tmdb.org/t/p/w500/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg",
+      "name": "Pinky and the Brain",
+      "poster": "https://image.tmdb.org/t/p/w500/69Hrbgi2qcy8xjcwad94VNHpXLI.jpg",
+      "releaseInfo": "1995",
+      "description": "Hilarious mismatched lab mice attempt to take over the world nightly.",
+      "background": "https://image.tmdb.org/t/p/original/ifwnVxLzrvMSuTKUxvinpjDNov1.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8,
+        "metacriticuser": 8.7,
+        "trakt": 75,
+        "tomatoes": 75,
+        "popcorn": 88,
+        "tmdb": 76,
+        "mdblist": 78
+      }
+    },
+    {
+      "id": "tt0098929",
+      "type": "series",
+      "name": "Tiny Toon Adventures",
+      "poster": "https://image.tmdb.org/t/p/w500/j9B9RmerM2b39s7xzW6g4vN5B1m.jpg",
+      "releaseInfo": "1990",
+      "description": "Young cartoon proteges learn wacky slapstick at Acme Looniversity.",
+      "background": "https://image.tmdb.org/t/p/original/svFh88hKUiH8W5P936noyLC9L6F.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5,
+        "trakt": 74,
+        "popcorn": 74,
+        "tmdb": 77,
+        "mdblist": 75
+      }
+    },
+    {
+      "id": "tt8543208",
+      "type": "series",
+      "name": "Looney Tunes Cartoons",
+      "poster": "https://image.tmdb.org/t/p/w500/2pDQfZMJq95hckoaez9ou93Hmqy.jpg",
       "releaseInfo": "2020",
-      "description": "Enterprising middle-school girlfriends manage an entrepreneur club while navigating modern adolescent milestones together.",
-      "background": "https://image.tmdb.org/t/p/original/lNt9YMy8kBg7D7aqnIcKRqu5Jnd.jpg",
+      "description": "Classic high-energy vintage slapstick mayhem with Bugs Bunny and Daffy Duck.",
+      "background": "https://image.tmdb.org/t/p/original/kxHkP4YnRIWEcW08CpCRqnxiMSH.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0,
+        "metacritic": 71,
+        "metacriticuser": 7.6,
+        "trakt": 73,
+        "tmdb": 77,
+        "mdblist": 61
+      }
+    },
+    {
+      "id": "tt0063950",
+      "type": "series",
+      "name": "Scooby-Doo, Where Are You!",
+      "poster": "https://image.tmdb.org/t/p/w500/lTzUSCtXR77CmGmEHcaxpxu2b4h.jpg",
+      "releaseInfo": "1969",
+      "description": "Iconic mystery van sleuths unmask spooky ghosts with snacks and laughs.",
+      "background": "https://image.tmdb.org/t/p/original/tZq2fV8nmbVcjB7jEAh9Trog0P7.jpg",
+      "imdbRating": "7.9",
+      "rating": 7.9,
+      "ratings": {
+        "imdb": 7.9,
+        "trakt": 77,
+        "popcorn": 92,
+        "tmdb": 78,
+        "mdblist": 82
+      }
+    },
+    {
+      "id": "tt1660055",
+      "type": "series",
+      "name": "Scooby-Doo! Mystery Incorporated",
+      "poster": "https://image.tmdb.org/t/p/w500/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+      "releaseInfo": "2010",
+      "description": "Creepy overarching mystery plotlines and smart monster hunting in Crystal Cove.",
+      "background": "https://image.tmdb.org/t/p/original/2VvLk11UlmdHFPQkDgm4KPSjLrs.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2,
+        "trakt": 82,
+        "popcorn": 96,
+        "tmdb": 82,
+        "mdblist": 85
+      }
+    },
+    {
+      "id": "tt0306274",
+      "type": "series",
+      "name": "What's New, Scooby-Doo?",
+      "poster": "https://image.tmdb.org/t/p/w500/qP3DZrKLSPe5WR2N066BIfB2dIq.jpg",
+      "releaseInfo": "2002",
+      "description": "Modern, upbeat mysteries with awesome rock soundtracks and spooky fun.",
+      "background": "https://image.tmdb.org/t/p/original/azYkdfJEkhn94jozR87t46LeCst.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "trakt": 77,
+        "popcorn": 96,
+        "tmdb": 78,
+        "mdblist": 81
+      }
+    },
+    {
+      "id": "tt0094531",
+      "type": "series",
+      "name": "A Pup Named Scooby-Doo",
+      "poster": "https://image.tmdb.org/t/p/w500/1KLZCKbql421IIORH1GGQn1R5Qh.jpg",
+      "releaseInfo": "1988",
+      "description": "Cute junior mysteries packed with lively exaggeration and dance numbers.",
+      "background": "https://image.tmdb.org/t/p/original/tnGkk8SH68n6DbcFg3J4oVKA5Ml.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8,
+        "metacriticuser": 7.0,
+        "trakt": 70,
+        "popcorn": 85,
+        "tmdb": 75,
+        "mdblist": 74
+      }
+    },
+    {
+      "id": "tt0053502",
+      "type": "series",
+      "name": "The Flintstones",
+      "poster": "https://image.tmdb.org/t/p/w500/30P6ifagQ3fguTsI33KMmDLTAx6.jpg",
+      "releaseInfo": "1960",
+      "description": "Classic prehistoric sitcom humor featuring dinosaur appliances and stone-age family fun.",
+      "background": "https://image.tmdb.org/t/p/original/wtIJW0ee02l9FDnklPIMAuYdhqS.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5,
+        "metacriticuser": 7.5,
+        "trakt": 72,
+        "popcorn": 78,
+        "mdblist": 75
+      }
+    },
+    {
+      "id": "tt0055683",
+      "type": "series",
+      "name": "The Jetsons",
+      "poster": "https://image.tmdb.org/t/p/w500/9e2wgxZpAu22yR77fRXzHwOtw9z.jpg",
+      "releaseInfo": "1962",
+      "description": "Retro-futuristic space age gadgets and wacky family comedy in Orbit City.",
+      "background": "https://image.tmdb.org/t/p/original/b3C1vl4JhhU1HkjCSS0B5cYDOQ2.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0,
+        "metacriticuser": 7.8,
+        "trakt": 69,
+        "popcorn": 76,
+        "tmdb": 73,
+        "mdblist": 72
+      }
+    },
+    {
+      "id": "tt0115200",
+      "type": "series",
+      "name": "Hey Arnold!",
+      "poster": "https://image.tmdb.org/t/p/w500/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg",
+      "releaseInfo": "1996",
+      "description": "Urban city life exploring neighborhood kindness, empathy, and unforgettable eccentric friends.",
+      "background": "https://image.tmdb.org/t/p/original/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "trakt": 73,
+        "popcorn": 95,
+        "tmdb": 80,
+        "mdblist": 81
+      }
+    },
+    {
+      "id": "tt0101188",
+      "type": "series",
+      "name": "Rugrats",
+      "poster": "https://image.tmdb.org/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+      "releaseInfo": "1991",
+      "description": "Wild playroom adventures fueled by a toddler's vivid misunderstandings of reality.",
+      "background": "https://image.tmdb.org/t/p/original/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "metacriticuser": 6.5,
+        "trakt": 71,
+        "popcorn": 89,
+        "tmdb": 76,
+        "mdblist": 77
+      }
+    },
+    {
+      "id": "tt0167743",
+      "type": "series",
+      "name": "The Wild Thornberrys",
+      "poster": "https://image.tmdb.org/t/p/w500/6SHAvvwmOFJwFhbkAqa6MjsiO7P.jpg",
+      "releaseInfo": "1998",
+      "description": "Secretly talking to wild animals while touring exotic globe-trotting nature reserves.",
+      "background": "https://image.tmdb.org/t/p/original/nVj1LYX8uOsdGVb9LcLN4YUTkDs.jpg",
+      "imdbRating": "6.6",
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6,
+        "trakt": 66,
+        "popcorn": 97,
+        "tmdb": 69,
+        "mdblist": 74
+      }
+    },
+    {
+      "id": "tt0244926",
+      "type": "series",
+      "name": "Rocket Power",
+      "poster": "https://image.tmdb.org/t/p/w500/2As5aMc84mtTurD2DfDLytNLhkh.jpg",
+      "releaseInfo": "1999",
+      "description": "Action sports, skateboarding, and sunny beach town camaraderie among close friends.",
+      "background": "https://image.tmdb.org/t/p/original/oBGchglw5lgrW7jc5UYK7IHsi4X.jpg",
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9,
+        "trakt": 69,
+        "popcorn": 85,
+        "tmdb": 76,
+        "mdblist": 74
+      }
+    },
+    {
+      "id": "tt0154061",
+      "type": "series",
+      "name": "CatDog",
+      "poster": "https://image.tmdb.org/t/p/w500/fkSCg9negcHAVO3gXohqEidqrsX.jpg",
+      "releaseInfo": "1998",
+      "description": "Opposites attract in this wacky slapstick tale of conjoined animal brothers.",
+      "background": "https://image.tmdb.org/t/p/original/ujmeZPV9A5AdwfTEuRWR1eqOMDR.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5,
+        "trakt": 65,
+        "popcorn": 77,
+        "tmdb": 70,
+        "mdblist": 69
+      }
+    },
+    {
+      "id": "tt0098924",
+      "type": "series",
+      "name": "Talespin",
+      "poster": "https://image.tmdb.org/t/p/w500/gObO6CMSRbQNehvJyF4CwOHC5VI.jpg",
+      "releaseInfo": "1990",
+      "description": "Seaplane cargo adventures, air pirates, and thrilling dogfights above Cape Suzette.",
+      "background": "https://image.tmdb.org/t/p/original/pxMzrCToVhp0VEyNFh1JZMVxJ2M.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5,
+        "metacriticuser": 8.1,
+        "trakt": 73,
+        "popcorn": 67,
+        "tmdb": 73,
+        "mdblist": 71
+      }
+    },
+    {
+      "id": "tt0101076",
+      "type": "series",
+      "name": "Darkwing Duck",
+      "poster": "https://image.tmdb.org/t/p/w500/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg",
+      "releaseInfo": "1991",
+      "description": "Ego-driven masked hero fights city crime with comedy and gadgets.",
+      "background": "https://image.tmdb.org/t/p/original/kijrwXzg2LayIFUJIreIgT1iyeh.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "metacriticuser": 8.5,
+        "trakt": 74,
+        "popcorn": 94,
+        "tmdb": 74,
+        "mdblist": 79
+      }
+    },
+    {
+      "id": "tt0108783",
+      "type": "series",
+      "name": "Gargoyles",
+      "poster": "https://image.tmdb.org/t/p/w500/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg",
+      "releaseInfo": "1994",
+      "description": "Ancient stone guardians protect modern Manhattan in dramatic gothic fantasy adventures.",
+      "background": "https://image.tmdb.org/t/p/original/2HZuIQfSTcay8eoVIqeaGEwUWaB.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0,
+        "metacriticuser": 8.9,
+        "trakt": 80,
+        "popcorn": 84,
+        "tmdb": 80,
+        "mdblist": 81
+      }
+    },
+    {
+      "id": "tt0105935",
+      "type": "series",
+      "name": "Aladdin",
+      "poster": "https://image.tmdb.org/t/p/w500/nlaiczW81kY46GBdfIcTrBIqr8I.jpg",
+      "releaseInfo": "1994",
+      "description": "Magical desert quests, flying carpet rides, and Genie's boundless cosmic comedy.",
+      "background": "https://image.tmdb.org/t/p/original/jPyKuRjloYkjVWNPtXCrYxtg3Bu.jpg",
       "imdbRating": "7.3",
       "rating": 7.3,
       "ratings": {
         "imdb": 7.3,
-        "metacritic": 87,
-        "metacriticuser": 7.1,
+        "metacriticuser": 6.8,
+        "trakt": 73,
+        "popcorn": 85,
+        "tmdb": 70,
+        "mdblist": 75
+      }
+    },
+    {
+      "id": "tt0465327",
+      "type": "series",
+      "name": "The Emperor's New School",
+      "poster": "https://image.tmdb.org/t/p/w500/g1TlTdWPcofNIklBdInaJFp7NkF.jpg",
+      "releaseInfo": "2006",
+      "description": "Sassy royal teen must pass school exams to reclaim his throne.",
+      "background": "https://image.tmdb.org/t/p/original/hibm0a7FMZcVHfskLowF5xLuqtp.jpg",
+      "imdbRating": "6.6",
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6,
+        "metacriticuser": 6.4,
+        "trakt": 69,
+        "popcorn": 60,
+        "tmdb": 72,
+        "mdblist": 63
+      }
+    },
+    {
+      "id": "tt0364774",
+      "type": "series",
+      "name": "Lilo & Stitch",
+      "poster": "https://image.tmdb.org/t/p/w500/hmNpwSKZzStqO4bfOFeYNTn2B7.jpg",
+      "releaseInfo": "2003",
+      "description": "Hunting down alien experiments across Hawaii to find their true purpose.",
+      "background": "https://image.tmdb.org/t/p/original/e3F1DhLs90kk1hWZhoTUanrxjMu.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8,
+        "metacriticuser": 6.9,
+        "trakt": 73,
+        "popcorn": 84,
+        "tmdb": 74,
+        "mdblist": 74
+      }
+    },
+    {
+      "id": "tt0429305",
+      "type": "series",
+      "name": "American Dragon: Jake Long",
+      "poster": "https://image.tmdb.org/t/p/w500/sAgoJOdvuMa3DD0JDpos9bdaF9S.jpg",
+      "releaseInfo": "2005",
+      "description": "NYC teen balances skateboard life with duties as a mythical protector dragon.",
+      "background": "https://image.tmdb.org/t/p/original/5LU77x2BK2IFn0hhyA8GbqjzMt4.jpg",
+      "imdbRating": "6.6",
+      "rating": 6.6,
+      "ratings": {
+        "imdb": 6.6,
+        "metacriticuser": 6.7,
+        "trakt": 71,
+        "popcorn": 63,
+        "tmdb": 77,
+        "mdblist": 69
+      }
+    },
+    {
+      "id": "tt0816401",
+      "type": "series",
+      "name": "The Replacements",
+      "poster": "https://image.tmdb.org/t/p/w500/dEzojA3nQF5zhBGVRdx16EF8OZj.jpg",
+      "releaseInfo": "2006",
+      "description": "Siblings swap boring authority figures for spy parents using a magic phone.",
+      "background": "https://image.tmdb.org/t/p/original/lPAmzKTyRBcsF3n3R0KGifGCHXH.jpg",
+      "imdbRating": "5.9",
+      "rating": 5.9,
+      "ratings": {
+        "imdb": 5.9,
+        "trakt": 63,
+        "popcorn": 86,
+        "tmdb": 66,
+        "mdblist": 57
+      }
+    },
+    {
+      "id": "tt7165904",
+      "type": "series",
+      "name": "Big City Greens",
+      "poster": "https://image.tmdb.org/t/p/w500/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg",
+      "releaseInfo": "2018",
+      "description": "Eccentric country family moves to an overwhelming big city with hilarious results.",
+      "background": "https://image.tmdb.org/t/p/original/vVGmv5mle6lCrgnx8lNv5Q1vZPw.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "trakt": 73,
+        "popcorn": 67,
+        "tmdb": 75,
+        "mdblist": 64
+      }
+    },
+    {
+      "id": "tt13961348",
+      "type": "series",
+      "name": "Sonic Prime",
+      "poster": "https://image.tmdb.org/t/p/w500/iEBJOgEOz0y8M7pUNGsOiRtZh5v.jpg",
+      "releaseInfo": "2022",
+      "description": "Sonic races through alternate shattered dimensions to save his beloved universe.",
+      "background": "https://image.tmdb.org/t/p/original/pYiIcenKt7L2cMrhn67xAxCGgzR.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2,
+        "metacriticuser": 8.0,
         "trakt": 72,
+        "popcorn": 81,
+        "tmdb": 83,
+        "mdblist": 77
+      }
+    },
+    {
+      "id": "tt11645760",
+      "type": "series",
+      "name": "Digimon Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+      "releaseInfo": "1999",
+      "description": "Kids get transported to a digital world partnering with transforming creature pals.",
+      "background": "https://image.tmdb.org/t/p/original/xsEMAdrDprq3Ldre56Rm0zqbfCA.jpg",
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7,
+        "trakt": 70,
+        "popcorn": 77,
+        "tmdb": 76,
+        "myanimelist": 6.5,
+        "mdblist": 71
+      }
+    },
+    {
+      "id": "tt8336340",
+      "type": "series",
+      "name": "Star Wars Resistance",
+      "poster": "https://image.tmdb.org/t/p/w500/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg",
+      "releaseInfo": "2018",
+      "description": "High-flying spaceship racing and covert spy missions on an ocean refueling colossus.",
+      "background": "https://image.tmdb.org/t/p/original/Ad2y46YKP2u81bsR4axajbbJKwS.jpg",
+      "imdbRating": "5.3",
+      "rating": 5.3,
+      "ratings": {
+        "imdb": 5.3,
+        "metacritic": 71,
+        "metacriticuser": 4.8,
+        "trakt": 60,
+        "tomatoes": 93,
+        "popcorn": 45,
+        "tmdb": 61,
+        "mdblist": 63
+      }
+    },
+    {
+      "id": "tt6193336",
+      "type": "series",
+      "name": "The Hollow",
+      "poster": "https://image.tmdb.org/t/p/w500/9sDgeNu67umBkX209Yh78d4tyv9.jpg",
+      "releaseInfo": "2018",
+      "description": "Teens wake up in a strange mystery portal realm navigating weird challenges.",
+      "background": "https://image.tmdb.org/t/p/original/yhhVjgPlCI18nGX5pJqFPTbcB9G.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2,
+        "trakt": 71,
         "tomatoes": 100,
-        "popcorn": 76,
+        "popcorn": 75,
+        "tmdb": 68,
+        "mdblist": 77
+      }
+    },
+    {
+      "id": "tt14035218",
+      "type": "series",
+      "name": "Waffles + Mochi",
+      "poster": "https://image.tmdb.org/t/p/w500/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
+      "releaseInfo": "2021",
+      "description": "Delicious culinary exploration travels the globe discovering healthy ingredients with puppets.",
+      "background": "https://image.tmdb.org/t/p/original/6YiBTAPjp9ia7tsxDbcc4xQ2SgB.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1,
+        "metacritic": 82,
+        "trakt": 65,
+        "tomatoes": 95,
+        "popcorn": 64,
+        "tmdb": 69,
+        "mdblist": 54
+      }
+    },
+    {
+      "id": "tt0275137",
+      "type": "series",
+      "name": "Justice League",
+      "poster": "https://image.tmdb.org/t/p/w500/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+      "releaseInfo": "2001",
+      "description": "Iconic DC superheroes unite for thrilling comic-book adventures with epic storytelling.",
+      "background": "https://image.tmdb.org/t/p/original/cR5vNlDF55vkgvj6y8aiMaiyD10.jpg",
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5,
+        "trakt": 83,
+        "tomatoes": 95,
+        "popcorn": 95,
+        "tmdb": 82,
+        "mdblist": 88
+      }
+    },
+    {
+      "id": "tt0398417",
+      "type": "series",
+      "name": "The Batman",
+      "poster": "https://image.tmdb.org/t/p/w500/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+      "releaseInfo": "2004",
+      "description": "A younger Bruce Wayne tackles reimagined rogues with sleek martial-arts action.",
+      "background": "https://image.tmdb.org/t/p/original/k5r2N22yTSIlLZBraf9792MK1gN.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "metacriticuser": 8.2,
+        "trakt": 76,
+        "popcorn": 92,
+        "tmdb": 80,
+        "mdblist": 80
+      }
+    },
+    {
+      "id": "tt1213218",
+      "type": "series",
+      "name": "Batman: The Brave and the Bold",
+      "poster": "https://image.tmdb.org/t/p/w500/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
+      "releaseInfo": "2008",
+      "description": "Fun, team-up superhero adventures celebrate the vibrant, lighter side of comic lore.",
+      "background": "https://image.tmdb.org/t/p/original/gPJZKiqBU5OVPhalvNDkU6NF8jQ.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "metacriticuser": 7.5,
+        "trakt": 74,
+        "tomatoes": 96,
+        "popcorn": 90,
+        "tmdb": 76,
+        "mdblist": 82
+      }
+    },
+    {
+      "id": "tt0247729",
+      "type": "series",
+      "name": "Static Shock",
+      "poster": "https://image.tmdb.org/t/p/w500/c4bMyE2SZv9B6rS0Anvlwej14R1.jpg",
+      "releaseInfo": "2000",
+      "description": "Virgil Hawkins balances high school life with electrifying urban superhero rescues.",
+      "background": "https://image.tmdb.org/t/p/original/oYeWPNV0QZri8eRNmyRTeC57ijx.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "trakt": 79,
+        "popcorn": 84,
+        "tmdb": 79,
+        "mdblist": 78
+      }
+    },
+    {
+      "id": "tt0775372",
+      "type": "series",
+      "name": "Legion of Super Heroes",
+      "poster": "https://image.tmdb.org/t/p/w500/bz92ox9DKUTJr1Or1CqJ8zWffi2.jpg",
+      "releaseInfo": "2006",
+      "description": "Young Superman travels to the future for exciting cosmic galactic adventures.",
+      "background": "https://image.tmdb.org/t/p/original/2CsVkDPeCs0VZ3pTE6aLFlW1lUp.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0,
+        "metacriticuser": 6.5,
+        "trakt": 67,
+        "popcorn": 78,
+        "tmdb": 78,
+        "mdblist": 54
+      }
+    },
+    {
+      "id": "tt14681924",
+      "type": "series",
+      "name": "My Adventures with Superman",
+      "poster": "https://image.tmdb.org/t/p/w500/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
+      "releaseInfo": "2023",
+      "description": "Clark, Lois, and Jimmy uncover mysteries in an anime-inspired, heartfelt superhero tale.",
+      "background": "https://image.tmdb.org/t/p/original/oqjqeOsF2D0APsiHdoE2VI88fbd.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "metacritic": 80,
+        "metacriticuser": 6.0,
+        "trakt": 78,
+        "tomatoes": 100,
+        "popcorn": 80,
+        "tmdb": 81,
+        "mdblist": 82
+      }
+    },
+    {
+      "id": "tt13622982",
+      "type": "series",
+      "name": "Star Wars: Visions",
+      "poster": "https://image.tmdb.org/t/p/w500/lG9ltUP4FwvsQBcwOJYceDbP48E.jpg",
+      "releaseInfo": "2021",
+      "description": "Inventive anime shorts showcase breathtaking lightsaber action across the galaxy.",
+      "background": "https://image.tmdb.org/t/p/original/m2QTmJhe36uKrkQjC1MsNV7Dcqp.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0,
+        "metacritic": 80,
+        "metacriticuser": 6.6,
+        "trakt": 69,
+        "tomatoes": 98,
+        "popcorn": 60,
+        "tmdb": 71,
+        "myanimelist": 7.0,
+        "mdblist": 73
+      }
+    },
+    {
+      "id": "tt20723374",
+      "type": "series",
+      "name": "Star Wars: Tales of the Jedi",
+      "poster": "https://image.tmdb.org/t/p/w500/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg",
+      "releaseInfo": "2022",
+      "description": "Gorgeous animated backstories expand beloved Jedi characters with cinematic galactic lore.",
+      "background": "https://image.tmdb.org/t/p/original/vp52Er9JebGn49GG37jFTwx15Lw.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1,
+        "metacritic": 78,
+        "metacriticuser": 7.6,
+        "trakt": 78,
+        "tomatoes": 100,
+        "popcorn": 92,
+        "tmdb": 79,
+        "letterboxd": 7.8,
+        "mdblist": 84
+      }
+    },
+    {
+      "id": "tt1055335",
+      "type": "series",
+      "name": "Transformers: Animated",
+      "poster": "https://image.tmdb.org/t/p/w500/kZkn34WF6AIYlPP2w1iR6g0gcIZ.jpg",
+      "releaseInfo": "2007",
+      "description": "Optimus Prime leads heroic Autobots protecting Detroit with humor and heart.",
+      "background": "https://image.tmdb.org/t/p/original/oMSLTx2LcQug67O2OD06lLB0xNS.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8,
+        "trakt": 74,
+        "popcorn": 91,
+        "tmdb": 80,
+        "mdblist": 64
+      }
+    },
+    {
+      "id": "tt9184820",
+      "type": "series",
+      "name": "Star Trek: Lower Decks",
+      "poster": "https://image.tmdb.org/t/p/w500/i7Em3r7KCyNfkOwMkyqN8UMvK8S.jpg",
+      "releaseInfo": "2020",
+      "description": "Support crew members experience hilarious, high-energy cosmic sci-fi space adventures.",
+      "background": "https://image.tmdb.org/t/p/original/kG7GwGBHpCI6lA6SaEydKHHOxkU.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8,
+        "metacritic": 66,
+        "metacriticuser": 5.2,
+        "trakt": 79,
+        "tomatoes": 93,
+        "popcorn": 71,
+        "tmdb": 76,
+        "mdblist": 77
+      }
+    },
+    {
+      "id": "tt8787772",
+      "type": "series",
+      "name": "Maya and the Three",
+      "poster": "https://image.tmdb.org/t/p/w500/jcsxTF3ymZ6yyyvrTjRkLaMu0RQ.jpg",
+      "releaseInfo": "2021",
+      "description": "A brave warrior princess embarks on an epic, vibrant Mesoamerican fantasy quest.",
+      "background": "https://image.tmdb.org/t/p/original/vmLt0tC5KeLd4K5ASLG5s0Ho7op.jpg",
+      "imdbRating": "8.0",
+      "rating": 8.0,
+      "ratings": {
+        "imdb": 8.0,
+        "metacritic": 90,
+        "metacriticuser": 6.9,
+        "trakt": 75,
+        "tomatoes": 100,
+        "popcorn": 91,
+        "tmdb": 79,
+        "letterboxd": 7.8,
+        "mdblist": 85
+      }
+    },
+    {
+      "id": "tt10919290",
+      "type": "series",
+      "name": "Centaurworld",
+      "poster": "https://image.tmdb.org/t/p/w500/2klp8BwNDbmV5pfBSWhNjr1MktC.jpg",
+      "releaseInfo": "2021",
+      "description": "A hardened warhorse discovers whimsical magic, vibrant songs, and joyful friends.",
+      "background": "https://image.tmdb.org/t/p/original/oDOGL42BM7bbUcroJcYp9xsw07v.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "metacriticuser": 7.9,
+        "trakt": 74,
+        "tomatoes": 100,
+        "popcorn": 61,
+        "tmdb": 74,
+        "mdblist": 73
+      }
+    },
+    {
+      "id": "tt8146754",
+      "type": "series",
+      "name": "Infinity Train",
+      "poster": "https://image.tmdb.org/t/p/w500/wEhc48kGjoWw8qcHu2Lar7NFrgG.jpg",
+      "releaseInfo": "2019",
+      "description": "Puzzling train cars offer clever riddles, emotional growth, and mysterious sci-fi journeys.",
+      "background": "https://image.tmdb.org/t/p/original/xMFRoCMrpEeS5cl7gXpJqC4PhIN.jpg",
+      "imdbRating": "8.4",
+      "rating": 8.4,
+      "ratings": {
+        "imdb": 8.4,
+        "metacriticuser": 8.9,
+        "trakt": 83,
+        "tomatoes": 100,
+        "popcorn": 93,
+        "tmdb": 84,
+        "mdblist": 88
+      }
+    },
+    {
+      "id": "tt6965802",
+      "type": "series",
+      "name": "OK K.O.! Let's Be Heroes",
+      "poster": "https://image.tmdb.org/t/p/w500/bIFnNqZGdahoiGnk6MRkXLbZufS.jpg",
+      "releaseInfo": "2017",
+      "description": "Video-game inspired battles turn everyday retail tasks into punchy superhero antics.",
+      "background": "https://image.tmdb.org/t/p/original/sdYoyoGDqonny18r7drUEJirgSG.jpg",
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9,
+        "trakt": 74,
+        "popcorn": 74,
+        "tmdb": 79,
+        "mdblist": 64
+      }
+    },
+    {
+      "id": "tt1666278",
+      "type": "series",
+      "name": "Thundercats",
+      "poster": "https://image.tmdb.org/t/p/w500/9DRhh5eRLtg6lNBCahEfLtyE0Sp.jpg",
+      "releaseInfo": "2011",
+      "description": "Lion-O leads his feline warriors on a gorgeous, high-stakes fantasy quest.",
+      "background": "https://image.tmdb.org/t/p/original/3dZ5tX1LaTrFKc8k2WNuviGg2SO.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8,
+        "metacriticuser": 7.4,
+        "trakt": 74,
+        "popcorn": 95,
         "tmdb": 79,
         "mdblist": 81
       }
     },
     {
-      "id": "tt5421602",
+      "id": "tt11465278",
       "type": "series",
-      "name": "Anne with an E",
-      "poster": "https://image.tmdb.org/t/p/w500/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
-      "releaseInfo": "2017",
-      "description": "Spirited orphan girl brings passionate imagination, fierce heart, and literary warmth to Avonlea.",
-      "background": "https://image.tmdb.org/t/p/original/70YdbMELM4b8x8VXjlubymb2bQ0.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6,
+      "name": "He-Man and the Masters of the Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/khU0nt0PAbX0t6IpBBvTxm1uzoZ.jpg",
+      "releaseInfo": "2021",
+      "description": "Prince Adam harnesses the Power of Grayskull in thrilling CG-animated battles.",
+      "background": "https://image.tmdb.org/t/p/original/A4KK6HthXvDMYRJekrM1GF6sH7y.jpg",
+      "imdbRating": "5.9",
+      "rating": 5.9,
       "ratings": {
-        "imdb": 8.6,
-        "metacritic": 79,
+        "imdb": 5.9,
+        "metacriticuser": 4.9,
+        "trakt": 62,
+        "tomatoes": 100,
+        "popcorn": 90,
+        "tmdb": 71,
+        "mdblist": 67
+      }
+    },
+    {
+      "id": "tt10611608",
+      "type": "series",
+      "name": "The Cuphead Show!",
+      "poster": "https://image.tmdb.org/t/p/w500/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+      "releaseInfo": "2022",
+      "description": "Slapstick humor and classic rubber-hose animation deliver fast-paced, vintage cartoon mischief.",
+      "background": "https://image.tmdb.org/t/p/original/hdA9Tz16tfwfW1k7x66APoLrkdk.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "metacritic": 69,
+        "trakt": 73,
+        "popcorn": 87,
+        "tmdb": 79,
+        "mdblist": 76
+      }
+    },
+    {
+      "id": "tt12642764",
+      "type": "series",
+      "name": "Dead End: Paranormal Park",
+      "poster": "https://image.tmdb.org/t/p/w500/hWN2Y6smsfxffPUCYPHihXDqbnP.jpg",
+      "releaseInfo": "2022",
+      "description": "Theme park employees investigate supernatural forces alongside a talking demon dog.",
+      "background": "https://image.tmdb.org/t/p/original/zyYjhlRqJrsUfNxNUJazPkiOUSf.jpg",
+      "imdbRating": "6.0",
+      "rating": 6.0,
+      "ratings": {
+        "imdb": 6.0,
+        "trakt": 74,
+        "tomatoes": 100,
+        "popcorn": 62,
+        "tmdb": 71,
+        "mdblist": 72
+      }
+    },
+    {
+      "id": "tt21107718",
+      "type": "series",
+      "name": "Oddballs",
+      "poster": "https://image.tmdb.org/t/p/w500/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+      "releaseInfo": "2022",
+      "description": "A bubble boy and his crocodile friend cause laugh-out-loud everyday comedic chaos.",
+      "background": "https://image.tmdb.org/t/p/original/5N7a8wieLVLo56wXxyTbWlS1zEQ.jpg",
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3,
+        "trakt": 64,
+        "popcorn": 58,
+        "tmdb": 72,
+        "mdblist": 48
+      }
+    },
+    {
+      "id": "tt7741830",
+      "type": "series",
+      "name": "The Epic Tales of Captain Underpants",
+      "poster": "https://image.tmdb.org/t/p/w500/hLaK7YPB4VofyDyBcztee8CbnHH.jpg",
+      "releaseInfo": "2018",
+      "description": "George and Harold bring zany comic book pranks and wild superhero laughs.",
+      "background": "https://image.tmdb.org/t/p/original/oqNRZusNZkpwZ2RabA9DTyJn0zg.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8,
+        "trakt": 59,
+        "popcorn": 78,
+        "tmdb": 75,
+        "mdblist": 53
+      }
+    },
+    {
+      "id": "tt3807022",
+      "type": "series",
+      "name": "All Hail King Julien",
+      "poster": "https://image.tmdb.org/t/p/w500/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg",
+      "releaseInfo": "2014",
+      "description": "Madagascar's dance-loving lemur monarch rules his colorful jungle with hilarious party antics.",
+      "background": "https://image.tmdb.org/t/p/original/dODynuJvFtLSmyTiiMqRxEKf7t1.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2,
         "metacriticuser": 7.7,
-        "trakt": 86,
-        "tomatoes": 63,
-        "popcorn": 91,
-        "tmdb": 87,
+        "trakt": 68,
+        "popcorn": 94,
+        "tmdb": 67,
+        "mdblist": 67
+      }
+    },
+    {
+      "id": "tt7741824",
+      "type": "series",
+      "name": "The Boss Baby: Back in Business",
+      "poster": "https://image.tmdb.org/t/p/w500/mUVZHkJPKDYgDy1dbDdi0Esj9eB.jpg",
+      "releaseInfo": "2018",
+      "description": "Baby Corp corporate humor blends with witty sibling teamwork and wacky corporate missions.",
+      "background": "https://image.tmdb.org/t/p/original/ry3j5NEF72tMezdEomGrVXb6pFB.jpg",
+      "imdbRating": "6.4",
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4,
+        "trakt": 61,
+        "popcorn": 64,
+        "tmdb": 71,
+        "mdblist": 64
+      }
+    },
+    {
+      "id": "tt4834206",
+      "type": "series",
+      "name": "A Series of Unfortunate Events",
+      "poster": "https://image.tmdb.org/t/p/w500/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg",
+      "releaseInfo": "2017",
+      "description": "Clever Baudelaire orphans outsmart the villainous Count Olaf in witty gothic mystery romps.",
+      "background": "https://image.tmdb.org/t/p/original/scQYe3wMt98baZAPhuBcewEqns7.jpg",
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7,
+        "metacritic": 81,
+        "trakt": 76,
+        "tomatoes": 96,
+        "popcorn": 87,
+        "tmdb": 74,
         "mdblist": 81
+      }
+    },
+    {
+      "id": "tt7153034",
+      "type": "series",
+      "name": "The Bureau of Magical Things",
+      "poster": "https://image.tmdb.org/t/p/w500/sM1E094qxukl7GOt8EC1uVDxkXR.jpg",
+      "releaseInfo": "2018",
+      "description": "A human girl discovers an enchanting realm uniting fairies, elves, and magic.",
+      "background": "https://image.tmdb.org/t/p/original/5IXv8FIB7rIVqZgKg8HgBkLUscI.jpg",
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9,
+        "trakt": 67,
+        "popcorn": 82,
+        "tmdb": 74,
+        "mdblist": 71
       }
     },
     {
@@ -1819,7 +2362,7 @@
       "name": "Just Add Magic",
       "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
       "releaseInfo": "2015",
-      "description": "Three best friends uncover an enchanted cookbook and whip up recipes with magical consequences.",
+      "description": "Friends discover a magical cookbook with mysterious recipes that solve neighborhood problems.",
       "background": "https://image.tmdb.org/t/p/original/fPksNJggRWtEvgcaKccYMZEYrug.jpg",
       "imdbRating": "8.3",
       "rating": 8.3,
@@ -1837,7 +2380,7 @@
       "name": "Gortimer Gibbon's Life on Normal Street",
       "poster": "https://image.tmdb.org/t/p/w500/7rg22mGHtJkirhVEOTbcxTdWiqB.jpg",
       "releaseInfo": "2014",
-      "description": "Suburban childhood friendship tinged with enchanting, twilight-zone magical realism and deep heart.",
+      "description": "Suburban childhood friendship blends with magical realism, wonder, and emotional depth.",
       "background": "https://image.tmdb.org/t/p/original/tmUC8gjuJ2GSXAvq5ZrMOgN8xSv.jpg",
       "imdbRating": "8.3",
       "rating": 8.3,
@@ -1852,101 +2395,41 @@
       }
     },
     {
-      "id": "tt7153034",
+      "id": "tt3596174",
       "type": "series",
-      "name": "The Bureau of Magical Things",
-      "poster": "https://image.tmdb.org/t/p/w500/sM1E094qxukl7GOt8EC1uVDxkXR.jpg",
-      "releaseInfo": "2018",
-      "description": "A teen accidentally discovers a secret world of elves and fairies needing protection.",
-      "background": "https://image.tmdb.org/t/p/original/5IXv8FIB7rIVqZgKg8HgBkLUscI.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
+      "name": "Henry Danger",
+      "poster": "https://image.tmdb.org/t/p/w500/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+      "releaseInfo": "2014",
+      "description": "A regular kid balances school homework with being a secret superhero sidekick.",
+      "background": "https://image.tmdb.org/t/p/original/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5,
       "ratings": {
-        "imdb": 6.9,
-        "trakt": 67,
-        "popcorn": 82,
-        "tmdb": 74,
-        "mdblist": 71
-      }
-    },
-    {
-      "id": "tt5232792",
-      "type": "series",
-      "name": "Lost in Space",
-      "poster": "https://image.tmdb.org/t/p/w500/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
-      "releaseInfo": "2018",
-      "description": "The Robinson family cooperates against alien planetary hazards with aid from an alien Robot.",
-      "background": "https://image.tmdb.org/t/p/original/tJAGIHi7tzyVwOhfuoLkJPubj3b.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
-      "ratings": {
-        "imdb": 7.3,
-        "metacritic": 58,
-        "metacriticuser": 6.3,
+        "imdb": 6.5,
         "trakt": 75,
-        "tomatoes": 84,
-        "popcorn": 78,
-        "tmdb": 74,
-        "mdblist": 73
-      }
-    },
-    {
-      "id": "tt9795876",
-      "type": "series",
-      "name": "Star Trek: Prodigy",
-      "poster": "https://image.tmdb.org/t/p/w500/Aqub3PSzLm2F398vitkbkxjopjO.jpg",
-      "releaseInfo": "2021",
-      "description": "Alien youth crew finds an abandoned starship and discovers Starfleet ideals of hope.",
-      "background": "https://image.tmdb.org/t/p/original/nmT2Tgk9TZlYDCciQdQ4HI5rytl.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "metacritic": 68,
-        "metacriticuser": 5.9,
-        "trakt": 77,
-        "tmdb": 71,
+        "popcorn": 79,
+        "tmdb": 83,
         "mdblist": 75
       }
     },
     {
-      "id": "tt0436992",
+      "id": "tt2712516",
       "type": "series",
-      "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-      "releaseInfo": "2005",
-      "description": "Time-traveling alien hero journeys across space saving civilizations using intellect, sonic screwdriver, and kindness.",
-      "background": "https://image.tmdb.org/t/p/original/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "imdbRating": "8.5",
-      "rating": 8.5,
+      "name": "The Thundermans",
+      "poster": "https://image.tmdb.org/t/p/w500/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+      "releaseInfo": "2013",
+      "description": "Superpowered twins bicker while attempting to live normal suburban middle school lives.",
+      "background": "https://image.tmdb.org/t/p/original/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg",
+      "imdbRating": "6.1",
+      "rating": 6.1,
       "ratings": {
-        "imdb": 8.5,
-        "metacritic": 77,
-        "metacriticuser": 7.0,
-        "trakt": 85,
-        "tomatoes": 90,
-        "popcorn": 64,
-        "tmdb": 76,
-        "mdblist": 79
-      }
-    },
-    {
-      "id": "tt0862620",
-      "type": "series",
-      "name": "The Sarah Jane Adventures",
-      "poster": "https://image.tmdb.org/t/p/w500/hq0S1VtUabnORdp3l3m11OA67BP.jpg",
-      "releaseInfo": "2007",
-      "description": "Investigative journalist and clever suburban teens combat alien intrusions right from their attic.",
-      "background": "https://image.tmdb.org/t/p/original/cBJDOCMFAV4Ls8nZLRRj424RgID.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
-      "ratings": {
-        "imdb": 7.5,
-        "metacritic": 65,
-        "metacriticuser": 6.0,
-        "trakt": 71,
-        "tmdb": 71,
-        "mdblist": 69
+        "imdb": 6.1,
+        "metacritic": 43,
+        "metacriticuser": 4.2,
+        "trakt": 72,
+        "popcorn": 80,
+        "tmdb": 79,
+        "mdblist": 67
       }
     },
     {
@@ -1955,7 +2438,7 @@
       "name": "Wizards of Waverly Place",
       "poster": "https://image.tmdb.org/t/p/w500/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg",
       "releaseInfo": "2007",
-      "description": "Sibling rivalry escalates into slapstick chaos as three wizard kids compete for magic powers.",
+      "description": "Three wizard siblings compete for magical powers while running a family sandwich shop.",
       "background": "https://image.tmdb.org/t/p/original/7CVy5uTj3JNF8wqb2VnfQdjL07V.jpg",
       "imdbRating": "7.0",
       "rating": 7.0,
@@ -1969,31 +2452,12 @@
       }
     },
     {
-      "id": "tt1415889",
-      "type": "series",
-      "name": "Good Luck Charlie",
-      "poster": "https://image.tmdb.org/t/p/w500/cyYwkXW1vd3YpiFVlb7y0hgIzuu.jpg",
-      "releaseInfo": "2010",
-      "description": "Big sister records hilarious, loving video diaries to help baby Charlie survive family antics.",
-      "background": "https://image.tmdb.org/t/p/original/u1jUHmL3oKM48HVGmwrscdRK5hy.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
-      "ratings": {
-        "imdb": 7.1,
-        "metacriticuser": 7.6,
-        "trakt": 71,
-        "popcorn": 73,
-        "tmdb": 78,
-        "mdblist": 73
-      }
-    },
-    {
       "id": "tt0426371",
       "type": "series",
       "name": "The Suite Life of Zack & Cody",
       "poster": "https://image.tmdb.org/t/p/w500/wAYjFO8TPn7qVtD0nMykFyFQ9XL.jpg",
       "releaseInfo": "2005",
-      "description": "Twin brothers turn a luxury five-star Boston hotel into their personal zany indoor playground.",
+      "description": "Identical twin brothers turn a swanky Boston hotel into their personal playground.",
       "background": "https://image.tmdb.org/t/p/original/8Il5j5hPlsBfSX9jKPCRHoAiA9p.jpg",
       "imdbRating": "6.7",
       "rating": 6.7,
@@ -2007,12 +2471,104 @@
       }
     },
     {
+      "id": "tt1415889",
+      "type": "series",
+      "name": "Good Luck Charlie",
+      "poster": "https://image.tmdb.org/t/p/w500/cyYwkXW1vd3YpiFVlb7y0hgIzuu.jpg",
+      "releaseInfo": "2010",
+      "description": "Teddy records video life advice for her toddler sister amid everyday family chaos.",
+      "background": "https://image.tmdb.org/t/p/original/u1jUHmL3oKM48HVGmwrscdRK5hy.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1,
+        "metacriticuser": 7.6,
+        "trakt": 71,
+        "popcorn": 73,
+        "tmdb": 78,
+        "mdblist": 73
+      }
+    },
+    {
+      "id": "tt1865769",
+      "type": "series",
+      "name": "Jessie",
+      "poster": "https://image.tmdb.org/t/p/w500/tspQe0FuiaUj0U1R1norNbiYTe4.jpg",
+      "releaseInfo": "2011",
+      "description": "A small-town nanny navigates eccentric billionaire kids in a fancy New York penthouse.",
+      "background": "https://image.tmdb.org/t/p/original/jDEvpKn1Ry8U7KM4kgC2Iw6ZCJ1.jpg",
+      "imdbRating": "6.2",
+      "rating": 6.2,
+      "ratings": {
+        "imdb": 6.2,
+        "trakt": 72,
+        "popcorn": 79,
+        "tmdb": 80,
+        "mdblist": 73
+      }
+    },
+    {
+      "id": "tt1830491",
+      "type": "series",
+      "name": "Austin & Ally",
+      "poster": "https://image.tmdb.org/t/p/w500/73LDHDdvpKNc8RXNPciTWFTEDIV.jpg",
+      "releaseInfo": "2011",
+      "description": "An extroverted singer and shy songwriter form a musical comedy powerhouse duo.",
+      "background": "https://image.tmdb.org/t/p/original/eR4bBMJOoSdb9CtiDtp8axHqP7I.jpg",
+      "imdbRating": "6.1",
+      "rating": 6.1,
+      "ratings": {
+        "imdb": 6.1,
+        "trakt": 74,
+        "popcorn": 61,
+        "tmdb": 78,
+        "mdblist": 68
+      }
+    },
+    {
+      "id": "tt0493093",
+      "type": "series",
+      "name": "Hannah Montana",
+      "poster": "https://image.tmdb.org/t/p/w500/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
+      "releaseInfo": "2006",
+      "description": "Miley Stewart juggles ordinary teenage school life with being an international pop superstar.",
+      "background": "https://image.tmdb.org/t/p/original/r7tiRgwCz4orOoYZIdbRdIGkfU3.jpg",
+      "imdbRating": "5.5",
+      "rating": 5.5,
+      "ratings": {
+        "imdb": 5.5,
+        "metacriticuser": 6.3,
+        "trakt": 69,
+        "popcorn": 81,
+        "tmdb": 71,
+        "mdblist": 69
+      }
+    },
+    {
+      "id": "tt3598030",
+      "type": "series",
+      "name": "K.C. Undercover",
+      "poster": "https://image.tmdb.org/t/p/w500/52iv1yPKYR4nezoX7lMLcK9yt6q.jpg",
+      "releaseInfo": "2015",
+      "description": "A high school math genius performs secret spy missions alongside her undercover family.",
+      "background": "https://image.tmdb.org/t/p/original/qE7Qa49oAOFUu6lYc8bCH5KeNay.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5,
+        "trakt": 73,
+        "popcorn": 60,
+        "tmdb": 77,
+        "mdblist": 67
+      }
+    },
+    {
       "id": "tt0105958",
       "type": "series",
       "name": "Boy Meets World",
       "poster": "https://image.tmdb.org/t/p/w500/bS2ZDv7vVIuyWMOiMn9R6CF35jY.jpg",
       "releaseInfo": "1993",
-      "description": "Growing up alongside loyal friends and wise mentor Mr. Feeny yields timeless life lessons.",
+      "description": "Cory Matthews learns life lessons about growing up, friendship, and family values.",
       "background": "https://image.tmdb.org/t/p/original/7mgf8w8xPyLnIln0kFo6qH2OEGh.jpg",
       "imdbRating": "8.1",
       "rating": 8.1,
@@ -2027,786 +2583,720 @@
       }
     },
     {
-      "id": "tt0092359",
+      "id": "tt2543796",
       "type": "series",
-      "name": "Full House",
-      "poster": "https://image.tmdb.org/t/p/w500/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg",
-      "releaseInfo": "1987",
-      "description": "Three devoted dads raise three spirited sisters with gentle hugs and wholesome family comedy.",
-      "background": "https://image.tmdb.org/t/p/original/btUwsz9ttVBVyqtEyZvFBQFyJgv.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
-      "ratings": {
-        "imdb": 6.8,
-        "metacritic": 31,
-        "metacriticuser": 7.2,
-        "trakt": 72,
-        "popcorn": 81,
-        "tmdb": 75,
-        "mdblist": 64
-      }
-    },
-    {
-      "id": "tt0098800",
-      "type": "series",
-      "name": "The Fresh Prince of Bel-Air",
-      "poster": "https://image.tmdb.org/t/p/w500/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
-      "releaseInfo": "1990",
-      "description": "Philly street smarts comically shake up affluent Beverly Hills mansion life with iconic laughs.",
-      "background": "https://image.tmdb.org/t/p/original/uyB27Tx3KtczuSo4tDfmiXhfuCp.jpg",
-      "imdbRating": "7.9",
-      "rating": 7.9,
-      "ratings": {
-        "imdb": 7.9,
-        "metacritic": 59,
-        "metacriticuser": 8.4,
-        "trakt": 79,
-        "popcorn": 91,
-        "tmdb": 78,
-        "mdblist": 77
-      }
-    },
-    {
-      "id": "tt0212671",
-      "type": "series",
-      "name": "Malcolm in the Middle",
-      "poster": "https://image.tmdb.org/t/p/w500/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
-      "releaseInfo": "2000",
-      "description": "Hilariously chaotic family dynamics seen through the eyes of a frustrated boy genius middle-child.",
-      "background": "https://image.tmdb.org/t/p/original/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
-      "imdbRating": "8.2",
-      "rating": 8.2,
-      "ratings": {
-        "imdb": 8.2,
-        "metacritic": 88,
-        "metacriticuser": 8.7,
-        "trakt": 82,
-        "popcorn": 91,
-        "tmdb": 85,
-        "mdblist": 85
-      }
-    },
-    {
-      "id": "tt0460637",
-      "type": "series",
-      "name": "Everybody Hates Chris",
-      "poster": "https://image.tmdb.org/t/p/w500/zX0xZnyReJxtGAqDOS3WcsgpOgx.jpg",
-      "releaseInfo": "2005",
-      "description": "Narrated by Chris Rock, this nostalgic family comedy turns adolescent misery into hilarious gold.",
-      "background": "https://image.tmdb.org/t/p/original/qji729gwCW88RpIIWidlaLTul3V.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "metacritic": 88,
-        "metacriticuser": 8.0,
-        "trakt": 80,
-        "tomatoes": 96,
-        "popcorn": 96,
-        "tmdb": 80,
-        "mdblist": 86
-      }
-    },
-    {
-      "id": "tt12809988",
-      "type": "series",
-      "name": "Sweet Tooth",
-      "poster": "https://image.tmdb.org/t/p/w500/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg",
-      "releaseInfo": "2021",
-      "description": "Adorable deer-boy hybrid traverses a whimsical post-apocalyptic world seeking family and true safety.",
-      "background": "https://image.tmdb.org/t/p/original/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
-      "ratings": {
-        "imdb": 7.7,
-        "metacritic": 77,
-        "metacriticuser": 7.0,
-        "trakt": 76,
-        "tomatoes": 92,
-        "popcorn": 78,
-        "tmdb": 77,
-        "mdblist": 79
-      }
-    },
-    {
-      "id": "tt3007572",
-      "type": "series",
-      "name": "Locke & Key",
-      "poster": "https://image.tmdb.org/t/p/w500/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
-      "releaseInfo": "2020",
-      "description": "Magical keys hidden around an ancestral mansion unlock wondrous, mystery-solving supernatural family adventures.",
-      "background": "https://image.tmdb.org/t/p/original/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
-      "ratings": {
-        "imdb": 7.3,
-        "metacritic": 61,
-        "metacriticuser": 6.7,
-        "trakt": 74,
-        "tomatoes": 68,
-        "popcorn": 56,
-        "tmdb": 77,
-        "mdblist": 68
-      }
-    },
-    {
-      "id": "tt7826108",
-      "type": "series",
-      "name": "Raising Dion",
-      "poster": "https://image.tmdb.org/t/p/w500/nydKXBiLn4vpL1d5o1utbPKYdii.jpg",
-      "releaseInfo": "2019",
-      "description": "Protective mother helps her young telekinetic superhero son manage awakening powers safely.",
-      "background": "https://image.tmdb.org/t/p/original/nn37nj8LsJLmhxZIZWhVFzuiwVr.jpg",
-      "imdbRating": "7.1",
-      "rating": 7.1,
-      "ratings": {
-        "imdb": 7.1,
-        "metacritic": 61,
-        "metacriticuser": 5.1,
-        "trakt": 71,
-        "tomatoes": 91,
-        "popcorn": 53,
-        "tmdb": 74,
-        "mdblist": 70
-      }
-    },
-    {
-      "id": "tt6025022",
-      "type": "series",
-      "name": "Justice League Unlimited",
-      "poster": "https://image.tmdb.org/t/p/w500/vRRvCUREeqqnp3hHdqep83eQjdP.jpg",
-      "releaseInfo": "2004",
-      "description": "Massive roster of iconic DC superheroes teaming up for thrilling, action-packed cosmic adventures.",
-      "background": "https://image.tmdb.org/t/p/original/ySxWguK7c9iB8VLoARu94n4yZn3.jpg",
-      "imdbRating": "8.7",
-      "rating": 8.7,
-      "ratings": {
-        "imdb": 8.7,
-        "metacriticuser": 8.6,
-        "trakt": 83,
-        "tmdb": 83,
-        "mdblist": 84
-      }
-    },
-    {
-      "id": "tt0290983",
-      "type": "series",
-      "name": "Spider-Man: The Animated Series",
-      "poster": "https://image.tmdb.org/t/p/w500/9g1YPyKtpB0aNlgVb0N8YASKLZN.jpg",
-      "releaseInfo": "1994",
-      "description": "Delivers classic webslinging comic action, famous supervillains, and timeless Peter Parker heroics.",
-      "background": "https://image.tmdb.org/t/p/original/nVHovBi2yqZAYW17273ytA8SE7c.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
-      "ratings": {
-        "imdb": 6.9,
-        "trakt": 66,
-        "tmdb": 72,
-        "mdblist": 69
-      }
-    },
-    {
-      "id": "tt8050756",
-      "type": "series",
-      "name": "The Owl House",
-      "poster": "https://image.tmdb.org/t/p/w500/cZLxKTslrf9gzRomVy8BhaYjg7n.jpg",
-      "releaseInfo": "2020",
-      "description": "Rich fantasy worldbuilding and charming magical escapades delight creative young minds.",
-      "background": "https://image.tmdb.org/t/p/original/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6,
-      "ratings": {
-        "imdb": 8.6,
-        "trakt": 88,
-        "tmdb": 87,
-        "mdblist": 86
-      }
-    },
-    {
-      "id": "tt0168366",
-      "type": "series",
-      "name": "Pok\u00e9mon",
-      "poster": "https://image.tmdb.org/t/p/w500/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
-      "releaseInfo": "1997",
-      "description": "Collecting unique creature companions on a quest to become champion sparks endless wonder.",
-      "background": "https://image.tmdb.org/t/p/original/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "trakt": 76,
-        "tmdb": 79,
-        "myanimelist": 7.4,
-        "mdblist": 76
-      }
-    },
-    {
-      "id": "tt2329077",
-      "type": "series",
-      "name": "Beware the Batman",
-      "poster": "https://image.tmdb.org/t/p/w500/4BoJaShIuo6Mwpz6yrwc0ffBdwz.jpg",
-      "releaseInfo": "2013",
-      "description": "Cool ninja detective action and high-tech Bat-gadgets deliver thrilling nocturnal Gotham adventures.",
-      "background": "https://image.tmdb.org/t/p/original/yFpUE2IyBZqzNVcHkAEYusAbAma.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
-      "ratings": {
-        "imdb": 7.3,
-        "metacriticuser": 6.8,
-        "trakt": 70,
-        "tmdb": 73,
-        "mdblist": 67
-      }
-    },
-    {
-      "id": "tt3061046",
-      "type": "series",
-      "name": "Steven Universe",
-      "poster": "https://image.tmdb.org/t/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
-      "releaseInfo": "2013",
-      "description": "Magical gemstone warriors teach empathy, music, and courage through gorgeously animated adventures.",
-      "background": "https://image.tmdb.org/t/p/original/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
-      "ratings": {
-        "imdb": 8.1,
-        "trakt": 85,
-        "tmdb": 84,
-        "mdblist": 83
-      }
-    },
-    {
-      "id": "tt1710308",
-      "type": "series",
-      "name": "Regular Show",
-      "poster": "https://image.tmdb.org/t/p/w500/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-      "releaseInfo": "2010",
-      "description": "Everyday park maintenance chores surrealistically escalate into wild, cosmic sci-fi battles.",
-      "background": "https://image.tmdb.org/t/p/original/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6,
-      "ratings": {
-        "imdb": 8.6,
-        "metacriticuser": 8.2,
-        "trakt": 83,
-        "tmdb": 86,
-        "mdblist": 85
-      }
-    },
-    {
-      "id": "tt1709198",
-      "type": "series",
-      "name": "Sym-Bionic Titan",
-      "poster": "https://image.tmdb.org/t/p/w500/e1HgZg7ReDfS4UXDho7CTSRcGXr.jpg",
-      "releaseInfo": "2010",
-      "description": "Alien teenagers blend giant robot battles with hilarious high school assimilation hijinks.",
-      "background": "https://image.tmdb.org/t/p/original/t90PlosoEJY442x8JbCdYs768bx.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
-      "ratings": {
-        "imdb": 8.1,
-        "metacriticuser": 8.5,
-        "trakt": 78,
-        "tmdb": 84,
-        "letterboxd": 7.6,
-        "mdblist": 68
-      }
-    },
-    {
-      "id": "tt0361201",
-      "type": "series",
-      "name": "Megas XLR",
-      "poster": "https://image.tmdb.org/t/p/w500/d4Mc687WE8wFAk5nlmJJh4qNuIO.jpg",
-      "releaseInfo": "2004",
-      "description": "Hot rod cars turned giant battle robots provide explosive, gamer-friendly monster smashing.",
-      "background": "https://image.tmdb.org/t/p/original/vhDErhLUBnyLdDNtgaeOYAfIoM2.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
-      "ratings": {
-        "imdb": 8.1,
-        "trakt": 79,
-        "tmdb": 81,
-        "mdblist": 67
-      }
-    },
-    {
-      "id": "tt1659175",
-      "type": "series",
-      "name": "Transformers: Prime",
-      "poster": "https://image.tmdb.org/t/p/w500/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
-      "releaseInfo": "2010",
-      "description": "Stunning vehicular combat and Autobot courage against Decepticons create gripping robot action.",
-      "background": "https://image.tmdb.org/t/p/original/owhEUs8ZVyuXpxsD2BIcriBotUo.jpg",
-      "imdbRating": "8.1",
-      "rating": 8.1,
-      "ratings": {
-        "imdb": 8.1,
-        "trakt": 76,
-        "tmdb": 80,
-        "mdblist": 79
-      }
-    },
-    {
-      "id": "tt14298658",
-      "type": "series",
-      "name": "Transformers: EarthSpark",
-      "poster": "https://image.tmdb.org/t/p/w500/jLwU37QusZDkkOuFNb1TA6NQZNT.jpg",
-      "releaseInfo": "2022",
-      "description": "New Earth-born robot Transformers learn what family truly means alongside loving human siblings.",
-      "background": "https://image.tmdb.org/t/p/original/gzVkLZOM0er10OwEUJyhl9G7oE7.jpg",
-      "imdbRating": "3.8",
-      "rating": 3.8,
-      "ratings": {
-        "imdb": 3.8,
-        "trakt": 58,
-        "tmdb": 71,
-        "mdblist": 39
-      }
-    },
-    {
-      "id": "tt10862280",
-      "type": "series",
-      "name": "Marvel's Spidey and His Amazing Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
-      "releaseInfo": "2021",
-      "description": "Friendly webslinging fun teaches younger audiences teamwork, kindness, and gentle community heroics.",
-      "background": "https://image.tmdb.org/t/p/original/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
-      "imdbRating": "5.7",
-      "rating": 5.7,
-      "ratings": {
-        "imdb": 5.7,
-        "trakt": 54,
-        "tmdb": 71,
-        "mdblist": 39
-      }
-    },
-    {
-      "id": "tt13292830",
-      "type": "series",
-      "name": "Batwheels",
-      "poster": "https://image.tmdb.org/t/p/w500/nDNUuNNoFaZFNjSwWCG5XwaOf9f.jpg",
-      "releaseInfo": "2022",
-      "description": "Talking superhero vehicles zip through Gotham using cool high-tech gadgets and friendly cooperation.",
-      "background": "https://image.tmdb.org/t/p/original/tRo9pMhE2OOrePz4Pw3eirPBnxr.jpg",
-      "imdbRating": "5.7",
-      "rating": 5.7,
-      "ratings": {
-        "imdb": 5.7,
-        "trakt": 53,
-        "tmdb": 70,
-        "mdblist": 20
-      }
-    },
-    {
-      "id": "tt0169414",
-      "type": "series",
-      "name": "Arthur",
-      "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-      "releaseInfo": "1996",
-      "description": "Relatable childhood challenges, classroom humor, and friendly reading lessons never grow old.",
-      "background": "https://image.tmdb.org/t/p/original/5k3JpB88vubqYVSHHiAhk2T8z17.jpg",
-      "imdbRating": "7.4",
-      "rating": 7.4,
-      "ratings": {
-        "imdb": 7.4,
-        "metacriticuser": 7.8,
-        "trakt": 68,
-        "tmdb": 70,
-        "mdblist": 70
-      }
-    },
-    {
-      "id": "tt1807859",
-      "type": "series",
-      "name": "Wild Kratts",
-      "poster": "https://image.tmdb.org/t/p/w500/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
-      "releaseInfo": "2011",
-      "description": "Creature power suits turn incredible real-life animal abilities into superhero nature adventures.",
-      "background": "https://image.tmdb.org/t/p/original/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
-      "imdbRating": "7.7",
-      "rating": 7.7,
-      "ratings": {
-        "imdb": 7.7,
-        "trakt": 67,
-        "tmdb": 75,
-        "mdblist": 59
-      }
-    },
-    {
-      "id": "tt8651594",
-      "type": "series",
-      "name": "Molly of Denali",
-      "poster": "https://image.tmdb.org/t/p/w500/8HdIoG6HHJJaf8M3SAVQrGgCvHp.jpg",
-      "releaseInfo": "2019",
-      "description": "Authentic Alaskan outdoor adventures highlight nature exploration, cultural pride, and literacy skills.",
-      "background": "https://image.tmdb.org/t/p/original/pvyxHVkUoLoT97ildtGKH2BHSGm.jpg",
-      "imdbRating": "8.6",
-      "rating": 8.6,
-      "ratings": {
-        "imdb": 8.6,
-        "trakt": 68,
-        "tmdb": 70,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt0309141",
-      "type": "series",
-      "name": "Cyberchase",
-      "poster": "https://image.tmdb.org/t/p/w500/rNBxZw1GqLkt8FB9TL9p9jSEBl8.jpg",
-      "releaseInfo": "2002",
-      "description": "Math-powered cyberspace rescue missions defeat evil Hacker while making problem-solving fun.",
-      "background": "https://image.tmdb.org/t/p/original/eKQbV04jCq5GUrDmTyUfgY44oea.jpg",
-      "imdbRating": "6.9",
-      "rating": 6.9,
-      "ratings": {
-        "imdb": 6.9,
-        "trakt": 72,
-        "tmdb": 76,
-        "mdblist": 50
-      }
-    },
-    {
-      "id": "tt0496195",
-      "type": "series",
-      "name": "Fetch! with Ruff Ruffman",
-      "poster": "https://image.tmdb.org/t/p/w500/dWqDKbWTeK5oZG1cDzAHvrgQK4P.jpg",
-      "releaseInfo": "2006",
-      "description": "Animated dog host challenges real kids to bizarre, exciting science and history games.",
-      "background": "https://image.tmdb.org/t/p/original/ppmVYdBjx8PzX52s9uwW0zM1rF9.jpg",
-      "imdbRating": "7.3",
-      "rating": 7.3,
-      "ratings": {
-        "imdb": 7.3,
-        "trakt": 69,
-        "tmdb": 80,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt3869122",
-      "type": "series",
-      "name": "The Magic School Bus Rides Again",
-      "poster": "https://image.tmdb.org/t/p/w500/42cJukwvrC8eZ1mShB5jBE3HLPL.jpg",
-      "releaseInfo": "2017",
-      "description": "Modernized science field trips take curious students inside cells and outer space.",
-      "background": "https://image.tmdb.org/t/p/original/dfvbteFQiK6e7PPajb6khojI2ko.jpg",
-      "imdbRating": "6.3",
-      "rating": 6.3,
-      "ratings": {
-        "imdb": 6.3,
-        "trakt": 58,
-        "tmdb": 69,
-        "mdblist": 28
-      }
-    },
-    {
-      "id": "tt1043776",
-      "type": "series",
-      "name": "Martha Speaks",
-      "poster": "https://image.tmdb.org/t/p/w500/vHL9EBFqyiT2d4oIxRxjwyg46dI.jpg",
-      "releaseInfo": "2008",
-      "description": "A dog eating alphabet soup gains human speech, expanding vocabulary with hilarious antics.",
-      "background": "https://image.tmdb.org/t/p/original/vt9dDUZljz10svcGQT7flF4kCH0.jpg",
-      "imdbRating": "6.7",
-      "rating": 6.7,
-      "ratings": {
-        "imdb": 6.7,
-        "metacriticuser": 6.2,
-        "trakt": 58,
-        "tmdb": 73,
-        "mdblist": 31
-      }
-    },
-    {
-      "id": "tt1097633",
-      "type": "series",
-      "name": "WordWorld",
-      "poster": "https://image.tmdb.org/t/p/w500/w4gQJBRZ70fOqyUNy0bzTHaTEam.jpg",
-      "releaseInfo": "2007",
-      "description": "Characters and landscapes made literally of letters build reading skills delightfully and cleverly.",
-      "background": "https://image.tmdb.org/t/p/original/yc5oKihKy6N0NtjzMuNTEehYt1i.jpg",
-      "imdbRating": "6.8",
-      "rating": 6.8,
-      "ratings": {
-        "imdb": 6.8,
-        "trakt": 60,
-        "tmdb": 78,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt6835380",
-      "type": "series",
-      "name": "Alphablocks",
-      "poster": "https://image.tmdb.org/t/p/w500/dppvWTIEUSAKJblYoiRP5Pj59yf.jpg",
-      "releaseInfo": "2010",
-      "description": "Living letters connect hands to make phonics and word formation magical fun.",
-      "background": "https://image.tmdb.org/t/p/original/aGiPOpWZMF1hFYIpjUR2NZe8gpL.jpg",
-      "imdbRating": "7.8",
-      "rating": 7.8,
-      "ratings": {
-        "imdb": 7.8,
-        "trakt": 63,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt22087494",
-      "type": "series",
-      "name": "Colourblocks",
-      "poster": "https://image.tmdb.org/t/p/w500/x2nHyPqd0Ij05V5TrnMS8r6w3db.jpg",
-      "releaseInfo": "2022",
-      "description": "Vibrant color characters mix together to teach art concepts and visual creativity.",
-      "background": "https://image.tmdb.org/t/p/original/5Rolxz7t8WMWmL4WvXXELOOKlE4.jpg",
-      "imdbRating": "8.4",
-      "rating": 8.4,
-      "ratings": {
-        "imdb": 8.4,
-        "trakt": 76,
-        "tmdb": 78,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt1710177",
-      "type": "series",
-      "name": "Octonauts",
-      "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
-      "releaseInfo": "2010",
-      "description": "Undersea animal heroes pilot awesome Gups to explore, rescue, and protect real ocean creatures.",
-      "background": "https://image.tmdb.org/t/p/original/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
-      "imdbRating": "7.5",
-      "rating": 7.5,
-      "ratings": {
-        "imdb": 7.5,
-        "trakt": 57,
-        "tmdb": 71,
-        "mdblist": 47
-      }
-    },
-    {
-      "id": "tt15211330",
-      "type": "series",
-      "name": "Octonauts: Above & Beyond",
-      "poster": "https://image.tmdb.org/t/p/w500/1V7IYlTVyGmjwiEH9SvPZREzfom.jpg",
-      "releaseInfo": "2021",
-      "description": "The intrepid rescue crew expands operations onto land habitats across the globe.",
-      "background": "https://image.tmdb.org/t/p/original/2TGXOSMJ57s9Ole7nBTMK2CxneP.jpg",
+      "name": "Girl Meets World",
+      "poster": "https://image.tmdb.org/t/p/w500/8E1i8j6GVT7wMzw8CtqzifRpr5R.jpg",
+      "releaseInfo": "2014",
+      "description": "Riley Matthews explores friendship, school, and moral dilemmas in New York City.",
+      "background": "https://image.tmdb.org/t/p/original/pJvLprQwTVEOSBPs25y4rM214ch.jpg",
       "imdbRating": "7.0",
       "rating": 7.0,
       "ratings": {
         "imdb": 7.0,
-        "trakt": 59,
-        "tmdb": 83,
-        "mdblist": 18
+        "metacritic": 64,
+        "metacriticuser": 7.2,
+        "trakt": 71,
+        "popcorn": 85,
+        "tmdb": 82,
+        "mdblist": 74
       }
     },
     {
-      "id": "tt15527326",
+      "id": "tt16389768",
       "type": "series",
-      "name": "Creature Cases",
-      "poster": "https://image.tmdb.org/t/p/w500/tFi3nx53Dfwa5YOd4J2VnIXpqBk.jpg",
+      "name": "The Villains of Valley View",
+      "poster": "https://image.tmdb.org/t/p/w500/7Q4QWFm2SOyjeJniHi8ncTRc2iU.jpg",
       "releaseInfo": "2022",
-      "description": "Detective animal duo uncovers genuine zoological animal facts through fun spy mysteries.",
-      "background": "https://image.tmdb.org/t/p/original/nVvn89XVd5IRLbcra5BcYcWbH9I.jpg",
-      "imdbRating": "7.6",
-      "rating": 7.6,
-      "ratings": {
-        "imdb": 7.6,
-        "trakt": 68,
-        "tmdb": 79,
-        "mdblist": 21
-      }
-    },
-    {
-      "id": "tt0423657",
-      "type": "series",
-      "name": "Go, Diego, Go!",
-      "poster": "https://image.tmdb.org/t/p/w500/p7Y6IPzPRkZ4oHU0D8DOIIis70a.jpg",
-      "releaseInfo": "2005",
-      "description": "Action-packed animal rescues teach rainforest wildlife facts and bilingual vocabulary enthusiastically.",
-      "background": "https://image.tmdb.org/t/p/original/9zCZvrbl9dSZOyiiUr0bCCgtHl3.jpg",
-      "imdbRating": "4.5",
-      "rating": 4.5,
-      "ratings": {
-        "imdb": 4.5,
-        "trakt": 51,
-        "tmdb": 61,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt0235917",
-      "type": "series",
-      "name": "Dora the Explorer",
-      "poster": "https://image.tmdb.org/t/p/w500/iaJNOSpEQgU4yePsbcC6yxneRNF.jpg",
-      "releaseInfo": "2000",
-      "description": "Interactive map-reading quests encourage kids to solve puzzles and speak Spanish happily.",
-      "background": "https://image.tmdb.org/t/p/original/4EvgShbukpyeLBu0BKYNCyQi27y.jpg",
-      "imdbRating": "4.5",
-      "rating": 4.5,
-      "ratings": {
-        "imdb": 4.5,
-        "metacriticuser": 4.3,
-        "trakt": 52,
-        "tmdb": 62,
-        "mdblist": 53
-      }
-    },
-    {
-      "id": "tt3121722",
-      "type": "series",
-      "name": "Paw Patrol",
-      "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-      "releaseInfo": "2013",
-      "description": "Rescue puppies driving cool emergency vehicles keep Adventure Bay completely safe and sound.",
-      "background": "https://image.tmdb.org/t/p/original/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
-      "imdbRating": "6.1",
-      "rating": 6.1,
-      "ratings": {
-        "imdb": 6.1,
-        "trakt": 52,
-        "tmdb": 69,
-        "mdblist": 60
-      }
-    },
-    {
-      "id": "tt4458594",
-      "type": "series",
-      "name": "Blaze and the Monster Machines",
-      "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
-      "releaseInfo": "2014",
-      "description": "High-octane monster truck racing seamlessly teaches physics, coding, and engineering fundamentals.",
-      "background": "https://image.tmdb.org/t/p/original/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
-      "imdbRating": "5.7",
-      "rating": 5.7,
-      "ratings": {
-        "imdb": 5.7,
-        "trakt": 52,
-        "tmdb": 74,
-        "mdblist": 39
-      }
-    },
-    {
-      "id": "tt0965404",
-      "type": "series",
-      "name": "Bubble Guppies",
-      "poster": "https://image.tmdb.org/t/p/w500/mxZOTFDGsvQ7YD2zxWrWVInqBxw.jpg",
-      "releaseInfo": "2011",
-      "description": "Catchy pop music and underwater classroom play make learning various school topics fun.",
-      "background": "https://image.tmdb.org/t/p/original/rtcczrybvkMYid4KkqPPLB9GHlY.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
-      "ratings": {
-        "imdb": 6.2,
-        "trakt": 63,
-        "tmdb": 75,
-        "mdblist": 48
-      }
-    },
-    {
-      "id": "tt1594381",
-      "type": "series",
-      "name": "Team Umizoomi",
-      "poster": "https://image.tmdb.org/t/p/w500/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
-      "releaseInfo": "2010",
-      "description": "Mini superheroes use counting, shapes, and everyday math to help neighborhood citizens.",
-      "background": "https://image.tmdb.org/t/p/original/pv51XFR2XdIGCXgoTxLVCxZH8IM.jpg",
-      "imdbRating": "6.2",
-      "rating": 6.2,
-      "ratings": {
-        "imdb": 6.2,
-        "trakt": 60,
-        "tmdb": 79,
-        "mdblist": 0
-      }
-    },
-    {
-      "id": "tt0784896",
-      "type": "series",
-      "name": "Mickey Mouse Clubhouse",
-      "poster": "https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
-      "releaseInfo": "2006",
-      "description": "Mousekedozer problem-solving gadgets and interactive songs entertain young preschoolers endlessly.",
-      "background": "https://image.tmdb.org/t/p/original/89BPrKS6BoktBPTfWcHMQrFNo8s.jpg",
+      "description": "A reformed supervillain family attempts to blend into normal suburban Texas life.",
+      "background": "https://image.tmdb.org/t/p/original/mkURABplvSw2TFUzWoUnILMDHYJ.jpg",
       "imdbRating": "5.9",
       "rating": 5.9,
       "ratings": {
         "imdb": 5.9,
-        "metacriticuser": 6.7,
-        "trakt": 59,
-        "tmdb": 68,
-        "mdblist": 62
+        "trakt": 65,
+        "popcorn": 88,
+        "tmdb": 72,
+        "mdblist": 50
       }
     },
     {
-      "id": "tt13262134",
+      "id": "tt16377332",
       "type": "series",
-      "name": "Mickey Mouse Funhouse",
-      "poster": "https://image.tmdb.org/t/p/w500/7NCVaHkcTLfG6pMoLOa6SKsbKtQ.jpg",
-      "releaseInfo": "2021",
-      "description": "A talking enchanted playhouse takes Disney friends on whimsical, imaginative adventure quests.",
-      "background": "https://image.tmdb.org/t/p/original/hxqHRGVwpqn8p0rZqn31IZEupIc.jpg",
-      "imdbRating": "5.4",
-      "rating": 5.4,
-      "ratings": {
-        "imdb": 5.4,
-        "trakt": 58,
-        "tmdb": 66,
-        "mdblist": 13
-      }
-    },
-    {
-      "id": "tt0451460",
-      "type": "series",
-      "name": "Handy Manny",
-      "poster": "https://image.tmdb.org/t/p/w500/7CCeh3UHSLedhi0wqz3dQmByaA6.jpg",
-      "releaseInfo": "2006",
-      "description": "Chatty anthropomorphic toolbox tools help friendly repairman Manny fix the local neighborhood.",
-      "background": "https://image.tmdb.org/t/p/original/o2L9goGao8uIIvFNnS1gVtPiYPx.jpg",
+      "name": "Ultra Violet & Black Scorpion",
+      "poster": "https://image.tmdb.org/t/p/w500/2PP02hNCldaz4ubFUDwqwUP7WlQ.jpg",
+      "releaseInfo": "2022",
+      "description": "A magical luchador mask transforms a regular girl into a super-speed crimefighter.",
+      "background": "https://image.tmdb.org/t/p/original/rigVxKFvecmMv0pLrhhhVhn3gKm.jpg",
       "imdbRating": "5.6",
       "rating": 5.6,
       "ratings": {
         "imdb": 5.6,
-        "metacriticuser": 5.7,
-        "trakt": 58,
-        "tmdb": 62,
-        "mdblist": 45
-      }
-    },
-    {
-      "id": "tt1833403",
-      "type": "series",
-      "name": "Jake and the Never Land Pirates",
-      "poster": "https://image.tmdb.org/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
-      "releaseInfo": "2011",
-      "description": "Swashbuckling young pirates hunt gold doubloons while outsmarting silly Captain Hook teamwork-style.",
-      "background": "https://image.tmdb.org/t/p/original/vV1EQ1zLuZ5yPL7LaBqPayVsggC.jpg",
-      "imdbRating": "5.8",
-      "rating": 5.8,
-      "ratings": {
-        "imdb": 5.8,
         "trakt": 55,
-        "tmdb": 62,
-        "mdblist": 45
+        "popcorn": 92,
+        "tmdb": 74,
+        "mdblist": 0
       }
     },
     {
-      "id": "tt2769458",
+      "id": "tt10329642",
       "type": "series",
-      "name": "Sheriff Callie's Wild West",
-      "poster": "https://image.tmdb.org/t/p/w500/zKoVuDIkhFVjbhoGAi7vxUgrKRz.jpg",
-      "releaseInfo": "2014",
-      "description": "Frontier calico cat sheriff sings Western folk songs about honesty and good manners.",
-      "background": "https://image.tmdb.org/t/p/original/bOZnotuzyE3EQbTV1UF4ptuHkhJ.jpg",
+      "name": "Secrets of Sulphur Springs",
+      "poster": "https://image.tmdb.org/t/p/w500/30MqitTOgIfeOhvwdMHkrM9p5mD.jpg",
+      "releaseInfo": "2021",
+      "description": "Curious kids discover a secret time-travel portal inside an abandoned haunted hotel.",
+      "background": "https://image.tmdb.org/t/p/original/naudQkDg4MY2OFlYLBFU8Gq18Yt.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "metacriticuser": 6.4,
+        "trakt": 75,
+        "popcorn": 90,
+        "tmdb": 80,
+        "mdblist": 75
+      }
+    },
+    {
+      "id": "tt10473306",
+      "type": "series",
+      "name": "Are You Afraid of the Dark?",
+      "poster": "https://image.tmdb.org/t/p/w500/3WUw41k7F0KClpJMyvwBgVVRmbb.jpg",
+      "releaseInfo": "2019",
+      "description": "Campfire storytellers uncover spooky urban legends with thrilling mystery adventures.",
+      "background": "https://image.tmdb.org/t/p/original/2s6eEUCzGhRl0yef4VGcHNKpKvy.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1,
+        "trakt": 69,
+        "popcorn": 77,
+        "tmdb": 76,
+        "mdblist": 64
+      }
+    },
+    {
+      "id": "tt0111987",
+      "type": "series",
+      "name": "Goosebumps",
+      "poster": "https://image.tmdb.org/t/p/w500/km7uuxaU4mzp49Hpt5hxnLx7p6F.jpg",
+      "releaseInfo": "1995",
+      "description": "Creepy creatures and clever plot twists bring R.L. Stine's popular books alive.",
+      "background": "https://image.tmdb.org/t/p/original/gN3gG8m1QfdKiQ5crRO5a0J7ObL.jpg",
+      "imdbRating": "7.6",
+      "rating": 7.6,
+      "ratings": {
+        "imdb": 7.6,
+        "metacriticuser": 5.7,
+        "trakt": 72,
+        "popcorn": 87,
+        "tmdb": 80,
+        "mdblist": 78
+      }
+    },
+    {
+      "id": "tt10684374",
+      "type": "series",
+      "name": "The Ghost and Molly McGee",
+      "poster": "https://image.tmdb.org/t/p/w500/u86g1KKPwsysQx6gA9LJt93xrtA.jpg",
+      "releaseInfo": "2021",
+      "description": "An eternally optimistic girl forms an unlikely friendship with a grumpy phantom.",
+      "background": "https://image.tmdb.org/t/p/original/p2NeKlgduO58dORS0Fim1BXVaZu.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "trakt": 74,
+        "popcorn": 85,
+        "tmdb": 81,
+        "mdblist": 61
+      }
+    },
+    {
+      "id": "tt16152776",
+      "type": "series",
+      "name": "Hailey's On It!",
+      "poster": "https://image.tmdb.org/t/p/w500/tvsCloZWT4o9erWNOi643I265R3.jpg",
+      "releaseInfo": "2023",
+      "description": "A resourceful teenager tackles an eccentric checklist to save the future earth.",
+      "background": "https://image.tmdb.org/t/p/original/zLUMUgWeoVwXXZXRSQEtPr5B3JV.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1,
+        "trakt": 66,
+        "popcorn": 85,
+        "tmdb": 83,
+        "mdblist": 34
+      }
+    },
+    {
+      "id": "tt13330286",
+      "type": "series",
+      "name": "Hamster & Gretel",
+      "poster": "https://image.tmdb.org/t/p/w500/7Mm4oQbsCbHbop7YQ9t0arXi9Ov.jpg",
+      "releaseInfo": "2022",
+      "description": "A young girl and her pet hamster gain hilarious superpowers from aliens.",
+      "background": "https://image.tmdb.org/t/p/original/6vl0ZRYnf7gICpc80eUpRdGPDOL.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8,
+        "trakt": 66,
+        "popcorn": 81,
+        "tmdb": 65,
+        "mdblist": 34
+      }
+    },
+    {
+      "id": "tt5439480",
+      "type": "series",
+      "name": "Milo Murphy's Law",
+      "poster": "https://image.tmdb.org/t/p/w500/cUoMoeOm2ALLtPrbP4WwEzj4lO3.jpg",
+      "releaseInfo": "2016",
+      "description": "Calm optimism helps Milo navigate constant, comically calamitous disasters around him.",
+      "background": "https://image.tmdb.org/t/p/original/qqYXPgDiYtcjaTGQ6l6BfWtVjNK.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5,
+        "trakt": 74,
+        "popcorn": 87,
+        "tmdb": 74,
+        "mdblist": 69
+      }
+    },
+    {
+      "id": "tt1600757",
+      "type": "series",
+      "name": "Kick Buttowski: Suburban Daredevil",
+      "poster": "https://image.tmdb.org/t/p/w500/fkkpMA6EBCxwVP7niDeJVlRACp3.jpg",
+      "releaseInfo": "2010",
+      "description": "A fearless pint-sized stunt boy attempts extreme action tricks in suburbia.",
+      "background": "https://image.tmdb.org/t/p/original/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8,
+        "trakt": 70,
+        "popcorn": 92,
+        "tmdb": 81,
+        "mdblist": 77
+      }
+    },
+    {
+      "id": "tt0805837",
+      "type": "series",
+      "name": "El Tigre: The Adventures of Manny Rivera",
+      "poster": "https://image.tmdb.org/t/p/w500/vHnqmtAoEN8vaA6O8fd0n95Qcru.jpg",
+      "releaseInfo": "2007",
+      "description": "Manny chooses between good and evil while rocking awesome mystical tiger powers.",
+      "background": "https://image.tmdb.org/t/p/original/nO8mpH4yWL5D7X2x1fusAt9WxxL.jpg",
       "imdbRating": "6.3",
       "rating": 6.3,
       "ratings": {
         "imdb": 6.3,
+        "trakt": 65,
+        "tomatoes": 100,
+        "popcorn": 81,
+        "tmdb": 78,
+        "mdblist": 62
+      }
+    },
+    {
+      "id": "tt4859164",
+      "type": "series",
+      "name": "The Loud House",
+      "poster": "https://image.tmdb.org/t/p/w500/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+      "releaseInfo": "2016",
+      "description": "Lincoln Loud navigates daily chaotic comedy living with ten unique, lively sisters.",
+      "background": "https://image.tmdb.org/t/p/original/jQmYRTt29hTNFGdNdwFVazOrDpO.jpg",
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9,
+        "trakt": 67,
+        "popcorn": 70,
+        "mdblist": 68
+      }
+    },
+    {
+      "id": "tt0892700",
+      "type": "series",
+      "name": "Penguins of Madagascar",
+      "poster": "https://image.tmdb.org/t/p/w500/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
+      "releaseInfo": "2008",
+      "description": "Four elite penguin operatives execute covert zoo missions with hilarious precision.",
+      "background": "https://image.tmdb.org/t/p/original/tdDRR3qnwwicr2DJbaaF8CDW168.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5,
+        "metacriticuser": 8.1,
+        "trakt": 75,
+        "popcorn": 88,
+        "tmdb": 75,
+        "mdblist": 78
+      }
+    },
+    {
+      "id": "tt4215734",
+      "type": "series",
+      "name": "Be Cool, Scooby-Doo!",
+      "poster": "https://image.tmdb.org/t/p/w500/rJksJvJnvrVQL9dMdqy1XwjD5KQ.jpg",
+      "releaseInfo": "2015",
+      "description": "Modern comedy and witty banter refresh classic monster-unmasking road trips.",
+      "background": "https://image.tmdb.org/t/p/original/cbX2t9bg9rhpmABQYI5tLbxT3xD.jpg",
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7,
+        "trakt": 67,
+        "popcorn": 86,
+        "tmdb": 80,
+        "mdblist": 65
+      }
+    },
+    {
+      "id": "tt11198220",
+      "type": "series",
+      "name": "Jellystone!",
+      "poster": "https://image.tmdb.org/t/p/w500/7SwSAG48QvvMy8jlAgm3LGt3VGq.jpg",
+      "releaseInfo": "2021",
+      "description": "Beloved Hanna-Barbera cartoon characters run wild in an energetic, slapstick modern city.",
+      "background": "https://image.tmdb.org/t/p/original/jhv7ChslieSdfC3Dqfhq9ERYoOP.jpg",
+      "imdbRating": "6.5",
+      "rating": 6.5,
+      "ratings": {
+        "imdb": 6.5,
+        "trakt": 60,
+        "popcorn": 38,
+        "tmdb": 69,
+        "mdblist": 34
+      }
+    },
+    {
+      "id": "tt0419315",
+      "type": "series",
+      "name": "Camp Lazlo",
+      "poster": "https://image.tmdb.org/t/p/w500/9fZXdQbYeDMBTBtMNnsF2K2YWBh.jpg",
+      "releaseInfo": "2005",
+      "description": "An optimistic Brazilian monkey turns scout camp activities into absurd, funny adventures.",
+      "background": "https://image.tmdb.org/t/p/original/vhU1AMY3x4QPL0LRGHS8dEYN75e.jpg",
+      "imdbRating": "6.4",
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4,
+        "metacriticuser": 6.7,
+        "trakt": 62,
+        "popcorn": 92,
+        "tmdb": 68,
+        "mdblist": 71
+      }
+    },
+    {
+      "id": "tt0291672",
+      "type": "series",
+      "name": "Time Squad",
+      "poster": "https://image.tmdb.org/t/p/w500/kDxN48XVDN4fRruZQq7d9AZybD8.jpg",
+      "releaseInfo": "2001",
+      "description": "Time-traveling officers fix funny historical blunders to keep world history intact.",
+      "background": "https://image.tmdb.org/t/p/original/vDzGyOk6S6F7hk3rehmfuJ5Y3NR.jpg",
+      "imdbRating": "7.4",
+      "rating": 7.4,
+      "ratings": {
+        "imdb": 7.4,
+        "trakt": 68,
+        "popcorn": 70,
+        "tmdb": 60,
+        "mdblist": 46
+      }
+    },
+    {
+      "id": "tt0112225",
+      "type": "series",
+      "name": "Wishbone",
+      "poster": "https://image.tmdb.org/t/p/w500/1cheNK4CBKopFScmgKP7bYjV3xs.jpg",
+      "releaseInfo": "1995",
+      "description": "A heroic Jack Russell terrier daydreams classic literary adventures in charming costumes.",
+      "background": "https://image.tmdb.org/t/p/original/pvnqWAu0b7wZtSq0hFqT3cWOkhg.jpg",
+      "imdbRating": "8.3",
+      "rating": 8.3,
+      "ratings": {
+        "imdb": 8.3,
+        "metacritic": 79,
+        "trakt": 75,
+        "tmdb": 82,
+        "mdblist": 62
+      }
+    },
+    {
+      "id": "tt0995011",
+      "type": "series",
+      "name": "The Electric Company",
+      "poster": "https://image.tmdb.org/t/p/w500/mDmU0xgTX89TYFMD9CvtRElYzJS.jpg",
+      "releaseInfo": "2009",
+      "description": "Literacy superheroes use word power to outsmart comedic pranksters in their city.",
+      "background": "https://image.tmdb.org/t/p/original/pZVBdqoLNVt2MGEBQco7axh4gzw.jpg",
+      "imdbRating": "7.7",
+      "rating": 7.7,
+      "ratings": {
+        "imdb": 7.7,
+        "metacritic": 74,
+        "metacriticuser": 4.5,
+        "trakt": 59,
+        "tmdb": 100,
+        "mdblist": 0
+      }
+    },
+    {
+      "id": "tt0439349",
+      "type": "series",
+      "name": "The Backyardigans",
+      "poster": "https://image.tmdb.org/t/p/w500/dIB32UlWZ81M2HDtQVp72LGq8v8.jpg",
+      "releaseInfo": "2004",
+      "description": "Imaginative animal friends sing diverse musical genres across epic backyard pretend quests.",
+      "background": "https://image.tmdb.org/t/p/original/fLI3GFGDjYXIXO5ehdQkeE0zeS0.jpg",
+      "imdbRating": "7.2",
+      "rating": 7.2,
+      "ratings": {
+        "imdb": 7.2,
+        "metacriticuser": 7.6,
+        "trakt": 62,
+        "popcorn": 69,
+        "tmdb": 80,
+        "mdblist": 66
+      }
+    },
+    {
+      "id": "tt0983983",
+      "type": "series",
+      "name": "Shaun the Sheep",
+      "poster": "https://image.tmdb.org/t/p/w500/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+      "releaseInfo": "2007",
+      "description": "Clever sheep Shaun leads farmyard animals in hilarious silent-comedy slapstick capers.",
+      "background": "https://image.tmdb.org/t/p/original/onwny8s0VTTN7te9TJnItgvyWHy.jpg",
+      "imdbRating": "8.1",
+      "rating": 8.1,
+      "ratings": {
+        "imdb": 8.1,
+        "metacriticuser": 8.7,
+        "trakt": 76,
+        "popcorn": 88,
+        "tmdb": 77,
+        "mdblist": 80
+      }
+    },
+    {
+      "id": "tt0085033",
+      "type": "series",
+      "name": "Inspector Gadget",
+      "poster": "https://image.tmdb.org/t/p/w500/1Wcx99T1zbJzJXCqevOL4MNPdKz.jpg",
+      "releaseInfo": "1983",
+      "description": "A bumbling cyborg detective defeats villains thanks to his smart niece Penny.",
+      "background": "https://image.tmdb.org/t/p/original/vWaIxifDJeKXq4igHTOE5epqcop.jpg",
+      "imdbRating": "6.8",
+      "rating": 6.8,
+      "ratings": {
+        "imdb": 6.8,
+        "metacriticuser": 7.4,
+        "trakt": 67,
+        "popcorn": 78,
+        "tmdb": 69,
+        "mdblist": 70
+      }
+    },
+    {
+      "id": "tt19382854",
+      "type": "series",
+      "name": "Not Quite Narwhal",
+      "poster": "https://image.tmdb.org/t/p/w500/ldlcEzhWtVIrX1YGmkQsWHC8FmY.jpg",
+      "releaseInfo": "2023",
+      "description": "An adorable unicorn raised by narwhals embraces the magic of both worlds.",
+      "background": "https://image.tmdb.org/t/p/original/hq0t8s5tY7TgtZBUBg0J6WdnNAV.jpg",
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3,
+        "trakt": 48,
+        "popcorn": 100,
+        "tmdb": 67,
+        "mdblist": 32
+      }
+    },
+    {
+      "id": "tt19883592",
+      "type": "series",
+      "name": "Sea of Love",
+      "poster": "https://image.tmdb.org/t/p/w500/rpFUgmuMfMySh2A3DceENRLr3Na.jpg",
+      "releaseInfo": "2022",
+      "description": "Gentle underwater friends learn social-emotional lessons with calming 2D pastel animation.",
+      "background": "https://image.tmdb.org/t/p/original/dnrVSpqCO1h1nnp6Uop9wUniVaL.jpg",
+      "imdbRating": "8.2",
+      "rating": 8.2,
+      "ratings": {
+        "imdb": 8.2,
+        "trakt": 55,
+        "popcorn": 100,
+        "tmdb": 47,
+        "mdblist": 0
+      }
+    },
+    {
+      "id": "tt21942724",
+      "type": "series",
+      "name": "Slumberkins",
+      "poster": "https://image.tmdb.org/t/p/w500/u2IiG2DF5KGrXnpKXtZKAuRbTRA.jpg",
+      "releaseInfo": "2022",
+      "description": "Jim Henson puppets guide young children through big emotional feelings and self-care.",
+      "background": "https://image.tmdb.org/t/p/original/qVAflzDOKTLkqj340DbkX8i3TMt.jpg",
+      "imdbRating": "8.5",
+      "rating": 8.5,
+      "ratings": {
+        "imdb": 8.5,
         "trakt": 52,
-        "tmdb": 55,
-        "mdblist": 16
+        "popcorn": 88,
+        "tmdb": 50,
+        "mdblist": 0
+      }
+    },
+    {
+      "id": "tt13362852",
+      "type": "series",
+      "name": "Tiny Toons Looniversity",
+      "poster": "https://image.tmdb.org/t/p/w500/siC9LhWsSTpUvuSGNsCQZGE8zcI.jpg",
+      "releaseInfo": "2023",
+      "description": "Buster and Babs hone zany cartoon comedy at Acme Looniversity with legends.",
+      "background": "https://image.tmdb.org/t/p/original/nRWIpNayk6lyk5Acm60qditaa3H.jpg",
+      "imdbRating": "6.4",
+      "rating": 6.4,
+      "ratings": {
+        "imdb": 6.4,
+        "metacriticuser": 4.8,
+        "trakt": 63,
+        "popcorn": 53,
+        "tmdb": 76,
+        "mdblist": 35
+      }
+    },
+    {
+      "id": "tt13303478",
+      "type": "series",
+      "name": "We Baby Bears",
+      "poster": "https://image.tmdb.org/t/p/w500/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
+      "releaseInfo": "2022",
+      "description": "Baby bear brothers travel across magical teleporters searching for a perfect home.",
+      "background": "https://image.tmdb.org/t/p/original/A1g8X7atNe7sjIEDJIyGbmaDfJn.jpg",
+      "imdbRating": "5.6",
+      "rating": 5.6,
+      "ratings": {
+        "imdb": 5.6,
+        "trakt": 59,
+        "popcorn": 25,
+        "tmdb": 73,
+        "mdblist": 30
+      }
+    },
+    {
+      "id": "tt8019790",
+      "type": "series",
+      "name": "Apple & Onion",
+      "poster": "https://image.tmdb.org/t/p/w500/dtCfVYJUJrHnQzrO426hZbYHhXK.jpg",
+      "releaseInfo": "2016",
+      "description": "Anthropomorphic food friends experience goofy city adventures with catchy hip-hop comedic songs.",
+      "background": "https://image.tmdb.org/t/p/original/8SKDZikrolOhMcRN5u3IovLCszG.jpg",
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3,
+        "trakt": 60,
+        "popcorn": 82,
+        "tmdb": 65,
+        "mdblist": 53
+      }
+    },
+    {
+      "id": "tt8146760",
+      "type": "series",
+      "name": "Summer Camp Island",
+      "poster": "https://image.tmdb.org/t/p/w500/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
+      "releaseInfo": "2018",
+      "description": "Oscar and Hedgehog discover friendly witches, talking marshmallows, and gentle magical mysteries.",
+      "background": "https://image.tmdb.org/t/p/original/AqCZow3yUrQn8ltGgS0p1dcBqLo.jpg",
+      "imdbRating": "7.8",
+      "rating": 7.8,
+      "ratings": {
+        "imdb": 7.8,
+        "trakt": 80,
+        "popcorn": 89,
+        "tmdb": 77,
+        "mdblist": 65
+      }
+    },
+    {
+      "id": "tt3061050",
+      "type": "series",
+      "name": "Clarence",
+      "poster": "https://image.tmdb.org/t/p/w500/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",
+      "releaseInfo": "2014",
+      "description": "An relentlessly positive boy transforms mundane suburban childhood into pure, joyful adventures.",
+      "background": "https://image.tmdb.org/t/p/original/1kTVbczFhMDA2dyJO4GvoMwWu38.jpg",
+      "imdbRating": "6.9",
+      "rating": 6.9,
+      "ratings": {
+        "imdb": 6.9,
+        "trakt": 71,
+        "popcorn": 76,
+        "tmdb": 80,
+        "mdblist": 74
+      }
+    },
+    {
+      "id": "tt0111970",
+      "type": "series",
+      "name": "Freakazoid!",
+      "poster": "https://image.tmdb.org/t/p/w500/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg",
+      "releaseInfo": "1995",
+      "description": "A super-fast, hyperactive superhero cracks fourth-wall-breaking jokes and battles wacky villains.",
+      "background": "https://image.tmdb.org/t/p/original/t9owI1MGsFCIamNQmPkjUFh8b5T.jpg",
+      "imdbRating": "7.5",
+      "rating": 7.5,
+      "ratings": {
+        "imdb": 7.5,
+        "trakt": 75,
+        "tomatoes": 100,
+        "popcorn": 91,
+        "tmdb": 77,
+        "mdblist": 80
+      }
+    },
+    {
+      "id": "tt0111948",
+      "type": "series",
+      "name": "Earthworm Jim",
+      "poster": "https://image.tmdb.org/t/p/w500/zxZTvRjEjOlRXkIpDXz60cUtow6.jpg",
+      "releaseInfo": "1995",
+      "description": "A super-suit-wearing earthworm saves cows and space queens with delightfully absurd humor.",
+      "background": "https://image.tmdb.org/t/p/original/qETWtnGYOckm4WnKtiW6u1MJYVu.jpg",
+      "imdbRating": "7.3",
+      "rating": 7.3,
+      "ratings": {
+        "imdb": 7.3,
+        "trakt": 67,
+        "popcorn": 86,
+        "tmdb": 73,
+        "mdblist": 53
+      }
+    },
+    {
+      "id": "tt0112197",
+      "type": "series",
+      "name": "Timon & Pumbaa",
+      "poster": "https://image.tmdb.org/t/p/w500/sn9PTOwI6ktLHZcysCrP8cqOw1b.jpg",
+      "releaseInfo": "1995",
+      "description": "The carefree meerkat and warthog travel the globe on bug-eating comedic adventures.",
+      "background": "https://image.tmdb.org/t/p/original/px5mLaDKXmRAp9MxVGaXswmzDyh.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1,
+        "trakt": 72,
+        "popcorn": 68,
+        "tmdb": 72,
+        "mdblist": 70
+      }
+    },
+    {
+      "id": "tt0386176",
+      "type": "series",
+      "name": "Dave the Barbarian",
+      "poster": "https://image.tmdb.org/t/p/w500/ipzGJybXsUyqP78Wn6zC1XXbyRy.jpg",
+      "releaseInfo": "2004",
+      "description": "A cowardly, sensitive barbarian prince defends his quirky kingdom with hilarious fourth-wall humor.",
+      "background": "https://image.tmdb.org/t/p/original/4M7hvMrltcE9NaNJShJpvaNni51.jpg",
+      "imdbRating": "7.0",
+      "rating": 7.0,
+      "ratings": {
+        "imdb": 7.0,
+        "trakt": 66,
+        "popcorn": 71,
+        "tmdb": 75,
+        "mdblist": 58
+      }
+    },
+    {
+      "id": "tt0131664",
+      "type": "series",
+      "name": "The Angry Beavers",
+      "poster": "https://image.tmdb.org/t/p/w500/9KYUA9tZrVNVXk2LTaYNMqGpHUj.jpg",
+      "releaseInfo": "1997",
+      "description": "Two bachelor beaver brothers squabble hilariously while building their bachelor dam home.",
+      "background": "https://image.tmdb.org/t/p/original/ta4Py9F1nHmttpAYEg4vB8wN08z.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1,
+        "metacriticuser": 6.6,
+        "trakt": 70,
+        "popcorn": 79,
+        "tmdb": 69,
+        "mdblist": 72
+      }
+    },
+    {
+      "id": "tt0207120",
+      "type": "series",
+      "name": "Spider-Man Unlimited",
+      "poster": "https://image.tmdb.org/t/p/w500/hNdf1WmFil9IV7rabBe6PnAmYnI.jpg",
+      "releaseInfo": "1999",
+      "description": "Peter Parker dons a nanotech suit fighting beast-men on Counter-Earth.",
+      "background": "https://image.tmdb.org/t/p/original/z0szinMWegbR2cH9zIxaBKy2C5b.jpg",
+      "imdbRating": "6.3",
+      "rating": 6.3,
+      "ratings": {
+        "imdb": 6.3,
+        "metacriticuser": 6.5,
+        "trakt": 61,
+        "tomatoes": 50,
+        "popcorn": 64,
+        "tmdb": 75,
+        "mdblist": 60
+      }
+    },
+    {
+      "id": "tt0203268",
+      "type": "series",
+      "name": "Silver Surfer",
+      "poster": "https://image.tmdb.org/t/p/w500/18rhdRDXAAHUTsbWtIQn2ZkjRL9.jpg",
+      "releaseInfo": "1998",
+      "description": "The cosmic hero searches for his lost homeworld amidst grand galactic space wars.",
+      "background": "https://image.tmdb.org/t/p/original/jTupUx9wdoIKe8BFoP5Z1xzEtno.jpg",
+      "imdbRating": "7.1",
+      "rating": 7.1,
+      "ratings": {
+        "imdb": 7.1,
+        "trakt": 67,
+        "popcorn": 70,
+        "tmdb": 73,
+        "mdblist": 62
+      }
+    },
+    {
+      "id": "tt2341339",
+      "type": "series",
+      "name": "Randy Cunningham: 9th Grade Ninja",
+      "poster": "https://image.tmdb.org/t/p/w500/uy864Z278ijIfCxQGmPMSp6eKkP.jpg",
+      "releaseInfo": "2012",
+      "description": "A freshman uses an ancient ninja suit to protect his high school.",
+      "background": "https://image.tmdb.org/t/p/original/sPt4zHJYBfRAJVdUfbedzKCOU1q.jpg",
+      "imdbRating": "6.7",
+      "rating": 6.7,
+      "ratings": {
+        "imdb": 6.7,
+        "trakt": 70,
+        "popcorn": 75,
+        "tmdb": 82,
+        "mdblist": 54
       }
     }
   ]
